@@ -11,6 +11,8 @@ sections:
   label: Artículos (blog posts)
   create: documents
   match: "**/*"
+  templates:
+  - plantilla-por-defecto
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
