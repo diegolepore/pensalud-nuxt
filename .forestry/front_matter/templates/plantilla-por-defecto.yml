@@ -1,4 +1,28 @@
 ---
 label: Plantilla por defecto
 hide_body: false
-fields: []
+fields:
+- name: post-title
+  type: text
+  config:
+    required: true
+  label: Título del artículo
+  description: Escribe el título de tu artículo
+- name: excerpt
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+    min: 50
+    max: 280
+  label: Breve descripción del artículo
+  description: Escribe una breve descripción de tu artículo
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 64
+  label: Thumbnail
+  description: Está será la imagen que se previsualizará en la lista de tus artículos
