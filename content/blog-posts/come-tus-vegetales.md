@@ -3,6 +3,7 @@ post-title: La importancia de comer vegetales
 excerpt: Los vegetales son muy importantes y nos ayudan a tener una mejor salud y
   una mente más despierta
 thumbnail: "/uploads/acedera-rumex-acetosa-semillas.jpg"
+author: Diego Palacios
 
 ---
 # Come tus vegetales!! 😃
