@@ -26,3 +26,5 @@ fields:
     maxSize: 64
   label: Thumbnail
   description: Está será la imagen que se previsualizará en la lista de tus artículos
+pages:
+- content/blog-posts/come-tus-vegetales.md
