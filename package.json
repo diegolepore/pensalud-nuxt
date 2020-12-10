@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "frontmatter-markdown-loader": "^3.6.2",
     "nuxt": "^2.14.6"
   },
   "devDependencies": {
