@@ -1,3 +1,5 @@
+import path from "path";
+
 export default {
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
@@ -49,5 +51,5 @@ export default {
           include: path.resolve(__dirname, "content/blog-posts")
       })
     } 
-  }
+  },
 }

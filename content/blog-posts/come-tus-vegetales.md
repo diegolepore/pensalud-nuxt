@@ -1,5 +1,4 @@
 ---
-post-title: Come tus vegetales
 excerpt: Los vegetales son muy importantes y nos ayudan a tener una mejor salud y
   una mente más despierta
 thumbnail: "/acedera-rumex-acetosa-semillas.jpg"

@@ -1,34 +1,44 @@
 <template>
   <div class="container">
-    <div>
-      <Logo />
-      <h1 class="title">
-        pensalud-nuxt
-      </h1>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--grey"
-        >
-          GitHub
-        </a>
-      </div>
-    </div>
+    <ul>
+      <li v-for="(post, index) in posts" :key="index">
+        <img width="200" :src="post.attributes.thumbnail" :alt="post.attributes.title">
+        <h2 class="text-700">{{ post.attributes.title }}</h2>
+        <p>{{ post.attributes.excerpt }}</p>
+        <small>Autor: {{ post.attributes.author }}</small>
+        <NuxtLink :to="`/blog/${formatSlug(post.attributes.title)}`">Leer más</NuxtLink>
+      </li>
+    </ul>
   </div>
 </template>
 
 <script>
-export default {}
+export default {
+
+  async asyncData(context) {
+    const allPosts = await require.context("~/content/blog-posts", true, /\.md$/)
+    const posts =  allPosts.keys().map((key) => {
+      // give back the value of each post context
+      console.log("allPosts", allPosts)
+      console.log("key", key)
+      return allPosts(key)
+    });
+
+    console.log("posts", posts)
+
+    return {
+      posts
+    }
+  },
+
+  methods: {
+    formatSlug(title) {
+      const regex = / /gi;
+      return title.toLowerCase().trim().replace(regex, "-")
+    }
+  },
+
+}
 </script>
 
 <style>
