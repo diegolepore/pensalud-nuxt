@@ -2,7 +2,7 @@
 label: Plantilla por defecto
 hide_body: false
 fields:
-- name: post-title
+- name: title
   type: text
   config:
     required: true
