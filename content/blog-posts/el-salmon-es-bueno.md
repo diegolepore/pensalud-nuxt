@@ -1,5 +1,5 @@
 ---
-title: El salmón es bueno
+title: El salmon es bueno
 excerpt: Los salmones ayudan al corazón, los salmones son muy saludables, los salmones
   son geniales.
 thumbnail: "/david-b-townsend-fv3ztanbo80-unsplash.jpg"
