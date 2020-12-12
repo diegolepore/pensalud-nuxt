@@ -1,6 +1,9 @@
 <template>
   <div>
-    <div class="wrapper bg-white mx-auto mt-4 p-5 md:p-16 md:mt-6">
+    <div class="wrapper bg-white mx-auto mt-4 md:mt-6">
+      <Nav/>
+    </div>
+    <div class="wrapper bg-white mx-auto px-5 pb-5 md:px-16 md:pb-16">
       <Nuxt />
     </div>
     <footer class="w-full bg-indigo-600">
