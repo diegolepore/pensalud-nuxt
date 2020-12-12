@@ -2,6 +2,7 @@
 
 <template>
   <article class="blog">
+      <NuxtLink to="/">Home</NuxtLink>
       <figure class="blog__hero">
           <img :src="post.attributes.thumbnail" :alt="post.attributes.title">
       </figure>
