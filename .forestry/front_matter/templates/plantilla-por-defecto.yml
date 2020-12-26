@@ -31,6 +31,16 @@ fields:
   config:
     required: true
   label: Autor
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: ''
 pages:
 - content/blog-posts/come-tus-vegetales.md
 - content/blog-posts/el-salmon-es-bueno.md
