@@ -4,7 +4,7 @@ excerpt: Los vegetales son muy importantes y nos ayudan a tener una mejor salud 
 thumbnail: "/acedera-rumex-acetosa-semillas.jpg"
 author: Diego Palacios
 title: Come tus vegetales
-date: 
+date: 2020-12-26T23:00:00Z
 
 ---
 # Come tus vegetales!! 😃 

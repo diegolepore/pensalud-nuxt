@@ -36,12 +36,11 @@ fields:
   label: date
   description: ''
   config:
-    required: false
-    date_format: 
+    required: true
+    date_format: DD/MM/YYYY
     time_format: 
-    display_utc: false
-  hidden: true
-  default: now
+    display_utc: true
+  default: ''
 pages:
 - content/blog-posts/come-tus-vegetales.md
 - content/blog-posts/el-salmon-es-bueno.md
