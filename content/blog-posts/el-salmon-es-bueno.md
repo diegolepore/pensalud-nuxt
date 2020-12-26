@@ -4,9 +4,10 @@ excerpt: Los salmones ayudan al corazón, los salmones son muy saludables, los s
   son geniales.
 thumbnail: "/david-b-townsend-fv3ztanbo80-unsplash.jpg"
 author: Diana Rodríguez
+date: 
 
 ---
-# Come tu salmón
+# Come tu salmón 
 
 También en el caso de una dieta biliar por algún **problema de digestión** o absorción de las grasas de la dieta, sería conveniente moderar mucho su consumo, ya que aunque la grasa que contiene es saludable, no deja de ser grasa.
 
