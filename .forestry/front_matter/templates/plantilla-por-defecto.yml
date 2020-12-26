@@ -37,9 +37,9 @@ fields:
   description: ''
   config:
     required: true
-    date_format: 
+    date_format: DD/MM/YYYY
     time_format: 
-    display_utc: false
+    display_utc: true
   default: ''
 pages:
 - content/blog-posts/come-tus-vegetales.md
