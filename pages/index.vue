@@ -1,5 +1,6 @@
 <template>
   <div>
+    <Hero :last-post="posts[0]"/>
     <ul>
       <li v-for="(post, index) in posts" :key="index">
         <img width="200" :src="post.attributes.thumbnail" :alt="post.attributes.title">

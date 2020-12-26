@@ -1,10 +1,10 @@
 <template>
   <div>
-    <nav class="bg-white shadow-lg h-20">
-      <div class="md:flex items-center justify-between py-2 px-8 md:px-12">
+    <nav class="bg-white shadow-lg">
+      <div class="md:flex items-center justify-between pt-8 px-5 md:px-16">
         <div class="flex justify-between items-center">
-          <div class="text-2xl font-bold text-gray-800 md:text-3xl">
-            <a href="#">Brand</a>
+          <div class="text-2xl font-serif font-bold text-gray-100 bg-gray-800 md:text-3xl px-4 ">
+            <a href="#">Pensalud</a>
           </div>
           <div class="md:hidden">
             <button
@@ -26,18 +26,18 @@
         <div class="flex flex-col md:flex-row hidden md:block -mx-2">
           <a
             href="#"
-            class="text-gray-800 rounded hover:bg-gray-900 hover:text-gray-100 hover:font-medium py-2 px-2 md:mx-2"
-            >Inicio</a
+            class="text-gray-800 rounded hover:bg-brand-purple hover:text-gray-100 font-sans font-bold py-2 px-2 md:mx-2"
+            >INICIO</a
           >
           <a
             href="#"
-            class="text-gray-800 rounded hover:bg-gray-900 hover:text-gray-100 hover:font-medium py-2 px-2 md:mx-2"
-            >Acerca de mi</a
+            class="text-gray-800 rounded hover:bg-brand-purple hover:text-gray-100 font-sans font-bold py-2 px-2 md:mx-2"
+            >ACERCA DE MI</a
           >
           <a
             href="#"
-            class="text-gray-800 rounded hover:bg-gray-900 hover:text-gray-100 hover:font-medium py-2 px-2 md:mx-2"
-            >Buscar artículos</a
+            class="text-gray-800 rounded hover:bg-brand-purple hover:text-gray-100 font-sans font-bold py-2 px-2 md:mx-2"
+            >BUSCAR ARTÍCULOS</a
           >
         </div>
       </div>
