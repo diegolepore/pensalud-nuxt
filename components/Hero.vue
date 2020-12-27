@@ -4,10 +4,10 @@
     <div class="hero__wrapper relative bg-white overflow-hidden">
       <div class="hero__title-wrapper w-3/6">
         <h1 class="hero__title font-serif font-bold text-gray-800">
-          <span>{{ lastPost.attributes.title }}</span>
+          <span><NuxtLink :to="`/blog/${lastPost.slug}`">{{ lastPost.attributes.title }}</NuxtLink></span>
         </h1>
       </div>
-      <img class="w-full" :src="lastPost.attributes.thumbnail" alt="">
+      <img class="w-full m-0" :src="lastPost.attributes.thumbnail" alt="">
     </div>
   </div>
 </template>
@@ -25,14 +25,18 @@
 <style lang="scss" scoped>
 .hero {
   &__wrapper {
-    height: 600px;
-    margin-bottom: 48px;
+    margin-bottom: 40px;
+    
+    @media screen and(min-width: 768px) {
+      height: 400px;
+    }
   }
 
   /* Heading style */
   &__title,
   &__title:after {
     background-color: #FCCFCD;
+    padding-right: 15px;
   }
 
   &__title {

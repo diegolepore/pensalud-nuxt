@@ -5,8 +5,9 @@ module.exports = {
     extend: {
       backgroundColor: {
         brand: {
-          purple: '#615CFC'
-        } 
+          purple: '#615CFC',
+          gray1: '#F2F2F2'
+        },
       },
       fontFamily: {
         sans: [
@@ -17,9 +18,16 @@ module.exports = {
         ]
       }
     },
+    lineClamp: {
+      1: 1,
+      2: 2,
+      3: 3
+    }
   },
   variants: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    require('tailwindcss-line-clamp')
+  ],
 }

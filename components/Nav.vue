@@ -1,10 +1,17 @@
 <template>
-  <div>
+  <div class="nav">
     <nav class="bg-white shadow-lg">
-      <div class="md:flex items-center justify-between pt-8 px-5 md:px-16">
-        <div class="flex justify-between items-center">
-          <div class="text-2xl font-serif font-bold text-gray-100 bg-gray-800 md:text-3xl px-4 ">
-            <a href="#">Pensalud</a>
+      <div class="md:flex items-center justify-between pt-8 px-5 md:px-12">
+        <div class="nav__logo flex justify-between items-center relative">
+          <div
+            class="text-2xl font-serif font-bold text-gray-100 bg-gray-800 md:text-3xl px-6"
+          >
+            <NuxtLink to="/">Pensalud</NuxtLink>
+          </div>
+          <div
+            class="nav__logo-name text-xs absolute flex font-sans font-bold text-gray-100 bg-brand-purple px-4"
+          >
+            <NuxtLink to="/">Dra. Diana Rodríguez</NuxtLink>
           </div>
           <div class="md:hidden">
             <button
@@ -24,21 +31,22 @@
           </div>
         </div>
         <div class="flex flex-col md:flex-row hidden md:block -mx-2">
-          <a
-            href="#"
-            class="text-gray-800 rounded hover:bg-brand-purple hover:text-gray-100 font-sans font-bold py-2 px-2 md:mx-2"
-            >INICIO</a
-          >
-          <a
-            href="#"
-            class="text-gray-800 rounded hover:bg-brand-purple hover:text-gray-100 font-sans font-bold py-2 px-2 md:mx-2"
-            >ACERCA DE MI</a
-          >
-          <a
-            href="#"
-            class="text-gray-800 rounded hover:bg-brand-purple hover:text-gray-100 font-sans font-bold py-2 px-2 md:mx-2"
-            >BUSCAR ARTÍCULOS</a
-          >
+          <NuxtLink
+            to="/"
+            class="text-gray-800 rounded hover:bg-brand-purple hover:text-gray-100 font-sans font-bold py-2 px-2 md:mx-2">
+            INICIO
+          </NuxtLink>
+          <NuxtLink
+            to="/"
+            class="text-gray-800 rounded hover:bg-brand-purple hover:text-gray-100 font-sans font-bold py-2 px-2 md:mx-2">
+            ACERCA DE MI
+          </NuxtLink>
+          <NuxtLink
+            to="/"
+            class="text-gray-800 rounded hover:bg-brand-purple hover:text-gray-100 font-sans font-bold py-2 px-2 md:mx-2">
+            BUSCAR ARTÍCULOS
+          </NuxtLink>
+          
         </div>
       </div>
     </nav>
@@ -50,4 +58,12 @@ export default {};
 </script>
 
 <style lang="scss" scoped>
+.nav {
+  &__logo {
+    &-name {
+      top: 100%;
+      z-index: 2;
+    }
+  }
+}
 </style>

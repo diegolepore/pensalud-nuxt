@@ -1,37 +1,11 @@
 <template>
   <div>
-    <Hero :last-post="posts[0]"/>
-    <ul>
-      <li v-for="(post, index) in posts" :key="index">
-        <img width="200" :src="post.attributes.thumbnail" :alt="post.attributes.title">
-        <h2 class="text-700">{{ post.attributes.title }}</h2>
-        <p>{{ post.attributes.excerpt }}</p>
-        <small>Autor: {{ post.attributes.author }}</small>
-        <NuxtLink :to="`/blog/${slugs[index]}`">Leer más</NuxtLink>
+    <Hero :last-post="sortedPosts[0]"/>
+    <ul class="lg:grid lg:grid-cols-2 lg:gap-4 xl:grid-cols-3">
+      <li v-for="(post, index) in sortedPosts" :key="index">
+        <PostListItem :post="post"/>
       </li>
     </ul>
-    
-    <!-- <div>
-
-      <h1 class="title"><span class="highlight" style="background: black"><del>MathSpace</del> Actually, just use CSS.</span></h1>
-
-      <p class="title"><span class="highlight">DEFAULT: This is how highlighted text usally wraps. It gets tight on the left and right edges.</span></p>
-
-      <p class="title"><span class="highlight highlight--wrapping">Good News! We can use <del>CSS and Unicode</del> <del>white-space: pre-wrap</del> <ins>box-shadow</ins> to fix it...</span></p>
-
-      <p>Hattip: Harry Roberts for being a CSS Wizard <a href="http://jsfiddle.net/csswizardry/KUv8r/">http://jsfiddle.net/csswizardry/KUv8r/</a></p>
-      <p>Hattip: Fabien-d is also a CSS wizard and shows you can just use box-shadow <a href="https://codepen.io/fabien-d/pen/rHtal">https://codepen.io/fabien-d/pen/rHtal</a></p>
-
-      <p class="title title--js"><span class="highlight highlight--wrapping">Then get all "10x" and <del>automate unicode with a tiny jQuery I call "MathSpace"</del> <del>Just use pre-wrap</del> <ins>use box-shadow</ins></span></p>
-
-        <p>FYI: Bit of a problem in <del>drunk</del> Firefox. <strong>BOX-SHADOW trick works in Firefox. Hooray</strong></p>
-
-      <p class="title bdb"><span class="highlight">This is a box-decoration-break paragraph</span></p>
-
-      <p>Webkit only. Firefox doesn't support this yet: <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=613659">https://bugzilla.mozilla.org/show_bug.cgi?id=613659</a></p>
-
-    </div> -->
-
   </div>
 </template>
 
@@ -44,16 +18,12 @@ export default {
       // give back the value of each post context
       console.log("allPosts", allPosts)
       console.log("key", key)
-      return allPosts(key)
-    });
-
-    const slugs = allPosts.keys().map((key) => {
-      return key.slice(2,-3);
-    });
+      return { ...allPosts(key), slug: key.slice(2,-3) }
+    })
+    const sortedPosts = posts.sort((a, b) => Date.parse(b.attributes.date) - Date.parse(a.attributes.date));
 
     return {
-      posts,
-      slugs
+      sortedPosts,
     }
   },
 
@@ -63,6 +33,10 @@ export default {
       return title.toLowerCase().trim().replace(regex, "-")
     },
   },
+
+  mounted() {
+    console.log(this.sortedPosts)
+  }
 
 }
 </script>
