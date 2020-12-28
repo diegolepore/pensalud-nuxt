@@ -13,6 +13,10 @@ sections:
   match: "**/*"
   templates:
   - plantilla-por-defecto
+- type: document
+  path: about
+  label: About
+  match: "**/*"
 upload_dir: static
 public_path: ''
 front_matter_path: ''
