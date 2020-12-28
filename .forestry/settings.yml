@@ -14,9 +14,8 @@ sections:
   templates:
   - plantilla-por-defecto
 - type: document
-  path: about
+  path: content/about/**/*
   label: About
-  match: "**/*"
 upload_dir: static
 public_path: ''
 front_matter_path: ''
