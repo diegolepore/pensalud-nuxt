@@ -4,9 +4,8 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: content/about/**/*
-  label: About
+- type: heading
+  label: Contenido
 - type: directory
   path: content/blog-posts
   label: Artículos (blog posts)
@@ -14,8 +13,11 @@ sections:
   match: "**/*"
   templates:
   - plantilla-por-defecto
-- type: heading
-  label: Contenido
+- type: directory
+  path: content/about
+  label: About
+  create: all
+  match: "**/*"
 upload_dir: static
 public_path: ''
 front_matter_path: ''
