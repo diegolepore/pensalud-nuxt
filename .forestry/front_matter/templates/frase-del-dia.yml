@@ -1,4 +1,20 @@
 ---
 label: Frase del día
 hide_body: true
-fields: []
+fields:
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: body
+  description: Escribe aquí la frase
+- name: icon
+  type: file
+  config:
+    maxSize: 64
+  label: icon
+  description: Imagen pequeña a mostrar al lado de la frase
