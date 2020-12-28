@@ -4,11 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: heading
-  label: Contenido
 - type: document
   path: content/about/**/*
   label: About
+- type: heading
+  label: Contenido
 - type: directory
   path: content/blog-posts
   label: Artículos (blog posts)
