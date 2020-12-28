@@ -1,6 +1,7 @@
 ---
 label: Profile info
 hide_body: false
+display_field: bio
 fields:
 - name: avatar
   type: file
