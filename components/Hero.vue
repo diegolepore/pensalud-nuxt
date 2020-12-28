@@ -1,14 +1,16 @@
 <template>
   <!-- This example requires Tailwind CSS v2.0+ -->
   <div class="hero mb-5">
-    <div class="hero__wrapper relative bg-white overflow-hidden">
-      <div class="hero__title-wrapper w-3/6">
-        <h1 class="hero__title font-serif font-bold text-gray-800 text-2xl md:text-4xl">
-          <span><NuxtLink :to="`/blog/${lastPost.slug}`">{{ lastPost.attributes.title }}</NuxtLink></span>
-        </h1>
+    <NuxtLink :to="`/blog/${lastPost.slug}`">
+      <div class="hero__wrapper relative bg-white overflow-hidden">
+        <div class="hero__title-wrapper w-3/6">
+          <h1 class="hero__title font-serif font-bold text-gray-800 text-2xl md:text-4xl">
+            <span>{{ lastPost.attributes.title }}</span>
+          </h1>
+        </div>
+        <img class="w-full m-0" :src="lastPost.attributes.thumbnail" :alt="lastPost.attributes.title">
       </div>
-      <img class="w-full m-0" :src="lastPost.attributes.thumbnail" :alt="lastPost.attributes.title">
-    </div>
+    </NuxtLink>
   </div>
 </template>
 
