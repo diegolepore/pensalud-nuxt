@@ -4,7 +4,8 @@ excerpt: Los salmones ayudan al corazón, los salmones son muy saludables, los s
   son geniales.
 thumbnail: "/david-b-townsend-fv3ztanbo80-unsplash.jpg"
 author: Diana Rodríguez
-date: 2020-12-27T23:00:00Z
+date: 2020-12-27T23:00:00.000+00:00
+avatar: "/1517629621762.jpeg"
 
 ---
 # Come tu salmón 
