@@ -18,3 +18,5 @@ fields:
     maxSize: 64
   label: icon
   description: Imagen pequeña a mostrar al lado de la frase
+pages:
+- content/frase/frase-del-dia.md
