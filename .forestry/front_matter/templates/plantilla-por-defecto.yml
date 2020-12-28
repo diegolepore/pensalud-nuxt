@@ -41,6 +41,12 @@ fields:
     time_format: 
     display_utc: true
   default: ''
+- name: avatar
+  type: file
+  config:
+    maxSize: 64
+  label: avatar
+  description: Foto de perfil del autor del artículo
 pages:
 - content/blog-posts/come-tus-vegetales.md
 - content/blog-posts/el-salmon-es-bueno.md
