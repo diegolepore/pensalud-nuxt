@@ -50,7 +50,7 @@
           </div>
         </div>
         <div
-          class="flex flex-col md:flex-row md:block -mx-2 pt-5 md:pt-0"
+          class="flex flex-col md:flex-row md:block -mx-2 pt-8 md:pt-0"
           :class="{ hidden: !mobileMenuOpen }"
         >
           <NuxtLink
@@ -82,7 +82,7 @@ export default {
     toggleMobileMenu() {
       this.mobileMenuOpen = !this.mobileMenuOpen;
     },
-  },
+  }
 };
 </script>
 
