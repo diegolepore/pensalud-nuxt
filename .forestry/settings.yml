@@ -18,6 +18,11 @@ sections:
   label: About
   create: all
   match: "**/*"
+- type: directory
+  path: content/frase
+  label: frase
+  create: all
+  match: "**/*"
 upload_dir: static
 public_path: ''
 front_matter_path: ''
