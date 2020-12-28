@@ -1,5 +1,5 @@
 ---
-avatar: "/1517629621762.jpeg"
+avatar: "/0ea48aa8-bd6b-4cc2-847e-734e74e3aee6.jpeg"
 bio: ''
 
 ---
