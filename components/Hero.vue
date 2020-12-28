@@ -1,13 +1,13 @@
 <template>
   <!-- This example requires Tailwind CSS v2.0+ -->
-  <div class="hero">
+  <div class="hero mb-5">
     <div class="hero__wrapper relative bg-white overflow-hidden">
       <div class="hero__title-wrapper w-3/6">
-        <h1 class="hero__title font-serif font-bold text-gray-800">
+        <h1 class="hero__title font-serif font-bold text-gray-800 text-2xl md:text-4xl">
           <span><NuxtLink :to="`/blog/${lastPost.slug}`">{{ lastPost.attributes.title }}</NuxtLink></span>
         </h1>
       </div>
-      <img class="w-full m-0" :src="lastPost.attributes.thumbnail" alt="">
+      <img class="w-full m-0" :src="lastPost.attributes.thumbnail" :alt="lastPost.attributes.title">
     </div>
   </div>
 </template>
@@ -17,15 +17,28 @@
     props: {
       lastPost: {
         type: Object
-      }
+      },
     },
+    mounted() {
+      console.log(this.lastPost)
+    }
   }
 </script>
 
 <style lang="scss" scoped>
 .hero {
   &__wrapper {
-    margin-bottom: 40px;
+    position: relative;
+
+    &:before {
+      content: '';
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      background-color: rgba(0,0,0,0.2);
+    }
     
     @media screen and(min-width: 768px) {
       height: 400px;

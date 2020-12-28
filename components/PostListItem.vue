@@ -1,13 +1,13 @@
 <template>
   <!-- component -->
   <div class="mx-auto max-w-xl">
-    <div class="bg-white mb-6 tracking-wide">
+    <div class="bg-white mb-6 tracking-wide transition duration-300 ease-in-out hover:scale-105 hover:z-index-5 transform">
       <div class="md:flex-shrink-0">
         <NuxtLink :to="slug">
           <img
             :src="post.attributes.thumbnail"
             alt="mountains"
-            class="w-full h-64"
+            class="w-full h-64 rounded-t-md"
           />
         </NuxtLink>
       </div>
@@ -25,7 +25,7 @@
           <div class="user-logo">
             <img
               class="w-12 h-12 object-cover rounded-full mx-4 shadow"
-              src="https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=731&q=80"
+              :src="post.attributes.avatar"
               alt="avatar"
             />
           </div>

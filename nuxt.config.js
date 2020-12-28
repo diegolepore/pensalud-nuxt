@@ -50,7 +50,7 @@ export default {
       {
           test: /\.md$/,
           loader: "frontmatter-markdown-loader",
-          include: path.resolve(__dirname, "content/blog-posts")
+          include: path.resolve(__dirname, "content")
       })
     } 
   },

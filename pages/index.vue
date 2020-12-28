@@ -1,6 +1,14 @@
 <template>
   <div>
     <Hero :last-post="sortedPosts[0]"/>
+
+    <div class="w-full p-4 bg-quotes mb-5">
+      <div class="flex flex-col text-center md:text-left md:flex-row w-2/3 justify-center items-center m-auto">
+        <img class="h-12 w-12 mr-5 mb-2 md:mb-0" :src="firstQuote.attributes.icon" alt="">
+        <p class="mb-0 font-serif font-bold">{{ firstQuote.attributes.body }}</p>
+      </div>
+    </div>
+
     <ul class="lg:grid lg:grid-cols-2 lg:gap-4 xl:grid-cols-3">
       <li v-for="(post, index) in sortedPosts" :key="index">
         <PostListItem :post="post"/>
@@ -22,8 +30,23 @@ export default {
     })
     const sortedPosts = posts.sort((a, b) => Date.parse(b.attributes.date) - Date.parse(a.attributes.date));
 
+
+
+    const allQuotes = await require.context("~/content/frase", true, /\.md$/)
+    const quotes =  allQuotes.keys().map((key) => {
+      // give back the value of each post context
+      return allQuotes(key)
+    })
+
     return {
       sortedPosts,
+      quotes
+    }
+  },
+
+  computed: {
+    firstQuote() {
+      return this.quotes[0]
     }
   },
 
