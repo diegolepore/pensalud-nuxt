@@ -20,7 +20,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content/frase
-  label: frase
+  label: Frase del día
   create: all
   match: "**/*"
 upload_dir: static
