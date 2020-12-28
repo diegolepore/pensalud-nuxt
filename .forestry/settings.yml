@@ -6,6 +6,9 @@ webhook_url:
 sections:
 - type: heading
   label: Contenido
+- type: document
+  path: content/about/**/*
+  label: About
 - type: directory
   path: content/blog-posts
   label: Artículos (blog posts)
@@ -13,9 +16,6 @@ sections:
   match: "**/*"
   templates:
   - plantilla-por-defecto
-- type: document
-  path: content/about/**/*
-  label: About
 upload_dir: static
 public_path: ''
 front_matter_path: ''
