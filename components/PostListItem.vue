@@ -30,7 +30,7 @@
             />
           </div>
           <h2 class="text-sm tracking-tighter text-gray-900">
-            <a href="#">Por {{ post.attributes.author }}</a>
+            <a href="#">{{ post.attributes.author }}</a>
             <span class="text-gray-600 block">{{ postDate }}</span>
           </h2>
         </div>
