@@ -26,6 +26,8 @@ Antes de abordar este tema hablaremos sobre la lateralidad del cerebro, la cual 
 
 Existe un predominio del hemisferio izquierdo cuando la persona es diestra y del hemisferio derecho cuando es zurda. Podrías preguntarte: ¿Porque los hemisferios tienen efecto en el lado contrario del cuerpo? En nuestro cuerpo tenemos la [vía corticoespinal](https://www.ecured.cu/Sistema_Piramidal), la cual consiste en un conjunto de [axones](https://www.wikiwand.com/es/Ax%C3%B3n) motores que viajan desde la corteza cerebral hasta la médula espinal. Cerca del 90% de los axones se decusan (se cruzan) en el bulbo raquídeo, es decir, hay un intercambio de las fibras nerviosas en este punto. Esto explica por qué los movimientos de un lado del cuerpo son controlados por el hemisferio opuesto del cerebro.
 
+![](/robina-weermeijer-3kgf9r_0ohs-unsplash.jpg)
+
 ### **Hemisferio cerebral derecho**
 
 _Diversos investigadores han referido que el hemisferio cerebral derecho está especializado en:_
@@ -42,12 +44,11 @@ _Diversos investigadores han referido que el hemisferio cerebral derecho está e
 
 > Percepción de la emoción.
 
-**_Con respecto al hemisferio cerebral izquierdo:_**
+### **_Con respecto al hemisferio cerebral izquierdo:_**
 
 > Especialización de secuencias racionales específicas, por lo que se ven favorecidos procesos analíticos sistemáticos, lógicos y convergentes.
 
-  
- > Especialización para la evaluación de los objetivos y mantener la atención.
+> Especialización para la evaluación de los objetivos y mantener la atención.
 
 > Asiste mejor a las tareas de manera focal localizada.
 
@@ -55,7 +56,7 @@ _Diversos investigadores han referido que el hemisferio cerebral derecho está e
 
 > Procesamiento emocional.
 
-**_Ambos hemisferios cerebrales:_**
+### **_Ambos hemisferios cerebrales:_**
 
 > En el hemisferio dominante se encuentra el [Área de Wernicke](https://es.wikipedia.org/wiki/%C3%81rea_de_Wernicke), especializada en la decodificación auditiva de la función lingüística, importantes en el procesamiento de lenguaje en este hemisferio.
 
@@ -65,7 +66,7 @@ Aunque los hemisferios se especialicen en diferentes tareas, propias de cada uno
 
 La creatividad se evidencia con mayor frecuencia en los primeros años de vida, debido a la no lateralización de los niños, sin embargo el esquema creativo parece disminuir en la adolescencia, debido a que la lateralización se define.
 
-**A propósito del aprendizaje**
+### **A propósito del aprendizaje**
 
 Me pareció interesante que muchos investigadores hayan referido que la especialización de los hemisferios con las emociones sean el punto central en la toma de decisión humana y del aprendizaje. Cuando un sujeto aprende algo nuevo, se genera síntesis de proteínas que unen los axones de las neuronas formando una red que guarda lo aprendido, si en este proceso existen emociones, dependiendo del grado de éstas, el aprendizaje se consolida con mayor fuerza. Por tal motivo es difícil olvidar recuerdos de eventos importantes.
 
