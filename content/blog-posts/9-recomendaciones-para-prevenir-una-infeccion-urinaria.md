@@ -6,7 +6,7 @@ excerpt: Anatómicamente la uretra de la mujer mide 3,5 cm y la del hombre 20 cm
 thumbnail: "/female-and-male-pelvis-and-pelvic-floor.png"
 author: Diana Emilia Rodriguez Rojas
 date: 2020-09-12T00:00:00Z
-avatar: "/captura-de-pantalla-2020-12-29-a-la-s-10-06-23-p-m.png"
+avatar: "/1517629621762.jpeg"
 
 ---
 ## **9 recomendaciones para prevenir una infección urinaria**
