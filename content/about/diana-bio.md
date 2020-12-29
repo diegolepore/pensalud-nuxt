@@ -1,6 +1,8 @@
 ---
-avatar: "/0ea48aa8-bd6b-4cc2-847e-734e74e3aee6.jpeg"
+avatar: "/captura-de-pantalla-2020-12-29-a-la-s-8-00-09-p-m.png"
 bio: ''
 
 ---
-Tengo aproximadamente 7 años de experiencia en el área de la Medicina, de los cuales tengo 3 años ejerciendo como especialista en Pediatría y Puericultura. Además de mis estudios de pregrado y postgrado, a lo largo de estos años he participado y realizando actualizaciones, congresos y cursos nacionales e internacionales (los cursos internacionales fueron 3, dos en Madrid y otro en Toledo, España).
+Soy Médico Cirujano egresada de la Universidad de Oriente, Venezuela, y Especialista en Puericultura y Pediatría del Hospital Universitario Antonio Patricio De Alcalá, Universidad de Oriente, Venezuela.
+
+Este espacio esta orientado al conocimiento preventivo, porque de esta manera se evitan muchas enfermedades en el ámbito biopsicosocial. También es un espacio destinado al libre pensamiento y a múltiples temas.
