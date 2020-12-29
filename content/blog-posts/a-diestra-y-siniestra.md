@@ -80,27 +80,27 @@ Por lo tanto, es fundamental que las personas dedicadas a la enseñanza se avoqu
 
 El 13 de agosto se celebra el [Día Internacional del Zurdo](https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_de_la_Zurdera), y entre las personalidades famosas zurdas se encuentran:
 
-**1. Beethoven**
+**1. Beethoven.**
 
 ![](/beethoven-vida-400x300.jpg)
 
-**2. Albert Einstein: ambidiestro**
+**2. Albert Einstein: ambidiestro.**
 
 ![](/albert-einstein.jpg)
 
-**3. Isaac Newton**
+**3. Isaac Newton.**
 
 ![](/isaac_newton_700.jpg)
 
-**4. Leonardo Da Vinci: ambidiestro**
+**4. Leonardo Da Vinci: ambidiestro.**
 
 ![](/04-dibujo-autorretrato-leonardo-vinci_0f3e3270-min.jpg)
 
-**5. Neil Armstrong**
+**5. Neil Armstrong.**
 
 ![](/screenshot-2020-09-16-at-20-26-44.png)
 
-**6. Lionel Messi**
+**6. Lionel Messi.**
 
 ![](/screenshot-2020-09-16-at-20-28-09.png)
 
