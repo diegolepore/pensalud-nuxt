@@ -4,7 +4,7 @@ excerpt: Anatómicamente la uretra de la mujer mide 3,5 cm y la del hombre 20 cm
   esto hace que la mujer sea más susceptible a infecciones urinarias, ya que su uretra
   es mucho más corta y cercana al recto.
 thumbnail: "/female-and-male-pelvis-and-pelvic-floor.png"
-author: Diana Emilia Rodriguez Rojas
+author: Dra. Diana Emilia Rodriguez Rojas
 date: 2020-09-12T00:00:00.000+00:00
 avatar: "/1517629621762.jpeg"
 
