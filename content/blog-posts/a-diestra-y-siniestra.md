@@ -66,6 +66,8 @@ Aunque los hemisferios se especialicen en diferentes tareas, propias de cada uno
 
 La creatividad se evidencia con mayor frecuencia en los primeros años de vida, debido a la no lateralización de los niños, sin embargo el esquema creativo parece disminuir en la adolescencia, debido a que la lateralización se define.
 
+![](/alice-dietrich-fwf_fkj5tbo-unsplash.jpg)
+
 ### **A propósito del aprendizaje**
 
 Me pareció interesante que muchos investigadores hayan referido que la especialización de los hemisferios con las emociones sean el punto central en la toma de decisión humana y del aprendizaje. Cuando un sujeto aprende algo nuevo, se genera síntesis de proteínas que unen los axones de las neuronas formando una red que guarda lo aprendido, si en este proceso existen emociones, dependiendo del grado de éstas, el aprendizaje se consolida con mayor fuerza. Por tal motivo es difícil olvidar recuerdos de eventos importantes.
@@ -74,19 +76,33 @@ Por lo tanto, es fundamental que las personas dedicadas a la enseñanza se avoqu
 
 > **_"Al final del día las personas no recordarán que dijiste o hiciste, ellos recordarán cómo los hiciste sentir"._**
 
+![](/paul-hanaoka-bj25b9sonus-unsplash.jpg)
+
 El 13 de agosto se celebra el [Día Internacional del Zurdo](https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_de_la_Zurdera), y entre las personalidades famosas zurdas se encuentran:
 
 **1. Beethoven**
 
+![](/beethoven-vida-400x300.jpg)
+
 **2. Albert Einstein: ambidiestro**
+
+![](/albert-einstein.jpg)
 
 **3. Isaac Newton**
 
+![](/isaac_newton_700.jpg)
+
 **4. Leonardo Da Vinci: ambidiestro**
+
+![](/04-dibujo-autorretrato-leonardo-vinci_0f3e3270-min.jpg)
 
 **5. Neil Armstrong**
 
+![](/screenshot-2020-09-16-at-20-26-44.png)
+
 **6. Lionel Messi**
+
+![](/screenshot-2020-09-16-at-20-28-09.png)
 
 El hecho de que seamos zurdos, diestros o ambidiestros no nos hace ni más ni menos que otras personas. Recordemos que con practica y dedicación podemos entrenar a nuestro cerebro para lograr cosas significativas en la vida.
 
