@@ -23,7 +23,7 @@ Debemos tener un buen aporte de líquidos para conseguir un vaciado de la vejiga
 
 ### **Corrección de patologías**
 
-Corregir algunas patologías que puedan originar [ITU (Infección del Tracto Urinario)](https://es.wikipedia.org/wiki/Infecci%C3%B3n_urinaria), como: vulvovaginitis, balanitis, sinequias, fimosis.
+Corregir algunas patologías que puedan originar [ITU (Infección del Tracto Urinario)](https://es.wikipedia.org/wiki/Infecci%C3%B3n_urinaria " ITU (Infección del Tracto Urinario)"), como: vulvovaginitis, balanitis, sinequias, fimosis.
 
 ### **Ropa muy ajustada**
 
