@@ -106,6 +106,11 @@
       display: block;
       margin: 0 auto;
     }
+
+    a {
+      color: #615CFC;
+      text-decoration: underline;
+    }
   }
 }
 </style>
