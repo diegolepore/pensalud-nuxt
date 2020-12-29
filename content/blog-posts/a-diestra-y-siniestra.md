@@ -14,13 +14,13 @@ _Aproximadamente un 10% de la población mundial es zurda, una característica q
 
 Existen múltiples hipótesis acerca de las causas, entre las cuales se encuentran las siguientes:
 
-> El [Gen LRRTM1](https://www.ngenespanol.com/fotografia/descubren-gen-personas-sean-zurdas/), el cual está relacionado con el aumento de las probabilidades de ser zurdo, sin embargo generalmente durante el embarazo este gen se suprime. Esto explicaría porque hay una mayor cantidad de diestros que zurdos.
+> * El [Gen LRRTM1](https://www.ngenespanol.com/fotografia/descubren-gen-personas-sean-zurdas/), el cual está relacionado con el aumento de las probabilidades de ser zurdo, sin embargo generalmente durante el embarazo este gen se suprime. Esto explicaría porque hay una mayor cantidad de diestros que zurdos.
 
-> Un alto nivel de la hormona masculina, testosterona, en estado prenatal.
+> * Un alto nivel de la hormona masculina, testosterona, en estado prenatal.
 
-> Sociocultural debido a que la lateralización puede ser modificada mediante el entrenamiento, un ejemplo de esto es cuando a una persona con lateralización zurda se le obliga a utilizar la mano derecha para escribir, ya sea por discriminación, entre otros.
+> * Sociocultural debido a que la lateralización puede ser modificada mediante el entrenamiento, un ejemplo de esto es cuando a una persona con lateralización zurda se le obliga a utilizar la mano derecha para escribir, ya sea por discriminación, entre otros.
 
-> Varía geográficamente y cronológicamente, de acuerdo a nuestros antepasados y distribución geográfica.
+> * Varía geográficamente y cronológicamente, de acuerdo a nuestros antepasados y distribución geográfica.
 
 Antes de abordar este tema hablaremos sobre la lateralidad del cerebro, la cual no es otra cosa que la especialización de cada hemisferio sobre distintas tareas, como por ejemplo funciones específicas cognitivas. Sin embargo los dos hemisferios trabajan en conjunto. Te preguntarás: ¿Cómo trabajan en conjunto los hemisferios? Lo hacen a través del [cuerpo calloso](https://es.wikipedia.org/wiki/Cuerpo_calloso), que es un haz de fibras nerviosas con aproximadamente 200 millones de neuronas.
 
@@ -32,33 +32,33 @@ Existe un predominio del hemisferio izquierdo cuando la persona es diestra y del
 
 _Diversos investigadores han referido que el hemisferio cerebral derecho está especializado en:_
 
-> Procesamiento espacial y control sobre su planificación, algo que favorece a los zurdos y ambidiestros sobre la precisión de lanzamiento y control de la visión espacial.
+> * Procesamiento espacial y control sobre su planificación, algo que favorece a los zurdos y ambidiestros sobre la precisión de lanzamiento y control de la visión espacial.
 
-> Se correlaciona con el pensamiento creativo.
+> * Se correlaciona con el pensamiento creativo.
 
-> Mayor actividad y especialización en procesos relacionados con vigilancia y la captura de la atención.
+> * Mayor actividad y especialización en procesos relacionados con vigilancia y la captura de la atención.
 
-> Supervisión de información de manera global.
+> * Supervisión de información de manera global.
 
-> Juega un papel central en la creatividad verbal relacionada con la comprensión de la metáfora.
+> * Juega un papel central en la creatividad verbal relacionada con la comprensión de la metáfora.
 
-> Percepción de la emoción.
+> * Percepción de la emoción.
 
 ### **_Con respecto al hemisferio cerebral izquierdo:_**
 
-> Especialización de secuencias racionales específicas, por lo que se ven favorecidos procesos analíticos sistemáticos, lógicos y convergentes.
+> * Especialización de secuencias racionales específicas, por lo que se ven favorecidos procesos analíticos sistemáticos, lógicos y convergentes.
 
-> Especialización para la evaluación de los objetivos y mantener la atención.
+> * Especialización para la evaluación de los objetivos y mantener la atención.
 
-> Asiste mejor a las tareas de manera focal localizada.
+> * Asiste mejor a las tareas de manera focal localizada.
 
-> Se encuentra el [Área de Broca](https://es.wikipedia.org/wiki/%C3%81rea_de_Broca), especializada en la producción del lenguaje.
+> * Se encuentra el [Área de Broca](https://es.wikipedia.org/wiki/%C3%81rea_de_Broca), especializada en la producción del lenguaje.
 
-> Procesamiento emocional.
+> * Procesamiento emocional.
 
 ### **_Ambos hemisferios cerebrales:_**
 
-> En el hemisferio dominante se encuentra el [Área de Wernicke](https://es.wikipedia.org/wiki/%C3%81rea_de_Wernicke), especializada en la decodificación auditiva de la función lingüística, importantes en el procesamiento de lenguaje en este hemisferio.
+> * En el hemisferio dominante se encuentra el [Área de Wernicke](https://es.wikipedia.org/wiki/%C3%81rea_de_Wernicke), especializada en la decodificación auditiva de la función lingüística, importantes en el procesamiento de lenguaje en este hemisferio.
 
 Aunque los hemisferios se especialicen en diferentes tareas, propias de cada uno, siempre se complementan en estas diferentes actividades. Se ha afirmado que la creatividad no es una función lateralizada, sino más bien se deriva de la interacción e integración de la información entre los hemisferios izquierdo y derecho. De acuerdo con esta perspectiva, los individuos con un alto flujo de comunicación interhemisférica evidenciaron una mayor capacidad creativa.
 
