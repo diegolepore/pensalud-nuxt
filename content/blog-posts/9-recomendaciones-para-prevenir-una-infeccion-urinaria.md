@@ -4,7 +4,7 @@ excerpt: Anatómicamente la uretra de la mujer mide 3,5 cm y la del hombre 20 cm
   esto hace que la mujer sea más susceptible a infecciones urinarias, ya que su uretra
   es mucho más corta y cercana al recto.
 thumbnail: "/female-and-male-pelvis-and-pelvic-floor.png"
-author: Diana Emilia Rodriguez Rojas
+author: Dra. Diana Emilia Rodriguez Rojas
 date: 2020-09-12T00:00:00.000+00:00
 avatar: "/1517629621762.jpeg"
 
@@ -33,7 +33,7 @@ La ropa interior tipo **braguita tanga** (_también conocida como **tanga de hil
 
 ### **Higiene excesiva**
 
-La higiene excesiva podría ocasionar modificación del **PH acido de la vagina** ( PH 4,5 - 5 ) en la etapa fértil y barrer la flora vaginal normal ( [_Lactobacillus crispatus, L. jensenii y L. gasseri _](https://www.elsevier.es/es-revista-enfermedades-infecciosas-microbiologia-clinica-28-articulo-la-microbiota-vaginal-composicion-papel-S0213005X08726806)) dandole entrada a microorganismos patógenos, por eso es recomendable utilizar jabones con **PH neutro** y para la higiene intima. La limpieza del [área perineal (la región anatómica correspondiente al suelo de la pelvis, entre el ano y los genitales)](https://es.wikipedia.org/wiki/Perin%C3%A9) debe hacerse en dirección de adelante hacia atrás, sobretodo se debe enseñar a los más pequeños la manera correcta de hacerlo para evitar llevar microorganismos del área anal hasta la uretra.
+La higiene excesiva podría ocasionar modificación del **PH acido de la vagina** ( PH 4,5 - 5 ) en la etapa fértil y barrer la flora vaginal normal               ([Lactobacillus crispatus, L. jensenii y L. gasseri](https://www.elsevier.es/es-revista-enfermedades-infecciosas-microbiologia-clinica-28-articulo-la-microbiota-vaginal-composicion-papel-S0213005X08726806)) dandole entrada a microorganismos patógenos, por eso es recomendable utilizar jabones con **PH neutro** y para la higiene intima. La limpieza del [área perineal (la región anatómica correspondiente al suelo de la pelvis, entre el ano y los genitales)](https://es.wikipedia.org/wiki/Perin%C3%A9) debe hacerse en dirección de adelante hacia atrás, sobretodo se debe enseñar a los más pequeños la manera correcta de hacerlo para evitar llevar microorganismos del área anal hasta la uretra.
 
 ### **Prevenir el estreñimiento**
 
