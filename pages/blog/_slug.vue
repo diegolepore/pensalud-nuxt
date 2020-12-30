@@ -102,9 +102,10 @@
 <style lang="scss">
 .blog {
   &__body {
-    p img {
+    img {
       display: block;
-      margin: 0 auto;
+      margin: 60px auto;
+      max-width: 768px;
     }
 
     a {
