@@ -111,6 +111,14 @@
       color: #615CFC;
       text-decoration: underline;
     }
+
+    ul {
+      list-style-type: disc;
+    }
+    
+    ol {
+      list-style-type: decimal;
+    }
   }
 }
 </style>
