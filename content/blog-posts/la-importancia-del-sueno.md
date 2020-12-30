@@ -4,7 +4,7 @@ excerpt: 'El sueño es una necesidad fisiológica, esencial para las actividades
   tales como: el aprendizaje y la memoria. '
 thumbnail: "/cris-saur-gnucux-iobg-unsplash-1.jpg"
 author: Dra. Diana Emilia Rodríguez Rojas
-date: 2020-09-23T00:00:00Z
+date: 2020-09-23T00:00:00.000+00:00
 avatar: "/1517629621762.jpeg"
 
 ---
@@ -123,26 +123,25 @@ En cuanto a la consolidación de la memoria (es decir, el proceso mediante el cu
   ### **_Neurotransmisores involucrados en el ciclo sueño-vigilia:_**
 
   Durante el ciclo sueño-vigilia intervienen los neurotransmisores (biomoléculas que permiten la neurotransmisión, es decir, la transmisión de información desde una neurona hacia otra neurona, a una célula muscular o a una glándula). En otras palabras, la creación de conexiones neuronales. Entre ellos se encuentran los siguientes:
-
-  **_La dopamina:_** neurotransmisor cerebral estimulante, juega un rol importante en el mantenimiento de la vigila.
-
-  **_La histamina:_** neurotransmisor excitatorio, es fundamental en el mantenimiento del estado de alerta.
-
-  **_Las orexinas:_** hormonas excitadoras que promueven la vigilia.
-
-  **_Glutamato:_** mayor neurotransmisor excitatorio cerebral que se regula tanto química como eléctricamente.
-
-  **_El GABA_:** Es el principal neurotransmisor inhibitorio, induce el sueño **No REM**.
-
-  **_Adenosina:_** neurotransmisor inhibitorio que también induce el sueño **No REM**.
-
-  **La glicina:** neurotransmisor inhibidor, interviene en el control de la atonía en el sueño **REM**.
-
-  **La acetilcolina:** regula el sueño **REM**.
-
-  **La serotonina:** es un inhibidor del sueño **REM**.
-
-  **_La melatonina:_** también participa en la regulación del sueño, es secretada en la glándula pineal y se libera en respuesta a la disminución de la luz ambiental, regulando el ciclo sueño - vigilia, produciendo somnolencia para iniciar el sueño principal.
+  * **_La dopamina:_** neurotransmisor cerebral estimulante, juega un rol importante en el mantenimiento de la vigila.
+  * 
+  * **_La histamina:_** neurotransmisor excitatorio, es fundamental en el mantenimiento del estado de alerta.
+  * 
+  * **_Las orexinas:_** hormonas excitadoras que promueven la vigilia.
+  * 
+  * **_Glutamato:_** mayor neurotransmisor excitatorio cerebral que se regula tanto química como eléctricamente.
+  * 
+  * **_El GABA_:** Es el principal neurotransmisor inhibitorio, induce el sueño **No REM**.
+  * 
+  * **_Adenosina:_** neurotransmisor inhibitorio que también induce el sueño **No REM**.
+  * 
+  * **La glicina:** neurotransmisor inhibidor, interviene en el control de la atonía en el sueño **REM**.
+  * 
+  * **La acetilcolina:** regula el sueño **REM**.
+  * 
+  * **La serotonina:** es un inhibidor del sueño **REM**.
+  * 
+  * **_La melatonina:_** también participa en la regulación del sueño, es secretada en la glándula pineal y se libera en respuesta a la disminución de la luz ambiental, regulando el ciclo sueño - vigilia, produciendo somnolencia para iniciar el sueño principal.
 
   ### **_Higiene del sueño_**
 
