@@ -105,7 +105,8 @@
     img {
       display: block;
       margin: 60px auto;
-      max-width: 768px;
+      max-width: 500px;
+      width: 100%;
     }
 
     a {
