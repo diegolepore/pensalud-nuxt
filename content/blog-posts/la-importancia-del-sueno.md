@@ -4,7 +4,7 @@ excerpt: 'El sueño es una necesidad fisiológica, esencial para las actividades
   tales como: el aprendizaje y la memoria. '
 thumbnail: "/cris-saur-gnucux-iobg-unsplash-1.jpg"
 author: Dra. Diana Emilia Rodríguez Rojas
-date: 2020-09-23T00:00:00Z
+date: 2020-09-23T00:00:00.000+00:00
 avatar: "/1517629621762.jpeg"
 
 ---
@@ -31,9 +31,10 @@ Antes de proseguir con la temática principal de este artículo hablaré de algu
 
 ### **El sueño se divide en dos etapas, las cuales se denominan:**
 
-**Sueño No MOR:** esta etapa del sueño consta de 4 fases (N1 a N4). Estas fases son la introducción al sueño, es decir, es un estado de somnolencia durante el cual la actividad muscular, la temperatura, la frecuencia cardiaca y respiratoria disminuyen paulatinamente. Es en la última fase (N4) donde se podrían empezar a producirse las ensoñaciones (es decir, los sueños).
+* **Sueño No MOR:** esta etapa del sueño consta de 4 fases (N1 a N4). Estas fases son la introducción al sueño, es decir, es un estado de somnolencia durante el cual la actividad muscular, la temperatura, la frecuencia cardiaca y respiratoria disminuyen paulatinamente. Es en la última fase (N4) donde se podrían empezar a producirse las ensoñaciones (es decir, los sueños).
 
-**Sueño MOR O REM:** el sueño de **Movimientos Oculares Rápidos (MOR)**, también conocidos por sus siglas en ingles **REM** **(Rapid eye movement),** como su nombre lo indica en esta etapa del sueño se presentan movimientos oculares rápidos. Adicionalmente, la frecuencia cardiaca y respiratoria se vuelven irregulares e incluso pueden incrementarse y existe también erección espontánea del pene o del clítoris. Esta es la fase donde soñamos y la mayoría de los pacientes que despiertan durante esta fase suelen recordar vívidamente el contenido de sus ensoñaciones.
+
+* **Sueño MOR O REM:** el sueño de **Movimientos Oculares Rápidos (MOR)**, también conocidos por sus siglas en ingles **REM** **(Rapid eye movement),** como su nombre lo indica en esta etapa del sueño se presentan movimientos oculares rápidos. Adicionalmente, la frecuencia cardiaca y respiratoria se vuelven irregulares e incluso pueden incrementarse y existe también erección espontánea del pene o del clítoris. Esta es la fase donde soñamos y la mayoría de los pacientes que despiertan durante esta fase suelen recordar vívidamente el contenido de sus ensoñaciones.
 
 En un adulto joven, el sueño No MOR tiene un duración aproximada de 70-100 minutos, para luego pasar al sueño MOR que puede durar entre 5-30 minutos. Este ciclo se repite cada hora y media durante toda la noche de sueño. Por lo tanto, a lo largo de la noche pueden presentarse normalmente entre 4 y 6 ciclos de sueño MOR.
 
@@ -49,27 +50,35 @@ Por lo tanto, y de acuerdo a lo citado anteriormente, es de vital importancia ma
 
 La Dra. María José Mas, Neuropediatra en su artículo titulado ["](https://pensalud.cms.webnode.es/l/importancia-del-sueno/#)[Mi bebé no duerme ¿o quién no duerme soy yo?"](https://neuropediatra.org/2015/11/04/mi-bebe-no-duerme/) refiere que el recién nacido tiene un ciclo sueño-vigilia que se repite varias veces a lo largo del día. **_Recién nacido normal_**: duerme hasta 20 horas repartidas en ciclos de unos 60 minutos. En cada ciclo pasa 20 minutos despierto, 20 en sueño profundo y 20 en sueño agitado. Después, al poco tiempo pasa a dormir de 2 a 4 horas seguidas, separadas por intervalos de 1 a 2 horas de vigilia.
 
-**_Tres primeros meses de vida:_** aparece la distinción entre sueño nocturno y diurno, empieza a dormir más tiempo seguido de noche y está más despierto por el día.
+* **_Tres primeros meses de vida:_** aparece la distinción entre sueño nocturno y diurno, empieza a dormir más tiempo seguido de noche y está más despierto por el día.
 
-**_Tres y 6 meses de edad:_** esta diferenciación sigue consolidándose.
 
-**_Nueve meses:_**  la mayoría de los niños duermen unas 5 horas seguidas por la noche, entre la media noche y las 5 de la mañana. El resto de las 14 horas que un bebé de 9 meses dedica a dormir se reparten entre sueño nocturno y siestas durante el día. Es normal que sigan teniendo un sueño muy fragmentado.
+* **_Tres y 6 meses de edad:_** esta diferenciación sigue consolidándose.
 
-**_Al cumplir su primer año:_** los bebés duermen entre 13 y 16 horas cada 24 horas, de las cuales sólo 2 o 3 son siestas diurnas.
 
-**_A partir del año de vida y hasta los 5 años:_** sigue disminuyendo progresivamente el número de horas que el niño pasa durmiendo, y desaparecerán también las siestas. De modo que el ciclo sueño-vigilia a los 5 años ya tiene un ritmo totalmente [circadiano](https://espanol.nichd.nih.gov/salud/temas/sleep/informacion/circadianos).
+* **_Nueve meses:_**  la mayoría de los niños duermen unas 5 horas seguidas por la noche, entre la media noche y las 5 de la mañana. El resto de las 14 horas que un bebé de 9 meses dedica a dormir se reparten entre sueño nocturno y siestas durante el día. Es normal que sigan teniendo un sueño muy fragmentado.
+
+
+* **_Al cumplir su primer año:_** los bebés duermen entre 13 y 16 horas cada 24 horas, de las cuales sólo 2 o 3 son siestas diurnas.
+
+
+* **_A partir del año de vida y hasta los 5 años:_** sigue disminuyendo progresivamente el número de horas que el niño pasa durmiendo, y desaparecerán también las siestas. De modo que el ciclo sueño-vigilia a los 5 años ya tiene un ritmo totalmente [circadiano](https://espanol.nichd.nih.gov/salud/temas/sleep/informacion/circadianos).
 
 ### [**_Las últimas recomendaciones de la Academia Estadounidense de Medicina del Sueñ_**](https://edition.cnn.com/2016/06/13/health/how-long-should-kids-sleep/index.html)[**_o:_**]()
 
-**Bebés de 4 meses a 12 meses:** 12 a 16 horas.
+* **Bebés de 4 meses a 12 meses:** 12 a 16 horas.
 
-**_Niños de 1 a 2 años:_** 11 a 14 horas.
 
-**_Niños de 3 a 5 años:_** 10 a 13 horas.
+* **_Niños de 1 a 2 años:_** 11 a 14 horas.
 
-**Niños de 6 a 12 años:** 9 a 12 horas.
 
-**Adolescentes de 13 a 18 años:** 8 a 10 horas
+* **_Niños de 3 a 5 años:_** 10 a 13 horas.
+
+
+* **Niños de 6 a 12 años:** 9 a 12 horas.
+
+
+* **Adolescentes de 13 a 18 años:** 8 a 10 horas
 
 Sin embargo, hay que tener en cuenta que cada niño es diferente y puede tener un ciclo sueño-vigilia distinto al de otros. En ocasiones esto puede ser, entre muchas otras razones, consecuencia de la irritabilidad por falta de sueño, hambre, enfermedad, entre otros. En definitiva, este es un proceso evolutivo y es importante tener paciencia.
 
@@ -113,36 +122,27 @@ En cuanto a la consolidación de la memoria (es decir, el proceso mediante el cu
   ![](/victoria-heath-magaxayq_ne-unsplash.jpg)
 
   ### **_Consecuencias de no dormir_**
+  * **_Niños y jóvenes en edad de aprendizaje:_** problemas para el rendimiento académico.
 
-  **_Niños y jóvenes en edad de aprendizaje:_** problemas para el rendimiento académico.
 
-  **Adultos en edad laboral:** mayor probabilidad de accidentes.
+  * **Adultos en edad laboral:** mayor probabilidad de accidentes.
 
-  **Ancianos:** pueden presentar menor rendimiento cognitivo.
+
+  * **Ancianos:** pueden presentar menor rendimiento cognitivo.
 
   ### **_Neurotransmisores involucrados en el ciclo sueño-vigilia:_**
 
   Durante el ciclo sueño-vigilia intervienen los neurotransmisores (biomoléculas que permiten la neurotransmisión, es decir, la transmisión de información desde una neurona hacia otra neurona, a una célula muscular o a una glándula). En otras palabras, la creación de conexiones neuronales. Entre ellos se encuentran los siguientes:
-
-  **_La dopamina:_** neurotransmisor cerebral estimulante, juega un rol importante en el mantenimiento de la vigila.
-
-  **_La histamina:_** neurotransmisor excitatorio, es fundamental en el mantenimiento del estado de alerta.
-
-  **_Las orexinas:_** hormonas excitadoras que promueven la vigilia.
-
-  **_Glutamato:_** mayor neurotransmisor excitatorio cerebral que se regula tanto química como eléctricamente.
-
-  **_El GABA_:** Es el principal neurotransmisor inhibitorio, induce el sueño **No REM**.
-
-  **_Adenosina:_** neurotransmisor inhibitorio que también induce el sueño **No REM**.
-
-  **La glicina:** neurotransmisor inhibidor, interviene en el control de la atonía en el sueño **REM**.
-
-  **La acetilcolina:** regula el sueño **REM**.
-
-  **La serotonina:** es un inhibidor del sueño **REM**.
-
-  **_La melatonina:_** también participa en la regulación del sueño, es secretada en la glándula pineal y se libera en respuesta a la disminución de la luz ambiental, regulando el ciclo sueño - vigilia, produciendo somnolencia para iniciar el sueño principal.
+  * **_La dopamina:_** neurotransmisor cerebral estimulante, juega un rol importante en el mantenimiento de la vigila.
+  * **_La histamina:_** neurotransmisor excitatorio, es fundamental en el mantenimiento del estado de alerta.
+  * **_Las orexinas:_** hormonas excitadoras que promueven la vigilia.
+  * **_Glutamato:_** mayor neurotransmisor excitatorio cerebral que se regula tanto química como eléctricamente.
+  * **_El GABA_:** Es el principal neurotransmisor inhibitorio, induce el sueño **No REM**.
+  * **_Adenosina:_** neurotransmisor inhibitorio que también induce el sueño **No REM**.
+  * **La glicina:** neurotransmisor inhibidor, interviene en el control de la atonía en el sueño **REM**.
+  * **La acetilcolina:** regula el sueño **REM**.
+  * **La serotonina:** es un inhibidor del sueño **REM**.
+  * **_La melatonina:_** también participa en la regulación del sueño, es secretada en la glándula pineal y se libera en respuesta a la disminución de la luz ambiental, regulando el ciclo sueño - vigilia, produciendo somnolencia para iniciar el sueño principal.
 
   ### **_Higiene del sueño_**
 
