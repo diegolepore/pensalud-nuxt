@@ -16,21 +16,14 @@ Es posible que entre tantas responsabilidades y planes que podamos tener, llegue
 
 Existen muchas teorías que indican que el sueño interviene en lo siguiente:
 
-1) Restablecimiento o conservación de la energía.
-
-2) Consolidación de la memoria.
-
-3) Activación inmunológica.
-
-4) Eliminación de [radicales libres](https://www.salud.mapfre.es/nutricion/reportajes-nutricion/radicales-libres/) acumulados durante el día.
-
-5) Regulación y restauración de la actividad eléctrica cortical.
-
-6) Regulación térmica.
-
-7) Regulación metabólica y endocrina.
-
-8) Homeostasis sináptica (capacidad del cerebro para mantener el equilibrio en la fuerza de las conexiones entre las células nerviosas).
+1. Restablecimiento o conservación de la energía.
+2. Consolidación de la memoria.
+3. Activación inmunológica.
+4. Eliminación de [radicales libres](https://www.salud.mapfre.es/nutricion/reportajes-nutricion/radicales-libres/) acumulados durante el día.
+5. Regulación y restauración de la actividad eléctrica cortical.
+6. Regulación térmica.
+7. Regulación metabólica y endocrina.
+8. Homeostasis sináptica (capacidad del cerebro para mantener el equilibrio en la fuerza de las conexiones entre las células nerviosas).
 
 ![](/damir-spanic-09znjjdtzfc-unsplash.jpg)
 
@@ -66,17 +59,17 @@ La Dra. María José Mas, Neuropediatra en su artículo titulado ["](https://pen
 
 **_A partir del año de vida y hasta los 5 años:_** _s_igue disminuyendo progresivamente el número de horas que el niño pasa durmiendo, y desaparecerán también las siestas. De modo que el ciclo sueño-vigilia a los 5 años ya tiene un ritmo totalmente [circadiano](https://espanol.nichd.nih.gov/salud/temas/sleep/informacion/circadianos).
 
-###### [**_Las últimas recomendaciones de la Academia Estadounidense de Medicina del Sueñ_**](https://edition.cnn.com/2016/06/13/health/how-long-should-kids-sleep/index.html)[**_o:_**]()****
+### [**_Las últimas recomendaciones de la Academia Estadounidense de Medicina del Sueñ_**](https://edition.cnn.com/2016/06/13/health/how-long-should-kids-sleep/index.html)[**_o:_**]()
 
-**_Bebés de 4 meses a 12 meses: _**12 a 16 horas
+Bebés de 4 meses a 12 meses: 12 a 16 horas.
 
-**_Niños de 1 a 2 años:_** 11 a 14 horas
+**_Niños de 1 a 2 años:_** 11 a 14 horas.
 
-**_Niños de 3 a 5 años:_** 10 a 13 horas
+**_Niños de 3 a 5 años:_** 10 a 13 horas.
 
-**_Niños de 6 a 12 años: _**de nueve a 12 horas
+**Niños de 6 a 12 años:** 9 a 12 horas.
 
-**_Adolescentes de 13 a 18 años: _**de ocho a 10 horas
+**Adolescentes de 13 a 18 años:** 8 a 10 horas
 
 Sin embargo, hay que tener en cuenta que cada niño es diferente y puede tener un ciclo sueño-vigilia distinto al de otros. En ocasiones esto puede ser, entre muchas otras razones, consecuencia de la irritabilidad por falta de sueño, hambre, enfermedad, entre otros. En definitiva, este es un proceso evolutivo y es importante tener paciencia.
 
@@ -99,7 +92,9 @@ En cuanto a la consolidación de la memoria (es decir, el proceso mediante el cu
 * Disminuye la autovigilancia.
 * El desempeño se deteriora con tareas de larga duración.
 * Alteración de la capacidad de juicio.
-* Atención sostenida intencional: la atención se vuelve variable, inestable.  
+* Atención sostenida intencional: la atención se vuelve variable, inestable.
+
+    
   ![](/zhang-kaiyv-zzoscjjrs7c-unsplash.jpg)
 
   ### **_Los trastornos del sueño y la edad_**
@@ -109,7 +104,7 @@ En cuanto a la consolidación de la memoria (es decir, el proceso mediante el cu
   **_Entre las alteraciones del sueño se encuentran:_**
   * **_Insomnio:_** dificultad para conciliar el sueño.
   * **_Hipersomnia:_** somnolencia diurna excesiva.
-  * **_Parasomnias: _**episodios breves o parciales de despertar, sin que se produzca una interrupción importante del sueño ni una alteración del nivel de vigilia diurna.
+  * **Parasomnias**: episodios breves o parciales de despertar, sin que se produzca una interrupción importante del sueño ni una alteración del nivel de vigilia diurna.
   * **_Trastornos respiratorios del sueño_**_._
   * **_Movimientos anormales durante el sueño._**
 
@@ -121,9 +116,9 @@ En cuanto a la consolidación de la memoria (es decir, el proceso mediante el cu
 
   **_Niños y jóvenes en edad de aprendizaje:_** problemas para el rendimiento académico.
 
-  **_Adultos en edad laboral: _**mayor probabilidad de accidentes.
+  **Adultos en edad laboral:** mayor probabilidad de accidentes.
 
-  **_Ancianos: _**pueden presentar menor rendimiento cognitivo.
+  **Ancianos:** pueden presentar menor rendimiento cognitivo.
 
   ### **_Neurotransmisores involucrados en el ciclo sueño-vigilia:_**
 
@@ -141,17 +136,17 @@ En cuanto a la consolidación de la memoria (es decir, el proceso mediante el cu
 
   **_Adenosina:_** neurotransmisor inhibitorio que también induce el sueño **No REM**.
 
-  **_La glicina: _**neurotransmisor inhibidor, interviene en el control de la atonía en el sueño **REM**.
+  **La glicina:** neurotransmisor inhibidor, interviene en el control de la atonía en el sueño **REM**.
 
-  **_La acetilcolina: _**regula el sueño **REM**.
+  **La acetilcolina:** regula el sueño **REM**.
 
-  **_La serotonina: _**es un inhibidor del sueño **REM**.
+  **La serotonina:** es un inhibidor del sueño **REM**.
 
   **_La melatonina:_** también participa en la regulación del sueño, es secretada en la glándula pineal y se libera en respuesta a la disminución de la luz ambiental, regulando el ciclo sueño - vigilia, produciendo somnolencia para iniciar el sueño principal.
 
   ### **_Higiene del sueño_**
 
-  Las medidas de higiene son sugerencias acerca de conductas, modificaciones ambientales, que tienen como objetivo mejorar la calidad del sueño. Mastin y colaboradores en su trabajo denominado _"Evaluación de la higiene del sueño utilizando el índice de Higiene del Sueño"_ menciona medidas de higiene del sueño, las cuales se nombran a continuación:
+  Las medidas de higiene son sugerencias acerca de conductas, modificaciones ambientales, que tienen como objetivo mejorar la calidad del sueño. Mastin y colaboradores en su trabajo denominado **_"Evaluación de la higiene del sueño utilizando el índice de Higiene del Sueño"_** menciona medidas de higiene del sueño, las cuales se nombran a continuación:
    1. Evitar realizar siestas prolongadas, mayores de 1 hora, durante el día.
    2. Acostarse a dormir a una misma hora todos los días.
    3. Despertarse todos los días a una misma hora.
