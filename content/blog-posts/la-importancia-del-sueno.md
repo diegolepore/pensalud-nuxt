@@ -14,7 +14,7 @@ _El sueño es una necesidad fisiológica, esencial para las actividades cognitiv
 
 Es posible que entre tantas responsabilidades y planes que podamos tener, lleguemos a sentir que el tiempo del cual disponemos para realizar dichas actividades no sea suficiente y, en consecuencia, algunos quizá nos preguntemos si existe algún atajo o medio que nos permita prescindir del sueño, sin considerar el impacto que ello pueda generar en nuestra salud.
 
-Existen muchas teorías que indican que el sueño interviene en lo siguiente:
+#### Existen muchas teorías que indican que el sueño interviene en lo siguiente:
 
 1. Restablecimiento o conservación de la energía.
 2. Consolidación de la memoria.
@@ -53,15 +53,15 @@ La Dra. María José Mas, Neuropediatra en su artículo titulado ["](https://pen
 
 **_Tres y 6 meses de edad:_** esta diferenciación sigue consolidándose.
 
-**_Nueve meses:_** _l_a mayoría de los niños duermen unas 5 horas seguidas por la noche, entre la media noche y las 5 de la mañana. El resto de las 14 horas que un bebé de 9 meses dedica a dormir se reparten entre sueño nocturno y siestas durante el día. Es normal que sigan teniendo un sueño muy fragmentado.
+**_Nueve meses:_**  la mayoría de los niños duermen unas 5 horas seguidas por la noche, entre la media noche y las 5 de la mañana. El resto de las 14 horas que un bebé de 9 meses dedica a dormir se reparten entre sueño nocturno y siestas durante el día. Es normal que sigan teniendo un sueño muy fragmentado.
 
 **_Al cumplir su primer año:_** los bebés duermen entre 13 y 16 horas cada 24 horas, de las cuales sólo 2 o 3 son siestas diurnas.
 
-**_A partir del año de vida y hasta los 5 años:_** _s_igue disminuyendo progresivamente el número de horas que el niño pasa durmiendo, y desaparecerán también las siestas. De modo que el ciclo sueño-vigilia a los 5 años ya tiene un ritmo totalmente [circadiano](https://espanol.nichd.nih.gov/salud/temas/sleep/informacion/circadianos).
+**_A partir del año de vida y hasta los 5 años:_** sigue disminuyendo progresivamente el número de horas que el niño pasa durmiendo, y desaparecerán también las siestas. De modo que el ciclo sueño-vigilia a los 5 años ya tiene un ritmo totalmente [circadiano](https://espanol.nichd.nih.gov/salud/temas/sleep/informacion/circadianos).
 
 ### [**_Las últimas recomendaciones de la Academia Estadounidense de Medicina del Sueñ_**](https://edition.cnn.com/2016/06/13/health/how-long-should-kids-sleep/index.html)[**_o:_**]()
 
-Bebés de 4 meses a 12 meses: 12 a 16 horas.
+**Bebés de 4 meses a 12 meses:** 12 a 16 horas.
 
 **_Niños de 1 a 2 años:_** 11 a 14 horas.
 
@@ -122,7 +122,7 @@ En cuanto a la consolidación de la memoria (es decir, el proceso mediante el cu
 
   ### **_Neurotransmisores involucrados en el ciclo sueño-vigilia:_**
 
-  Durante el ciclo sueño-vigilia intervienen los neurotransmisores (biomoléculas que permiten la neurotransmisión, es decir, la transmisión de información desde una neurona hacia otra neurona, a una célula muscular o a una glándula). En otras palabras, la creación de conexiones neuronales.
+  Durante el ciclo sueño-vigilia intervienen los neurotransmisores (biomoléculas que permiten la neurotransmisión, es decir, la transmisión de información desde una neurona hacia otra neurona, a una célula muscular o a una glándula). En otras palabras, la creación de conexiones neuronales. Entre ellos se encuentran los siguientes:
 
   **_La dopamina:_** neurotransmisor cerebral estimulante, juega un rol importante en el mantenimiento de la vigila.
 
@@ -146,7 +146,7 @@ En cuanto a la consolidación de la memoria (es decir, el proceso mediante el cu
 
   ### **_Higiene del sueño_**
 
-  Las medidas de higiene son sugerencias acerca de conductas, modificaciones ambientales, que tienen como objetivo mejorar la calidad del sueño. Mastin y colaboradores en su trabajo denominado **_"Evaluación de la higiene del sueño utilizando el índice de Higiene del Sueño"_** menciona medidas de higiene del sueño, las cuales se nombran a continuación:
+  Las medidas de higiene son sugerencias acerca de conductas, modificaciones ambientales, que tienen como objetivo mejorar la calidad del sueño. Mastin y colaboradores en su trabajo denominado: [**_"Evaluación de la higiene del sueño utilizando el índice de Higiene del Sueño"_**](javascript:void(0);) menciona medidas de higiene del sueño, las cuales se nombran a continuación:
    1. Evitar realizar siestas prolongadas, mayores de 1 hora, durante el día.
    2. Acostarse a dormir a una misma hora todos los días.
    3. Despertarse todos los días a una misma hora.
