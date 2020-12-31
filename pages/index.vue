@@ -9,7 +9,7 @@
       </div>
     </div>
 
-    <ul class="lg:grid lg:grid-cols-2 lg:gap-4 xl:grid-cols-3">
+    <ul class="lg:grid lg:grid-cols-2 lg:gap-4 xl:grid-cols-3 m-0">
       <li v-for="(post, index) in sortedPosts" :key="index">
         <PostListItem :post="post"/>
       </li>

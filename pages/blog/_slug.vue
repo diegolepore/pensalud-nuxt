@@ -3,7 +3,10 @@
 <template>
   <article class="blog">
     <Hero :last-post="post"/>
-    <div class="blog__body" v-html="post.html"></div>
+    <div class="blog__body">
+      <div class="blog__body-left" v-html="post.html"></div>
+      <!-- <div class="blog__body-right"></div> -->
+    </div>
     <div class="text-center my-12 md:my-16 flex items-center">
       <img
         class="mb-0 w-12 h-12 object-cover rounded-full mr-4 shadow"
@@ -102,6 +105,12 @@
 <style lang="scss">
 .blog {
   &__body {
+    &-left {
+      margin: 0 auto;
+      max-width: 680px;
+      width: 100%;
+    }
+
     img {
       display: block;
       margin: 60px auto;

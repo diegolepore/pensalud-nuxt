@@ -2,7 +2,7 @@
   <!-- This example requires Tailwind CSS v2.0+ -->
   <div class="hero mb-5">
     <NuxtLink :to="`/blog/${lastPost.slug}`">
-      <div class="hero__wrapper relative bg-white overflow-hidden">
+      <div class="hero__wrapper relative bg-white overflow-hidden mb-6">
         <div class="hero__title-wrapper w-3/6">
           <h1 class="hero__title font-serif font-bold text-gray-800 text-2xl md:text-4xl">
             <span>{{ lastPost.attributes.title }}</span>
