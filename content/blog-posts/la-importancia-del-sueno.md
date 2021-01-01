@@ -141,13 +141,15 @@ Las medidas de higiene son sugerencias acerca de conductas, modificaciones ambie
 11. Evitar pensar sobre sus actividades del día u organizar y planear sus actividades futuras mientras trata de dormir. No se le resta importancia a la planificación, solo que esta no debe hacerse cuando estamos acostados y dispuestos para dormir.
 12. Dormir en una habitación con baja iluminación y poco ruido ambiental.
 
-    ### ![](/liliana-nowosad-xnzglo706oi-unsplash.jpg)**_La Hormona del Crecimiento y el sueño_**
+![](/liliana-nowosad-xnzglo706oi-unsplash.jpg)
 
-    La hormona del crecimiento (GH) es secretada por la Hipófisis, bajo la regulación del Hipotálamo, mediante el factor de regulación de la hormona liberadora de hormona del crecimiento (GHRH). Su secreción se produce al principio de la noche, en relación al primer episodio de sueño, fase 3 del sueño **No REM**. Existe una relación tan estrecha, que si se interrumpe el sueño, se produce una disminución significativa de la secreción de la hormona de crecimiento.
+### **_La Hormona del Crecimiento y el sueño_**
 
-    Las hormonas tienen una clara acción en el crecimiento, especialmente durante el estirón de la pubertad, el que se produce por el aumento de la secreción de las hormonas gonadales (testosterona y estrógenos). La testosterona es un potente andrógeno que produce un crecimiento hiperplásico del tejido muscular y óseo, ensanchamiento de los hombros del varón y acelera la maduración ósea. Los estrógenos aceleran el crecimiento lateral de la pelvis y también el crecimiento lineal, pero menos intensamente que la testosterona, lo que explica en parte la menor estatura de la mujer. La hormona de crecimiento estimula la Somatomedina C, que tiene un efecto en el crecimiento por su acción en los cartílagos de crecimiento de los huesos. La hormona de crecimiento aumenta durante la pubertad y potencia el efecto de las hormonas gonadales sobre el crecimiento.
+La hormona del crecimiento (GH) es secretada por la Hipófisis, bajo la regulación del Hipotálamo, mediante el factor de regulación de la hormona liberadora de hormona del crecimiento (GHRH). Su secreción se produce al principio de la noche, en relación al primer episodio de sueño, fase 3 del sueño **No REM**. Existe una relación tan estrecha, que si se interrumpe el sueño, se produce una disminución significativa de la secreción de la hormona de crecimiento.
 
-    ![](/b94a64088f34a8dd74fce2e6fbd26d7b.jpg)
+Las hormonas tienen una clara acción en el crecimiento, especialmente durante el estirón de la pubertad, el que se produce por el aumento de la secreción de las hormonas gonadales (testosterona y estrógenos). La testosterona es un potente andrógeno que produce un crecimiento hiperplásico del tejido muscular y óseo, ensanchamiento de los hombros del varón y acelera la maduración ósea. Los estrógenos aceleran el crecimiento lateral de la pelvis y también el crecimiento lineal, pero menos intensamente que la testosterona, lo que explica en parte la menor estatura de la mujer. La hormona de crecimiento estimula la Somatomedina C, que tiene un efecto en el crecimiento por su acción en los cartílagos de crecimiento de los huesos. La hormona de crecimiento aumenta durante la pubertad y potencia el efecto de las hormonas gonadales sobre el crecimiento.
+
+![](/b94a64088f34a8dd74fce2e6fbd26d7b.jpg)
 
 ### **_El sueño en otras especies_**
 
