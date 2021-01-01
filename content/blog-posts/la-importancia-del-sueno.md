@@ -32,8 +32,6 @@ Antes de proseguir con la temática principal de este artículo hablaré de algu
 ### **El sueño se divide en dos etapas, las cuales se denominan:**
 
 * **Sueño No MOR:** esta etapa del sueño consta de 4 fases (N1 a N4). Estas fases son la introducción al sueño, es decir, es un estado de somnolencia durante el cual la actividad muscular, la temperatura, la frecuencia cardiaca y respiratoria disminuyen paulatinamente. Es en la última fase (N4) donde se podrían empezar a producirse las ensoñaciones (es decir, los sueños).
-
-
 * **Sueño MOR O REM:** el sueño de **Movimientos Oculares Rápidos (MOR)**, también conocidos por sus siglas en ingles **REM** **(Rapid eye movement),** como su nombre lo indica en esta etapa del sueño se presentan movimientos oculares rápidos. Adicionalmente, la frecuencia cardiaca y respiratoria se vuelven irregulares e incluso pueden incrementarse y existe también erección espontánea del pene o del clítoris. Esta es la fase donde soñamos y la mayoría de los pacientes que despiertan durante esta fase suelen recordar vívidamente el contenido de sus ensoñaciones.
 
 En un adulto joven, el sueño No MOR tiene un duración aproximada de 70-100 minutos, para luego pasar al sueño MOR que puede durar entre 5-30 minutos. Este ciclo se repite cada hora y media durante toda la noche de sueño. Por lo tanto, a lo largo de la noche pueden presentarse normalmente entre 4 y 6 ciclos de sueño MOR.
@@ -51,33 +49,17 @@ Por lo tanto, y de acuerdo a lo citado anteriormente, es de vital importancia ma
 La Dra. María José Mas, Neuropediatra en su artículo titulado ["](https://pensalud.cms.webnode.es/l/importancia-del-sueno/#)[Mi bebé no duerme ¿o quién no duerme soy yo?"](https://neuropediatra.org/2015/11/04/mi-bebe-no-duerme/) refiere que el recién nacido tiene un ciclo sueño-vigilia que se repite varias veces a lo largo del día. **_Recién nacido normal_**: duerme hasta 20 horas repartidas en ciclos de unos 60 minutos. En cada ciclo pasa 20 minutos despierto, 20 en sueño profundo y 20 en sueño agitado. Después, al poco tiempo pasa a dormir de 2 a 4 horas seguidas, separadas por intervalos de 1 a 2 horas de vigilia.
 
 * **_Tres primeros meses de vida:_** aparece la distinción entre sueño nocturno y diurno, empieza a dormir más tiempo seguido de noche y está más despierto por el día.
-
-
 * **_Tres y 6 meses de edad:_** esta diferenciación sigue consolidándose.
-
-
 * **_Nueve meses:_**  la mayoría de los niños duermen unas 5 horas seguidas por la noche, entre la media noche y las 5 de la mañana. El resto de las 14 horas que un bebé de 9 meses dedica a dormir se reparten entre sueño nocturno y siestas durante el día. Es normal que sigan teniendo un sueño muy fragmentado.
-
-
 * **_Al cumplir su primer año:_** los bebés duermen entre 13 y 16 horas cada 24 horas, de las cuales sólo 2 o 3 son siestas diurnas.
-
-
 * **_A partir del año de vida y hasta los 5 años:_** sigue disminuyendo progresivamente el número de horas que el niño pasa durmiendo, y desaparecerán también las siestas. De modo que el ciclo sueño-vigilia a los 5 años ya tiene un ritmo totalmente [circadiano](https://espanol.nichd.nih.gov/salud/temas/sleep/informacion/circadianos).
 
 ### [**_Las últimas recomendaciones de la Academia Estadounidense de Medicina del Sueñ_**](https://edition.cnn.com/2016/06/13/health/how-long-should-kids-sleep/index.html)[**_o:_**]()
 
 * **Bebés de 4 meses a 12 meses:** 12 a 16 horas.
-
-
 * **_Niños de 1 a 2 años:_** 11 a 14 horas.
-
-
 * **_Niños de 3 a 5 años:_** 10 a 13 horas.
-
-
 * **Niños de 6 a 12 años:** 9 a 12 horas.
-
-
 * **Adolescentes de 13 a 18 años:** 8 a 10 horas
 
 Sin embargo, hay que tener en cuenta que cada niño es diferente y puede tener un ciclo sueño-vigilia distinto al de otros. En ocasiones esto puede ser, entre muchas otras razones, consecuencia de la irritabilidad por falta de sueño, hambre, enfermedad, entre otros. En definitiva, este es un proceso evolutivo y es importante tener paciencia.
@@ -103,93 +85,92 @@ En cuanto a la consolidación de la memoria (es decir, el proceso mediante el cu
 * Alteración de la capacidad de juicio.
 * Atención sostenida intencional: la atención se vuelve variable, inestable.
 
-    
-  ![](/zhang-kaiyv-zzoscjjrs7c-unsplash.jpg)
+![](/zhang-kaiyv-zzoscjjrs7c-unsplash.jpg)
 
-  ### **_Los trastornos del sueño y la edad_**
+### **_Los trastornos del sueño y la edad_**
 
-  Los trastornos del sueño se observan con más frecuencia en la edad adulta y es claro que esto se incrementa conforme aumenta la edad, lo cual se ha relacionado más con la presencia concomitante de diversas enfermedades asociadas a la edad, que con verdaderos cambios del proceso del sueño asociados con el envejecimiento.
+Los trastornos del sueño se observan con más frecuencia en la edad adulta y es claro que esto se incrementa conforme aumenta la edad, lo cual se ha relacionado más con la presencia concomitante de diversas enfermedades asociadas a la edad, que con verdaderos cambios del proceso del sueño asociados con el envejecimiento.
 
-  **_Entre las alteraciones del sueño se encuentran:_**
-  * **_Insomnio:_** dificultad para conciliar el sueño.
-  * **_Hipersomnia:_** somnolencia diurna excesiva.
-  * **Parasomnias**: episodios breves o parciales de despertar, sin que se produzca una interrupción importante del sueño ni una alteración del nivel de vigilia diurna.
-  * **_Trastornos respiratorios del sueño_**_._
-  * **_Movimientos anormales durante el sueño._**
+**_Entre las alteraciones del sueño se encuentran:_**
 
-  Los trastornos del sueño están relacionados con accidentes de trabajo y tráfico, la hipertensión, diabetes mellitus tipo 2, obesidad, y enfermedades coronarias. Algunas etapas del sueño son necesarias para que podamos sentirnos descansados y con energía al día siguiente, y otras etapas nos ayudan a aprender o crear recuerdos.
+* **_Insomnio:_** dificultad para conciliar el sueño.
+* **_Hipersomnia:_** somnolencia diurna excesiva.
+* **Parasomnias**: episodios breves o parciales de despertar, sin que se produzca una interrupción importante del sueño ni una alteración del nivel de vigilia diurna.
+* **_Trastornos respiratorios del sueño_**_._
+* **_Movimientos anormales durante el sueño._**
 
-  ![](/victoria-heath-magaxayq_ne-unsplash.jpg)
+Los trastornos del sueño están relacionados con accidentes de trabajo y tráfico, la hipertensión, diabetes mellitus tipo 2, obesidad, y enfermedades coronarias. Algunas etapas del sueño son necesarias para que podamos sentirnos descansados y con energía al día siguiente, y otras etapas nos ayudan a aprender o crear recuerdos.
 
-  ### **_Consecuencias de no dormir_**
-  * **_Niños y jóvenes en edad de aprendizaje:_** problemas para el rendimiento académico.
+![](/victoria-heath-magaxayq_ne-unsplash.jpg)
 
+### **_Consecuencias de no dormir_**
 
-  * **Adultos en edad laboral:** mayor probabilidad de accidentes.
+* **_Niños y jóvenes en edad de aprendizaje:_** problemas para el rendimiento académico.
+* **Adultos en edad laboral:** mayor probabilidad de accidentes.
+* **Ancianos:** pueden presentar menor rendimiento cognitivo.
 
+### **_Neurotransmisores involucrados en el ciclo sueño-vigilia:_**
 
-  * **Ancianos:** pueden presentar menor rendimiento cognitivo.
+Durante el ciclo sueño-vigilia intervienen los neurotransmisores (biomoléculas que permiten la neurotransmisión, es decir, la transmisión de información desde una neurona hacia otra neurona, a una célula muscular o a una glándula). En otras palabras, la creación de conexiones neuronales. Entre ellos se encuentran los siguientes:
 
-  ### **_Neurotransmisores involucrados en el ciclo sueño-vigilia:_**
+* **_La dopamina:_** neurotransmisor cerebral estimulante, juega un rol importante en el mantenimiento de la vigila.
+* **_La histamina:_** neurotransmisor excitatorio, es fundamental en el mantenimiento del estado de alerta.
+* **_Las orexinas:_** hormonas excitadoras que promueven la vigilia.
+* **_Glutamato:_** mayor neurotransmisor excitatorio cerebral que se regula tanto química como eléctricamente.
+* **_El GABA_:** Es el principal neurotransmisor inhibitorio, induce el sueño **No REM**.
+* **_Adenosina:_** neurotransmisor inhibitorio que también induce el sueño **No REM**.
+* **La glicina:** neurotransmisor inhibidor, interviene en el control de la atonía en el sueño **REM**.
+* **La acetilcolina:** regula el sueño **REM**.
+* **La serotonina:** es un inhibidor del sueño **REM**.
+* **_La melatonina:_** también participa en la regulación del sueño, es secretada en la glándula pineal y se libera en respuesta a la disminución de la luz ambiental, regulando el ciclo sueño - vigilia, produciendo somnolencia para iniciar el sueño principal.
 
-  Durante el ciclo sueño-vigilia intervienen los neurotransmisores (biomoléculas que permiten la neurotransmisión, es decir, la transmisión de información desde una neurona hacia otra neurona, a una célula muscular o a una glándula). En otras palabras, la creación de conexiones neuronales. Entre ellos se encuentran los siguientes:
-  * **_La dopamina:_** neurotransmisor cerebral estimulante, juega un rol importante en el mantenimiento de la vigila.
-  * **_La histamina:_** neurotransmisor excitatorio, es fundamental en el mantenimiento del estado de alerta.
-  * **_Las orexinas:_** hormonas excitadoras que promueven la vigilia.
-  * **_Glutamato:_** mayor neurotransmisor excitatorio cerebral que se regula tanto química como eléctricamente.
-  * **_El GABA_:** Es el principal neurotransmisor inhibitorio, induce el sueño **No REM**.
-  * **_Adenosina:_** neurotransmisor inhibitorio que también induce el sueño **No REM**.
-  * **La glicina:** neurotransmisor inhibidor, interviene en el control de la atonía en el sueño **REM**.
-  * **La acetilcolina:** regula el sueño **REM**.
-  * **La serotonina:** es un inhibidor del sueño **REM**.
-  * **_La melatonina:_** también participa en la regulación del sueño, es secretada en la glándula pineal y se libera en respuesta a la disminución de la luz ambiental, regulando el ciclo sueño - vigilia, produciendo somnolencia para iniciar el sueño principal.
+### **_Higiene del sueño_**
 
-  ### **_Higiene del sueño_**
+Las medidas de higiene son sugerencias acerca de conductas, modificaciones ambientales, que tienen como objetivo mejorar la calidad del sueño. Mastin y colaboradores en su trabajo denominado: \[**_"Evaluación de la higiene del sueño utilizando el índice de Higiene del Sueño"_**\](javascript:void(0);) menciona medidas de higiene del sueño, las cuales se nombran a continuación:
 
-  Las medidas de higiene son sugerencias acerca de conductas, modificaciones ambientales, que tienen como objetivo mejorar la calidad del sueño. Mastin y colaboradores en su trabajo denominado: [**_"Evaluación de la higiene del sueño utilizando el índice de Higiene del Sueño"_**](javascript:void(0);) menciona medidas de higiene del sueño, las cuales se nombran a continuación:
-   1. Evitar realizar siestas prolongadas, mayores de 1 hora, durante el día.
-   2. Acostarse a dormir a una misma hora todos los días.
-   3. Despertarse todos los días a una misma hora.
-   4. Evitar hacer actividad física vigorosa antes de dormir.
-   5. Evitar consumir alcohol, cigarro y bebidas con cafeína (café, té, chocolate, refrescos de cola o bebidas energéticas) al menos 4 horas antes de dormir.
-   6. Evitar realizar actividades sensorialmente muy estimulantes antes de acostarse (videojuegos, internet o televisión).
-   7. Evitar irse acostar si se está estresado, ansioso, enojado o preocupado.
-   8. No utilizar la cama para otras actividades, tales como: leer, estudiar, comer, trabajar, entre otras.
-   9. Dormir en una cama confortable.
-  10. No realizar un trabajo importante minutos antes de irse a dormir.
-  11. Evitar pensar sobre sus actividades del día u organizar y planear sus actividades futuras mientras trata de dormir. No se le resta importancia a la planificación, solo que esta no debe hacerse cuando estamos acostados y dispuestos para dormir.
-  12. Dormir en una habitación con baja iluminación y poco ruido ambiental.
+ 1. Evitar realizar siestas prolongadas, mayores de 1 hora, durante el día.
+ 2. Acostarse a dormir a una misma hora todos los días.
+ 3. Despertarse todos los días a una misma hora.
+ 4. Evitar hacer actividad física vigorosa antes de dormir.
+ 5. Evitar consumir alcohol, cigarro y bebidas con cafeína (café, té, chocolate, refrescos de cola o bebidas energéticas) al menos 4 horas antes de dormir.
+ 6. Evitar realizar actividades sensorialmente muy estimulantes antes de acostarse (videojuegos, internet o televisión).
+ 7. Evitar irse acostar si se está estresado, ansioso, enojado o preocupado.
+ 8. No utilizar la cama para otras actividades, tales como: leer, estudiar, comer, trabajar, entre otras.
+ 9. Dormir en una cama confortable.
+10. No realizar un trabajo importante minutos antes de irse a dormir.
+11. Evitar pensar sobre sus actividades del día u organizar y planear sus actividades futuras mientras trata de dormir. No se le resta importancia a la planificación, solo que esta no debe hacerse cuando estamos acostados y dispuestos para dormir.
+12. Dormir en una habitación con baja iluminación y poco ruido ambiental.
 
-      ### ![](/liliana-nowosad-xnzglo706oi-unsplash.jpg)**_La Hormona del Crecimiento y el sueño_**
+    ### ![](/liliana-nowosad-xnzglo706oi-unsplash.jpg)**_La Hormona del Crecimiento y el sueño_**
 
-      La hormona del crecimiento (GH) es secretada por la Hipófisis, bajo la regulación del Hipotálamo, mediante el factor de regulación de la hormona liberadora de hormona del crecimiento (GHRH). Su secreción se produce al principio de la noche, en relación al primer episodio de sueño, fase 3 del sueño **No REM**. Existe una relación tan estrecha, que si se interrumpe el sueño, se produce una disminución significativa de la secreción de la hormona de crecimiento.
+    La hormona del crecimiento (GH) es secretada por la Hipófisis, bajo la regulación del Hipotálamo, mediante el factor de regulación de la hormona liberadora de hormona del crecimiento (GHRH). Su secreción se produce al principio de la noche, en relación al primer episodio de sueño, fase 3 del sueño **No REM**. Existe una relación tan estrecha, que si se interrumpe el sueño, se produce una disminución significativa de la secreción de la hormona de crecimiento.
 
-      Las hormonas tienen una clara acción en el crecimiento, especialmente durante el estirón de la pubertad, el que se produce por el aumento de la secreción de las hormonas gonadales (testosterona y estrógenos). La testosterona es un potente andrógeno que produce un crecimiento hiperplásico del tejido muscular y óseo, ensanchamiento de los hombros del varón y acelera la maduración ósea. Los estrógenos aceleran el crecimiento lateral de la pelvis y también el crecimiento lineal, pero menos intensamente que la testosterona, lo que explica en parte la menor estatura de la mujer. La hormona de crecimiento estimula la Somatomedina C, que tiene un efecto en el crecimiento por su acción en los cartílagos de crecimiento de los huesos. La hormona de crecimiento aumenta durante la pubertad y potencia el efecto de las hormonas gonadales sobre el crecimiento.
+    Las hormonas tienen una clara acción en el crecimiento, especialmente durante el estirón de la pubertad, el que se produce por el aumento de la secreción de las hormonas gonadales (testosterona y estrógenos). La testosterona es un potente andrógeno que produce un crecimiento hiperplásico del tejido muscular y óseo, ensanchamiento de los hombros del varón y acelera la maduración ósea. Los estrógenos aceleran el crecimiento lateral de la pelvis y también el crecimiento lineal, pero menos intensamente que la testosterona, lo que explica en parte la menor estatura de la mujer. La hormona de crecimiento estimula la Somatomedina C, que tiene un efecto en el crecimiento por su acción en los cartílagos de crecimiento de los huesos. La hormona de crecimiento aumenta durante la pubertad y potencia el efecto de las hormonas gonadales sobre el crecimiento.
 
-      ![](/b94a64088f34a8dd74fce2e6fbd26d7b.jpg)
+    ![](/b94a64088f34a8dd74fce2e6fbd26d7b.jpg)
 
-  ### **_El sueño en otras especies_**
+### **_El sueño en otras especies_**
 
-  Tratar de definir los rasgos distintivos del sueño en diferentes especies es complicado, porque tienen patrones diferentes. Por ejemplo, el orden de los himenópteros a la cual pertenecen las hormigas, avispas, abejas y del orden de los dípteros como las moscas, han sido estudiados demostrando que el sueño forma parte de su ciclo de vida.
+Tratar de definir los rasgos distintivos del sueño en diferentes especies es complicado, porque tienen patrones diferentes. Por ejemplo, el orden de los himenópteros a la cual pertenecen las hormigas, avispas, abejas y del orden de los dípteros como las moscas, han sido estudiados demostrando que el sueño forma parte de su ciclo de vida.
 
-  Investigadores de la Universidad del Sur de Florida junto a otros investigadores de la Universidad de Texas, EUA, estudiaron los patrones de sueño de la hormiga de fuego Solenopsis invicta. Evidenciaron que en promedio, una sola hormiga obrera tomaría 250 siestas al día, cada una de las cuales duraría poco más de un minuto. Eso equivale a 4 horas y 48 minutos de sueño al día. En promedio, cada reina se dormía 90 veces al día, durmiendo poco más de 6 minutos a la vez. Eso equivale a más de nueve horas de sueño cada día. La función del sueño se desconoce, sin embargo las reinas pueden vivir seis años antes de morir de vejez, mientras que los trabajadores viven de seis meses a un año, ya sea por vejez o por algún accidente. Las reinas de otras especies de hormigas pueden vivir aún más, llegando hasta los 45 años. Todas las funciones o riesgos que lleva la hormiga obrera le permite a la hormiga reina vivir más tiempo, de una forma pacífica.
+Investigadores de la Universidad del Sur de Florida junto a otros investigadores de la Universidad de Texas, EUA, estudiaron los patrones de sueño de la hormiga de fuego Solenopsis invicta. Evidenciaron que en promedio, una sola hormiga obrera tomaría 250 siestas al día, cada una de las cuales duraría poco más de un minuto. Eso equivale a 4 horas y 48 minutos de sueño al día. En promedio, cada reina se dormía 90 veces al día, durmiendo poco más de 6 minutos a la vez. Eso equivale a más de nueve horas de sueño cada día. La función del sueño se desconoce, sin embargo las reinas pueden vivir seis años antes de morir de vejez, mientras que los trabajadores viven de seis meses a un año, ya sea por vejez o por algún accidente. Las reinas de otras especies de hormigas pueden vivir aún más, llegando hasta los 45 años. Todas las funciones o riesgos que lleva la hormiga obrera le permite a la hormiga reina vivir más tiempo, de una forma pacífica.
 
-  ![](/jed-owen-uu38rsfh164-unsplash.jpg)
+![](/jed-owen-uu38rsfh164-unsplash.jpg)
 
-  ## **_Comentarios finales_**
+## **_Comentarios finales_**
 
-  Es importante todo el conocimiento acerca del sueño y su función en nuestro organismo, esto nos permitirá realizar grandes cambios para tener una buena higiene del sueño y mejorar nuestra calidad de vida. Aquí les dejo los enlaces de mis referencias bibliográficas, extraordinarias investigaciones que vale la pena leer:
+Es importante todo el conocimiento acerca del sueño y su función en nuestro organismo, esto nos permitirá realizar grandes cambios para tener una buena higiene del sueño y mejorar nuestra calidad de vida. Aquí les dejo los enlaces de mis referencias bibliográficas, extraordinarias investigaciones que vale la pena leer:
 
-  [https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0026-17422013000400002#t3](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0026-17422013000400002#t3 "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0026-17422013000400002#t3")
+[https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0026-17422013000400002#t3](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0026-17422013000400002#t3 "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0026-17422013000400002#t3")
 
-  [https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1132-62552017000200090](https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1132-62552017000200090 "https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1132-62552017000200090")
+[https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1132-62552017000200090](https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1132-62552017000200090 "https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1132-62552017000200090")
 
-  [https://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S0034-85972018000100004](https://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S0034-85972018000100004 "https://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S0034-85972018000100004")
+[https://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S0034-85972018000100004](https://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S0034-85972018000100004 "https://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S0034-85972018000100004")
 
-  [https://www.elsevier.es/en-revista-revista-medica-clinica-las-condes-202-articulo-sueno-lo-largo-vida-sus-S0716864013701718](https://www.elsevier.es/en-revista-revista-medica-clinica-las-condes-202-articulo-sueno-lo-largo-vida-sus-S0716864013701718 "https://www.elsevier.es/en-revista-revista-medica-clinica-las-condes-202-articulo-sueno-lo-largo-vida-sus-S0716864013701718")
+[https://www.elsevier.es/en-revista-revista-medica-clinica-las-condes-202-articulo-sueno-lo-largo-vida-sus-S0716864013701718](https://www.elsevier.es/en-revista-revista-medica-clinica-las-condes-202-articulo-sueno-lo-largo-vida-sus-S0716864013701718 "https://www.elsevier.es/en-revista-revista-medica-clinica-las-condes-202-articulo-sueno-lo-largo-vida-sus-S0716864013701718")
 
-  [https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182003000200003](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182003000200003 "https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182003000200003")
+[https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182003000200003](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182003000200003 "https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-75182003000200003")
 
-  [https://news.bbc.co.uk/earth/hi/earth_news/newsid_8100000/8100876.stm#:\~:text=Queen%20ants%20dozily%20dream%2C%20while,of%20nine%20hours%20every%20day.](https://news.bbc.co.uk/earth/hi/earth_news/newsid_8100000/8100876.stm#:\~:text=Queen%20ants%20dozily%20dream%2C%20while,of%20nine%20hours%20every%20day. "https://news.bbc.co.uk/earth/hi/earth_news/newsid_8100000/8100876.stm#:~:text=Queen%20ants%20dozily%20dream%2C%20while,of%20nine%20hours%20every%20day.")
+[https://news.bbc.co.uk/earth/hi/earth_news/newsid_8100000/8100876.stm#:\~:text=Queen%20ants%20dozily%20dream%2C%20while,of%20nine%20hours%20every%20day.](https://news.bbc.co.uk/earth/hi/earth_news/newsid_8100000/8100876.stm#:\~:text=Queen%20ants%20dozily%20dream%2C%20while,of%20nine%20hours%20every%20day. "https://news.bbc.co.uk/earth/hi/earth_news/newsid_8100000/8100876.stm#:~:text=Queen%20ants%20dozily%20dream%2C%20while,of%20nine%20hours%20every%20day.")
 
-  [https://www.redalyc.org/pdf/337/33720206.pdf](https://www.redalyc.org/pdf/337/33720206.pdf "https://www.redalyc.org/pdf/337/33720206.pdf")
+[https://www.redalyc.org/pdf/337/33720206.pdf](https://www.redalyc.org/pdf/337/33720206.pdf "https://www.redalyc.org/pdf/337/33720206.pdf")
