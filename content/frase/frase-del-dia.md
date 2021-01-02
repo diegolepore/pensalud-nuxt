@@ -1,6 +1,7 @@
 ---
-body: 'El amor inmaduro dice: "te amo porque te necesito". El amor maduro dice: "te
-  necesito porque te amo" (Erich Fromm)'
-icon: "/rosa.png"
+body: Aunque la cultura en general no es una garantía para vivir mejor ni tener planes
+  de vida  más razonables, despreciarla es carecer de armas para enfrentarse a la
+  brutalidad que todos llevamos dentro. VICTORIA CAMPS.
+icon: "/cerebro.png"
 
 ---
