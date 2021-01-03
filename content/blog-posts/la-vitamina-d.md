@@ -4,7 +4,7 @@ excerpt: La vitamina D es importante en el mantenimiento de las concentraciones 
   del calcio y fósforo en sangre.
 thumbnail: "/vitamina-dd-1-1.jpg"
 author: Dra. Diana Emilia Rodríguez Rojas
-date: 2021-10-08T00:00:00Z
+date: 2020-10-08T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
