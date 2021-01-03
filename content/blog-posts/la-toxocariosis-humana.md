@@ -28,7 +28,7 @@ Los parásitos son denominados**: toxocara canis** (en el perro) y **toxocara ca
 
 **6)** Llegan al **estómago**, para transformarse en **adultos**, luego en el **vigésimo séptimo día** realizan la puesta de los **huevos,** apareciendo en las **heces** entre las **4** y las **5 semanas** post-infección.
 
-El número de huevos que los vermes adultos de un perro puede eliminar en el día es entre 1 y 2 millones. 
+El número de huevos que los vermes adultos de un perro puede eliminar en el día es entre 1 y 2 millones.
 
 En los perros **adultos** algunas **larvas LII** pueden **quedar** en los **tejidos**, por lo que en las **perras gestantes** estas **larvas** pueden **movilizarse** y **atravesar la placenta**, llegando al hígado fetal. Por esta razón los **cachorros** tres semanas después de su nacimiento pueden **albergar** **vermes** sexualmente maduros en el intestino delgado, capaces de **liberar huevos** al medio externo.
 
@@ -40,9 +40,8 @@ Podemos tener **hospedadores intermediarios** como **los** **roedores y los cone
 
 El hombre puede actuar como un hospedador intermediario, porque en él no se puede cumplir el ciclo completo del parásito.
 
-1) Los **seres humanos** son **huéspedes accidentales** que se **infectan** al ingerir **huevos** infecciosos que se encuentran en suelos, alimentos y objetos contaminados.
-
-2) El lugar fundamental de penetración es el **intestino delgado**, particularmente el íleon. Cuando penetran la pared intestinal llegan a la circulación general y alcanzan diversos órganos, fundamentalmente **hígado, pulmones, sistema nervioso central, corazón y los ojos.**
+1. Los **seres humanos** son **huéspedes accidentales** que se **infectan** al ingerir **huevos** infecciosos que se encuentran en suelos, alimentos y objetos contaminados.
+2. El lugar fundamental de penetración es el **intestino delgado**, particularmente el íleon. Cuando penetran la pared intestinal llegan a la circulación general y alcanzan diversos órganos, fundamentalmente **hígado, pulmones, sistema nervioso central, corazón y los ojos.**
 
 ![](/toxocara_canis_life_cycle_high_es.jpg)
 
@@ -98,7 +97,7 @@ Toxocara canis no suele provocar ningún síntoma en los perros adultos. En los 
 
 ![](/chang-duong-ndi4ytmkp-g-unsplash-1.jpg)
 
-**Diagnóstico en el Perro**   
+**Diagnóstico en el Perro**  
 El diagnóstico de la infección se realiza mediante un examen coprológico que consiste en analizar las heces de nuestras mascotas.
 
 ![](/cover_article_3684_es_es-1.jpg)
@@ -123,7 +122,7 @@ Entre los medicamentos utilizados se encuentran los **imidazotiazoles** como el 
 
 ![](/unnamed-1.jpg)
 
-![](/albendazol-para-perros-y-gatos-200-mg-d_nq_np_619900-mlv29762317275_032019-f.jpg)
+![](/captura-de-pantalla-2021-01-03-a-la-s-7-16-03-p-m.png)
 
 **Prevención**
 
@@ -149,13 +148,11 @@ Para consultar las referencias bibliográficas pueden darle click a los siguient
 
 [https://www.elsevier.es/es-revista-medicina-integral-63-articulo-parasitosis-interes-nuestro-medio-aspectos-10022183](https://www.elsevier.es/es-revista-medicina-integral-63-articulo-parasitosis-interes-nuestro-medio-aspectos-10022183 "https://www.elsevier.es/es-revista-medicina-integral-63-articulo-parasitosis-interes-nuestro-medio-aspectos-10022183")
 
-  
 [https://www.msdmanuals.com/professional/multimedia/image/v1013787-es](https://www.msdmanuals.com/professional/multimedia/image/v1013787-es "https://www.msdmanuals.com/professional/multimedia/image/v1013787-es")  
 [https://www.cdc.gov/parasites/es/about.html#:\~:text=Un%20par%C3%A1sit](https://www.cdc.gov/parasites/es/about.html#:\~:text=Un%20par%C3%A1sito%20es%20un%20organismo,%3A%20protozoos%2C%20helmintos%20y%20ectopar%C3%A1 "https://www.cdc.gov/parasites/es/about.html#:~:text=Un%20par%C3%A1sito%20es%20un%20organismo,%3A%20protozoos%2C%20helmintos%20y%20ectopar%C3%A1")
 
 [o%20es%20un%20organismo,%3A%20protozoos%2C%20helmintos%20y%20ectopar%C3%A1](https://www.cdc.gov/parasites/es/about.html#:\~:text=Un%20par%C3%A1sito%20es%20un%20organismo,%3A%20protozoos%2C%20helmintos%20y%20ectopar%C3%A1 "https://www.cdc.gov/parasites/es/about.html#:~:text=Un%20par%C3%A1sito%20es%20un%20organismo,%3A%20protozoos%2C%20helmintos%20y%20ectopar%C3%A1")
 
-  
 [https://www.ridaa.unicen.edu.ar//xmlui/bitstream/handle/123456789/543/DI%20PASCUA,%20LUCIANO.pdf?](https://www.ridaa.unicen.edu.ar//xmlui/bitstream/handle/123456789/543/DI%20PASCUA,%20LUCIANO.pdf?sequence=1&isAllowed=y "https://www.ridaa.unicen.edu.ar//xmlui/bitstream/handle/123456789/543/DI%20PASCUA,%20LUCIANO.pdf?sequence=1&isAllowed=y")
 
 [sequence=1&isAllowed=y](https://www.ridaa.unicen.edu.ar//xmlui/bitstream/handle/123456789/543/DI%20PASCUA,%20LUCIANO.pdf?sequence=1&isAllowed=y "https://www.ridaa.unicen.edu.ar//xmlui/bitstream/handle/123456789/543/DI%20PASCUA,%20LUCIANO.pdf?sequence=1&isAllowed=y")[https://www.veterinet.com.ve/albendazolcaloxvet/](https://www.veterinet.com.ve/albendazol-caloxvet/ "https://www.veterinet.com.ve/albendazol-caloxvet/")
