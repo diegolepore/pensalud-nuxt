@@ -23,7 +23,7 @@ Ya explicado esto, entonces te puedo decir que el nevo simple es un tipo de malf
 
 ![](/dibujos-animados-aves-ciguena-bebe_29190-3313.jpg)
 
-**- Párpados:** Ocurre en un cuarenta y cinco por ciento de los casos. 
+**- Párpados:** Ocurre en un cuarenta y cinco por ciento de los casos.
 
 **- Glabela ( entre los ojos):** Ocurre en un treinta y tres por ciento de los casos.
 
