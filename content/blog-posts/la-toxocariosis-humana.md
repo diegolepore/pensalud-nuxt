@@ -6,7 +6,7 @@ excerpt: 'La toxocariosis humana es una helmintiasis ( es decir, una infección 
   de otras especies. '
 thumbnail: "/500px-soybean_cyst_nematode_and_egg_sem.jpg"
 author: Dra. Diana Emilia Rodríguez Rojas
-date: 2021-10-23T00:00:00Z
+date: 2020-10-23T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
