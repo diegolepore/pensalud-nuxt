@@ -170,7 +170,7 @@ _> Anchoas: 11.8 microgramos por cada 100 gramos._**
 
 La síntesis en la piel de la vitamina D a partir de la exposición solar, es la principal fuente natural que existe.
 
-[**El Grupo de Investigación en Radiación Solar de la Universidad Politécnica de Valencia (UPV), España,** ](https://pensalud.webnode.es/l/la-vitamina-d/#)[**ha publicado en la revista Science of the Total Environment, **](https://www.upv.es/noticias-upv/noticia-8772-radiacion-ultra-es.html)su trabajo de investigación que analiza el tiempo necesario de exposición para obtener las dosis recomendadas de vitamina D sin que eso dañe nuestra salud.
+[**El Grupo de Investigación en Radiación Solar de la Universidad Politécnica de Valencia (UPV), España,**](https://pensalud.webnode.es/l/la-vitamina-d/#) ha publicado en la revista Science of the Total Environment, su trabajo de investigación que analiza el tiempo necesario de exposición para obtener las dosis recomendadas de vitamina D sin que eso dañe nuestra salud.
 
 Refieren que un individuo en verano durante el mediodía solar, no debe estar más de 29 minutos bajo el sol si quiere evitar una quemadura solar. Sin embargo, en época de invierno, el mismo individuo puede permanecer en el sol durante 150 minutos.
 
@@ -182,14 +182,13 @@ En piel más clara o más oscura, en días con temperaturas extremas, también s
 
 [**Fundación Iberoamericana de Nutrición (FINUT) en "VII CURSO FINUT AVANCES EN NUTRICIÓN PEDIÁTRICA".** ](https://www.facebook.com/iberoamericaFINUT/videos/326965761871687/?__tn__=kCH-R&eid=ARA4qVmPinJRlwh6kq3zRJoVRtwGyuwss3CB3HdhFg8Kwyd_drTiwZhXBgdz0q8CjD6a6A1NlBr4i769&hc_ref=ARTX2WiprN4lSwKg0-_SFANLacC0DQTDfwDxoF5-zc-f9qXXHWXjs3lie8cgnCm4wK0&__xts__%5B0%5D=68.ARBVV38bZBoUpa0QOg0Wtvlz6rmlEAzng2M6D6uWbmbn9Q7eThhtMKG6L33Cip84nl5nmmdJp-3gTfAMT_gib83z-RN69ZNyx4H_ni2Q7gs6cYAjf0ZY-2u0WLpT1lKnduXqjHtJJ6emLEaQslluOt54chiLyWKdglnvs_Qm-xXVlw2iRuzkPrtugqTUejCHT-KZCj4UTFV5hfjBcpJSiA5t9YNMgOQtF_yVXrW_o6VJOtb3JeLlt21tim0pEXPnpeTHBApD2x8GQVcY2BE5amGeGl2TwHC9b9mfCjqpcl8g5mFL7CKZl4GKoveHbQ8py0KIeUZ69Fz23SahuurYe4CGbKzh748yzjQ)Indicó exposición solar durante 10 a 20 minutos, en brazos, piernas, sin protección solar efectiva para conseguir el aporte de vitamina D. Indicando que los SPF superiores a 8 inhiben el 98% de la síntesis de vitamina D.
 
-Sin embargo el artículo denominado [**_"El uso óptimo de protector solar, durante unas vacaciones de sol con un índice ultravioleta muy alto, permite la síntesis de vitamina D sin quemaduras solares" _**](https://onlinelibrary.wiley.com/doi/full/10.1111/bjd.17888)publicado en la revista británica de dermatología en 2019. Muestra datos que apoyan el uso de protectores solares para prevenir los efectos adversos de los rayos ultravioleta, sin comprometer la síntesis de vitamina D.
+Sin embargo el artículo denominado [**"El uso óptimo de protector solar, durante unas vacaciones de sol con un índice ultravioleta muy alto, permite la síntesis de vitamina D sin quemaduras solares" _**](https://onlinelibrary.wiley.com/doi/full/10.1111/bjd.17888)publicado en la revista británica de dermatología en 2019. Muestra datos que apoyan el uso de protectores solares para prevenir los efectos adversos de los rayos ultravioleta, sin comprometer la síntesis de vitamina D.
 
 Lo más saludable para nuestra piel es tomar el sol antes de las 10 de la mañana o después de las 4 de la tarde.
 
 Con respecto a este tema que es controversial, la OMS comenta que los suplementos de vitamina D pueden resultar eficaces a la hora de prevenir el raquitismo, sobre todo en los niños que corren un mayor riesgo de padecerlo debido a su escasa exposición a la luz solar o por ser de tez oscura. Sin embargo, hacen falta más estudios antes de que se puedan hacer recomendaciones específicas.
 
-\**  
-_Lo más importante para tener un buen aporte de vitamina D es integrar en nuestras comidas diferentes alimentos enriquecidos con esta, así mantendremos un metabolismo adecuado de calcio y fósforo. También exposición solar en las horas más saludables y durante un tiempo prudente, al menos de 20 minutos._**
+\**_Lo más importante para tener un buen aporte de vitamina D es integrar en nuestras comidas diferentes alimentos enriquecidos con esta, así mantendremos un metabolismo adecuado de calcio y fósforo. También exposición solar en las horas más saludables y durante un tiempo prudente, al menos de 20 minutos._**
 
 ![](/elizeu-dias-xarhnplshtk-unsplash.jpg)
 
