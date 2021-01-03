@@ -4,7 +4,7 @@ excerpt: Es uno de los tumores benignos más frecuentes de la infancia, en los r
   nacidos y los lactantes.
 thumbnail: "/hemangioma-1.jpeg"
 author: Dra. Diana Emilia Rodríguez Rojas
-date: 2021-10-21T00:00:00Z
+date: 2020-10-21T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
