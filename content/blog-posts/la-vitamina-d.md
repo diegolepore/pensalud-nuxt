@@ -21,8 +21,6 @@ La misma, como lo indica el título, se obtiene a través de los alimentos de or
 Esta se obtiene de dos maneras:
 
 * A través de la luz solar, mediante los rayos UV que son absorbidos por el precursor denominado 7-deshidrocolesterol que se encuentra en las capas de la piel (epidermis y dermis). En el hombre la mayoría de la vitamina D proviene de la transformación cutánea de 7-dehidrocolesterol a colecalciferol, en presencia de la luz solar.
-
-
 * Puede obtenerse también a partir de los alimentos, de origen animal (colecalciferol) como de origen vegetal (ergocalciferol).
 
 Luego es transportada al hígado mediante una proteína denominada **α 1 -globulina plasmática** allí se convierte en **25-hidroxivitamina D,** y es transportada al riñón dando lugar a la vitamina activa: **1,25 (OH)2 vitamina D o calcitriol.** Es la forma que tiene mayor actividad biológica.
@@ -65,7 +63,7 @@ Luego es transportada al hígado mediante una proteína denominada **α 1 -globu
 * Recomendaciones dietéticas: 600 UI/día.
 * Niveles máximos tolerables: 4.000 UI/día.
 
-[_La Junta de Nutrición y Alimentos (JNA) del Instituto de Medicina estableció una Ingesta Diaria Recomendada para adultos_](https://lpi.oregonstate.edu/es/mic/vitaminas/vitamina-D)_:_
+[**_La Junta de Nutrición y Alimentos (JNA) del Instituto de Medicina estableció una Ingesta Diaria Recomendada para adultos_**](https://lpi.oregonstate.edu/es/mic/vitaminas/vitamina-D)**_:_**
 
 **19 a 70 años**
 
@@ -182,7 +180,7 @@ En invierno, con un 10% de exposición corporal, se necesitan alrededor de 130 m
 
 En piel más clara o más oscura, en días con temperaturas extremas, también si es mayor el porcentaje del cuerpo expuesto, entonces allí cambiaría el tiempo de exposición solar.
 
-[**Fundación Iberoamericana de Nutrición (FINUT) en "VII CURSO FINUT AVANCES EN NUTRICIÓN PEDIÁTRICA".** ](https://www.facebook.com/iberoamericaFINUT/videos/326965761871687/?__tn__=kCH-R&eid=ARA4qVmPinJRlwh6kq3zRJoVRtwGyuwss3CB3HdhFg8Kwyd_drTiwZhXBgdz0q8CjD6a6A1NlBr4i769&hc_ref=ARTX2WiprN4lSwKg0-_SFANLacC0DQTDfwDxoF5-zc-f9qXXHWXjs3lie8cgnCm4wK0&__xts__\[0\]=68.ARBVV38bZBoUpa0QOg0Wtvlz6rmlEAzng2M6D6uWbmbn9Q7eThhtMKG6L33Cip84nl5nmmdJp-3gTfAMT_gib83z-RN69ZNyx4H_ni2Q7gs6cYAjf0ZY-2u0WLpT1lKnduXqjHtJJ6emLEaQslluOt54chiLyWKdglnvs_Qm-xXVlw2iRuzkPrtugqTUejCHT-KZCj4UTFV5hfjBcpJSiA5t9YNMgOQtF_yVXrW_o6VJOtb3JeLlt21tim0pEXPnpeTHBApD2x8GQVcY2BE5amGeGl2TwHC9b9mfCjqpcl8g5mFL7CKZl4GKoveHbQ8py0KIeUZ69Fz23SahuurYe4CGbKzh748yzjQ)Indicó exposición solar durante 10 a 20 minutos, en brazos, piernas, sin protección solar efectiva para conseguir el aporte de vitamina D. Indicando que los SPF superiores a 8 inhiben el 98% de la síntesis de vitamina D.
+[**Fundación Iberoamericana de Nutrición (FINUT) en "VII CURSO FINUT AVANCES EN NUTRICIÓN PEDIÁTRICA".** ](https://www.facebook.com/iberoamericaFINUT/videos/326965761871687/?__tn__=kCH-R&eid=ARA4qVmPinJRlwh6kq3zRJoVRtwGyuwss3CB3HdhFg8Kwyd_drTiwZhXBgdz0q8CjD6a6A1NlBr4i769&hc_ref=ARTX2WiprN4lSwKg0-_SFANLacC0DQTDfwDxoF5-zc-f9qXXHWXjs3lie8cgnCm4wK0&__xts__%5B0%5D=68.ARBVV38bZBoUpa0QOg0Wtvlz6rmlEAzng2M6D6uWbmbn9Q7eThhtMKG6L33Cip84nl5nmmdJp-3gTfAMT_gib83z-RN69ZNyx4H_ni2Q7gs6cYAjf0ZY-2u0WLpT1lKnduXqjHtJJ6emLEaQslluOt54chiLyWKdglnvs_Qm-xXVlw2iRuzkPrtugqTUejCHT-KZCj4UTFV5hfjBcpJSiA5t9YNMgOQtF_yVXrW_o6VJOtb3JeLlt21tim0pEXPnpeTHBApD2x8GQVcY2BE5amGeGl2TwHC9b9mfCjqpcl8g5mFL7CKZl4GKoveHbQ8py0KIeUZ69Fz23SahuurYe4CGbKzh748yzjQ)Indicó exposición solar durante 10 a 20 minutos, en brazos, piernas, sin protección solar efectiva para conseguir el aporte de vitamina D. Indicando que los SPF superiores a 8 inhiben el 98% de la síntesis de vitamina D.
 
 Sin embargo el artículo denominado [**_"El uso óptimo de protector solar, durante unas vacaciones de sol con un índice ultravioleta muy alto, permite la síntesis de vitamina D sin quemaduras solares" _**](https://onlinelibrary.wiley.com/doi/full/10.1111/bjd.17888)publicado en la revista británica de dermatología en 2019. Muestra datos que apoyan el uso de protectores solares para prevenir los efectos adversos de los rayos ultravioleta, sin comprometer la síntesis de vitamina D.
 
@@ -190,7 +188,7 @@ Lo más saludable para nuestra piel es tomar el sol antes de las 10 de la mañan
 
 Con respecto a este tema que es controversial, la OMS comenta que los suplementos de vitamina D pueden resultar eficaces a la hora de prevenir el raquitismo, sobre todo en los niños que corren un mayor riesgo de padecerlo debido a su escasa exposición a la luz solar o por ser de tez oscura. Sin embargo, hacen falta más estudios antes de que se puedan hacer recomendaciones específicas.
 
-**  
+\**  
 _Lo más importante para tener un buen aporte de vitamina D es integrar en nuestras comidas diferentes alimentos enriquecidos con esta, así mantendremos un metabolismo adecuado de calcio y fósforo. También exposición solar en las horas más saludables y durante un tiempo prudente, al menos de 20 minutos._**
 
 ![](/elizeu-dias-xarhnplshtk-unsplash.jpg)
@@ -205,19 +203,13 @@ Esto es controversial porque hay referencias que indican que la leche materna ti
 
 Mi opinión con respecto a este tema, es que lo más importante que hay que realizar es:
 
-1) Evaluación física del lactante.
-
-2) Investigar la alimentación materna.
-
-3) Alimentación del niño.
-
-4) Exposición solar.
-
-5) Antecedentes familiares y personales del paciente.
-
-6) Cultura de los padres.
-
-7) Estaciones del año en que se encuentren.
+1. Evaluación física del lactante.
+2. Investigar la alimentación materna.
+3. Alimentación del niño.
+4. Exposición solar.
+5. Antecedentes familiares y personales del paciente.
+6. Cultura de los padres.
+7. Estaciones del año en que se encuentren.
 
 La FDA recomienda que los niños no deben exponerse directamente al sol sin ropas protectoras, ya que tienen menor capacidad de producción de melanina y de sudoración. Tampoco se recomienda protectores solares en menores de 6 meses. Al igual que se recomienda limitar las exposiciones solares en niños por debajo de los 3 años de edad. Por el riesgo a quemaduras solares.
 
@@ -225,7 +217,7 @@ La FDA recomienda que los niños no deben exponerse directamente al sol sin ropa
 
 **_Te recomiendo leer las siguientes investigaciones, si quieres profundizar más en el tema. Son las fuentes de mi artículo:_**
 
-[https://www.elsevier.com/es-es/connect/medicina/metabolismo-funciones-toxicidad-y-estados-deficitarios-de-la-vitamina-d#:\~:text=Metabolismo%20de%20la%20vitamina%20D,forma%2](https://www.elsevier.com/es-es/connect/medicina/metabolismo-funciones-toxicidad-y-estados-deficitarios-de-la-vitamina-d#:\~:text=Metabolismo%20de%20la%20vitamina%20D,forma%2 "https://www.elsevier.com/es-es/connect/medicina/metabolismo-funciones-toxicidad-y-estados-deficitarios-de-la-vitamina-d#:~:text=Metabolismo%20de%20la%20vitamina%20D,forma%2")
+[https://www.elsevier.com/es-es/connect/medicina/metabolismo-funciones-toxicidad-y-estados-deficitarios-de-la-vitamina-d#:\~:text=Metabolismo%20de%20la%20vitamina%20D,forma%2](https://www.elsevier.com/es-es/connect/medicina/metabolismo-funciones-toxicidad-y-estados-deficitarios-de-la-vitamina-d#:\~:text=Metabolismo%20de%20la%20vitamina%20D,forma%252 "https://www.elsevier.com/es-es/connect/medicina/metabolismo-funciones-toxicidad-y-estados-deficitarios-de-la-vitamina-d#:~:text=Metabolismo%20de%20la%20vitamina%20D,forma%2")
 
 [https://www.abc.es/bienestar/abci-alimentos-ricos-vitamina-como-40536116739-20200408040726_galeria.html#imagen1](https://www.abc.es/bienestar/abci-alimentos-ricos-vitamina-como-40536116739-20200408040726_galeria.html#imagen1 "https://www.abc.es/bienestar/abci-alimentos-ricos-vitamina-como-40536116739-20200408040726_galeria.html#imagen1")
 
