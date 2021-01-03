@@ -2,10 +2,10 @@
 title: La vitamina D
 excerpt: La vitamina D es importante en el mantenimiento de las concentraciones normales
   del calcio y fósforo en sangre.
-thumbnail: "/1517629621762.jpeg"
+thumbnail: "/vitamina-dd-1-1.jpg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-10-08T00:00:00Z
-avatar: "/vitamina-dd-1-1.jpg"
+avatar: "/1517629621762.jpeg"
 
 ---
 La vitamina D es importante en el mantenimiento de las concentraciones normales del calcio y fósforo en sangre. Es por esto que está relacionada con el mantenimiento de la mineralización ósea normal y en la transmisión neuromuscular.
