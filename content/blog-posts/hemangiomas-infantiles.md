@@ -2,7 +2,7 @@
 title: Hemangiomas infantiles
 excerpt: Es uno de los tumores benignos más frecuentes de la infancia, en los recién
   nacidos y los lactantes.
-thumbnail: "/angioma-028__watermarkedwyjxyxrlcm1hcmtlzcjd.jpeg"
+thumbnail: "/hemangioma-1.jpeg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-10-21T00:00:00Z
 avatar: "/1517629621762.jpeg"
