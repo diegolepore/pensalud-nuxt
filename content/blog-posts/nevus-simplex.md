@@ -5,7 +5,7 @@ excerpt: 'Nevus simplex (también conocido de muchas maneras como mancha salmón
   del ángel o picotazo de la cigüeña. '
 thumbnail: "/stork2__watermarkedwyjxyxrlcm1hcmtlzcjd.jpg"
 author: Dra. Diana Emilia Rodríguez Rojas
-date: 2021-10-20T00:00:00Z
+date: 2020-10-20T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
