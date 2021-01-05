@@ -41,14 +41,15 @@ En los **países desarrollados** donde existe una **adecuada atención neonatal*
 
 ## **Signos de alarma**
 
-* En caso de presentar algunos de estos signos, consultar con el pediatra:
-  * Enrojecimiento o inflamación de la zona del ombligo.
-  * Cordón húmedo con secreción amarilla maloliente.
-  * Sangrado a nivel del cordón umbilical. A veces, puede producirse un pequeño sangrado normal con la caída del cordón umbilical o el roce del mismo con el pañal.
-  * Retraso en la caída del cordón después de los 15 días de vida (el cordón suele desprenderse entre el 5° y 15° día de vida).
+En caso de presentar algunos de estos signos, consultar con el pediatra:
+
+* Enrojecimiento o inflamación de la zona del ombligo.
 
 
-  * Dependiendo de las condiciones sanitarias del país donde te encuentres se puede utilizar agua junto con jabón syndet o ph neutro, si hay una adecuada atención neonatal y buenas medidas higiénicas, si es todo lo contrario, entonces se recomienda usar soluciones antisépticas y antibióticas tópicas.
+* Cordón húmedo con secreción amarilla maloliente.
+* Sangrado a nivel del cordón umbilical. A veces, puede producirse un pequeño sangrado normal con la caída del cordón umbilical o el roce del mismo con el pañal.
+* Retraso en la caída del cordón después de los 15 días de vida (el cordón suele desprenderse entre el 5° y 15° día de vida).
+* Dependiendo de las condiciones sanitarias del país donde te encuentres se puede utilizar agua junto con jabón syndet o ph neutro, si hay una adecuada atención neonatal y buenas medidas higiénicas, si es todo lo contrario, entonces se recomienda usar soluciones antisépticas y antibióticas tópicas.
 
 **Puedes leer más al respecto en las siguientes referencias bibliográficas:**
 
