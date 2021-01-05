@@ -1,7 +1,6 @@
 ---
-body: '"Aunque la cultura en general no es una garantía para vivir mejor ni tener
-  planes de vida  más razonables, despreciarla es carecer de armas para enfrentarse
-  a la brutalidad que todos llevamos dentro". VICTORIA CAMPS.'
-icon: "/cerebro.png"
+body: El problema no radica en las emociones en sí sino en su conveniencia y en la
+  oportunidad de su expresión.
+icon: "/corazon.png"
 
 ---
