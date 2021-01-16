@@ -1,6 +1,5 @@
 ---
-body: '"El problema no radica en las emociones en sí sino en su conveniencia y en
-  la oportunidad de su expresión" Aristóteles.'
-icon: "/corazon.png"
+body: "“Pienso y dudo, luego existo” René Descartes."
+icon: "/pensando-1.png"
 
 ---
