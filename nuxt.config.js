@@ -25,6 +25,7 @@ export default {
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [
+    { src: '~plugins/ga.js', mode: 'client' }
   ],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
@@ -34,7 +35,6 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
-    '@nuxtjs/google-analytics',
   ],
 
   // Modules (https://go.nuxtjs.dev/config-modules)
@@ -54,9 +54,5 @@ export default {
           include: path.resolve(__dirname, "content")
       })
     } 
-  },
-
-  googleAnalytics: {
-    id: 'G-6VLHY9N71E'
   },
 }
