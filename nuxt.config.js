@@ -17,6 +17,21 @@ export default {
       { rel: 'preconnect', href:'https://fonts.gstatic.com' },
       { rel: 'stylesheet', href:'https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;400;500;700;900&display=swap' },
       { rel: 'stylesheet', href:'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;700&display=swap' }
+    ],
+    script: [
+      { 
+        hid:"Cookiebot",
+        src:"https://consent.cookiebot.com/uc.js",
+        'data-cbid':"d93979b6-041e-418c-b0a2-22288722e242",
+        'data-blockingmode':"auto",
+        type:"text/javascript"
+      },
+      {
+        hid:"CookieDeclaration",
+        src:"https://consent.cookiebot.com/d93979b6-041e-418c-b0a2-22288722e242/cd.js",
+        type:"text/javascript",
+        defer: true
+      }
     ]
   },
 
