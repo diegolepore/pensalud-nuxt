@@ -4,7 +4,7 @@ excerpt: 'Mary Ann Evans, conocida en el mundo literario como George Eliot, naci
   en 1819 en Chilvers Coton ( Warwickshire) Inglaterra. '
 thumbnail: "/img-9083-6.jpg"
 author: Dra. Diana Emilia Rodríguez Rojas
-date: 2020-11-13T00:00:00Z
+date: 2020-11-13T00:00:00.000+00:00
 avatar: "/1517629621762.jpeg"
 
 ---
@@ -26,7 +26,6 @@ Surgió una idea que hacía mucho eco en su mente, emigrar para ser alguien impo
 
 Tuvo éxito, sin embargo robar y desaparecer ante su familia fue algo cruel; cuando murió su padre, la familia de **David Faux** trató de cumplir su último deseo, repartir su herencia a todos su hijos, incluyendo a aquel hijo pródigo; teniendo la esperanza de que cambiara. Después de haber leído un anuncio de periódico **David Faux** logra dar con aquella notificación, y consigue cobrar parte de la herencia.
 
-Casi al tiempo de su compromiso con **Penny Palfrey,** una hermosa joven perteneciente a una familia educada, se presenta su hermano Jacobo, encantado con los dulces de la tienda de su hermano. **David Faux** ahora **Edward Freely,** tratando de que los presentes no dieran con su identidad, se altera hasta el punto de entrar en pánico; al final logran dar con la identidad de este hombre que se presentaba como huérfano y con una actitud intachable, hasta perder todo y tener que marcharse del pueblo. La moraleja de todo esto es que en la vida de una u otra forma se las arregla para hacer que los que hacen mal, tarde o temprano, paguen por sus hechos.
+Casi al tiempo de su compromiso con **Penny Palfrey,** una hermosa joven perteneciente a una familia educada, se presenta su hermano Jacobo, encantado con los dulces de la tienda de su hermano. **David Faux** ahora **Edward Freely,** tratando de que los presentes no dieran con su identidad, se altera hasta el punto de entrar en pánico; al final logran dar con la identidad de este hombre que se presentaba como huérfano y con una actitud intachable, hasta perder todo y tener que marcharse del pueblo. La moraleja de todo esto es que la vida de una u otra forma se las arregla para hacer que los que hacen mal, tarde o temprano, paguen por sus hechos.
 
-  
 ![](/img-9078-6.jpg)
