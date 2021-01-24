@@ -38,6 +38,7 @@ export default {
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
+    '@nuxtjs/gtm',
   ],
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
@@ -53,6 +54,10 @@ export default {
           include: path.resolve(__dirname, "content")
       })
     } 
+  },
+
+  gtm: {
+    id: 'GTM-5NVQW24'
   },
 
   googleAnalytics: {
