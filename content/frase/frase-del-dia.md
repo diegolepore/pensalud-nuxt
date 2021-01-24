@@ -1,5 +1,6 @@
 ---
-body: "“Pienso y dudo, luego existo” René Descartes."
-icon: "/pensando-1.png"
+body: "“La vida es una comedia para quienes piensan y una tragedia para quienes sienten\".
+  \n\nHorace Walpole."
+icon: "/pensar.png"
 
 ---
