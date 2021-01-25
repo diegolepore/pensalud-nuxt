@@ -1,5 +1,5 @@
 ---
-title: La importancia de los cereales de grano entero
+title: La importancia de los cereales integrales
 excerpt: 'No imaginé escribir sobre los cereales de grano entero o integrales hasta
   que asistí al webinar denominado "Cereales de grano entero: Un tema pendiente en
   América" de la Fundación Iberoamericana de Nutrición FINUT.'
