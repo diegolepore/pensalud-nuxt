@@ -1,6 +1,5 @@
 ---
-body: "“La vida es una comedia para quienes piensan y una tragedia para quienes sienten\".
-  \n\nHorace Walpole."
-icon: "/pensar.png"
+body: '"El Amor es Luz, dado que ilumina a quien lo da y lo recibe". Albert Einstein'
+icon: "/crecimiento-1.png"
 
 ---
