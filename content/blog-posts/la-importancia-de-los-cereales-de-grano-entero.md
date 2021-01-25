@@ -56,9 +56,7 @@ Otras aplicaciones del trigo con volúmenes de transformación más pequeños so
 ![](/samuel-myles-nhimn8_60p4-unsplash-1.jpg)  
 **Arroz**
 
-**De grano entero/integral**: es más oscuro debido a que conserva todo el salvado de la cáscara. Es un arroz muy rico en fibra y vitaminas. Requiere una cocción más lenta y prolongada.
-
-A pesar de su mayor **contenido nutricional**, el arroz de grano entero se consume menos como alimento básico, ya que tiene una textura dura y los tiempos de cocción son casi tres veces superiores a los del arroz blanco.
+**De grano entero/integral**: es más oscuro debido a que conserva todo el salvado de la cáscara. Es un arroz muy rico en fibra y vitaminas. Requiere una cocción más lenta y prolongada. A pesar de su mayor **contenido nutricional**, el arroz de grano entero se consume menos como alimento básico, ya que tiene una textura dura y los tiempos de cocción son casi tres veces superiores a los del arroz blanco.
 
 ![](/81cfi9azc9l-_ac_sx342_.jpg)
 
@@ -72,9 +70,7 @@ Contiene mayor concentración en hidratos de carbono, principalmente almidón, l
 
 **Centeno**
 
-La principal utilización de la harina de centeno es para la panificación, ya que en su composición **contiene gluten**, aunque en menor proporción que el trigo. También los granos enteros del centeno se emplean en las elaboraciones de algunos guisos, para la producción de copos y en la fermentación alcohólica para la obtención de cerveza y otras bebidas alcohólicas de alta graduación.
-
-El pan de las harinas de centeno puede reconocerse principalmente por el **color oscuro**, característico de su harina, y que se potencia al ser cocinada u horneada. Esto le ha dado el calificativo de pan negro. Entre los atributos organolépticos, destaca que es más ácido y aromático. En la actualidad se realizan mezclas de harinas de trigo y centeno para la elaboración de panes de mejor apreciación.
+La principal utilización de la harina de centeno es para la panificación, ya que en su composición **contiene gluten**, aunque en menor proporción que el trigo. También los granos enteros del centeno se emplean en las elaboraciones de algunos guisos, para la producción de copos y en la fermentación alcohólica para la obtención de cerveza y otras bebidas alcohólicas de alta graduación. El pan de las harinas de centeno puede reconocerse principalmente por el **color oscuro**, característico de su harina, y que se potencia al ser cocinada u horneada. Esto le ha dado el calificativo de pan negro. Entre los atributos organolépticos, destaca que es más ácido y aromático. En la actualidad se realizan mezclas de harinas de trigo y centeno para la elaboración de panes de mejor apreciación.
 
 El consumo de centeno está relacionado con la disminución de enfermedades cardiovasculares, debido a que el centeno, por sus **componentes bioactivos** (se definen como los componentes de los alimentos que influyen en las actividades celulares y fisiológicas obteniendo, tras su ingesta, un efecto beneficioso para la salud) es un excelente fluidificante sanguíneo y flexibiliza los vasos sanguíneos.
 
@@ -142,9 +138,7 @@ Las propiedades han sido puestas en valor, por su elevado contenido en FD, prote
 
 **_Quínoa_**
 
-La **quínoa** (_Chenopodium quinoa Willd_) es una planta anual, herbácea, perteneciente a la familia de las amarantáceas, subfamilia de las _Chenopodioideae_, que se originó en los alrededores del lago Titicaca, desempeñando un papel importante en la dieta y cultura de los habitantes prehispánicos, considerándose como “el grano de los Incas”, “el alimento de los dioses”, “grano de oro”, “cereal madre”
-
-La importancia del valor nutricional de la quínoa radica en el contenido y en la **calidad** de su **proteína**. Entre el 13.81 y 21.90% dependiendo de la variedad de la semilla, lo constituyen proteínas que incluyen todos los aminoácidos esenciales, no contiene gluten.
+La **quínoa** (_Chenopodium quinoa Willd_) es una planta anual, herbácea, perteneciente a la familia de las amarantáceas, subfamilia de las _Chenopodioideae_, que se originó en los alrededores del lago Titicaca, desempeñando un papel importante en la dieta y cultura de los habitantes prehispánicos, considerándose como “el grano de los Incas”, “el alimento de los dioses”, “grano de oro”, “cereal madre”. La importancia del valor nutricional de la quínoa radica en el contenido y en la **calidad** de su **proteína**. Entre el 13.81 y 21.90% dependiendo de la variedad de la semilla, lo constituyen proteínas que incluyen todos los aminoácidos esenciales, no contiene gluten.
 
 El consumo periódico de quínoa mejora el intestino delgado y recuperan la normalidad de las vellosidades intestinales, de forma mucho más rápida que con la simple dieta sin gluten. Las semillas de quínoa contienen una importante fracción de AGM y AGP y entre un 58 y 68% de almidón y un 5% aproximadamente de azúcares, siendo un alimento energético, capaz de liberar al organismo de forma lenta los hidratos de carbono. La quínoa no se refina por lo que el contenido en fibra es alto. En cuanto a los minerales de la quínoa, los niveles de calcio, hierro, potasio, magnesio, fósforo, zinc y manganeso son superiores a los que se pueden encontrar en arroz, maíz o trigo. Desde el punto de vista antinutricional, hay que destacar la presencia de saponinas que se concentran en la cáscara y que reducen la digestibilidad de las proteínas e inhiben la absorción de minerales. Las saponinas aportan un sabor amargo y deben ser eliminadas con lavados abundantes de agua y/o a través de métodos mecánicos como el pelado.
 
