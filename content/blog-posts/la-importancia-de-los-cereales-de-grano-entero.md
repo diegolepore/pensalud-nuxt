@@ -19,11 +19,11 @@ Los cereales de grano entero son también denominados cereales integrales, pero 
 
 El informe científico de la **FINUT (**[**Fundación Iberoamericana de Nutrición**](https://www.finut.org/)**)** refiere que el concepto de grano entero incluye el grano intacto y procesado o sus fracciones siempre que las tres partes estén presentes en la misma proporción que en el grano entero. Los compuestos bioactivos se encuentran mayoritariamente en el **salvado** y en el **germen** y en menor proporción en el **endospermo**. Entre ellos, se incluyen **componentes** de la **fibra**, principalmente **arabinoxilanos** y **β-glucanos**, **lignina**, **carotenoides**, **tocoferoles**, **ácido fólico**, **fitoesteroles**, **lignanos**, **compuestos fenólicos**, **compuestos azufrados** y **ácido fítico**.
 
-Esto es importante debido a que muchos productos que se ofrecen en el supermercado como integrales solo tienen una proporción parcial del grano entero y no el 100 %, por lo tanto no debe llamarse integral porque el concepto de un cereal integral según el proyecto europeo **HEALTHGRAIN** y el informe científico de la **FINUT (**[**Fundación Iberoamericana de Nutrición **](https://www.finut.org/)es tener las tres partes anatómicas: **endospermo**, **germen** y **salvado** en la misma proporción del grano entero.
+Esto es importante debido a que muchos productos que se ofrecen en el supermercado como integrales solo tienen una proporción parcial del grano entero y no el 100 %, por lo tanto no debe llamarse integral porque el concepto de un cereal integral según el proyecto europeo **HEALTHGRAIN** y el informe científico de la **FINUT (__[**Fundación Iberoamericana de Nutrición **](https://www.finut.org/)es tener las tres partes anatómicas: **endospermo**, **germen** y **salvado** en la misma proporción del grano entero.
 
 El **salvado** y el **germen**, partes del cereal que **se eliminan** durante el **proceso de refinado**, proporcionan un alto contenido de fibra, una elevada cantidad de vitaminas B1 y B2, niacina, tocoferoles, calcio, magnesio, potasio, hierro, zinc y selenio, así como numerosos fitoquímicos, algunos muy comunes en alimentos vegetales como los fitatos y los compuestos fenólicos, y algunos exclusivos de los cereales, con importante actividad antioxidante.
 
-En el año 2000, el consorcio del proyecto **_HEALTHGRAIN_** afianzó la definición de cereal de grano entero en la misma línea de la **Asociación de Cereales y Granos** estableciendo que se puede etiquetar como **“grano integral o grano entero”** a un cereal que contenga **≥30%** de los ingredientes **provenientes de granos integrales en el producto total**, en peso seco, más granos integrales que granos refinados. 
+En el año 2000, el consorcio del proyecto **_HEALTHGRAIN_** afianzó la definición de cereal de grano entero en la misma línea de la **Asociación de Cereales y Granos** estableciendo que se puede etiquetar como **“grano integral o grano entero”** a un cereal que contenga **≥30%** de los ingredientes **provenientes de granos integrales en el producto total**, en peso seco, más granos integrales que granos refinados.
 
 **Historia de los cereales**
 
@@ -56,7 +56,7 @@ Otras aplicaciones del trigo con volúmenes de transformación más pequeños so
 ![](/samuel-myles-nhimn8_60p4-unsplash-1.jpg)  
 **Arroz**
 
-**De grano entero/integral: **es más oscuro debido a que conserva todo el salvado de la cáscara. Es un arroz muy rico en fibra y vitaminas. Requiere una cocción más lenta y prolongada.
+**De grano entero/integral**: es más oscuro debido a que conserva todo el salvado de la cáscara. Es un arroz muy rico en fibra y vitaminas. Requiere una cocción más lenta y prolongada.
 
 A pesar de su mayor **contenido nutricional**, el arroz de grano entero se consume menos como alimento básico, ya que tiene una textura dura y los tiempos de cocción son casi tres veces superiores a los del arroz blanco.
 
@@ -98,7 +98,7 @@ La avena contiene elevados niveles de proteínas de **alto valor biológico**. C
 
 **LOS CEREALES MENORES**
 
-**Lágrimas de Job**Las 
+**Lágrimas de Job**
 
 **Las lágrimas de Job** (_Coix lacryma-jobi L._), lágrimas de Moisés, lágrimas de San Pedro, Adlay, Adlai, trigo tropical o cuentas de doña Juana. Esta gramínea originaria del sudeste asiático se cultiva en zonas tropicales. Las semillas se emplean para la alimentación humana, en la elaboración de guisos y sopas o en forma de harina. **Su contenido en gluten es bajo**, y en la elaboración de pan hay que mezclar su harina con otras panificables. La fermentación de los granos macerados produce una bebida alcohólica muy valorada. A pesar de su estatus de cereal menor, es muy productivo y **nutricionalmente** rico en **calcio** y contiene más **grasa** y **proteína** y **componentes polifenólicos** que otros cereales principales.
 
@@ -114,9 +114,7 @@ Dependiendo de la variedad, el grano puede variar del color blanco al rojo. Este
 
 **Mijo**
 
-El **mijo** (_Panicum miliaceum L._) se consume en zonas de África, India, Europa del Este, América y China.
-
-Nutricionalmente es un cereal rico en proteínas, grasas, vitaminas del grupo B, en aminoácidos esenciales (leucina, isoleucina, metionina y lisina), compuestos fenólicos y β-glucanos (20). Incluyen compuestos que disminuyen el valor nutricional como taninos, fitatos y oxalatos, razón por la cual es recomendable su consumo tras la cocción. **Los productos de mijo han encontrado uso en las dietas de pacientes celíacos porque el complejo proteico no contiene proteínas formadoras de gluten.**
+El **mijo** (_Panicum miliaceum L._) se consume en zonas de África, India, Europa del Este, América y China. Nutricionalmente es un cereal rico en proteínas, grasas, vitaminas del grupo B, en aminoácidos esenciales (leucina, isoleucina, metionina y lisina), compuestos fenólicos y β-glucanos (20). Incluyen compuestos que disminuyen el valor nutricional como taninos, fitatos y oxalatos, razón por la cual es recomendable su consumo tras la cocción. **Los productos de mijo han encontrado uso en las dietas de pacientes celíacos porque el complejo proteico no contiene proteínas formadoras de gluten.**
 
 ![](/mijo-todo-lo-que-necesitas-saber-de-este-saludable-cereal-sin-gluten.jpg)
 
@@ -132,7 +130,6 @@ El **moha** (_Setaria itálica L._) es conocido como Setaria moha de Italia, moh
 
 ![](/s-l300.jpg)
 
-  
 **_Alpiste_**
 
 **El alpiste** (Phalaris canariensis L.) es una planta que antiguamente se usaba en alimentación humana y con su harina se hacía pan. Presenta una elevada cantidad de enzimas que le dan propiedades en el tratamiento de la diabetes y la hipertensión. Una forma de consumo es a través de la bebida de alpiste, consistente en realizar una bebida triturando las semillas hidratadas y añadiendo agua y alguna sustancia edulcorante y algún saborizante como limón o canela.
@@ -147,7 +144,7 @@ Las propiedades han sido puestas en valor, por su elevado contenido en FD, prote
 
 La **quínoa** (_Chenopodium quinoa Willd_) es una planta anual, herbácea, perteneciente a la familia de las amarantáceas, subfamilia de las _Chenopodioideae_, que se originó en los alrededores del lago Titicaca, desempeñando un papel importante en la dieta y cultura de los habitantes prehispánicos, considerándose como “el grano de los Incas”, “el alimento de los dioses”, “grano de oro”, “cereal madre”
 
-La importancia del valor nutricional de la quínoa radica en el contenido y en la **calidad** de su **proteína**. Entre el 13.81 y 21.90% dependiendo de la variedad de la semilla, lo constituyen proteínas que incluyen todos los aminoácidos esenciales, no contiene gluten. 
+La importancia del valor nutricional de la quínoa radica en el contenido y en la **calidad** de su **proteína**. Entre el 13.81 y 21.90% dependiendo de la variedad de la semilla, lo constituyen proteínas que incluyen todos los aminoácidos esenciales, no contiene gluten.
 
 El consumo periódico de quínoa mejora el intestino delgado y recuperan la normalidad de las vellosidades intestinales, de forma mucho más rápida que con la simple dieta sin gluten. Las semillas de quínoa contienen una importante fracción de AGM y AGP y entre un 58 y 68% de almidón y un 5% aproximadamente de azúcares, siendo un alimento energético, capaz de liberar al organismo de forma lenta los hidratos de carbono. La quínoa no se refina por lo que el contenido en fibra es alto. En cuanto a los minerales de la quínoa, los niveles de calcio, hierro, potasio, magnesio, fósforo, zinc y manganeso son superiores a los que se pueden encontrar en arroz, maíz o trigo. Desde el punto de vista antinutricional, hay que destacar la presencia de saponinas que se concentran en la cáscara y que reducen la digestibilidad de las proteínas e inhiben la absorción de minerales. Las saponinas aportan un sabor amargo y deben ser eliminadas con lavados abundantes de agua y/o a través de métodos mecánicos como el pelado.
 
@@ -155,25 +152,17 @@ El consumo periódico de quínoa mejora el intestino delgado y recuperan la norm
 
 **Amaranto**
 
-El **amaranto** (Amaranthus spp.), también llamado kiwicha o coime es un género de plantas herbáceas y anuales perteneciente a la familia de las amarantáceas.
+El **amaranto** (Amaranthus spp.), también llamado kiwicha o coime es un género de plantas herbáceas y anuales perteneciente a la familia de las amarantáceas. Los granos de amaranto contienen aproximadamente el 15% de proteínas, el 60% de almidón, alto contenido en fibra y polifenoles como el escualeno, tocoferoles o lectina. Su perfil de aminoácidos, especialmente en lisina, lo convierte en una fuente de proteínas de alto valor biológico, por ello, está recibiendo una gran atención en países en desarrollo por ser un alimento que puede combatir la desnutrición proteica.
 
-Los granos de amaranto contienen aproximadamente el 15% de proteínas, el 60% de almidón, alto contenido en fibra y polifenoles como el escualeno, tocoferoles o lectina. Su perfil de aminoácidos, especialmente en lisina, lo convierte en una fuente de proteínas de alto valor biológico, por ello, está recibiendo una gran atención en países en desarrollo por ser un alimento que puede combatir la desnutrición proteica.
-
-  
 ![](/amaranto.jpg)
 
-El **alforfón** (Fagopyrum esculentum Moench)
-
-Es originaria del Asia Central, y los principales países productores y consumidores son Rusia, China y Ucrania. La harina de alforfón contiene desde el 8.5% hasta cerca del 19% de proteínas. **La calidad de la proteína es muy alta, por no tener gluten y contiene una elevada concentración de aminoácidos esenciales, lisina, treonina, triptófano y los aminoácidos que contienen azufre**. Sin embargo, debido a los altos contenidos de fibra cruda y taninos, la digestibilidad real de la proteína es ligeramente inferior al 80%. El contenido en grasa es aproximadamente del 3%, mientras que la concentración de fibra cruda es muy alta (16%) pudiendo actuar en la **prevención y tratamiento de la hipertensión y la hipercolesterolemia y podría ser útil para prevenir el cáncer de colon**. En comparación con los cereales de uso frecuente, el trigo sarraceno posee una **mayor actividad antioxidante**.
+El **alforfón** (Fagopyrum esculentum Moench) es originaria del Asia Central, y los principales países productores y consumidores son Rusia, China y Ucrania. La harina de alforfón contiene desde el 8.5% hasta cerca del 19% de proteínas. **La calidad de la proteína es muy alta, por no tener gluten y contiene una elevada concentración de aminoácidos esenciales, lisina, treonina, triptófano y los aminoácidos que contienen azufre**. Sin embargo, debido a los altos contenidos de fibra cruda y taninos, la digestibilidad real de la proteína es ligeramente inferior al 80%. El contenido en grasa es aproximadamente del 3%, mientras que la concentración de fibra cruda es muy alta (16%) pudiendo actuar en la **prevención y tratamiento de la hipertensión y la hipercolesterolemia y podría ser útil para prevenir el cáncer de colon**. En comparación con los cereales de uso frecuente, el trigo sarraceno posee una **mayor actividad antioxidante**.
 
 ![](/propiedades-del-alforfon-1.jpg)
 
-  
 **Propiedades de los cereales**
 
-Los cereales constituyen una buena fuente de **vitaminas** del grupo **B**. La niacina es mayoritaria sobre todo en arroz, cebada, sorgo y trigo, seguida del ácido pantoténico, la piridoxina, la tiamina y la riboflavina.
-
-El **centeno**, **trigo**, **cebada**, **avena** y **arroz** son una fuente moderada de **ácido fólico** y la **avena**, **cebada** y **sorgo** de **biotina**. En general, los cereales contienen **70-78%** de su peso total de **hidratos de carbono** (digeribles y no digeribles), **6-13% de proteína** y **1-7% de grasa**. Los **minerales** constituyen del **1 al 3%** del peso del grano, los más abundantes son el **fósforo** y el **potasio** (230-630 mg/100 g), a los que siguen el **magnesio** (80- 180 mg/100 g) y el **calcio** (10-100 mg/100 g); sin embargo, el nivel de sodio es muy bajo. Entre los **micronutrientes**, el más abundante es el **hierro** (3-9 mg/100 g) (1).
+Los cereales constituyen una buena fuente de **vitaminas** del grupo **B**. La niacina es mayoritaria sobre todo en arroz, cebada, sorgo y trigo, seguida del ácido pantoténico, la piridoxina, la tiamina y la riboflavina. El **centeno**, **trigo**, **cebada**, **avena** y **arroz** son una fuente moderada de **ácido fólico** y la **avena**, **cebada** y **sorgo** de **biotina**. En general, los cereales contienen **70-78%** de su peso total de **hidratos de carbono** (digeribles y no digeribles), **6-13% de proteína** y **1-7% de grasa**. Los **minerales** constituyen del **1 al 3%** del peso del grano, los más abundantes son el **fósforo** y el **potasio** (230-630 mg/100 g), a los que siguen el **magnesio** (80- 180 mg/100 g) y el **calcio** (10-100 mg/100 g); sin embargo, el nivel de sodio es muy bajo. Entre los **micronutrientes**, el más abundante es el **hierro** (3-9 mg/100 g) (1).
 
 **Fibra de los cereales**
 
@@ -193,9 +182,7 @@ Las recomendaciones nutricionales durante la alimentación complementaria han ca
 
 La única recomendación general que está totalmente establecida es **no introducir los cereales en la dieta antes de los 4 meses de edad** y el uso cereales fortificados con hierro. Algunos países proporcionan recomendaciones de frecuencia de consumo y cantidad de cereales consumida, por ejemplo, **Australia recomienda entre los 6-12 meses 7 raciones de cereales a la semana (1 ración= 20 g),** **España recomienda a partir de los 5 meses la ingesta de cereales con gluten y a los 12 meses la cantidad de 57 g de cereales/día y entre los 24-36 meses 86 g de cereales/día, además sugiere el uso de CGE**, el Departamento de Agricultura de los Estados Unidos (United States Department of Agriculture, USDA) establece la recomendación hasta 4 cucharadas de cereales de grano entero fortificados con hierro entre los 6-11 meses de edad.
 
-**La Asociación Española de Pediatría de atención primaria** recomienda a los padres en cuanto a alimentación complementaria de cereales: 
-
-La papilla de cereales se puede preparar con agua, caldo, leche materna o artificial. Los cereales **sin gluten se pueden introducir a partir de los 4 meses** (si el pediatra lo cree necesario) y en cantidad necesaria para completar una papilla entera o en cacitos añadidos a los biberones. **Los cereales con gluten se deben introducir en pequeñas cantidades** (algún cacito suelto añadido a los cereales sin gluten, o a la fruta, o algún trozo de galleta o pan que el niño puede ir chupando y comiendo), de forma gradual.
+**La Asociación Española de Pediatría de atención primaria** recomienda a los padres en cuanto a alimentación complementaria de cereales: La papilla de cereales se puede preparar con agua, caldo, leche materna o artificial. Los cereales **sin gluten se pueden introducir a partir de los 4 meses** (si el pediatra lo cree necesario) y en cantidad necesaria para completar una papilla entera o en cacitos añadidos a los biberones. **Los cereales con gluten se deben introducir en pequeñas cantidades** (algún cacito suelto añadido a los cereales sin gluten, o a la fruta, o algún trozo de galleta o pan que el niño puede ir chupando y comiendo), de forma gradual.
 
 **Superioridad nutricional con respecto a los cereales refinados**
 
