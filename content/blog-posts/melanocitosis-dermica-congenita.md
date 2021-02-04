@@ -9,7 +9,7 @@ date: 2021-02-04T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Algunos de nosotros, en algún momento de nuestras vidas, hemos tenido la experiencia de ver a un bebé nacer, o de conocer a un recién nacido , y algunos presentan en la región lumbosacra o glútea una mácula (mancha) de coloración gris azulada. Esta lesión es denominada melanocitosis dérmica congénita o mancha mongólica, es una lesión benigna muy frecuente en los recién nacidos, sin embargo, no siempre debe ser considerada de esta manera, principalmente cuando tiene otras características u otros hallazgos clínicos.
+Algunos de nosotros, en algún momento de nuestras vidas, hemos tenido la experiencia de ver a un bebé nacer, o de conocer a un recién nacido, y algunos presentan en la región lumbosacra o glútea una mácula (mancha) de coloración gris azulada. Esta lesión es denominada melanocitosis dérmica congénita o mancha mongólica, es una lesión benigna muy frecuente en los recién nacidos, sin embargo, no siempre debe ser considerada de esta manera, principalmente cuando tiene otras características u otros hallazgos clínicos.
 
 **¿Qué es la melanocitosis dérmica congénita o mancha mongólica?**
 
