@@ -3,7 +3,7 @@ title: 'Melanocitosis dérmica congénita '
 excerpt: 'En algún momento de nuestras vidas hemos observado un bebe al momento de
   nacer o poco después, y algunos presentan en la región lumbosacra o glútea una mácula
   (mancha) de coloración gris azulada. '
-thumbnail: "/490px-mongolianspotphoto.jpg"
+thumbnail: "/captura-de-pantalla-2021-02-04-a-la-s-7-06-49-p-m.png"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-02-04T00:00:00Z
 avatar: "/1517629621762.jpeg"
