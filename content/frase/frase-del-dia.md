@@ -1,6 +1,6 @@
 ---
-body: "\"El Amor es luz, dado que ilumina a quien lo da y lo recibe\".                                  \n
-  Albert Einstein"
+body: "\"Rechaza tu sentido de prejuicio y el prejuicio por si solo desaparecerá\"
+  \              \n   Marco Aurelio."
 icon: "/crecimiento-1.png"
 
 ---
