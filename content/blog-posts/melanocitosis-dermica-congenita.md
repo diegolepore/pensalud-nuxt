@@ -24,7 +24,7 @@ Es una lesión benigna, se origina por un acúmulo de melanocitos en la capa pro
 
 Dependiendo de otros hallazgos clínicos se deben descartar con otras melanocitosis dérmicas, como el nevo azul, el nevo de Ota y el de Ito. También de malformaciones vasculares como el hemangioma congénito, el síndrome de Sturge-Weber, síndrome de Klippel-Trenaunay, cutis marmorata telangiectásica congénita, y con la facomatosis pigmentovascular, entre otros. 
 
-Este tipo de lesiones pueden hacernos confundir con que existe maltrato o abuso infantil. Pero a diferencia de los hematomas, la mancha mongólica no muestra cambios en su coloración, es indolora y puede tardar varios meses en desaparecer. No se ha desarrollado malignización de esta lesión con su evolución, es importante que sea evaluado mediante su control pediátrico.
+Este tipo de lesiones pueden hacernos confundir que existe maltrato o abuso infantil, pero a diferencia de los hematomas, la mancha mongólica no muestra cambios en su coloración, es indolora y puede tardar varios meses en desaparecer. No se ha desarrollado malignización de esta lesión con su evolución, es importante que sea evaluado mediante su control pediátrico.
 
 No olvides consultar las referencias bibliográficas, si quieres saber mas del tema:
 
