@@ -112,9 +112,7 @@ Muy poco frecuente en edad pediátrica y adolescentes, consiste en la aparición
 * **Urticaria colinérgica:** el estímulo que la desencadena es el aumento de la temperatura corporal, bien por ejercicio físico, exposición a un ambiente caluroso o, incluso, el estrés con sudoración. El enfriamiento del paciente hace que las lesiones remitan rápidamente.
 
   ![](/urticaria-alergia.jpg)
-* **Angioedema inducido por drogas:** los **inhibidores de la ECA** son los que la inducen con más frecuencia.
-
-  ![](/captopril.jpeg)
+* **Angioedema inducido por drogas:** los **inhibidores de la ECA** como el enalapril, captopril, ramipril, entre otros, son los que la inducen con más frecuencia.![](/captopril.jpeg)
   * **Diagnóstico**
 
     **- Una buena historia clínica** es la herramienta más útil para diagnosticar la causa de una urticaria y es la guía para la indicación de las pruebas complementarias. Es primordial interrogar acerca del inicio, evolución de las lesiones, los antecedentes alérgicos personales y familiares del paciente, también si hubo contacto, ingesta o inhalación de algún potencial alérgeno, ya sea alimento, fármaco, picadura de insecto, entre otros de los que hemos mencionado. Es importante también preguntar si existen otros síntomas, para así descartar infecciones u otras patologías.
