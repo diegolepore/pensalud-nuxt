@@ -1,6 +1,7 @@
 ---
-body: "\"Rechaza tu sentido de prejuicio y el prejuicio por si solo desaparecerá\"
-  \              \n                       Marco Aurelio."
-icon: "/crecimiento-1.png"
+body: |-
+  Cada día sabemos más y entendemos menos.
+  Albert Einstein.
+icon: "/idea.png"
 
 ---
