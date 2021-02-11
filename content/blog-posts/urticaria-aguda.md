@@ -154,7 +154,7 @@ Muy poco frecuente en edad pediátrica y adolescentes, consiste en la aparición
 
   Se considera que los fármacos antialérgicos o antihistamínicos H1 no sedantes son el tratamiento de primera elección, tales como cetirizina, loratadina, bilastina, ebilastina desloratadina, levocetirizina. Debemos saber que (H1) es uno de los receptores de la histamina, que anteriormente comentamos que es la que se libera del mastocito cuando entra en contacto el alérgeno con la inmunoglobulina o anticuerpo, en la superficie del mastocito, allí es cuando se inicia el ataque al alérgeno. Se denomina antihistamínicos porque evitan el efecto de la histamina en los diferentes tejidos del cuerpo, para que no se desencadene la respuesta inflamatoria.
 
-  ![](/7502223704527.jpg)- --**-** Cuando hay angioedema el médico valorará la colocación de corticosteroides tales como metilprednisolona, betametasona, prednisona, entre otros.
+  ![](/7502223704527.jpg).    **-** Cuando hay angioedema el médico valorará la colocación de corticosteroides tales como metilprednisolona, betametasona, prednisona, entre otros.
 
   ![](/salud-y-medicamentos-medicamentos-formulados_depo-medrol_pasteur_249135_caja_1.jpg)
 
