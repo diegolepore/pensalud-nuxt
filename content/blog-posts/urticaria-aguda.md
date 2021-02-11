@@ -220,4 +220,4 @@ Muy poco frecuente en edad pediátrica y adolescentes, consiste en la aparición
   * Si quieres saber más acerca del tema te dejare las referencias bibliográficas que utilice para realizar el artículo, son muy ricas en conocimiento. Espero que te haya gustado este resumen, aunque fue algo difícil poder redactar y colocar solo algunos fragmentos del tema, porque considero que todo es importante. Particularmente mi cuadro agudo tuvo una franca mejoría en el día quinto, siguiendo todas las recomendaciones que escribí pude sentirme mejor, recibí tratamiento con desloratadina a dosis máxima, también un corticosteroide llamado metilprednisolona, vía intramuscular, dosis única. Aunque se me bajó la tensión, respiraba bien y no progrese a un cuadro de anafilaxia, por lo cual no necesite adrenalina. Les mostrare una imagen de mi evolución en 5 días.
 
     ![](/4becc64e-9f4e-41b5-95da-acb3a3b69c0a-1.jpg)
-  * Aprendí a tener paciencia y mejorar mis hábitos alimenticios, me despido cordialmente y nos vemos en otra oportunidad.
+  * Aprendí a tener paciencia y mejorar mis hábitos alimenticios. Ahora me despido cordialmente y nos vemos en otra oportunidad.
