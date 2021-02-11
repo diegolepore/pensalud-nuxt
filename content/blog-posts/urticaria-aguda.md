@@ -25,7 +25,7 @@ Para entender mejor vamos a insertar una imagen de la piel, también explicar qu
 
 ![](/c5habrwuoaaou7n-1.jpg)
 
-* **Otras características**: Puede coexistir con **angioedema** (edema de la piel, las mucosas y los tejidos submucosos) en un **50%** de los casos, como es un aumento de volumen da una sensación **opresiva**, no causa picazón porque la lesión está en la **capa profunda** de la **dermis** y **tejido subcutáneo**. Las zonas más afectadas son la **región periorbitaria**, los **labios**, **lengua**, **genitales** y **zonas distales de las extremidades**, estas lesiones **desaparecen** en unas **72 horas** aproximadamente. 
+* **Otras características**: Puede coexistir con **angioedema** (edema de la piel, las mucosas y los tejidos submucosos) en un **50%** de los casos, como es un aumento de volumen da una sensación **opresiva**, no causa picazón porque la lesión está en la **capa profunda** de la **dermis** y **tejido subcutáneo**. Las zonas más afectadas son la **región periorbitaria**, los **labios**, **lengua**, **genitales** y **zonas distales de las extremidades**, estas lesiones **desaparecen** en unas **72 horas** aproximadamente.
 
   Particularmente presente edema en labio superior, planta de los pies y punta de los dedos, que tardaron en desaparecer 24 horas.
 
@@ -33,9 +33,9 @@ Para entender mejor vamos a insertar una imagen de la piel, también explicar qu
 
   **¿Qué es lo que sucede en el organismo?**
 
-  Para entender este punto debemos saber qué es el **mastocito** (es un tipo de **glóbulo blanco** se encuentran en la mayoría de los tejidos del cuerpo). Los mastocitos tienen una función importante en la respuesta del sistema inmunitario a ciertas bacterias, parásitos; además, **ayudan** a **controlar** otros tipos de **respuestas inmunitarias**. 
+  Para entender este punto debemos saber qué es el **mastocito** (es un tipo de **glóbulo blanco** se encuentran en la mayoría de los tejidos del cuerpo). Los mastocitos tienen una función importante en la respuesta del sistema inmunitario a ciertas bacterias, parásitos; además, **ayudan** a **controlar** otros tipos de **respuestas inmunitarias**.
 
-  También debemos entender que es la **inmunidad humoral**, representa el principal mecanismo de defensa contra los microorganismos extracelulares y sus toxinas, esta respuesta es llevada a cabo por los **linfocitos B (** tipo de glóbulo blanco)**, que al entrar en contacto** con un **alérgeno** denominado en el sistema inmunitario como **antígeno,** es decir, **sustancia extraña** en el cuerpo, esto hace que los **linfocitos B** induzcan la formación de **anticuerpos o inmunoglobulinas,** los anticuerpos se encargan de **atacar el alérgeno invasor.** 
+  También debemos entender que es la **inmunidad humoral**, representa el principal mecanismo de defensa contra los microorganismos extracelulares y sus toxinas, esta respuesta es llevada a cabo por los **linfocitos B (** tipo de glóbulo blanco)**, que al entrar en contacto** con un **alérgeno** denominado en el sistema inmunitario como **antígeno,** es decir, **sustancia extraña** en el cuerpo, esto hace que los **linfocitos B** induzcan la formación de **anticuerpos o inmunoglobulinas,** los anticuerpos se encargan de **atacar el alérgeno invasor.**
 
   Esta respuesta es denominada **reacción de hipersensibilidad inmediata o tipo I**, donde hay **formación** de anticuerpo o **inmunoglobulina E**, **degranulación** (liberación) por parte de los **mastocitos y basófilos** (tipos de glóbulos blancos), de **histamina**, que es el principal mediador que inicia la respuesta inflamatoria, también se activan otros mediadores que incrementan la **permeabilidad vascular**, **produciendo** la lesión típica que es el **habón** y también se **produce estimulación del tejido neuronal en la dermis**, que origina tanto el **prurito** como **dilatación vascular** y **eritema local**.
 
@@ -49,7 +49,7 @@ Para entender mejor vamos a insertar una imagen de la piel, también explicar qu
     ![](/1_aevmbeexbtvfvv1j4pqipg.jpeg)
   * **Infecciones**
 
-  Las infecciones víricas es una de las causas más frecuente de urticaria aguda en niños, encontrándose hasta casi el 50% de los casos. Los virus de la **hepatitis A, B y C**, **Citomegalovirus**, **virus de Epstein Barr**, **Influenza** y **Parainfluenza** se han descrito como causantes de urticaria. 
+  Las infecciones víricas es una de las causas más frecuente de urticaria aguda en niños, encontrándose hasta casi el 50% de los casos. Los virus de la **hepatitis A, B y C**, **Citomegalovirus**, **virus de Epstein Barr**, **Influenza** y **Parainfluenza** se han descrito como causantes de urticaria.
 
   Los **Staphylococos** y **Streptococos** se han señalado también como posibles desencadenantes de urticaria debido a la producción de toxinas y la liberación de enzimas.
 
@@ -88,11 +88,11 @@ La exposición a alérgenos, como: pólenes o epitelios (perro, gato, caballo, e
 
 Son aquellas urticarias que se producen tras la aplicación de distintos estímulos físicos (habitualmente la reacción se limita a la zona expuesta al estímulo) y suelen desaparecer espontáneamente en menos de 2 horas tras cesar el estímulo. **Entre ellas se encuentran**:
 
-**Dermografismo**: Significa escritura en la piel. Es una reacción con la lesión característica tipo habón, transitoria, que aparece 10 minutos aproximadamente después de la aplicación de una leve presión o fuerza sobre la piel, que aumenta tras el rascado, por baño con agua caliente, ejercicio, emociones, zonas de roce y presión (toallas, etiquetas de ropa, entre otros.) y no se asocia a síntomas sistémicos. 
+**Dermografismo**: Significa escritura en la piel. Es una reacción con la lesión característica tipo habón, transitoria, que aparece 10 minutos aproximadamente después de la aplicación de una leve presión o fuerza sobre la piel, que aumenta tras el rascado, por baño con agua caliente, ejercicio, emociones, zonas de roce y presión (toallas, etiquetas de ropa, entre otros.) y no se asocia a síntomas sistémicos.
 
-![](/diana.jpg)
+![](/img_5082.jpg)
 
-**Urticaria retardada de presión:** se desencadena por la aplicación de presión sobre cualquier zona del cuerpo. Si aparece antes de 30 minutos se denomina **inmediata**, si aparece después de 30 minutos y antes de 6 horas después del estímulo se denomina forma **retardada**.
+**Urticaria de presión:** se desencadena por la aplicación de presión sobre cualquier zona del cuerpo. Si aparece antes de 30 minutos se denomina **inmediata**, si aparece después de 30 minutos y antes de 6 horas después del estímulo se denomina forma **retardada**.
 
 ![](/img_5247.jpg)
 
@@ -117,15 +117,17 @@ Muy poco frecuente en edad pediátrica y adolescentes, consiste en la aparición
   ![](/captopril.jpeg)
   * **Diagnóstico**
 
-  \- **Una buena historia clínica** es la herramienta más útil para diagnosticar la causa de una urticaria y es la guía para la indicación de las pruebas complementarias. Es primordial interrogar acerca del inicio, evolución de las lesiones, los antecedentes alérgicos personales y familiares del paciente, también si hubo contacto, ingesta o inhalación de algún potencial alérgeno, ya sea alimento, fármaco, picadura de insecto, entre otros de los que hemos mencionado. Es importante también preguntar si existen otros síntomas, para así descartar infecciones u otras patologías.
+    **- Una buena historia clínica** es la herramienta más útil para diagnosticar la causa de una urticaria y es la guía para la indicación de las pruebas complementarias. Es primordial interrogar acerca del inicio, evolución de las lesiones, los antecedentes alérgicos personales y familiares del paciente, también si hubo contacto, ingesta o inhalación de algún potencial alérgeno, ya sea alimento, fármaco, picadura de insecto, entre otros de los que hemos mencionado. Es importante también preguntar si existen otros síntomas, para así descartar infecciones u otras patologías.
 
   ![](/cuidado-de-la-piel.jpg)
 
-  \- **El diagnóstico clínico** es sencillo, ya que las características típicas de la lesión, tipo habón, es fácil de reconocer.
-  * **La exploración física** es necesaria para ver las características generales de la piel. Se evaluará si hay signos de infección, se realizará auscultación cardiopulmonar, exploración ORL y dental. El habón se blanquea con la vitropresión (al hacer presión sobre la lesión).
-  * **Cuando no se sospecha que la urticaria aguda fue de origen alérgico**, **no es necesario realizar ninguna prueba complementaria**, ya que esta enfermedad es autolimitada y benigna. Ahora si hay sospecha de origen alérgico es necesario realizar las pruebas complementarias de acuerdo al tipo de urticaria.
+  **- El diagnóstico clínico** es sencillo, ya que las características típicas de la lesión, tipo habón, es fácil de reconocer.
 
-    **Entre algunas de las pruebas ante alguna etiología (causa) alérgica se encuentran las llamadas pruebas “in vivo” es decir, aquellas que realizamos en el propio paciente:**
+  **- La exploración física** es necesaria para ver las características generales de la piel. Se evaluará si hay signos de infección, se realizará auscultación cardiopulmonar, exploración ORL y dental. El habón se blanquea con la vitropresión (al hacer presión sobre la lesión).
+
+  **- Cuando no se sospecha que la urticaria aguda fue de origen alérgico**, **no es necesario realizar ninguna prueba complementaria**, ya que esta enfermedad es autolimitada y benigna. Ahora si hay sospecha de origen alérgico es necesario realizar las pruebas complementarias de acuerdo al tipo de urticaria.
+
+  **- Entre algunas de las pruebas ante alguna etiología (causa) alérgica se encuentran las llamadas pruebas “in vivo” es decir, aquellas que realizamos en el propio paciente:**
   * **Prick test:** consiste en la detección de la inmunoglobulina E específica que está unida al mastocito y que se libera al contacto con el alérgeno al que el paciente está sensibilizado. Se coloca 1 gota de cada extracto alergénico, separadas unos 3 cm, de forma ordenada, en el antebrazo del paciente y se punciona con una lanceta estandarizada de forma perpendicular al plano, 1 mm hacia adentro. Es positivo cuando es mayor a 3 mm de diámetro mayor.
 
   ![](/2018-n2-c_rb_ridao_fi_opt1-1.jpeg)
@@ -134,7 +136,8 @@ Muy poco frecuente en edad pediátrica y adolescentes, consiste en la aparición
   ![](/2018-n2-c_rb_ridao_fi_opt3.jpeg)
 
   ![](/2018-n2-c_rb_ridao_fi_opt4.jpeg)
-* **Existen también las pruebas “in vitro”** estas pruebas nos permiten detectar la IgE específica circulante del paciente y se realiza mediante una muestra sanguínea, entre ellas se encuentran las siguientes:
+
+  **- Existen también las pruebas “in vitro”** estas pruebas nos permiten detectar la IgE específica circulante del paciente y se realiza mediante una muestra sanguínea, entre ellas se encuentran las siguientes:
 
   **- Anticuerpos IgE específicos:** proporcionan resultados cuantitativos y no se afectan por la toma de fármacos. Los métodos utilizados son RAST (radioallergo absorbent test) o CAP (inmunoenzimático). Su determinación resulta útil, sobre todo, para el diagnóstico de alergias IgE mediadas como: asma, rinitis y alergia alimentaria, siendo menos eficaz para el diagnóstico de urticaria o alergia a fármacos.
 
@@ -144,20 +147,18 @@ Muy poco frecuente en edad pediátrica y adolescentes, consiste en la aparición
 
   ![](/2018-n2-c_rb_ridao_fi_opt7-1.jpeg)
 
-  \- Existen muchas otras pruebas entre las que se encuentra la **prueba de exposición controlada** para confirmar o descartar el diagnóstico etiológico. Consiste en la administración gradual y progresiva del alérgeno por vía oral para confirmar el diagnóstico o valorar tolerancia. Se utilizan en alergia alimentaria y medicamentosa.
+  **-** Existen muchas otras pruebas entre las que se encuentra la **prueba de exposición controlada** para confirmar o descartar el diagnóstico etiológico. Consiste en la administración gradual y progresiva del alérgeno por vía oral para confirmar el diagnóstico o valorar tolerancia. Se utilizan en alergia alimentaria y medicamentosa.
 
   Si existe algún componente alérgico, lo más probable es que se refiera el paciente a la consulta del especialista alergólogo para su estudio y realización de las pruebas de alergia.
 * **Tratamiento**
 
   Se considera que los fármacos antialérgicos o antihistamínicos H1 no sedantes son el tratamiento de primera elección, tales como cetirizina, loratadina, bilastina, ebilastina desloratadina, levocetirizina. Debemos saber que (H1) es uno de los receptores de la histamina, que anteriormente comentamos que es la que se libera del mastocito cuando entra en contacto el alérgeno con la inmunoglobulina o anticuerpo, en la superficie del mastocito, allí es cuando se inicia el ataque al alérgeno. Se denomina antihistamínicos porque evitan el efecto de la histamina en los diferentes tejidos del cuerpo, para que no se desencadene la respuesta inflamatoria.
 
-  ![](/7502223704527.jpg)
-
-  \- Cuando hay angioedema el médico valorará la colocación de corticosteroides tales como metilprednisolona, betametasona, prednisona, entre otros.
+  ![](/7502223704527.jpg)- --**-** Cuando hay angioedema el médico valorará la colocación de corticosteroides tales como metilprednisolona, betametasona, prednisona, entre otros.
 
   ![](/salud-y-medicamentos-medicamentos-formulados_depo-medrol_pasteur_249135_caja_1.jpg)
 
-  \- En caso de **anafilaxia** (afectación de 2 o más órganos con compromiso respiratorio y/o disminución de tensión arterial), el empleo precoz de la adrenalina intramuscular es el tratamiento de elección.
+  **-** En caso de **anafilaxia** (afectación de 2 o más órganos con compromiso respiratorio y/o disminución de tensión arterial), el empleo precoz de la adrenalina intramuscular es el tratamiento de elección.
 
   ![](/vial.jpg)
 * **Recomendaciones**
@@ -209,9 +210,7 @@ Muy poco frecuente en edad pediátrica y adolescentes, consiste en la aparición
     ![](/banarse-diario-ocasionar-problemas-piel.jpg)
   * Al secar la piel realizarlo con tocamientos, suavemente, sin presionar las lesiones.
 
-    ![](/bano.jpg)
-
-
+    ![](/img_5249.jpg)
   * Mantenerse en un lugar fresco.
   * Utilizar poca ropa o muy holgada.
 
