@@ -3,7 +3,7 @@ title: 'Melanocitosis dérmica congénita '
 excerpt: 'En algún momento de nuestras vidas hemos observado un bebe al momento de
   nacer o poco después, y algunos presentan en la región lumbosacra o glútea una mácula
   (mancha) de coloración gris azulada. '
-thumbnail: "/captura-de-pantalla-2021-02-04-a-la-s-7-06-49-p-m.png"
+thumbnail: "/mancha-mongolica-3.jpg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-02-04T00:00:00Z
 avatar: "/1517629621762.jpeg"
@@ -22,7 +22,9 @@ Es una lesión benigna, se origina por un acúmulo de melanocitos en la capa pro
 * **Localización:** La localización más frecuente es la región lumbosacra y glútea, también se puede observar en la espalda y en los hombros, aunque en ocasiones aparece en las extremidades o la cara.
 * **Otras localizaciones:** Cuando la lesión es grande o hay formas atípicas, extensas o múltiples se han asociado a errores innatos del metabolismo, tales como las enfermedades lisosomales, mucopolisacaridosis tipo I y tipo II.
 
-![](/captura-de-pantalla-2021-02-04-a-la-s-7-06-49-p-m.png)Dependiendo de otros hallazgos clínicos se deben descartar con otras melanocitosis dérmicas, como el nevo azul, el nevo de Ota y el de Ito. También de malformaciones vasculares como el hemangioma congénito, el síndrome de Sturge-Weber, síndrome de Klippel-Trenaunay, cutis marmorata telangiectásica congénita, y con la facomatosis pigmentovascular, entre otros.
+![](/captura-de-pantalla-2021-02-11-a-la-s-10-30-39-p-m.png)
+
+Dependiendo de otros hallazgos clínicos se deben descartar con otras melanocitosis dérmicas, como el nevo azul, el nevo de Ota y el de Ito. También de malformaciones vasculares como el hemangioma congénito, el síndrome de Sturge-Weber, síndrome de Klippel-Trenaunay, cutis marmorata telangiectásica congénita, y con la facomatosis pigmentovascular, entre otros.
 
 Este tipo de lesiones pueden hacernos confundir que existe maltrato o abuso infantil, pero a diferencia de los hematomas, la mancha mongólica no muestra cambios en su coloración, es indolora y puede tardar varios meses en desaparecer. No se ha desarrollado malignización de esta lesión con su evolución, es importante que sea evaluado mediante su control pediátrico.
 
