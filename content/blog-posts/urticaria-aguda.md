@@ -152,7 +152,7 @@ Muy poco frecuente en edad pediátrica y adolescentes, consiste en la aparición
 
   Se considera que los fármacos antialérgicos o antihistamínicos H1 no sedantes son el tratamiento de primera elección, tales como cetirizina, loratadina, bilastina, ebilastina desloratadina, levocetirizina. Debemos saber que (H1) es uno de los receptores de la histamina, que anteriormente comentamos que es la que se libera del mastocito cuando entra en contacto el alérgeno con la inmunoglobulina o anticuerpo, en la superficie del mastocito, allí es cuando se inicia el ataque al alérgeno. Se denomina antihistamínicos porque evitan el efecto de la histamina en los diferentes tejidos del cuerpo, para que no se desencadene la respuesta inflamatoria.
 
-  ![](/7502223704527.jpg)    
+  ![](/7502223704527.jpg)
 
   \- Cuando hay angioedema el médico valorará aplicar corticosteroides, tales como, metilprednisolona, betametasona, prednisona, entre otros.
 
@@ -221,3 +221,18 @@ Muy poco frecuente en edad pediátrica y adolescentes, consiste en la aparición
 
     ![](/4becc64e-9f4e-41b5-95da-acb3a3b69c0a-1.jpg)
   * Aprendí a tener paciencia y mejorar mis hábitos alimenticios. Ahora me despido cordialmente y nos vemos en otra oportunidad.
+  * **Referencias bibliográficas**
+
+  [https://www.seicap.es/urticaria-aguda_78568.pdf](https://www.seicap.es/urticaria-aguda_78568.pdf "https://www.seicap.es/urticaria-aguda_78568.pdf")
+
+  [https://www.aeped.es/sites/default/files/documentos/urticaria.pdf](https://www.aeped.es/sites/default/files/documentos/urticaria.pdf "https://www.aeped.es/sites/default/files/documentos/urticaria.pdf")
+
+  [https://www.clinicasubiza.com/Enfermedades/Espec%C3%ADficas/Dermatol%C3%B3gicas/Urticaria/UrticariayAngioedema.aspx](https://www.clinicasubiza.com/Enfermedades/Espec%C3%ADficas/Dermatol%C3%B3gicas/Urticaria/UrticariayAngioedema.aspx "https://www.clinicasubiza.com/Enfermedades/Espec%C3%ADficas/Dermatol%C3%B3gicas/Urticaria/UrticariayAngioedema.aspx")
+
+  [https://www.investigacionyciencia.es/blogs/psicologia-y-neurociencia/63/posts/picar-y-rascar-todo-es-empezar-12684](https://www.investigacionyciencia.es/blogs/psicologia-y-neurociencia/63/posts/picar-y-rascar-todo-es-empezar-12684 "https://www.investigacionyciencia.es/blogs/psicologia-y-neurociencia/63/posts/picar-y-rascar-todo-es-empezar-12684")
+
+  [https://www.aeped.es/sites/default/files/documentos/10_urticaria_angioedema.pdf](https://www.aeped.es/sites/default/files/documentos/10_urticaria_angioedema.pdf "https://www.aeped.es/sites/default/files/documentos/10_urticaria_angioedema.pdf")
+
+  [http://gestorweb.camfic.cat/uploads/ITEM_8166.pdf](http://gestorweb.camfic.cat/uploads/ITEM_8166.pdf "http://gestorweb.camfic.cat/uploads/ITEM_8166.pdf")
+
+  [https://www.pediatriaintegral.es/numeros-anteriores/publicacion-2013-11/urticaria-y-angioedema/](https://www.pediatriaintegral.es/numeros-anteriores/publicacion-2013-11/urticaria-y-angioedema/ "https://www.pediatriaintegral.es/numeros-anteriores/publicacion-2013-11/urticaria-y-angioedema/")
