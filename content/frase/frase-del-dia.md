@@ -1,7 +1,7 @@
 ---
 body: |-
-  Cada día sabemos más y entendemos menos.
-  Albert Einstein.
-icon: "/idea.png"
+  Cuando te levantes por la mañana, piensa en el privilegio de vivir: respirar, pensar, disfrutar, amar.
+  Marco Aurelio.
+icon: "/affection-1.png"
 
 ---
