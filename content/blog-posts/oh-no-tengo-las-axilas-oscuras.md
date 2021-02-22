@@ -1,5 +1,5 @@
 ---
-title: " ¡Oh no! tengo las axilas oscuras"
+title: " ¡Oh no! tengo las axilas oscuras."
 excerpt: Muchas veces nos miramos en el espejo y puede ocurrir que al observar la
   región axilar esté totalmente oscura, es el temor de todo cuerpo preparándose para
   lucir el traje de baño en verano
