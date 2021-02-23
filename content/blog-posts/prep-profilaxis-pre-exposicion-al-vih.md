@@ -5,7 +5,7 @@ excerpt: Es una herramienta preventiva adicional de los métodos de protección 
   sexuales de alto riesgo.
 thumbnail: "/unnamed-1-1.jpg"
 author: Dra. Diana Emilia Rodríguez Rojas
-date: 2020-10-22T00:00:00Z
+date: 2020-10-22T00:00:00.000+00:00
 avatar: "/1517629621762.jpeg"
 
 ---
@@ -25,7 +25,7 @@ Entre las personas de grupos de riesgo se encuentran los siguientes:
 
 **4) UDI:** usuario de drogas inyectables.
 
-Hay diferentes estudios sobre la profilaxis del VIH mediante los fármacos antirretrovirales: Tenofovir y emtricitabina, entre ellos se encuentra el estudio denominado: [**_Quimioprofilaxis previa a la exposición para la prevención del VIH en hombres que tienen sexo con hombres_**](https://www.nejm.org/doi/full/10.1056/nejmoa1011205)**_. _**En este estudio se observa según los datos, que hay un 44% de reducción de riesgo versus un 94%, los que lograron un 94% son aquellas personas que tienen niveles detectables de antirretrovirales en plasma. Es decir la población que cumplió el tratamiento y lo siguió todos los días, ellos tenían una prevención más alta.
+Hay diferentes estudios sobre la profilaxis del VIH mediante los fármacos antirretrovirales: Tenofovir y emtricitabina, entre ellos se encuentra el estudio denominado: [**_Quimioprofilaxis previa a la exposición para la prevención del VIH en hombres que tienen sexo con hombres_**](https://www.nejm.org/doi/full/10.1056/nejmoa1011205). En este estudio se observa según los datos, que hay un 44% de reducción de riesgo versus un 94%, los que lograron un 94% son aquellas personas que tienen niveles detectables de antirretrovirales en plasma. Es decir la población que cumplió el tratamiento y lo siguió todos los días, ellos tenían una prevención más alta.
 
 En el estudio llamado: [**_profilaxis previa a la exposición para prevenir la adquisición de la infección por VIH-1 (PROUD): la eficacia resulta de la fase piloto de un ensayo pragmático y aleatorizado abierto_**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)00056-2/fulltext) y en el denominado:[ ](https://pensalud.webnode.es/l/prep-profilaxis-pre-exposicion-al-vih/#)[**_Profilaxis previa a la exposición a demanda en hombres con alto riesgo de infección por VIH-1_**](https://www.nejm.org/doi/full/10.1056/nejmoa1506273)**_._** Se encontró una eficacia de un 86 % en el número de casos.
 
