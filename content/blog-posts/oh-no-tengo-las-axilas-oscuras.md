@@ -35,13 +35,13 @@ Al hablar de factores de riesgo hablamos de toda circunstancia o situación que 
 
 ![](/cuidado-el-oscurecimiento-de-las-axilas-podria-deberse-a-estas-enfermedades1.jpg)
 
-3. **Hay que aplicar fotoprotector con SPF mayor a 30**, igual que otra parte de la piel antes de la exposición solar.
+1. **Hay que aplicar fotoprotector con SPF mayor a 30**, igual que otra parte de la piel antes de la exposición solar.
 
    ![](/es-fotoprotector-extrem90-2020.jpg)
-4. **El bicarbonato** puede llegar a ser abrasivo con el tiempo, si se aplica directamente. Recordemos que el **pH de la piel** humana es **ligeramente ácido**, varía entre 4,5 - 5,9 y el **bicarbonato** tiene un pH cercano a 8-8,5, esto le confiere una capacidad neutralizante en la zona de la región axilar. La microbiota normal o microorganismos normales de la región axilar crecen en un medio ácido, entonces al aplicar bicarbonato sube el pH y podría hacer que las bacterias se encontrasen con un medio hostil para su crecimiento, esto ayuda a inhibir el mal olor en la región axilar pero al modificar este pH se daña la barrera normal de la piel, lo que ocasiona irritación y posterior hiperpigmentación axilar. Muchas personas hablan acerca del uso del **bicarbonato con limón**, pero el limón es muy acido y puede causar alguna reacción sobre todo en pieles sensibles, al exponer la piel a la luz solar puede ocasionar hiperpigmentación. Muchas personas lo usan por pocos minutos antes del baño.
+2. **El bicarbonato** puede llegar a ser abrasivo con el tiempo, si se aplica directamente. Recordemos que el **pH de la piel** humana es **ligeramente ácido**, varía entre 4,5 - 5,9 y el **bicarbonato** tiene un pH cercano a 8-8,5, esto le confiere una capacidad neutralizante en la zona de la región axilar. La microbiota normal o microorganismos normales de la región axilar crecen en un medio ácido, entonces al aplicar bicarbonato sube el pH y podría hacer que las bacterias se encontrasen con un medio hostil para su crecimiento, esto ayuda a inhibir el mal olor en la región axilar pero al modificar este pH se daña la barrera normal de la piel, lo que ocasiona irritación y posterior hiperpigmentación axilar. Muchas personas hablan acerca del uso del **bicarbonato con limón**, pero el limón es muy ácido y puede causar alguna reacción sobre todo en pieles sensibles, al exponer la piel a la luz solar puede ocasionar hiperpigmentación. Muchas personas lo usan por pocos minutos antes del baño.
 
    ![](/bicarbonato.jpg)
-   5. **Al escoger o aplicar antitranspirantes o desodorantes** debemos tener en cuenta ciertos aspectos, tal vez para algunos es lo que menos piensan al buscar un desodorante y otros están muy informados y siempre lo evitan, de todas formas colocare lo que me parece importante que tengan en cuenta, son los siguientes aspectos:
+   5\. **Al escoger o aplicar antitranspirantes o desodorantes** debemos tener en cuenta ciertos aspectos, tal vez para algunos es lo que menos piensan al buscar un desodorante y otros están muy informados y siempre lo evitan, de todas formas colocare lo que me parece importante que tengan en cuenta, son los siguientes aspectos:
    * **Escogerlo sin alcohol y sin perfume**, sobretodo en pieles sensibles.
    * **Evaluar si tienen compuestos de aluminio**, estos se usan en los antitranspirantes como ingredientes activos. Estos compuestos forman una cubierta temporal en los conductos del sudor que detiene el flujo de sudor hacia la superficie de la piel. Algunos estudios sugieren que los antitranspirantes para la axila que contienen aluminio, los cuales se aplican frecuentemente y se dejan en la piel cerca del seno, pueden ser absorbidos por la piel y tener efectos (hormonales) como el estrógeno.Ya que el estrógeno puede fomentar el crecimiento de células de cáncer de seno, algunos científicos sugieren que los compuestos de aluminio en los antitranspirantes pueden contribuir a la formación del cáncer de seno. Además, se ha sugerido que el aluminio puede tener una actividad directa en el tejido del seno. Sin embargo, ningún estudio hasta la fecha ha confirmado algún efecto adverso sustancial del aluminio que pudiera contribuir a mayores riesgos de cáncer de seno. También las sales de aluminio pueden causar irritación, picor, descamación o lesiones de dermatitis, por lo que no es recomendable para pieles sensibles.
 
@@ -65,17 +65,16 @@ En vista que muchos estudios no son concluyentes acerca de las sales de aluminio
   7\. Retirar el desodorante o antitranspirante al dormir.
 
   ![](/captura-de-pantalla-2021-02-23-a-la-s-12-20-13-a-m.png)
+  1. Usar ropa de algodón y evitar telas sintéticas y ropa muy ajustada.
+  2. Debemos hidratar nuestra región axilar como otra zona de la piel.
+  3. Seguir una dieta saludable en vista del riesgo de padecer resistencia a la insulina.
 
-   8. Usar ropa de algodón y evitar telas sintéticas y ropa muy ajustada.
-   9. Debemos hidratar nuestra región axilar como otra zona de la piel.
-  10. Seguir una dieta saludable en vista del riesgo de padecer resistencia a la insulina.
+     ![](/katie-smith-uqs1802d0cq-unsplash-1.jpg)
+  4. Existen otras opciones como luz pulsada, peeling, cremas, pero es preciso que lo recete el especialista, ya que como verás existen otras causas como la resistencia a la insulina que deben descartarse. Dentro de las cremas más utilizadas se encuentran despigmentantes con ingredientes como la hidroquinona, pero su uso es delicado porque solo debe aplicarse en la zona afectada y no más de dos veces al día, tampoco durante más de 8 semanas. Para los alérgicos a la hidroquinona está Meladermic Energy de Farmapie que tiene como ingredientes Uva-ursi, ácido Glicólico y alfa-arbutina y vitamina C. Entonces como leemos, nunca es bueno automedicarse.
 
-      ![](/katie-smith-uqs1802d0cq-unsplash-1.jpg)
-  11. Existen otras opciones como luz pulsada, peeling, cremas, pero es preciso que lo recete el especialista, ya que como verás existen otras causas como la resistencia a la insulina que deben descartarse. Dentro de las cremas más utilizadas se encuentran despigmentantes con ingredientes como la hidroquinona, pero su uso es delicado porque solo debe aplicarse en la zona afectada y no más de dos veces al día, tampoco durante más de 8 semanas. Para los alérgicos a la hidroquinona está Meladermic Energy de Farmapie que tiene como ingredientes Uva-ursi, ácido Glicólico y alfa-arbutina y vitamina C. Entonces como leemos, nunca es bueno automedicarse.
+     ![](/1-depilador-de-luz-pulsada.jpg)
 
-      ![](/1-depilador-de-luz-pulsada.jpg)
-
-      ![](/51mpipijwbl-_ac_sx425_.jpg)
+     ![](/51mpipijwbl-_ac_sx425_.jpg)
 
 **Conclusión**
 
