@@ -42,7 +42,7 @@ Al hablar de factores de riesgo hablamos de toda circunstancia o situación que 
 
    ![](/bicarbonato.jpg)
 
-   **5. Al escoger o aplicar antitranspirantes o desodorantes** debemos tener en cuenta ciertos aspectos, tal vez para algunos es lo que menos piensan al buscar un desodorante y otros están muy informados y siempre lo evitan, de todas formas colocare lo que me parece importante que tengan en cuenta, son los siguientes aspectos:
+   5**. Al escoger o aplicar antitranspirantes o desodorantes** debemos tener en cuenta ciertos aspectos, tal vez para algunos es lo que menos piensan al buscar un desodorante y otros están muy informados y siempre lo evitan, de todas formas colocare lo que me parece importante que tengan en cuenta, son los siguientes aspectos:
    * **Escogerlo sin alcohol y sin perfume**, sobretodo en pieles sensibles.
    * **Evaluar si tienen compuestos de aluminio**, estos se usan en los antitranspirantes como ingredientes activos. Estos compuestos forman una cubierta temporal en los conductos del sudor que detiene el flujo de sudor hacia la superficie de la piel. Algunos estudios sugieren que los antitranspirantes para la axila que contienen aluminio, los cuales se aplican frecuentemente y se dejan en la piel cerca del seno, pueden ser absorbidos por la piel y tener efectos (hormonales) como el estrógeno.Ya que el estrógeno puede fomentar el crecimiento de células de cáncer de seno, algunos científicos sugieren que los compuestos de aluminio en los antitranspirantes pueden contribuir a la formación del cáncer de seno. Además, se ha sugerido que el aluminio puede tener una actividad directa en el tejido del seno. Sin embargo, ningún estudio hasta la fecha ha confirmado algún efecto adverso sustancial del aluminio que pudiera contribuir a mayores riesgos de cáncer de seno. También las sales de aluminio pueden causar irritación, picor, descamación o lesiones de dermatitis, por lo que no es recomendable para pieles sensibles.
 
@@ -61,18 +61,22 @@ En vista que muchos estudios no son concluyentes acerca de las sales de aluminio
 
 * Pulverizar la zona durante dos o tres segundos.
 
-  5\. Lavarse todos los días la región axilar con jabón tipo syndet o ph neutro.
-  6\. Retirar el desodorante o antitranspirante al dormir.
+  6\. Lavarse todos los días la región axilar con jabón tipo syndet o ph neutro.
+
+  7\. Retirar el desodorante o antitranspirante al dormir.
 
   ![](/captura-de-pantalla-2021-02-23-a-la-s-12-20-13-a-m.png)
 
-  7\. Usar ropa de algodón y evitar telas sintéticas y ropa muy ajustada.
-  8. Debemos hidratar nuestra región axilar como otra zona de la piel.
-  9. Existen otras opciones como luz pulsada, peeling, cremas, pero es preciso que lo recete el especialista, ya que como verás existen otras causas como la resistencia a la insulina que deben descartarse. Dentro de las cremas más utilizadas se encuentran despigmentantes con ingredientes como la hidroquinona, pero su uso es delicado porque solo debe aplicarse en la zona afectada y no más de dos veces al día, tampoco durante más de 8 semanas. Para los alérgicos a la hidroquinona está Meladermic Energy de Farmapie que tiene como ingredientes Uva-ursi, ácido Glicólico y alfa-arbutina y vitamina C. Entonces como leemos, nunca es bueno automedicarse.
+   8. Usar ropa de algodón y evitar telas sintéticas y ropa muy ajustada.
+   9. Debemos hidratar nuestra región axilar como otra zona de la piel.
+  10. Seguir una dieta saludable en vista del riesgo de padecer resistencia a la insulina.
 
-     ![](/1-depilador-de-luz-pulsada.jpg)
+      ![](/katie-smith-uqs1802d0cq-unsplash-1.jpg)
+  11. Existen otras opciones como luz pulsada, peeling, cremas, pero es preciso que lo recete el especialista, ya que como verás existen otras causas como la resistencia a la insulina que deben descartarse. Dentro de las cremas más utilizadas se encuentran despigmentantes con ingredientes como la hidroquinona, pero su uso es delicado porque solo debe aplicarse en la zona afectada y no más de dos veces al día, tampoco durante más de 8 semanas. Para los alérgicos a la hidroquinona está Meladermic Energy de Farmapie que tiene como ingredientes Uva-ursi, ácido Glicólico y alfa-arbutina y vitamina C. Entonces como leemos, nunca es bueno automedicarse.
 
-     ![](/51mpipijwbl-_ac_sx425_.jpg)
+      ![](/1-depilador-de-luz-pulsada.jpg)
+
+      ![](/51mpipijwbl-_ac_sx425_.jpg)
 
 **Conclusión**
 
