@@ -3,7 +3,7 @@ title: " ¡Oh no! tengo las axilas oscuras."
 excerpt: Muchas veces nos miramos en el espejo y puede ocurrir que al observar la
   región axilar esté totalmente oscura, es el temor de todo cuerpo preparándose para
   lucir el traje de baño en verano
-thumbnail: "/billie-jlsdpscjkjk-unsplash-1.jpg"
+thumbnail: "/billie-606skqh0n30-unsplash-1.jpg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-02-22T00:00:00Z
 avatar: "/1517629621762.jpeg"
