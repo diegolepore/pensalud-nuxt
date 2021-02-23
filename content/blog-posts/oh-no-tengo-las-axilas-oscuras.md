@@ -61,7 +61,7 @@ En vista que muchos estudios no son concluyentes acerca de las sales de aluminio
 
 * Pulverizar la zona durante dos o tres segundos.
 
-  6\. Lavarse todos los días la región axilar con jabón tipo syndet o ph neutro.
+  6\. Lavarse todos los días la región axilar con jabón pH neutro, syndet.
 
   7\. Retirar el desodorante o antitranspirante al dormir.
 
