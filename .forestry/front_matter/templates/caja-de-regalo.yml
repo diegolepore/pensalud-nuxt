@@ -1,4 +1,9 @@
 ---
 label: Caja de regalo
 hide_body: true
-fields: []
+fields:
+- name: mensaje
+  type: text
+  config:
+    required: false
+  label: Mensaje
