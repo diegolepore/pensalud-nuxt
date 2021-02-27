@@ -23,6 +23,11 @@ sections:
   label: Frase del día
   create: all
   match: "**/*"
+- type: directory
+  path: content/gift-box
+  label: Caja de regalo
+  create: all
+  match: "**/*"
 upload_dir: static
 public_path: ''
 front_matter_path: ''
