@@ -2,11 +2,12 @@
   <div>
     <Hero :last-post="sortedPosts[0]"/>
 
-    <div class="w-full p-4 bg-quotes mb-5">
-      <div class="flex flex-col text-center md:text-left md:flex-row w-2/3 justify-center items-center m-auto">
-        <img class="h-12 w-12 mr-5 mb-2 md:mb-0" :src="firstQuote.attributes.icon" alt="">
-        <p class="mb-0 font-serif font-bold">{{ firstQuote.attributes.body }}</p>
+    <div class="md:flex w-full p-4 bg-quotes mb-5">
+      <div class="flex flex-col text-center md:text-left md:flex-row w-2/3 justify-center items-center m-auto mb-12 md:mb-auto">
+        <img class="h-12 w-12 mr-5 mb-2 md:mb-0" :src="quoteMessage.attributes.icon" alt="">
+        <p class="mb-0 font-serif font-bold">{{ quoteMessage.attributes.body }}</p>
       </div>
+      <GiftBox />
     </div>
 
     <ul class="lg:grid lg:grid-cols-2 lg:gap-4 xl:grid-cols-3 m-0">
@@ -21,6 +22,7 @@
 export default {
 
   async asyncData() {
+  
     const allPosts = await require.context("~/content/blog-posts", true, /\.md$/)
     const posts =  allPosts.keys().map((key) => {
       // give back the value of each post context
@@ -38,16 +40,28 @@ export default {
       return allQuotes(key)
     })
 
+    // const allBoxMessages = await require.context("~/content/regalo", true, /\.md$/)
+    // const boxMessages =  allQuotes.keys().map((key) => {
+    //   // give back the value of each post context
+    //   return allBoxMessages(key)
+    // })
+
     return {
       sortedPosts,
-      quotes
+      quotes,
+      // boxMessages
     }
   },
 
   computed: {
-    firstQuote() {
+    quoteMessage() {
       return this.quotes[0]
-    }
+    },
+
+    // boxMessage() {
+    //   return this.boxMessages[0]
+    // },
+
   },
 
   methods: {
