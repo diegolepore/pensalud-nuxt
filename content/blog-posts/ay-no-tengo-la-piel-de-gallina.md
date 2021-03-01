@@ -15,9 +15,9 @@ Este tema es una pregunta muy frecuente de mis pacientes, amigos y familiares, e
 
 **¿Qué es la queratosis pilaris?**
 
-Para entender qué es la **queratosis pilaris** primero debemos saber ¿**Qué es el orificio folicular**? Este orificio se encuentra en la piel y por allí sale al exterior cada cabello que existe en tu piel, también el sudor y la grasa.
+Para entender qué es la **queratosis pilaris** primero debemos saber **qué es el orificio folicular**. El orificio folicular se encuentra en la piel y por allí sale al exterior cada cabello que existe en tu piel, también el sudor y la grasa.
 
-También es importante saber ¿**Qué es la queratina**? Es una proteína que está presente en la piel, cabello y uñas de las personas. La **epidermis** está formada de **queratinocitos** en un 95%, estas son células productoras de **queratina**.
+También es importante saber **qué es la queratina**. Esta es una proteína que está presente en la piel, cabello y uñas de las personas. La **epidermis** está formada de **queratinocitos** en un 95%, estas son células productoras de **queratina**.
 
 Los **queratinocitos** al madurar se convierten en **corneocitos,** si estos no se desprenden, se **obstruye** el orificio folicular, y se acumula la **queratina**, y allí es cuando se produce lo que se denomina **queratosis pilaris**. Al suceder esto la piel se siente al tacto como una "lija", algunas personas la describen como zonas ásperas y pepitas diminutas.
 
