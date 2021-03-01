@@ -1,5 +1,5 @@
 ---
-title: "¡Ay no tengo la piel de gallina!"
+title: Queratosis pilaris
 excerpt: Este tema es una pregunta muy frecuente de mis pacientes, amigos y familiares,
   esto me motivó a escribir sobre la queratosis pilaris, llamada coloquialmente “piel
   de gallina”.
