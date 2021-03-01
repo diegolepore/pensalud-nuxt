@@ -86,7 +86,7 @@ Existen **emolientes en el mercado testado dermatológicamente** para adultos y 
 
 Los casos leves se pueden tratar con cremas lubricantes de venta libre. La hidratación y la lubricación de la piel son la base del tratamiento. **Entre ellos se encuentran los siguientes**:
 
-![](/captura-de-pantalla-2021-03-01-a-la-s-5-07-30-p-m.png)
+![](/captura-de-pantalla-2021-03-01-a-la-s-5-07-30-p-m.png)![](/captura-de-pantalla-2021-03-01-a-la-s-5-09-12-p-m.png)
 
 En los casos más severos el especialista podría indicar tratamiento tópico con retinoídes, que son cremas derivadas de la vitamina A, actúan evitando la obstrucción de los folículos. También dependiendo de la clínica del paciente se puede utilizar terapia con láser y dermoabrasión.
 
