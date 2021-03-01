@@ -62,7 +62,7 @@ Esta afección no necesita tratamiento, pero muchas veces el problema es muy vis
 
 **¿Qué son los emolientes?**
 
-Los emolientes no es igual que una crema hidratante, los emolientes son más potentes y suelen nutrir en profundidad, brindan gran hidratación y calmar a las pieles secas y atópicas.
+Los emolientes no es igual que una crema hidratante, los emolientes son más potentes y suelen nutrir en profundidad, brindan gran hidratación, se utiliza frecuentemente en pieles secas y atópicas.
 
 **¿Qué es un Queratolítico?**
 
@@ -101,7 +101,7 @@ En los casos más severos el especialista podría indicar tratamiento tópico co
 * **Baños cortos de 10 minutos con agua templada:** el agua caliente y los baños prolongados eliminan los aceites naturales de la piel.
 
   ![](/2017-04-02-1024x576.jpg)
-* **Utilizar jabon pH neutro o Syndet.**
+* **Utilizar jabón pH neutro o Syndet.**
 
   ![](/15842713376679.jpg)
 * **Restregar la piel con fuerza** o reventarse los folículos pilosos obstruidos **puede irritar la piel**. El tocar y reventar las protuberancias solo las hace más obvias desde el punto de vista cosmético y aumenta las cicatrices y la decoloración, lo que las deja más oscuras.
