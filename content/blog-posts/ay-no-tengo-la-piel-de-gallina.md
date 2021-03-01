@@ -19,7 +19,7 @@ Para entender qué es la **queratosis pilaris** primero debemos saber **qué es 
 
 También es importante saber **qué es la queratina**. Esta es una proteína que está presente en la piel, cabello y uñas de las personas. La **epidermis** está formada de **queratinocitos** en un 95%, estas son células productoras de **queratina**.
 
-Los **queratinocitos** al madurar se convierten en **corneocitos,** si estos no se desprenden, se **obstruye** el orificio folicular, y se acumula la **queratina**, y allí es cuando se produce lo que se denomina **queratosis pilaris**. Al suceder esto la piel se siente al tacto como una "lija", algunas personas la describen como zonas ásperas y pepitas diminutas.
+Los **queratinocitos** al madurar se convierten en **corneocitos,** si estos no se desprenden se **obstruye** el orificio folicular y se acumula la **queratina**, producíendose lo que se denomina **queratosis pilaris**. Al suceder esto la piel se siente al tacto como una "lija", algunas personas la describen como zonas ásperas y pepitas diminutas.
 
 ![](/piel-3.png)![](/captura-de-pantalla-2021-02-25-a-la-s-6-40-32-p-m.png)  
 **¿Características de la lesión?**
