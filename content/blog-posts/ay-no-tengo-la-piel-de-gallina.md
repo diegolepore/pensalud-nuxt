@@ -3,7 +3,7 @@ title: "¡Ay no tengo la piel de gallina!"
 excerpt: Este tema es una pregunta muy frecuente de mis pacientes, amigos y familiares,
   esto me motivó a escribir sobre la queratosis pilaris, llamada coloquialmente “piel
   de gallina”.
-thumbnail: "/queratosis_pilar.png"
+thumbnail: "/picture_photo_350d4b.png"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-03-01T00:00:00Z
 avatar: "/1517629621762.jpeg"
