@@ -7,7 +7,7 @@ const GIFT_BOX_MESSAGES = [
   "Escribele una carta a alguien que admires.",
   "¡Reproduce esa canción que tanto te gusta y baila!",
   "Aprende una nueva receta y preparala.",
-  "Haz un dulce y regálacelo a alguna persona que viva en la calle.",
+  "Haz un dulce y regálaselo a alguna persona que viva en la calle.",
   "Envia algunas palabras de aliento a un familiar.",
   "Dile a esa persona especial que la amas ♥️",
   "Retoma eso que tanto te gusta, pero que no has podido por XYZ.",
