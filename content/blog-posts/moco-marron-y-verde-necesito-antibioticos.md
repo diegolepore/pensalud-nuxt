@@ -1,5 +1,5 @@
 ---
-title: Moco verde y marrón, necesito antibióticos
+title: Moco verde o marrón, necesito antibióticos
 excerpt: Es un mito maravilloso que se transmite de generación en generación y cuando
   se intenta decir algo contrario, es muy difícil que las personas cambien su forma
   de pensar
