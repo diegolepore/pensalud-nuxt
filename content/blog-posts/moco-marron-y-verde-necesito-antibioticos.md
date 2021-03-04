@@ -1,5 +1,5 @@
 ---
-title: Moco marrón y verde, necesito antibióticos
+title: Moco verde y marrón, necesito antibióticos
 excerpt: Es un mito maravilloso que se transmite de generación en generación y cuando
   se intenta decir algo contrario, es muy difícil que las personas cambien su forma
   de pensar
@@ -19,13 +19,13 @@ El **moco** es **removido** por **células ciliadas**, como su nombre lo indica 
 
 ![](/immagine_3.jpeg)
 
-**¿Por qué mi moco cambió a color marrón y verde ?**
+**¿Por qué mi moco cambió a color verde o marrón ?**
 
 Los **patógenos** y **células de defensa modifican las propiedades** viscoelásticas del **moco**, inactivando sus compuestos microbicidas e interfiriendo en su movilidad. Los **glóbulos blancos** nos **defienden** de **virus**, **bacterias**, **hongos**, **alérgenos**, de cualquier agente invasor. Para ello utiliza muchos mecanismos, entre ellos se encuentran una **enzima** (proteína que acelera reacciones que ocurren en el organismo) denominada **peroxidasa**, ella **oxida** varios **compuestos** que son extremadamente **tóxicos** para los **microorganismos**. Estas requieren un grupo hemo de hierro para sus actividades oxidativas. El **hierro** es **requerido** por los **agentes infecciosos** para **crecer** y **esparcirse**, como también el **sistema inmune** para **defenderse**.
 
 Recordemos que los **agentes infecciosos** **están en el moco**, y al **morir** **tenemos en el moco restos de microorganismos**, **células**, **enzimas**, que son muy rico en **hierro**, el **exceso de hierro** ocasiona que el **moco cambie de color.** Entonces podemos decir que ante una infección ya sea por virus o bacterias, en un principio **el moco será de color transparente** y **viscoso**, como normalmente es, **luego** a medida que la **defensa de nuestro organismo** vaya actuando va ir **aumentando la cantidad**, **viscosidad** y también su **color.**
 
-**¿Por qué no debemos dar antibióticos cuando cambie a color marrón y verde el moco?**
+**¿Por qué no debemos dar antibióticos cuando el moco cambie a color  verde o marrón ?**
 
 Porque no sabemos cuál es el agente causal, si es un virus o bacteria. Se requiere evaluar la clínica del paciente, los síntomas y signos para diferenciar entre distintas enfermedades. Si hay sospecha de una infección bacteriana y el médico lo comprueba entonces sí se podrá indicar antibióticos, del resto no.
 
