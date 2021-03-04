@@ -9,11 +9,11 @@ date: 2021-03-04T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Es un mito maravilloso que se transmite de generación en generación y cuando se intenta decir algo contrario, es muy difícil que las personas cambien su forma de pensar. Es muy común que cuando estamos en un ambiente frío, cuando lloramos, y tengamos alergia y alguna infección, aparezca el moco. Con el paso del tiempo va cambiando de consistencia y color, en vez de recetar antibióticos te explico el porque no se debería.
+Es un mito maravilloso que se transmite de generación en generación y cuando se intenta decir algo contrario, es muy difícil que las personas cambien su forma de pensar. Es muy común que cuando estamos en un ambiente frío, lloramos, tenemos alergia y alguna infección, aparezca el moco. Con el paso del tiempo va cambiando de consistencia y color, en vez de recetar antibióticos te explico el porqué no se debería.
 
 **¿Qué es el moco?**
 
-El **moco** es una sustancia viscosa, elástica, parecida a un gel, expulsada por una células llamadas **caliciformes**, esta célula forma parte del epitelio cilíndrico que recubre el aparato respiratorio. Mediante la secreción de moco se mantiene la hidratación de la vía aérea, **atrapa partículas**, **bacterias** y **virus.** Si hay una infección el número de células caliciformes aumenta y también el moco, por lo que ayuda en la inmunidad de nuestro organismo, al hacerle frente si hay algún germen.
+El **moco** es una sustancia viscosa, elástica, parecida a un gel, expulsada por una células llamadas **caliciformes**, esta célula forma parte del epitelio cilíndrico que recubre el aparato respiratorio. Mediante la secreción de moco se mantiene la hidratación de la vía aérea, **atrapa partículas**, **bacterias** y **virus.** Si existe alguna infección el número de células caliciformes aumenta y también el moco, por lo que ayuda en la inmunidad de nuestro organismo, al hacerle frente si hay algún germen.
 
 El **moco** es **removido** por **células ciliadas**, como su nombre lo indica tienen **cilios**, es decir, prolongaciones que se mueven coordinadamente y ayudan a **impulsar** el moco, y de esta manera hacen la **limpieza** del **aparato respiratorio**. El moco se dirige hacia la orofaringe para su posterior deglución o expectoración En la imagen se observa muy bien las células caliciformes, el moco y los cilios.
 
