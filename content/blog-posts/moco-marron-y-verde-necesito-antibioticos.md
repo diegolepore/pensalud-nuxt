@@ -27,8 +27,10 @@ Recordemos que los **agentes infecciosos** **están en el moco**, y al **morir**
 
 **¿Por qué no debemos dar antibióticos cuando el moco cambie a color  verde o marrón ?**
 
-Porque no sabemos cuál es el agente causal, si es un virus o bacteria. Se requiere evaluar la clínica del paciente, los síntomas y signos para diferenciar entre distintas enfermedades. Si hay sospecha de una infección bacteriana y el médico lo comprueba entonces sí se podrá indicar antibióticos, del resto no.
+Porque no sabemos cuál es el agente causal, si es un virus o bacteria. Se requiere evaluar la clínica del paciente, los síntomas y signos para diferenciar entre distintas enfermedades. Si hay sospecha de una infección bacteriana y el médico lo comprueba, entonces, sí se podrá indicar antibióticos, del resto no.
 
 **Conclusión**
 
-Lo mas importante es que si tienes algún proceso respiratorio y tu moco cambia de color, no te alarmes, podría ser un resfriado común, ellos generalmente tienen una duración de diez a quince días, muchos tipos de virus pueden causar un resfriado común, los rinovirus son la causa más común. Solo se debe tratar los síntomas, hidratarte bien y reposar. Como signo de alarma, sí tienes un proceso respiratorio, y presentas dificultad respiratoria, disminución del apetito, y su evolución no va en mejoría acude a evaluación médica. **Solo recuerda** que el **cambio de color de transparente a marrón o verde**, es la **evolución natural del moco**.
+Lo mas importante es que si tienes algún proceso respiratorio y tu moco cambia de color, no te alarmes, podría ser un resfriado común, ellos generalmente tienen una duración de diez a quince días. Son muchos los tipos de virus que pueden causar un resfriado; los rinovirus son la causa más común. Solo se deben tratar los síntomas, hidratarse bien y reposar. Es muy recomendable los lavados nasales con solución fisiológica.
+
+Como signo de alarma, sí presentas dificultad al respirar, disminución del apetito y la evolución del cuadro no va en mejoría, acude a evaluación médica. **Solo recuerda** que el **cambio de color del moco (de transparente a verde o marrón)**, es la **evolución natural del moco**.
