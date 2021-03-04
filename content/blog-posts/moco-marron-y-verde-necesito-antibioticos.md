@@ -13,7 +13,7 @@ Es un mito maravilloso que se transmite de generación en generación y cuando s
 
 **¿Qué es el moco?**
 
-El **moco** es una sustancia viscosa, elástica, parecida a un gel, expulsada por una células llamadas **caliciformes**, esta célula forma parte del epitelio cilíndrico que recubre el aparato respiratorio. Mediante la secreción de moco se mantiene la hidratación de la vía aérea, **atrapa partículas**, **bacterias** y **virus.** Si hay una infección el número de células caliciformes aumenta y también el moco, por lo que ayuda en la inmunidad de nuestro organismo, al hacerle frente si hay algún germen. 
+El **moco** es una sustancia viscosa, elástica, parecida a un gel, expulsada por una células llamadas **caliciformes**, esta célula forma parte del epitelio cilíndrico que recubre el aparato respiratorio. Mediante la secreción de moco se mantiene la hidratación de la vía aérea, **atrapa partículas**, **bacterias** y **virus.** Si hay una infección el número de células caliciformes aumenta y también el moco, por lo que ayuda en la inmunidad de nuestro organismo, al hacerle frente si hay algún germen.
 
 El **moco** es **removido** por **células ciliadas**, como su nombre lo indica tienen **cilios**, es decir, prolongaciones que se mueven coordinadamente y ayudan a **impulsar** el moco, y de esta manera hacen la **limpieza** del **aparato respiratorio**. El moco se dirige hacia la orofaringe para su posterior deglución o expectoración En la imagen se observa muy bien las células caliciformes, el moco y los cilios.
 
@@ -27,8 +27,8 @@ Recordemos que los **agentes infecciosos** **están en el moco**, y al **morir**
 
 **¿Por qué no debemos dar antibióticos cuando cambie a color marrón y verde el moco?**
 
-Porque no sabemos cuál es el agente causal, si es un virus o bacteria. Se requiere evaluar la clínica del paciente, los síntomas y signos para diferenciar entre distintas enfermedades. Si hay sospecha de una infección bacteriana y el médico lo comprueba entonces sí se podrá indicar antibióticos, del resto no. 
+Porque no sabemos cuál es el agente causal, si es un virus o bacteria. Se requiere evaluar la clínica del paciente, los síntomas y signos para diferenciar entre distintas enfermedades. Si hay sospecha de una infección bacteriana y el médico lo comprueba entonces sí se podrá indicar antibióticos, del resto no.
 
 **Conclusión**
 
-Lo mas importante es que si tienes algún proceso respiratorio y tu moco cambia de color, no te alarmes, podría ser un resfriado común, ellos generalmente durante entre 10 a 15 días, muchos tipos de virus pueden causar un resfriado común, los rinovirus son la causa más común. Solo se debe tratar los síntomas, hidratarte bien y reposar. Como signo de alarma, sí tienes un proceso respiratorio, y presentas dificultad respiratoria, disminución del apetito, y su evolución no va en mejoría acude a evaluación médica. **Solo recuerda** que el **cambio de color de transparente a marrón ó verde**, es la **evolución natural del moco**.
+Lo mas importante es que si tienes algún proceso respiratorio y tu moco cambia de color, no te alarmes, podría ser un resfriado común, ellos generalmente durante entre 10 a 15 días, muchos tipos de virus pueden causar un resfriado común, los rinovirus son la causa más común. Solo se debe tratar los síntomas, hidratarte bien y reposar. Como signo de alarma, sí tienes un proceso respiratorio, y presentas dificultad respiratoria, disminución del apetito, y su evolución no va en mejoría acude a evaluación médica. **Solo recuerda** que el **cambio de color de transparente a marrón o verde**, es la **evolución natural del moco**.
