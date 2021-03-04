@@ -9,7 +9,7 @@ date: 2021-03-04T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Es un mito maravilloso que se transmite de generación en generación y cuando se intenta decir algo contrario, es muy difícil que las personas cambien su forma de pensar. Es muy común que cuando estamos en un ambiente frío, lloramos, tenemos alergia y alguna infección, aparezca el moco. Con el paso del tiempo va cambiando de consistencia y color, en vez de recetar antibióticos te explico el porqué no se debería.
+Es un mito maravilloso que se transmite de generación en generación y cuando se intenta decir algo contrario, es muy difícil que las personas cambien su forma de pensar. Es muy común que cuando estamos en un ambiente frío, lloramos, tenemos alergia y alguna infección, aparezca el moco. Con el paso del tiempo va cambiando de consistencia y color, por lo tanto en vez de recetar antibióticos te explicaré porqué no se debería.
 
 **¿Qué es el moco?**
 
