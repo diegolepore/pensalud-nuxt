@@ -3,7 +3,7 @@ title: Higiene del sueño en niños
 excerpt: 'Con motivo del Día Mundial del Sueño 2021, que será el día viernes 19 de
   marzo, quise escribir sobre ciertas medidas que podrán ayudarnos a mejorar la calidad
   del sueño en niños, denominada: higiene del sueño. '
-thumbnail: "/leo-rivas-1jo7rxnni1w-unsplash-1.jpg"
+thumbnail: "/vitolda-klein-xxmc-01wdhk-unsplash-1.jpg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-03-18T00:00:00Z
 avatar: "/1517629621762.jpeg"
