@@ -20,7 +20,7 @@ También influyen en ellos las fases del sueño. En una persona adulta ocurren l
 
   ![](/tara-raye-fiwshslutfw-unsplash-1.jpg)
 
-En el **niño** la fase del sueño **REM** es más **prolongada** que en el adulto, por lo que pueden estar despiertos y quedarse profundamente dormidos. A los **12 meses la fase no REM se va prolongando,** y la duración del sueño se va pareciendo al del adulto. Sin embargo, los ciclos van a ser más cortos que los de los adultos, logrando parecerse mucho más a los 2 años. A pesar de esto los niños a esta edad empiezan a tener terrores nocturnos y pesadillas, lo que puede influir en no tener un sueño reparador. 
+En el **niño** la fase del sueño **REM** es más **prolongada** que en el adulto, por lo que pueden estar despiertos y quedarse profundamente dormidos. A los **12 meses la fase no REM se va prolongando,** y la duración del sueño se va pareciendo al del adulto. Sin embargo, los ciclos van a ser más cortos que los de los adultos, logrando parecerse mucho más a los 2 años. A pesar de esto los niños a esta edad empiezan a tener terrores nocturnos y pesadillas, lo que puede influir en no tener un sueño reparador.
 
 Para este tipo de acontecimientos es importante tener una buena higiene del sueño, la cual hablaremos a continuación según las recomendaciones de **La** **Academia Estadounidense de Medicina del Sueño** y **La Academia Americana de Pediatría, entre las medidas que recomiendan para tener un buen hábito del sueño están las siguientes**:
 
@@ -35,7 +35,7 @@ Para este tipo de acontecimientos es importante tener una buena higiene del sue�
     ![](/picsea-eqltydzrx7u-unsplash-1.jpg)
  4. **Ser activo durante el día:** Es importante que los niños realicen actividades interesantes durante el día, que incluya actividades físicas al aire libre.
 
-    ![](/yanapi-senaud-87n4ipql6c4-unsplash-1.jpg) 
+    ![](/yanapi-senaud-87n4ipql6c4-unsplash-1.jpg)
  5. **Supervisar el tiempo que pasan frente a una pantalla: La academia Americana de Pediatría** recomienda no tener televisores, computadores, teléfonos y tabletas en la habitación de los niños, especialmente en la noche. Para prevenir interrupciones del sueño, **apagar todas las pantallas por lo menos 60 minutos/1 hora antes de dormir**.
 
     ![](/jelleke-vanooteghem-chuzevdl4qm-unsplash-1.jpg)
@@ -44,11 +44,11 @@ Para este tipo de acontecimientos es importante tener una buena higiene del sue�
     ![](/marie-despeyroux-2xuyxslnfou-unsplash-1.jpg)
  7. **No llene la cama del niño con juguetes**: es importante no jugar en el lugar donde se duerme. También una muñeca favorita, un oso de peluche o manta son buenas opciones para disminuir la ansiedad de separación.
 
-    ![](/tanaphong-toochinda-gagc07wvvck-unsplash-1.jpg) 
- 8. **Tenga en cuenta que los adolescentes necesitan más horas para dormir, no menos**. Se recomienda que duerman entre 8- 11 horas. Al mismo tiempo, la mayoría de las escuelas secundarias requieren que los estudiantes empiecen sus clases cada vez más temprano. Es importante que los padres y las juntas escolares de las localidades colaboren juntas para implementar una hora para el inicio de las clases que le permita a los adolescentes dormir las horas que necesitan para su salud. 
+    ![](/tanaphong-toochinda-gagc07wvvck-unsplash-1.jpg)
+ 8. **Tenga en cuenta que los adolescentes necesitan más horas para dormir, no menos**. Se recomienda que duerman entre 8- 11 horas. Al mismo tiempo, la mayoría de las escuelas secundarias requieren que los estudiantes empiecen sus clases cada vez más temprano. Es importante que los padres y las juntas escolares de las localidades colaboren juntas para implementar una hora para el inicio de las clases que le permita a los adolescentes dormir las horas que necesitan para su salud.
 
     ![](/adrian-swancar-imafcyq7kh0-unsplash-1-1.jpg)
- 9. **No dormir al bebe con un biberón con jugo, leche o fórmula:** Cualquier otro líquido que no sea agua en un biberón puede causar caries. Alimente o amamante a su niño y luego colóquelo en la cama para dormir.**No empiece a darle alimentos sólidos al bebé antes de los 6 meses de edad**: empezar a darle alimentos sólidos antes no ayuda al bebé a dormir toda la noche.
+ 9. **No dormir al bebe con un biberón con jugo, leche o fórmula:** Cualquier otro líquido que no sea agua en un biberón puede causar caries. Alimente o amamante a su niño y luego colóquelo en la cama para dormir. **No empiece a darle alimentos sólidos al bebé antes de los 6 meses de edad**: empezar a darle alimentos sólidos antes no ayuda al bebé a dormir toda la noche.
 
     ![](/kelly-sikkema-y1j60ifj5-m-unsplash-1.jpg)
 10. **Evite programar demasiadas actividades**: además de las tareas, muchos niños hoy en día tienen programadas actividades para después del colegio (por ejemplo: juegos/partidos, clases, citas, entre otros). Esto trae dificultades para poder dormir bien durante la noche. Tome el tiempo para relajarse y den el tiempo que necesitan sus niños para que también lo hagan.
@@ -71,6 +71,6 @@ Para este tipo de acontecimientos es importante tener una buena higiene del sue�
 
 **Conclusión**
 
-Es cierto que cumplir con todas las medidas antes mencionadas puede tornarse difícil o se pasarse por alto, sobretodo con el ajetreo de la vida diaria y mucho mas cuando ya el niño ha crecido con cierta permisividad, nunca es tarde para poner manos a la obra. El niño es muy moldeable y es allí cuando hay que aprovechar y hacer nuestro mayor esfuerzo si queremos mejorar en este aspecto y disfrutar de los beneficios de una buena higiene del sueño. 
+Es cierto que cumplir con todas las medidas antes mencionadas puede tornarse difícil o pasarse por alto, sobretodo con el ajetreo de la vida diaria y mucho mas cuando ya el niño ha crecido con cierta permisividad, nunca es tarde para poner manos a la obra. El niño es muy moldeable y es allí cuando hay que aprovechar y hacer nuestro mayor esfuerzo si queremos mejorar en este aspecto y disfrutar de los beneficios de una buena higiene del sueño.
 
 Si quieres leer más sobre el tema, te invito a leer mi otro artículo llamado [**la importancia del sueño**](https://www.pensalud.com/blog/la-importancia-del-sueno), donde hablo más al respecto, especialmente sobre la higiene del sueño en adultos.
