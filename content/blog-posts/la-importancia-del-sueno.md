@@ -126,7 +126,7 @@ Durante el ciclo sueño-vigilia intervienen los neurotransmisores (biomoléculas
 
 ### **_Higiene del sueño_**
 
-Las medidas de higiene son sugerencias acerca de conductas, modificaciones ambientales, que tienen como objetivo mejorar la calidad del sueño. Mastin y colaboradores en su trabajo denominado: \[**_"Evaluación de la higiene del sueño utilizando el índice de Higiene del Sueño"_**\](javascript:void(0);) menciona medidas de higiene del sueño, las cuales se nombran a continuación:
+Las medidas de higiene son sugerencias acerca de conductas, modificaciones ambientales, que tienen como objetivo mejorar la calidad del sueño. Mastin y colaboradores en su trabajo denominado:**_"Evaluación de la higiene del sueño utilizando el índice de Higiene del Sueño"_** menciona medidas de higiene del sueño, las cuales se nombran a continuación:
 
  1. Evitar realizar siestas prolongadas, mayores de 1 hora, durante el día.
  2. Acostarse a dormir a una misma hora todos los días.
