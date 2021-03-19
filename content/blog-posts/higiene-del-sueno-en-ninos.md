@@ -20,41 +20,41 @@ También influye en ellos las fases del sueño, en una persona adulta ocurren la
 
   ![](/tara-raye-fiwshslutfw-unsplash-1.jpg)
 
-  En el **niño** la fase del sueño **REM** es más **prolongada** que en el adulto, por lo que pueden estar despiertos y quedarse profundamente dormidos. A los **12 meses la fase no REM se va prolongando,** y la duración del sueño se va pareciendo al del adulto. Sin embargo, los ciclos van a ser más cortos que los de los adultos, logrando parecerse mucho más a los 2 años. A pesar de esto los niños a esta edad empiezan a tener terrores nocturnos y pesadillas, lo que puede influir en no tener un sueño reparador. Para este tipo de acontecimientos es importante tener una buena higiene del sueño, la cual hablaremos a continuación según las recomendaciones de la **Academia Estadounidense de Medicina del Sueño** y **La Academia Americana de Pediatría,** entre las medidas que recomiendan para tener un buen hábito del sueño están las siguientes**:**
+  En el **niño** la fase del sueño **REM** es más **prolongada** que en el adulto, por lo que pueden estar despiertos y quedarse profundamente dormidos. A los **12 meses la fase no REM se va prolongando,** y la duración del sueño se va pareciendo al del adulto. Sin embargo, los ciclos van a ser más cortos que los de los adultos, logrando parecerse mucho más a los 2 años. A pesar de esto los niños a esta edad empiezan a tener terrores nocturnos y pesadillas, lo que puede influir en no tener un sueño reparador. Para este tipo de acontecimientos es importante tener una buena higiene del sueño, la cual hablaremos a continuación según las recomendaciones de la **Academia Estadounidense de Medicina del Sueño** y **La Academia Americana de Pediatría,__ entre las medidas que recomiendan para tener un buen hábito del sueño están las siguientes**:**
   1. **Conocer la importancia de dormir lo suficiente y dar el ejemplo:** Es muy importante reconocer que para tener una buena salud y energía para cumplir las tareas del día a día, es necesario tener un sueño reparador. Permanecer despierto porque hubo una tarea a última hora, pasar toda la noche trabajando, o ver televisión hasta tarde es un mal ejemplo para los niños.
 
      ![](/clint-mckoy-sd1clzsvhe4-unsplash-1.jpg)
   2. **Mantener una rutina diaria**: se debe establecer una rutina diaria, una misma hora para acostarse y para levantarse. También ayuda una misma hora para las comidas, para la siesta y para jugar. Esto permite que el niño pueda sentirse seguro.
 
   ![](/ocean-ng-l0xotanv94y-unsplash-1.jpg)
-  3. **Realizar una rutina nocturna:** tal como cepillarse los dientes, colocarse la pijama, leer un libro o cuento antes de ir a dormir.
+  3\. **Realizar una rutina nocturna:** tal como cepillarse los dientes, colocarse la pijama, leer un libro o cuento antes de ir a dormir.
 
-     ![](/picsea-eqltydzrx7u-unsplash-1.jpg)
-  4. **Ser activo durante el día:** Es importante que los niños realicen actividades interesantes durante el día, que incluya actividades físicas al aire libre.
+  ![](/picsea-eqltydzrx7u-unsplash-1.jpg)
+  4\. **Ser activo durante el día:** Es importante que los niños realicen actividades interesantes durante el día, que incluya actividades físicas al aire libre.
 
-     ![](/yanapi-senaud-87n4ipql6c4-unsplash-1.jpg)
-   5. **Supervisar el tiempo que pasan frente a una pantalla: La academia Americana de Pediatría** recomienda no tener televisores, computadores, teléfonos y tabletas en la habitación de los niños, especialmente en la noche. Para prevenir interrupciones del sueño, **apagar todas las pantallas por lo menos 60 minutos/1 hora antes de dormir**. Establecer un plan y límites para su uso es importante diariamente y antes de ir a dormir.
+  ![](/yanapi-senaud-87n4ipql6c4-unsplash-1.jpg)
+  5\. **Supervisar el tiempo que pasan frente a una pantalla: La academia Americana de Pediatría** recomienda no tener televisores, computadores, teléfonos y tabletas en la habitación de los niños, especialmente en la noche. Para prevenir interrupciones del sueño, **apagar todas las pantallas por lo menos 60 minutos/1 hora antes de dormir**. Establecer un plan y límites para su uso es importante diariamente y antes de ir a dormir.
 
-      ![](/jelleke-vanooteghem-chuzevdl4qm-unsplash-1.jpg)
-   6. **Establezca un entorno para el sueño seguro:** bajar la intensidad de las luces antes de ir a dormir y controlar la temperatura en el hogar.
+  ![](/jelleke-vanooteghem-chuzevdl4qm-unsplash-1.jpg)
+  1. **Establezca un entorno para el sueño seguro:** bajar la intensidad de las luces antes de ir a dormir y controlar la temperatura en el hogar.
 
-      ![](/marie-despeyroux-2xuyxslnfou-unsplash-1.jpg)
-   7. **No llene la cama del niño con juguetes**: es importante no jugar en el lugar donde se duerme. También una muñeca favorita, un oso de peluche o manta son buenas opciones para disminuir la ansiedad de separación.
+     ![](/marie-despeyroux-2xuyxslnfou-unsplash-1.jpg)
+  2. **No llene la cama del niño con juguetes**: es importante no jugar en el lugar donde se duerme. También una muñeca favorita, un oso de peluche o manta son buenas opciones para disminuir la ansiedad de separación.
 
-      ![](/tanaphong-toochinda-gagc07wvvck-unsplash-1.jpg)
-   8. **Tenga en cuenta que los adolescentes necesitan más horas para dormir, no menos**. Se recomienda que duerman entre 8- 11 horas. Al mismo tiempo, la mayoría de las escuelas secundarias requieren que los estudiantes empiecen sus clases cada vez más temprano. Es importante que los padres y las juntas escolares de las localidades colaboren juntas para implementar una hora para el inicio de las clases que le permita a los adolescentes dormir las horas que necesitan para su salud.
+     ![](/tanaphong-toochinda-gagc07wvvck-unsplash-1.jpg)
+  3. **Tenga en cuenta que los adolescentes necesitan más horas para dormir, no menos**. Se recomienda que duerman entre 8- 11 horas. Al mismo tiempo, la mayoría de las escuelas secundarias requieren que los estudiantes empiecen sus clases cada vez más temprano. Es importante que los padres y las juntas escolares de las localidades colaboren juntas para implementar una hora para el inicio de las clases que le permita a los adolescentes dormir las horas que necesitan para su salud.
 
-      ![](/kinga-cichewicz-5nzofwxoh88-unsplash-1.jpg)
-   9. **No dormir al bebe con un biberón con jugo, leche o fórmula:** Cualquier otro líquido que no sea agua en un biberón puede causar caries. Alimente o amamante a su niño y luego colóquelo en la cama para dormir.
+     ![](/kinga-cichewicz-5nzofwxoh88-unsplash-1.jpg)
+  4. **No dormir al bebe con un biberón con jugo, leche o fórmula:** Cualquier otro líquido que no sea agua en un biberón puede causar caries. Alimente o amamante a su niño y luego colóquelo en la cama para dormir.
 
-      ![](/kelly-sikkema-y1j60ifj5-m-unsplash-1.jpg)
-  10. **No empiece a darle alimentos sólidos al bebé antes de los 6 meses de edad**: empezar a darle alimentos sólidos antes no ayuda al bebé a dormir toda la noche.
-  11. **Evite programar demasiadas actividades**: además de las tareas, muchos niños hoy en día tienen programadas actividades para después del colegio (por ejemplo: juegos/partidos, clases, citas, entre otros). Esto trae dificultades para poder dormir bien durante la noche. Tome el tiempo para relajarse y dele el tiempo que necesitan sus niños para que también lo hagan.
-  12. **Aprenda a identificar los problemas del sueño**: los problemas más comunes del sueño en los niños son: dificultad para conciliar el sueño, despertarse durante la noche, roncar, resistirse para ir a dormir, el síndrome de apnea del sueño y la respiración ruidosa y pesada mientras duermen.
-  13. **Hable con el profesor del niño sobre el nivel de atención que tiene durante el día**: informe al profesor de su niño que usted quiere que le haga saber si su niño se duerme durante el tiempo que está en la escuela.
+     ![](/kelly-sikkema-y1j60ifj5-m-unsplash-1.jpg)
+  5. **No empiece a darle alimentos sólidos al bebé antes de los 6 meses de edad**: empezar a darle alimentos sólidos antes no ayuda al bebé a dormir toda la noche.
+  6. **Evite programar demasiadas actividades**: además de las tareas, muchos niños hoy en día tienen programadas actividades para después del colegio (por ejemplo: juegos/partidos, clases, citas, entre otros). Esto trae dificultades para poder dormir bien durante la noche. Tome el tiempo para relajarse y dele el tiempo que necesitan sus niños para que también lo hagan.
+  7. **Aprenda a identificar los problemas del sueño**: los problemas más comunes del sueño en los niños son: dificultad para conciliar el sueño, despertarse durante la noche, roncar, resistirse para ir a dormir, el síndrome de apnea del sueño y la respiración ruidosa y pesada mientras duermen.
+  8. **Hable con el profesor del niño sobre el nivel de atención que tiene durante el día**: informe al profesor de su niño que usted quiere que le haga saber si su niño se duerme durante el tiempo que está en la escuela.
 
-      ![](/thomas-park-ss-r7bvcqty-unsplash-1.jpg)
-  14. **Hable con el pediatra de su niño sobre el sueño**: discuta los hábitos y los problemas del sueño con su pediatra, ya que la mayoría de los problemas del sueño pueden ser tratados.
+     ![](/thomas-park-ss-r7bvcqty-unsplash-1.jpg)
+  9. **Hable con el pediatra de su niño sobre el sueño**: discuta los hábitos y los problemas del sueño con su pediatra, ya que la mayoría de los problemas del sueño pueden ser tratados.
 
   **La Asociación Española de Pediatría** también tiene medidas para establecer buenos hábitos del sueño, denominado: **higiene del sueño**. Se parece mucho a los recomendados por **Academia Americana de Pediatría**, sin embargo, agregare los que suman a las anteriores recomendaciones:
   1. **Los niños no deben ir a dormir con hambre** y también se debe evitar beber muchos líquidos antes de dormir.
