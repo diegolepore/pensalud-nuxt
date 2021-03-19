@@ -8,7 +8,7 @@ date: 2020-09-23T00:00:00.000+00:00
 avatar: "/1517629621762.jpeg"
 
 ---
-_El sueño es una necesidad fisiológica, esencial para las actividades cognitivas tales como: el aprendizaje y la memoria. En la actualidad es frecuente padecer de trastornos del sueño que influyen en nuestra salud y deterioran nuestra calidad de vida. Mi enfoque en este artículo es destacar la importancia del sueño, y como una buena higiene del sueño puede mejorar nuestro desempeño diario._
+_El sueño es una necesidad fisiológica, esencial para las actividades cognitivas tales como: el aprendizaje y la memoria. En la actualidad es frecuente padecer de trastornos del sueño que influyen en nuestra salud y deterioran nuestra calidad de vida. Mi enfoque en este artículo es destacar la importancia del sueño, y como una buena higiene del sueño puede mejorar nuestro desempeño diario._ 
 
 ### **_Función del Sueño_**
 
