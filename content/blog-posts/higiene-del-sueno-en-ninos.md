@@ -20,7 +20,7 @@ También influye en ellos las fases del sueño, en una persona adulta ocurren la
 
   ![](/tara-raye-fiwshslutfw-unsplash-1.jpg)
 
-  En el **niño** la fase del sueño **REM** es más **prolongada** que en el adulto, por lo que pueden estar despiertos y quedarse profundamente dormidos. A los **12 meses la fase no REM se va prolongando,** y la duración del sueño se va pareciendo al del adulto. Sin embargo, los ciclos van a ser más cortos que los de los adultos, logrando parecerse mucho más a los 2 años. A pesar de esto los niños a esta edad empiezan a tener terrores nocturnos y pesadillas, lo que puede influir en no tener un sueño reparador. Para este tipo de acontecimientos es importante tener una buena higiene del sueño, la cual hablaremos a continuación según las recomendaciones de la **Academia Estadounidense de Medicina del Sueño** y **La Academia Americana de Pediatría,__ entre las medidas que recomiendan para tener un buen hábito del sueño están las siguientes__:**
+  En el **niño** la fase del sueño **REM** es más **prolongada** que en el adulto, por lo que pueden estar despiertos y quedarse profundamente dormidos. A los **12 meses la fase no REM se va prolongando,** y la duración del sueño se va pareciendo al del adulto. Sin embargo, los ciclos van a ser más cortos que los de los adultos, logrando parecerse mucho más a los 2 años. A pesar de esto los niños a esta edad empiezan a tener terrores nocturnos y pesadillas, lo que puede influir en no tener un sueño reparador. Para este tipo de acontecimientos es importante tener una buena higiene del sueño, la cual hablaremos a continuación según las recomendaciones de **La** **Academia Estadounidense de Medicina del Sueño** y **La Academia Americana de Pediatría, entre las medidas que recomiendan para tener un buen hábito del sueño están las siguientes**:
   1. **Conocer la importancia de dormir lo suficiente y dar el ejemplo:** Es muy importante reconocer que para tener una buena salud y energía para cumplir las tareas del día a día, es necesario tener un sueño reparador. Permanecer despierto porque hubo una tarea a última hora, pasar toda la noche trabajando, o ver televisión hasta tarde es un mal ejemplo para los niños.
 
      ![](/clint-mckoy-sd1clzsvhe4-unsplash-1.jpg)
@@ -33,7 +33,7 @@ También influye en ellos las fases del sueño, en una persona adulta ocurren la
   4\. **Ser activo durante el día:** Es importante que los niños realicen actividades interesantes durante el día, que incluya actividades físicas al aire libre.
 
   ![](/yanapi-senaud-87n4ipql6c4-unsplash-1.jpg)
-  5\. **Supervisar el tiempo que pasan frente a una pantalla: La academia Americana de Pediatría** recomienda no tener televisores, computadores, teléfonos y tabletas en la habitación de los niños, especialmente en la noche. Para prevenir interrupciones del sueño, **apagar todas las pantallas por lo menos 60 minutos/1 hora antes de dormir**. Establecer un plan y límites para su uso es importante diariamente y antes de ir a dormir.
+  5\. **Supervisar el tiempo que pasan frente a una pantalla: La academia Americana de Pediatría** recomienda no tener televisores, computadores, teléfonos y tabletas en la habitación de los niños, especialmente en la noche. Para prevenir interrupciones del sueño, **apagar todas las pantallas por lo menos 60 minutos/1 hora antes de dormir**. 
 
   ![](/jelleke-vanooteghem-chuzevdl4qm-unsplash-1.jpg)
   1. **Establezca un entorno para el sueño seguro:** bajar la intensidad de las luces antes de ir a dormir y controlar la temperatura en el hogar.
@@ -49,14 +49,14 @@ También influye en ellos las fases del sueño, en una persona adulta ocurren la
 
      ![](/kelly-sikkema-y1j60ifj5-m-unsplash-1.jpg)
   5. **No empiece a darle alimentos sólidos al bebé antes de los 6 meses de edad**: empezar a darle alimentos sólidos antes no ayuda al bebé a dormir toda la noche.
-  6. **Evite programar demasiadas actividades**: además de las tareas, muchos niños hoy en día tienen programadas actividades para después del colegio (por ejemplo: juegos/partidos, clases, citas, entre otros). Esto trae dificultades para poder dormir bien durante la noche. Tome el tiempo para relajarse y dele el tiempo que necesitan sus niños para que también lo hagan.
+  6. **Evite programar demasiadas actividades**: además de las tareas, muchos niños hoy en día tienen programadas actividades para después del colegio (por ejemplo: juegos/partidos, clases, citas, entre otros). Esto trae dificultades para poder dormir bien durante la noche. Tome el tiempo para relajarse y den el tiempo que necesitan sus niños para que también lo hagan.
   7. **Aprenda a identificar los problemas del sueño**: los problemas más comunes del sueño en los niños son: dificultad para conciliar el sueño, despertarse durante la noche, roncar, resistirse para ir a dormir, el síndrome de apnea del sueño y la respiración ruidosa y pesada mientras duermen.
   8. **Hable con el profesor del niño sobre el nivel de atención que tiene durante el día**: informe al profesor de su niño que usted quiere que le haga saber si su niño se duerme durante el tiempo que está en la escuela.
 
      ![](/thomas-park-ss-r7bvcqty-unsplash-1.jpg)
   9. **Hable con el pediatra de su niño sobre el sueño**: discuta los hábitos y los problemas del sueño con su pediatra, ya que la mayoría de los problemas del sueño pueden ser tratados.
 
-  **La Asociación Española de Pediatría** también tiene medidas para establecer buenos hábitos del sueño, denominado: **higiene del sueño**. Se parece mucho a los recomendados por **Academia Americana de Pediatría**, sin embargo, agregare los que suman a las anteriores recomendaciones:
+  **La Asociación Española de Pediatría** también tiene medidas para establecer buenos hábitos del sueño, denominado: **higiene del sueño**. Se parece mucho a los recomendados por **La Academia Americana de Pediatría**, sin embargo, agregare los que suman a las anteriores recomendaciones:
   1. **Los niños no deben ir a dormir con hambre** y también se debe evitar beber muchos líquidos antes de dormir.
   2. **Se debe evitar siestas muy prolongadas**, o que se realizan después de las 5pm.
   3. **Debe dormir solo sin ayuda**: intentando que no asocie el dormir con “el pecho”, “el biberón” o “alguien cantándole”.
@@ -68,4 +68,4 @@ También influye en ellos las fases del sueño, en una persona adulta ocurren la
 
   **Conclusión**
 
-  Cumplir con todas estas medidas antes mencionadas muchas veces se torna difícil o se pasan por alto, sobretodo con el ajetreo de la vida diaria y mucho mas cuando ya el niño ha crecido con cierta permisividad, nunca es tarde para ponernos manos a la obra, el niño es muy moldeable y es allí cuando hay que aprovechar y hacer nuestro mayor esfuerzo si queremos mejorar. También te invito a leer mi artículo llamado **la importancia del sueño**, allí habló más sobre el tema y sobre la higiene del sueño en adultos.
+  Cumplir con todas estas medidas antes mencionadas muchas veces se torna difícil o se pasan por alto, sobretodo con el ajetreo de la vida diaria y mucho mas cuando ya el niño ha crecido con cierta permisividad, nunca es tarde para ponernos manos a la obra, el niño es muy moldeable y es allí cuando hay que aprovechar y hacer nuestro mayor esfuerzo si queremos mejorar. También te invito a leer mi artículo llamado [**la importancia del sueño**](https://www.pensalud.com/blog/la-importancia-del-sueno), allí habló más sobre el tema y sobre la higiene del sueño en adultos.
