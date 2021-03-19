@@ -9,7 +9,7 @@ date: 2021-03-18T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Con motivo del **Día Mundial del Sueño 2021**, que este año será el día viernes 19 de marzo, quise escribir sobre ciertas medidas que podrán ayudarnos a mejorar la calidad del sueño en niños, denominada: **higiene del sueño**. Aunque estas medidas sean básicas, muchas veces se dan por sentado. Al aplicarlas, se establecen buenos hábitos del sueño, algo que es muy importante a fin de mantener una salud adecuada para toda la familia.
+Con motivo del **Día Mundial del Sueño 2021**, que este año es el día viernes 19 de marzo, quise escribir sobre ciertas medidas que podrán ayudarnos a mejorar la calidad del sueño en niños, denominada: **higiene del sueño**. Aunque estas medidas sean básicas, muchas veces se dan por sentado. Al aplicarlas, se establecen buenos hábitos del sueño, algo que es muy importante a fin de mantener una salud adecuada para toda la familia.
 
 Los niños desde el momento en que nacen y a medida que van creciendo, empiezan a disminuir las horas de sueño. Es variable para cada grupo etario, las horas que corresponden a la siestas se incluyen en las horas totales de sueño. Mientras van creciendo se va estableciendo en ellos el ritmo circadiano (se repite cada 24 horas), donde influye la luz y la oscuridad; al romper el alba, es decir, al empezar a verse la claridad del día nos mantenemos activos ante las actividades diarias, pero en el ocaso, en la puesta del sol, donde va oscureciendo poco a poco y cae la noche, aparte de ver las estrellas, también en nuestro cuerpo se segrega la melatonina, la cual manda una señal indicando que es hora de dormir. Esto va estableciéndose en los niños a los 6 meses de edad, cuando es posible diferenciar entre el día y la noche.
 
@@ -46,7 +46,11 @@ Para este tipo de acontecimientos es importante tener una buena higiene del sue�
 
     ![](/tanaphong-toochinda-gagc07wvvck-unsplash-1.jpg) 
  8. **Tenga en cuenta que los adolescentes necesitan más horas para dormir, no menos**. Se recomienda que duerman entre 8- 11 horas. Al mismo tiempo, la mayoría de las escuelas secundarias requieren que los estudiantes empiecen sus clases cada vez más temprano. Es importante que los padres y las juntas escolares de las localidades colaboren juntas para implementar una hora para el inicio de las clases que le permita a los adolescentes dormir las horas que necesitan para su salud. 
+
+    ![](/adrian-swancar-imafcyq7kh0-unsplash-1-1.jpg)
  9. **No dormir al bebe con un biberón con jugo, leche o fórmula:** Cualquier otro líquido que no sea agua en un biberón puede causar caries. Alimente o amamante a su niño y luego colóquelo en la cama para dormir.**No empiece a darle alimentos sólidos al bebé antes de los 6 meses de edad**: empezar a darle alimentos sólidos antes no ayuda al bebé a dormir toda la noche.
+
+    ![](/kelly-sikkema-y1j60ifj5-m-unsplash-1.jpg)
 10. **Evite programar demasiadas actividades**: además de las tareas, muchos niños hoy en día tienen programadas actividades para después del colegio (por ejemplo: juegos/partidos, clases, citas, entre otros). Esto trae dificultades para poder dormir bien durante la noche. Tome el tiempo para relajarse y den el tiempo que necesitan sus niños para que también lo hagan.
 11. **Aprenda a identificar los problemas del sueño**: los problemas más comunes del sueño en los niños son: dificultad para conciliar el sueño, despertarse durante la noche, roncar, resistirse para ir a dormir, el síndrome de apnea del sueño y la respiración ruidosa y pesada mientras duermen.
 12. **Hable con el profesor del niño sobre el nivel de atención que tiene durante el día**: informe al profesor de su niño que usted quiere que le haga saber si su niño se duerme durante el tiempo que está en la escuela.
