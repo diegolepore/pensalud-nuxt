@@ -44,7 +44,7 @@ También influye en ellos las fases del sueño, en una persona adulta ocurren la
   ![](/tanaphong-toochinda-gagc07wvvck-unsplash-1.jpg)
    8. **Tenga en cuenta que los adolescentes necesitan más horas para dormir, no menos**. Se recomienda que duerman entre 8- 11 horas. Al mismo tiempo, la mayoría de las escuelas secundarias requieren que los estudiantes empiecen sus clases cada vez más temprano. Es importante que los padres y las juntas escolares de las localidades colaboren juntas para implementar una hora para el inicio de las clases que le permita a los adolescentes dormir las horas que necesitan para su salud.
 
-      ![](/kinga-cichewicz-5nzofwxoh88-unsplash-1.jpg)
+      ![](/adrian-swancar-imafcyq7kh0-unsplash-1-1.jpg)
    9. **No dormir al bebe con un biberón con jugo, leche o fórmula:** Cualquier otro líquido que no sea agua en un biberón puede causar caries. Alimente o amamante a su niño y luego colóquelo en la cama para dormir.
 
       ![](/kelly-sikkema-y1j60ifj5-m-unsplash-1.jpg)
