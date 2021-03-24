@@ -82,7 +82,7 @@ Es importante tratar a toda la familia debido a que los huevos de estos parásit
 * **Pamoato de pirantel**: produce la parálisis del parásito. Indicado en niños mayores de 6 meses, **Dosis**: **11 mg/kg/día** dosis única. Mayores de 12 años y adultos: máximo 1 g.
 
   ![](/img_6980-1.png)![](/img_6981-1.jpg)
-* También se pueden utilizar cremas anti pruriginosas o que reparen la barrena normal de la piel ya que puede estar irritada por el constante rascado.
+* También se pueden utilizar cremas anti pruriginosas o que reparen la barrera normal de la piel, ya que puede estar irritada por el constante rascado.
 
 ![](/captura-de-pantalla-2021-03-24-a-la-s-12-49-21-a-m.png)![](/captura-de-pantalla-2021-03-24-a-la-s-12-45-01-a-m.png)![](/captura-de-pantalla-2021-03-24-a-la-s-1-05-29-a-m.png)![](/captura-de-pantalla-2021-03-24-a-la-s-1-07-25-a-m.png)
 
