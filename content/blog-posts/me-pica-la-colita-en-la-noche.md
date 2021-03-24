@@ -71,19 +71,19 @@ Entre los síntomas más frecuentes se encuentran:
 
 Es importante tratar a toda la familia debido a que los huevos de estos parásitos podrían estar en casi todas las partes de la casa y lo más probable es que todos los integrantes de la familia estén infectados. Para el tratamiento de la oxiuriasis se utilizan **benzimidazoles** como (albendazol, mebendazol), también el Pamoato de pirantel.
 
-* **Mebendazol:** Impide que el **parásito** utilice la **glucosa**, provocando una disminución de la energía y la muerte del **parásito**. **Dosis**: Su seguridad no está establecida en menores de 2 años. La administración es vía oral, preferentemente entre las comidas. Se indica 100 mg en una toma, que se recomienda repetir después de 2-4 semanas.
+* **Mebendazol:** Impide que el **parásito** utilice la **glucosa**, provocando una disminución de la energía y la muerte del **parásito**. **Dosis**: Su seguridad no está establecida en menores de 2 años. La administración es vía oral, preferentemente entre las comidas. Se indica **100 mg** en una toma, que se recomienda repetir después de 2-4 semanas.
 
 ![](/img_6983-2.JPG)
 
 ![](/img_6984.JPG)
 
-* **Albendazol**: También impide que el parásito utilice la glucosa, provocando una disminución de la energía y la muerte del parásito. **Dosis**: tratamiento de las infecciones helmínticas en niños > 6 años, se acepta el uso para mayores o igual a 2 años, 400 mg dosis única. Repetir a las 2 semanas.
+* **Albendazol**: También impide que el parásito utilice la glucosa, provocando una disminución de la energía y la muerte del parásito. **Dosis**: tratamiento de las infecciones helmínticas en niños > 6 años, se acepta el uso para mayores o igual a 2 años, pero se recomienda utilizar con precaución y bajo supervisión médica, **400 mg** dosis única. Repetir a las 2 semanas.
 
 ![](/img_6979.PNG)
 
 ![](/img_6978.JPG)
 
-* **Pamoato de pirantel**: produce la parálisis del parásito. Indicado en niños mayores de 6 meses, **Dosis**: 11 mg/kg/día dosis única. Mayores de 12 años y adultos: máximo 1 g.
+* **Pamoato de pirantel**: produce la parálisis del parásito. Indicado en niños mayores de 6 meses, **Dosis**: **11 mg/kg/día** dosis única. Mayores de 12 años y adultos: máximo 1 g.
 
   
 ![](/img_6980.jpg)
