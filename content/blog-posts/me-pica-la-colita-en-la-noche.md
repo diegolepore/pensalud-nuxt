@@ -10,7 +10,7 @@ date: 2021-03-24T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Si al dormir sientes prurito intenso en la región del ano, podrías padecer de oxiuriasis. En estos casos no imaginamos que tal vez esta incomodidad sea causada por una madre lombriz queriendo colocar su huevitos en esa área para poder tener hijos. Es importante tener conocimiento sobre qué podemos hacer para prevenir y tratar este molesto síntoma. El sueño es importante para mantenernos saludables y este tipo de síntomas no nos dejará tener un sueño reparador. Ahora te contaré más sobre este tipo de problema y creceremos en conocimiento, espero que te guste.
+Si al dormir sientes prurito intenso en la región del ano, podrías padecer de oxiuriasis. En estos casos no imaginamos que tal vez esta incomodidad sea causada por una madre lombriz queriendo colocar su huevitos en el área perianal para poder tener hijos. Es importante tener conocimiento sobre qué podemos hacer para prevenir y tratar este molesto síntoma. El sueño es importante para mantenernos saludables y este tipo de síntomas no nos dejará tener un sueño reparador. Ahora te contaré más sobre este tipo de problema y creceremos en conocimiento, espero que te guste.
 
 **¿Qué es oxiuriasis?**
 
@@ -26,7 +26,7 @@ Los huevos pueden sobrevivir en muchos lugares, durante aproximadamente tres sem
 * Sábanas.
 * Ropa interior.
 * Toallas de baño.
-* Unas.
+* Uñas.
 * Juguetes.
 * Muebles.
 * Alfombras.
@@ -40,7 +40,7 @@ Los huevos pueden sobrevivir en muchos lugares, durante aproximadamente tres sem
 
 **¿Cómo se produce la infección?**
 
-La **infección** se produce cuando los **huevos embrionados**, es decir fecundados del **parásito contaminan** alguna zona anatómica del cuerpo, superficie, sabana, toalla, como los anteriormente mencionados, **al entrar en contacto** con un **nuevo huésped**, este los **lleva a su boca** y los **deglute**. Resumiendo la infección es un ciclo **mano-ano- boca**. Los **huevos ingeridos** eclosionan (**rompen**) en el **duodeno**, se **convierten** en **adultos** **2 a 6 semanas** y se **trasladan** hacia el **colon**, pasa **1 mes aprox** y las **hembras** realizan la primera puesta de huevos, esto lo **hacen en el exterior del ano**, región perianal (habitualmente, **por la noche)** y **depositan los huevos**. La **sustancia gelatinosa** y pegajosa en la que se depositan los huevos y los **movimientos de la hembra** provocan **prurito perianal**.
+La **infección** se produce cuando los **huevos embrionados**, es decir fecundados del **parásito contaminan** alguna zona anatómica del cuerpo, superficie, sabana, toalla, como los anteriormente mencionados, **al entrar en contacto** con un **nuevo huésped**, este los **lleva a su boca** y los **deglute**. Resumiendo la infección es un ciclo **mano-ano- boca**. Los **huevos ingeridos** eclosionan (**rompen**) en el **duodeno**, se **convierten** en **adultos** **2 a 6 semanas** y se **trasladan** hacia el **colon**, pasa **1 mes aprox** y las **hembras** realizan la primera puesta de huevos, esto lo **hacen en el exterior del ano**, región perianal (habitualmente, **por la noche)**. La **sustancia gelatinosa** y pegajosa en la que se depositan los huevos y los **movimientos de la hembra** provocan **prurito perianal**.
 
 ![](/img_6970.GIF)
 
@@ -61,7 +61,7 @@ Entre los síntomas más frecuentes se encuentran:
 
 **Diagnóstico**
 
-* Hay que evaluar la región perianal en busca de los huevos de los parásitos, esto será entre 1 y 2 horas después de que el niño se acuesta por la noche.
+* Hay que evaluar la región perianal en busca de los huevos de los parásitos, o de la larva hembra si coincide con la puesta del huevo, esto será entre 1 y 2 horas después de que el niño se acuesta por la noche.
 * Existe una prueba llamada test de graham, las muestras se recolectan temprano por la mañana antes de que el niño se levante, dando unos golpecitos en los pliegues perianales con una cinta de celofán, que luego se adhiere dada vuelta sobre un portaobjetos, para observar bajo el microscopio.
 * Los huevos de los oxiuros no se encuentran en las heces, los gusanos adultos pueden aparecer en las heces, o pueden aparecer en la cinta adhesiva en el momento del examen, si el momento coincide con la deposición de huevos de la hembra en las zonas anal y perianal.
 
@@ -69,7 +69,7 @@ Entre los síntomas más frecuentes se encuentran:
 
 ![](/captura-de-pantalla-2021-03-24-a-la-s-3-20-26-p-m.png)**Tratamiento**
 
-Es importante tratar a toda la familia debido a que los huevos de estos parásitos podrían estar en casi todas las partes de la casa y lo más probable es que todos los integrantes de la familia estén infectados. Para el tratamiento de la oxiuriasis se utilizan benzimidazoles como (albendazol, mebendazol), también el Pamoato de pirantel.
+Es importante tratar a toda la familia debido a que los huevos de estos parásitos podrían estar en casi todas las partes de la casa y lo más probable es que todos los integrantes de la familia estén infectados. Para el tratamiento de la oxiuriasis se utilizan **benzimidazoles** como (albendazol, mebendazol), también el Pamoato de pirantel.
 
 * **Mebendazol:** Impide que el **parásito** utilice la **glucosa**, provocando una disminución de la energía y la muerte del **parásito**. **Dosis**: Su seguridad no está establecida en menores de 2 años. La administración es vía oral, preferentemente entre las comidas. Se indica 100 mg en una toma, que se recomienda repetir después de 2-4 semanas.
 
@@ -77,7 +77,7 @@ Es importante tratar a toda la familia debido a que los huevos de estos parásit
 
 ![](/img_6984.JPG)
 
-* **Albendazol**: También impide que el parásito utilice la glucosa, provocando una disminución de la energía y la muerte del parásito. Dosis: tratamiento de las infecciones helmínticas en niños > 6 años, se acepta el uso para mayores o igual a 2 años, 400 mg dosis única. Repetir a las 2 semanas.
+* **Albendazol**: También impide que el parásito utilice la glucosa, provocando una disminución de la energía y la muerte del parásito. **Dosis**: tratamiento de las infecciones helmínticas en niños > 6 años, se acepta el uso para mayores o igual a 2 años, 400 mg dosis única. Repetir a las 2 semanas.
 
 ![](/img_6979.PNG)
 
@@ -90,7 +90,7 @@ Es importante tratar a toda la familia debido a que los huevos de estos parásit
 
 ![](/img_6981.jpg)
 
-* También se pueden utilizar cremas anti pruriginosas o que reparen la barrena normal de la piel que puede estar irritada por el constante rascado.
+* También se pueden utilizar cremas anti pruriginosas o que reparen la barrena normal de la piel ya que puede estar irritada por el constante rascado.
 
 ![](/captura-de-pantalla-2021-03-24-a-la-s-12-49-21-a-m.png)![](/captura-de-pantalla-2021-03-24-a-la-s-1-05-29-a-m.png)![](/captura-de-pantalla-2021-03-24-a-la-s-12-45-01-a-m.png)![](/captura-de-pantalla-2021-03-24-a-la-s-1-07-25-a-m.png)
 
@@ -114,4 +114,4 @@ Los huevos depositados en el medio ambiente pueden sobrevivir durante 3 semanas,
 
   **Conclusión**
 
-Es importante una buena higiene corporal, de nuestro hogar, y también cumplir normas de higiene en la manipulación de alimentos. Si tienes algunos de estos síntomas no dejes de consultar al médico y tratar a tiempo a toda la familia.
+Es importante una buena higiene corporal, de nuestro hogar, y también cumplir normas de higiene en la manipulación de alimentos. Si tienes algunos de estos síntomas no dejes de consultar al médico y tratar a tiempo toda la familia.
