@@ -10,7 +10,7 @@ date: 2021-03-24T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Si al dormir sientes prurito intenso en la región del ano, podrías padecer de oxiuriasis. En estos casos no imaginamos que tal vez esta incomodidad sea causada por una madre lombriz queriendo colocar su huevitos en el área perianal para poder tener hijos. Es importante tener conocimiento sobre qué podemos hacer para prevenir y tratar este molesto síntoma. El sueño es importante para mantenernos saludables y este tipo de síntomas no nos dejará tener un sueño reparador. Ahora te contaré más sobre este tipo de problema y creceremos en conocimiento, espero que te guste.
+Si al dormir sientes prurito intenso en la región del ano, podrías padecer de oxiuriasis. En estos casos no imaginamos que, tal vez esta incomodidad sea causada por una madre lombriz queriendo colocar su huevitos en el área perianal para reproducirse. Es importante tener conocimiento sobre qué podemos hacer para prevenir y tratar este molesto síntoma. El sueño es importante para mantenernos saludables y este tipo de síntomas podría impedirnos tener un sueño reparador. Ahora te contaré más sobre este tipo de problemas y creceremos en conocimiento, espero que te guste.
 
 **¿Qué es oxiuriasis?**
 
@@ -104,6 +104,6 @@ Los huevos depositados en el medio ambiente pueden sobrevivir durante 3 semanas,
   ![](/img_6989.jpeg)
 * En adultos evitar el contacto oral-anal durante el sexo.
 
-  **Conclusión**
+**Conclusión**
 
 Es importante una buena higiene corporal, de nuestro hogar, y también cumplir normas de higiene en la manipulación de alimentos. Si tienes algunos de estos síntomas no dejes de consultar al médico y tratar a tiempo toda la familia.
