@@ -44,6 +44,8 @@ La **infección** se produce cuando los **huevos embrionados**, es decir fecunda
 
 ![](/img_6970.GIF)
 
+![](/img_6972-2.JPG)
+
 **Síntomas**
 
 Entre los síntomas más frecuentes se encuentran:
@@ -54,3 +56,62 @@ Entre los síntomas más frecuentes se encuentran:
 * Por incorrecta higiene personal (limpiarse desde la región perianal hasta la región genital); puede generar vulvovaginitis, es decir, inflamación de la mucosa vaginal.
 * Puede producir obstrucciones de la luz apendicular y provocar apendicitis.
 * Una alta carga parasitaria puede ocasionar convulsiones y bajos niveles de vitamina B12.
+
+![](/img_6973.JPG)
+
+**Diagnóstico**
+
+* Hay que evaluar la región perianal en busca de los huevos de los parásitos, esto será entre 1 y 2 horas después de que el niño se acuesta por la noche.
+* Existe una prueba llamada test de graham, las muestras se recolectan temprano por la mañana antes de que el niño se levante, dando unos golpecitos en los pliegues perianales con una cinta de celofán, que luego se adhiere dada vuelta sobre un portaobjetos, para observar bajo el microscopio.
+* Los huevos de los oxiuros no se encuentran en las heces, los gusanos adultos pueden aparecer en las heces, o pueden aparecer en la cinta adhesiva en el momento del examen, si el momento coincide con la deposición de huevos de la hembra en las zonas anal y perianal.
+
+![](/img_6974-2.JPG)
+
+![](/captura-de-pantalla-2021-03-24-a-la-s-3-20-26-p-m.png)**Tratamiento**
+
+Es importante tratar a toda la familia debido a que los huevos de estos parásitos podrían estar en casi todas las partes de la casa y lo más probable es que todos los integrantes de la familia estén infectados. Para el tratamiento de la oxiuriasis se utilizan benzimidazoles como (albendazol, mebendazol), también el Pamoato de pirantel.
+
+**Mebendazol:** Impide que el **parásito** utilice la **glucosa**, provocando una disminución de la energía y la muerte del **parásito**. **Dosis**: Su seguridad no está establecida en menores de 2 años. La administración es vía oral, preferentemente entre las comidas. Se indica 100 mg en una toma, que se recomienda repetir después de 2-4 semanas.
+
+![](/img_6983-2.JPG)
+
+![](/img_6984.JPG)
+
+**Albendazol**: También impide que el parásito utilice la glucosa, provocando una disminución de la energía y la muerte del parásito. Dosis: tratamiento de las infecciones helmínticas en niños > 6 años, se acepta el uso para mayores o igual a 2 años, 400 mg dosis única. Repetir a las 2 semanas.
+
+![](/img_6979.PNG)
+
+![](/img_6978.JPG)
+
+**Pamoato de pirantel**: produce la parálisis del parásito. Indicado en niños mayores de 6 meses, **Dosis**: 11 mg/kg/día dosis única. Mayores de 12 años y adultos: máximo 1 g.
+
+  
+![](/img_6980.jpg)
+
+![](/img_6981.jpg)
+
+También se pueden utilizar cremas anti pruriginosas o que reparen la barrena normal de la piel que puede estar irritada por el constante rascado.
+
+![](/captura-de-pantalla-2021-03-24-a-la-s-12-49-21-a-m.png)![](/captura-de-pantalla-2021-03-24-a-la-s-1-05-29-a-m.png)![](/captura-de-pantalla-2021-03-24-a-la-s-12-45-01-a-m.png)![](/captura-de-pantalla-2021-03-24-a-la-s-1-07-25-a-m.png)
+
+**Prevención**
+
+Los huevos depositados en el medio ambiente pueden sobrevivir durante 3 semanas, entonces debemos tomar medidas para prevenir las reinfecciones que son frecuentes. Entre las medidas recomendables se encuentran las siguientes:
+
+* Lavarse las manos con jabón y agua tibia después de ir al baño o cambiar pañales, y antes de manipular alimentos.
+
+  ![](/img_6976-2.JPG)
+* Lavado frecuente de ropa de cama, personal, cortinas, alfombra, baño, y juguetes.
+
+  ![](/img_6985.JPG)
+* Si las personas están infectadas, ducha cada mañana para ayudar a eliminar los huevos de la piel.
+
+  ![](/img_6987.JPG)
+* Aspirar el entorno con la aspiradora para tratar de eliminar los huevos.
+
+  ![](/img_6989.JPG)
+* En adultos evitar el contacto oral-anal durante el sexo.
+
+  **Conclusión**
+
+Es importante una buena higiene corporal, de nuestro hogar, y también cumplir normas de higiene en la manipulación de alimentos. Si tienes algunos de estos síntomas no dejes de consultar al médico y tratar a tiempo a toda la familia.
