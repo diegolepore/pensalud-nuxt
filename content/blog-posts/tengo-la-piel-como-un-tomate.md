@@ -3,7 +3,7 @@ title: Tengo la piel como un tomate
 excerpt: Cuando estaba en el tercer año de postgrado de Pediatría, cumpliendo con
   las actividades diarias estresantes, aunado a la mala alimentación que era a destiempo,
   empecé a presentar pápulas con áreas eritematosas en la zona T del rostro.
-thumbnail: "/unnamed.jpeg"
+thumbnail: "/rosacea-704903.jpeg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-04-08T00:00:00Z
 avatar: "/1517629621762.jpeg"
