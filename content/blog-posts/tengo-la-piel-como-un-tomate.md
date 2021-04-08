@@ -19,7 +19,7 @@ Es una enfermedad inflamatoria que afecta la piel del rostro, específicamente l
 
 **Rosácea eritemato-telangiectásica**
 
-Está caracterizado por el enrojecimiento de forma repentina de las **mejillas**, la **frente** y la **nariz**, esto es denominado **flushing,** en inglés rubor. Entre los síntomas que se presentan están: escozor, es decir, parecido al dolor producido por una quemadura, también el paciente siente picor. La piel está seca, inflamada y sensible al tacto. Los vasos sanguíneos se pueden observar dilatados, aparecen las **telangiectasias** que son las arañas vasculares
+Está caracterizado por el enrojecimiento de forma repentina de las **mejillas**, la **frente** y la **nariz**, esto es denominado **flushing,** en inglés rubor. Entre los síntomas que se presentan están: escozor, es decir, parecido al dolor producido por una quemadura, también el paciente siente picor. La piel está seca, inflamada y sensible al tacto. Los vasos sanguíneos se pueden observar dilatados, aparecen las **telangiectasias** o arañas vasculares
 
 Estas lesiones suelen aparecer cuando el individuo está expuesto a cambios bruscos de temperatura, estrés y consumo de alcohol.
 
@@ -27,14 +27,14 @@ Estas lesiones suelen aparecer cuando el individuo está expuesto a cambios brus
 
 **Rosácea pápulo-pustulosa**
 
-Este tipo de rosácea es la que padezco, se presenta con enrojecimiento del rostro igual que la rosácea eritemato-telangiectásica, pero en menos proporción. Estas lesiones se parecen mucho a las que aparecen con el acné. La piel es grasa, no arde y no pica con mucha intensidad. Muchas veces mis lesiones lucen como el acné de una persona adolescente, es muy fácil confundirlas con ello.
+Este tipo de rosácea es la que padezco, se presenta con enrojecimiento del rostro igual que la rosácea eritemato-telangiectásica, pero en menor proporción. La piel es grasa, no arde y no pica con mucha intensidad. Muchas veces mis lesiones lucen como el acné de una persona adolescente, es muy fácil confundirlas con ello.
 
 ![](/54f8220f-ad0e-4a57-83a1-321b1651d59c-1.jpg)  
 ![](/captura-de-pantalla-2021-04-08-a-la-s-5-16-50-p-m.png)
 
 **Rosácea ocular**
 
-Este tipo de rosácea presenta **enrojecimiento**, **sequedad**, **picor** y **sensación de quemazón en los ojos, fotofobia**, es decir, sensibilidad excesiva a la luz, **visión borrosa**, **lagrimeo abundant**e. También puede presentarse **conjuntivitis**, **uveítis**.
+Este tipo de rosácea presenta **enrojecimiento**, **sequedad**, **picor** y **sensación de quemazón en los ojos, fotofobia**, es decir, sensibilidad excesiva a la luz, **visión borrosa**, **lagrimeo abundante**. También puede presentarse **conjuntivitis**, **uveítis**.
 
 ![](/remedios-caseros-para-la-rosacea-ocular-salud180.jpeg)
 
@@ -51,7 +51,7 @@ Pueden aparecer **nódulos**, que le dan a la piel una apariencia acartonada, es
 1. **Se desconoce** exactamente la causa de la rosácea.
 2. Hay **predisposición genética**, particularmente, las fotos de mi padre a mi edad mostraban lesiones de rosácea en su rostro, luego desaparecieron.
 3. **Puede manifestarse a cualquier edad**, es más frecuente entre treinta y cincuenta años, y es común en personas con piel clara, que no es mi caso.
-4. **Hay más casos de rosácea en mujere**s, pero cuando se da en varones suelen ser más severos.
+4. **Hay más casos de rosácea en mujeres**, pero cuando se da en varones suelen ser más severos.
 5. Hay estudios que relacionan la bacteria **Helicobacter Pylori** con la rosácea.
 6. Algunos casos de rosácea se relacionan con el ácaro **Demodex Folliculorum**. Esto suele pasar muy a menudo cuando no hay limpieza adecuada de la ropa de cama, sobretodo la funda de la almohada.
 
@@ -59,7 +59,7 @@ Pueden aparecer **nódulos**, que le dan a la piel una apariencia acartonada, es
 
 Muchas personas se preguntan si la rosácea tiene cura, es considerada una enfermedad crónica, cuyos tratamientos sirven para tratar los síntomas, espaciar los brotes y atenuar las secuelas.
 
-Hoy en día hay muchos tratamientos que pueden mantener a una persona que padezca rosácea sin síntomas por un tiempo prolongado. Se utilizan **antibióticos contra el acné**, tópicos y orales, generalmente a **dosis más bajas** que la del acné. En mi caso me indicaron **doxiciclina**, **metronidazol** en gel. También existen **cremas para hidratar y aliviar el enrojecimiento de la piel**, entre otras opciones están los retinoides, pero, a dosis bajas, láser, luz pulsada. En caso que el dermatólogo diagnostique que haya afectación en exceso por un ácaro (**Demodex folliculorum**) se indica un antiparasitario denominado **Ivermectina,** de forma tópica y oral. Hoy en día **se sigue investigando** sobre el tratamiento de la rosácea.
+Hoy en día hay muchos tratamientos que pueden mantener a una persona que padezca rosácea sin síntomas por un tiempo prolongado. Se utilizan **antibióticos contra el acné**, tópicos y orales, generalmente a **dosis más bajas** que la del acné. En mi caso me indicaron **doxiciclina**, **metronidazol** en gel. También existen **cremas para hidratar y aliviar el enrojecimiento de la piel**, entre otras opciones están los retinoides (dosis bajas), láser y luz pulsada. En caso que el dermatólogo diagnostique que haya afectación en exceso por un ácaro (**Demodex folliculorum**) se indica un antiparasitario denominado **Ivermectina,** de forma tópica y oral. Hoy en día **se sigue investigando** sobre el tratamiento de la rosácea.
 
 ![](/diana-1-1.jpg)
 
@@ -67,7 +67,7 @@ Hoy en día hay muchos tratamientos que pueden mantener a una persona que padezc
 **Cuidados de la piel**
 
 1. El cuidado de la piel es importante, generalmente te dicen el tratamiento, pero en ocasiones el paciente desconoce la rutina diaria del cuidado de la piel. Para el cuidado de la piel se utilizan **aguas micelares**, **leches**, **agua termal**, se deben aplicar con **pañuelos de papel** en lugar de discos de algodón o toallitas desmaquillantes, ya que pueden lesionar el rostro.
-2. Se debe utilizar **agua templada** para la limpieza del rostro y secar con toallas suaves, con pequeños toques.
+2. Se debe utilizar **agua templada** para la limpieza del rostro y secar con una toalla suave, con pequeños toques.
 3. Luego se debe aplicar **hidratación**, esto es importante porque hay una pérdida transepidérmica de agua mayor que la de las pieles normales.
 4. También es fundamental aplicar **protector solar**.
 5. Al aplicar cosmética se debe utilizar **cosmética especial para pieles sensibles**, según la sugerencia del dermatólogo con principios activos antirrojeces, calmantes o antiinflamatorios.
@@ -87,12 +87,11 @@ Hoy en día hay muchos tratamientos que pueden mantener a una persona que padezc
  9. Aplicar productos con **fragancia** y **conservantes**.
 10. Exponerse al **tabaco.**
 11. Ingerir **bebidas alcohólicas**.
-12. Consumir **comidas calientes**.
-13. Consumir **comidas picantes**.
-14. Aplicar **exfoliaciones fuertes**.
-15. **Tratamientos estéticos** a base de **ácido glicólico**, **retinoides.**
-16. Limpieza con **cepillos eléctricos.**
-17. **Estresarse**.
+12. Consumir **comidas calientes y picantes**.
+13. Aplicar **exfoliaciones fuertes**.
+14. **Tratamientos estéticos** a base de **ácido glicólico**, **retinoides.**
+15. Limpieza con **cepillos eléctricos.**
+16. **Estresarse**.
 
 **Impacto social**
 
@@ -100,4 +99,4 @@ Hoy en día hay muchos tratamientos que pueden mantener a una persona que padezc
 
 ![](/fernand-de-canne-kio8vk-dgpq-unsplash-1.jpg)**Conclusión**
 
-La **rosácea** es una afección crónica, sin embargo, si llevamos a cabo el cuidado de nuestra piel desde una rutina diaria hasta el tratamiento específico podremos espaciar los brotes y tener una menor afectación por un tiempo prolongado. También es importante evitar muchos de los factores desencadenantes para ayudar a prevenir las lesiones de la **rosácea**. Aunque muchas personas no lo tomen en cuenta, llevar una vida tranquila y saludable puede ayudar mucho.
+La **rosácea** es una afección crónica, sin embargo, si llevamos a cabo el cuidado de nuestra piel desde una rutina diaria hasta el tratamiento específico podremos espaciar los brotes y tener una menor afectación durante un tiempo prolongado. También es importante evitar muchos de los factores desencadenantes para proteger a nuestra piel. Aunque muchas personas no lo tomen en cuenta, llevar una vida tranquila y saludable puede ayudar mucho.
