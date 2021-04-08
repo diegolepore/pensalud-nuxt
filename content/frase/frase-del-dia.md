@@ -1,5 +1,6 @@
 ---
-body: ' "Siempre parece imposible hasta que se convierte en realidad". Nelson Mandela'
-icon: "/integridad-1.png"
+body: '"No gastes más tiempo argumentando acerca de lo que debe ser un buen hombre.
+  Sé uno." Marco Aurelio.'
+icon: "/thumbs-up-1.png"
 
 ---
