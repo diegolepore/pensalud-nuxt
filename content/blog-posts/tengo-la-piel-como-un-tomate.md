@@ -9,7 +9,7 @@ date: 2021-04-08T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Cuando estaba en el Postgrado de Puericultura y Pediatría cumpliendo con mis actividades diarias, aunado a la mala alimentación, empecé a presentar **pápulas** con **áreas eritematosas** en la **zona T del rostro** y **mejillas**, no sentía prurito, ni molestias, pero, si mi cara parecía el de una adolescente y cuando sudaba mi rostro parecía un tomate. Al consultarlo con la dermatólogo pediatra del hospital me diagnosticaron **Rosácea**, entonces desde allí empecé a cumplir nuevos cuidados por el bienestar de mi salud, sin embargo, hay altos y bajos en esta patología, ya que cursa con brotes y cuando hay demasiada presión o estrés, es muy difícil que desaparezca. Con esto, quiero explicarte lo más fácil posible qué medidas puedes tomar si padeces de **Rosácea.**
+Cuando estaba en el Postgrado de Puericultura y Pediatría cumpliendo con mis actividades diarias, aunado a la mala alimentación, empecé a presentar **pápulas** con **áreas eritematosas** en la **zona T del rostro** y **mejillas**, no sentía prurito, ni molestias, pero mi cara parecía la de una adolescente con acné y cuando sudaba mi rostro parecía un tomate. Al consultarlo con la dermatólogo pediatra del hospital me diagnosticaron **Rosácea**, entonces desde allí empecé a cumplir nuevos cuidados por el bienestar de mi salud, sin embargo, hay altos y bajos en esta patología, ya que cursa con brotes y cuando hay demasiada presión o estrés, es muy difícil que desaparezca. Con esto, quiero explicarte de la manera más sencilla posible qué medidas puedes tomar si padeces de **Rosácea.**
 
 **¿Qué es Rosacea?**
 
@@ -27,7 +27,7 @@ Estas lesiones suelen aparecer cuando el individuo está expuesto a cambios brus
 
 **Rosácea pápulo-pustulosa**
 
-Este tipo de rosácea es la que padezco, se presenta con enrojecimiento del rostro igual que la rosácea eritemato-telangiectásica, pero en menos proporción. Estas lesiones se parecen mucho a las que aparecen con el acné. La piel es grasa, no arde y no pica con mucha intensidad. Muchas veces mis lesiones lucen como el acné de una persona adolescente, es muy fácil confundirla con ello.
+Este tipo de rosácea es la que padezco, se presenta con enrojecimiento del rostro igual que la rosácea eritemato-telangiectásica, pero en menos proporción. Estas lesiones se parecen mucho a las que aparecen con el acné. La piel es grasa, no arde y no pica con mucha intensidad. Muchas veces mis lesiones lucen como el acné de una persona adolescente, es muy fácil confundirlas con ello.
 
 ![](/54f8220f-ad0e-4a57-83a1-321b1651d59c-1.jpg)  
 ![](/captura-de-pantalla-2021-04-08-a-la-s-5-16-50-p-m.png)
