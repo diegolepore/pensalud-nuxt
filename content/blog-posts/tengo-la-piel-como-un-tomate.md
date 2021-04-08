@@ -59,7 +59,7 @@ Pueden aparecer **nódulos**, que le dan a la piel una apariencia acartonada, es
 
 Muchas personas se preguntan si la rosácea tiene cura, es considerada una enfermedad crónica, cuyos tratamientos sirven para tratar los síntomas, espaciar los brotes y atenuar las secuelas.
 
-Hoy en día hay muchos tratamientos que pueden mantener a una persona que padezca rosácea sin síntomas por un tiempo prolongado. Se utilizan **antibióticos contra el acné**, tópicos y orales, generalmente a **dosis más bajas** que la del acné. En mi caso me indicaron **doxiciclina**, **metronidazol** en gel. También existen **cremas para hidratar y aliviar el enrojecimiento de la piel**, entre otras opciones están los retinoides, pero, a dosis bajas, láser, luz pulsada. En caso que el dermatólogo diagnostique que haya afectación en exceso por un ácaro (**Demodex folliculorum**) se indica un antiparasitario denominado **Ivermectina,** de forma tópico y oral. Hoy en día **se sigue investigando** sobre el tratamiento de la rosácea.
+Hoy en día hay muchos tratamientos que pueden mantener a una persona que padezca rosácea sin síntomas por un tiempo prolongado. Se utilizan **antibióticos contra el acné**, tópicos y orales, generalmente a **dosis más bajas** que la del acné. En mi caso me indicaron **doxiciclina**, **metronidazol** en gel. También existen **cremas para hidratar y aliviar el enrojecimiento de la piel**, entre otras opciones están los retinoides, pero, a dosis bajas, láser, luz pulsada. En caso que el dermatólogo diagnostique que haya afectación en exceso por un ácaro (**Demodex folliculorum**) se indica un antiparasitario denominado **Ivermectina,** de forma tópica y oral. Hoy en día **se sigue investigando** sobre el tratamiento de la rosácea.
 
 ![](/diana-1-1.jpg)
 
