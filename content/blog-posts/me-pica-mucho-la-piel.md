@@ -67,14 +67,14 @@ La **escabiosis** o **sarna** es una enfermedad que ha existido desde hace más 
       ![](/chinoin_scabisan_crema_tubo.png)
 
 
-  * **Vaselina azufrada al  5 o 6%**, se aplica en **lactantes** y **embarazadas**. Se desconoce con exactitud su mecanismo de acción, pero se intuye que quizás el azufre, por sus propiedades queratolíticas, ejerce efecto tóxico directo sobre el ácaro. Entre los inconvenientes se encuentra que puede irritar, mancha la ropa y tiene mal olor.
+  * **Vaselina azufrada al  5 o 6%**, se aplica en **lactantes** y **embarazadas**. Se desconoce con exactitud su mecanismo de acción, pero se intuye que quizás el azufre, por sus propiedades queratolíticas, ejerce efecto tóxico directo sobre el ácaro. Entre los inconvenientes se encuentra que puede irritar la piel, manchar la ropa y tiene mal olor.
 
   ![](/m_ch7100.jpeg)
-  * **La Ivermectina** es eficaz también frente a sarna. Está indicada en **pacientes que no responden al tratamiento tópico**, que **no pueden adherir a los regímenes tópicos o que tienen inmunocompromiso** y **escabiosis noruega**. Dado que sólo actúa a nivel de nervios ya desarrollados, es decir, no es ovicida, a la semana debería revisarse al paciente para descartar la presencia de nuevos ácaros.
+  * **La Ivermectina** es eficaz también frente a sarna. Está indicada en **pacientes que no responden al tratamiento tópico**, que **no se pueden adherir a los regímenes tópicos, o que tienen inmunocompromiso** y **escabiosis noruega**. Dado que no es ovicida, a la semana debería reevaluar al paciente para descartar la presencia de nuevos ácaros.
 
   ![](/ivermectina.png)
 * Ninguno de los medicamentos que se aplican es **totalmente ovicida**, por eso hay que **reevaluar a los 7 días** para saber si se necesita otra aplicación del medicamento.
-* El prurito y las lesiones se pueden tratar con emolientes e hidratantes de la piel, **antialérgicos**.
+* El prurito y las lesiones se pueden tratar con emolientes e hidratantes de la piel, y **antialérgicos**.
 * **Remojar la piel en agua fría o en un baño de avena**, o aplicar un paño frío y húmedo en las zonas irritadas de la piel puede minimizar el pruruito.
 
 **Prevención**
