@@ -8,7 +8,7 @@ date: 2021-04-15T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-La **escabiosis** o **sarna** es una enfermedad que ha existido desde hace más de 50 años y sigue actualmente afectando a muchas personas. Es una **ectoparasitosis** producida por el ácaro parásito **_Sarcoptes scabiei hominis_**, el prefijo **ecto** significa “**fuera o exterior**” es denominado así porque el parásito cumplen su ciclo en la piel y tejido subcutáneo. Cuando afecta a una persona es muy probable que toda la familia esté infectada, sobre todo cuando hay hacinamiento. En cuanto a edad, raza y sexo afecta de la misma manera. Entre los síntomas principales está el **prurito** o **picor intenso**, especialmente en las noches, en el siguiente artículo te explicaré porqué ocurre de esta manera.
+La **escabiosis** o **sarna** es una enfermedad que ha existido desde hace más de 50 años y sigue actualmente afectando a muchas personas. Es una **ectoparasitosis** producida por el ácaro parásito **_Sarcoptes scabiei hominis_**, el prefijo **ecto** significa “**fuera o exterior**” es denominado así porque el parásito cumplen su ciclo en la piel y tejido subcutáneo. Cuando afecta a una persona es muy probable que toda la familia esté infectada, sobre todo cuando hay hacinamiento. En cuanto a edad, raza y sexo afecta de la misma manera. Entre los síntomas principales está el **prurito** o **picor intenso**, especialmente en las noches. En el siguiente artículo te explicaré porqué ocurre de esta manera.
 
 **¿Causa de la escabiosis o sarna?**
 
