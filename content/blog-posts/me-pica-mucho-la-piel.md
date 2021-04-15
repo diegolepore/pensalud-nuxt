@@ -46,7 +46,7 @@ La **escabiosis** o **sarna** es una enfermedad que ha existido desde hace más 
   * Es posible el **contagio** a partir de **fómites (toallas**, **sábanas**, **ropa**, **cojines**, **sofás** o **muebles**, **alfombras**) ya que el ácaro puede **sobrevivir** aproximadamente **3 días** **fuera** de la piel humana.
 
     **¿Diagnóstico?**
-  * El diagnóstico se realiza con la evaluación y examen físico del paciente, se puede confirmar al realizar un examen microscópico del material que se obtiene tras el rascado de los surcos y la demostración del ácaro, de sus huevos.
+  * El diagnóstico se realiza con la evaluación y examen físico del paciente, se puede confirmar al realizar un examen microscópico del material que se obtiene tras el rascado de los surcos, mediante la demostración del ácaro, y sus huevos.
 
     ![](/trust-tru-katsande-6q5qg8iigro-unsplash-1.jpg)
 
