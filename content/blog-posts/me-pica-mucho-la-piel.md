@@ -12,7 +12,7 @@ La **escabiosis** o **sarna** es una enfermedad que ha existido desde hace más 
 
 **¿Causa de la escabiosis o sarna?**
 
-**Sarcoptes scabiei hominis** es el parásito responsable de la sarna en el hombre, la hembra adulta es la causante de la enfermedad, ella **labra** los **túneles** en el **estrato córneo** de la **epidermis**, tras la **copulación**, es decir, la unión sexual del macho y la hembra, se realiza **puesta de los huevos**, **40 a 50** aproximadamente, a las **5 semanas** de haber cumplido con este objetivo, **muere**. El ciclo de la **fase de huevo hasta adulto**, ya sea macho o hembra, se lleva a cabo en aproximadamente **18 días**. Las **larvas salen a través de la piel** al **tercer día**, atraviesan el epitelio y a los **12-16 días** ya son **infectantes**.
+**Sarcoptes scabiei hominis** es el parásito responsable de la sarna en el humano, la hembra adulta es la causante de la enfermedad, ella **labra** los **túneles** en el **estrato córneo** de la **epidermis**, tras la **copulación**, es decir, la unión sexual del macho y la hembra, se realiza **puesta de los huevos**, **40 a 50** aproximadamente, a las **5 semanas** de haber cumplido con este objetivo, **muere**. El ciclo de la **fase de huevo hasta adulto**, ya sea macho o hembra, se lleva a cabo en aproximadamente **18 días**. Las **larvas salen a través de la piel** al **tercer día**, atraviesan el epitelio y a los **12-16 días** ya son **infectantes**.
 
 ![](/sarcoptes_scabiei_1950_000.jpeg)
 
