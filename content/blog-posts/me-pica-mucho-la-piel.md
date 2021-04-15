@@ -69,10 +69,11 @@ La **escabiosis** o **sarna** es una enfermedad que ha existido desde hace más 
 
   * **Vaselina azufrada al  5 o 6%** se aplica en **lactantes** y **embarazadas**. Se desconoce con exactitud su mecanismo de acción, pero se intuye que quizás el azufre, por sus propiedades queratolíticas, ejerce efecto tóxico directo sobre el ácaro. Entre los inconvenientes se encuentra que puede irritar la piel, manchar la ropa y tiene mal olor.
 
-  ![](/m_ch7100.jpeg)
-  * **La Ivermectina** es eficaz también frente a sarna. Está indicada en **pacientes que no responden al tratamiento tópico**, que **no se pueden adherir a los regímenes tópicos, o que tienen inmunocompromiso** y **escabiosis noruega**. Dado que no es ovicida, a la semana debería reevaluar al paciente para descartar la presencia de nuevos ácaros.
+![](/9003_pomada-azufrada-6porc-50gr-valma_-1-1.png)
 
-  ![](/ivermectina.png)
+* **La Ivermectina** es eficaz también frente a sarna. Está indicada en **pacientes que no responden al tratamiento tópico**, que **no se pueden adherir a los regímenes tópicos, o que tienen inmunocompromiso** y **escabiosis noruega**. Dado que no es ovicida, a la semana debería reevaluar al paciente para descartar la presencia de nuevos ácaros.
+
+  ![](/shutterstock_19148836212-width-465.png)
 * Ninguno de los medicamentos que se aplican es **totalmente ovicida**, por eso hay que **reevaluar a los 7 días** para saber si se necesita otra aplicación del medicamento.
 * El prurito y las lesiones se pueden tratar con emolientes e hidratantes de la piel, y **antialérgicos**.
 * **Remojar la piel en agua fría o en un baño de avena** puede minimizar el prurito.
