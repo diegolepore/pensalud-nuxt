@@ -2,7 +2,7 @@
 title: Me pica mucho la piel
 excerpt: 'La escabiosis o sarna es una enfermedad que ha existido desde hace más de
   50 años y sigue actualmente afectando a muchas personas. '
-thumbnail: "/itchy-skin-treatments-1579032503.jpeg"
+thumbnail: "/picazon-en-la-piel.jpeg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-04-15T00:00:00Z
 avatar: "/1517629621762.jpeg"
