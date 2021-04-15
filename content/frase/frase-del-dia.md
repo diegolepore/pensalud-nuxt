@@ -1,6 +1,6 @@
 ---
-body: '"No gastes más tiempo argumentando acerca de lo que debe ser un buen hombre.
-  Sé uno." Marco Aurelio.'
-icon: "/thumbs-up-1.png"
+body: '"Tú tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta
+  de esto y encontrarás la fuerza" Marco Aurelio.'
+icon: "/mente-1.png"
 
 ---
