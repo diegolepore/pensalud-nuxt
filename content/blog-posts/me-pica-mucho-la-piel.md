@@ -22,7 +22,7 @@ La **escabiosis** o **sarna** es una enfermedad que ha existido desde hace más 
 * Aparece una **erupción generalizada** en el **tronco** y **extremidades**, la **cabeza nunca se afecta**, **excepto en los niños menores de 2 años**.
 * Uno de los síntomas principales es el **prurito**, es decir, el picor que causa el parásito. Generalmente se da en las **noches** ya que la **hembra deposita los huevos por la noche**, también se **exacerba** el prurito cuando hay **calor**.
 * Las zonas afectadas son las siguientes: **espacios interdigitales**, **muñecas**, **codos**, **axilas**, **zona periumbilical**, **pelvis**, **rodillas**, **nalgas**, **pene**, **bordes de los pies**.
-* Entre las lesiones características se encuentran el **surco acarino**, que es el surco del parásito, es **semejante** a una **línea** que en ocasiones es difícil de identificar por la excoriación que existe debido al rascado, tiene el **punto de entrada del parásito**, allí se forma una **vesícula perlada**, dentro del surco está una **eminencia** que es el **parásito**. Estos surcos se localizan en **zonas de flexión de las muñecas**, **espacios interdigitales de las manos**, **región lateral de las palmas y dorso del pie**.
+* Entre las lesiones características se encuentran el **surco acarino**, que es el surco del parásito, **semejante** a una **línea** que en ocasiones es difícil de identificar por la excoriación que existe debido al rascado, tiene el **punto de entrada del parásito**, allí se forma una **vesícula perlada**, dentro del surco está una **eminencia** que es el **parásito**. Estos surcos se localizan en **zonas de flexión de las muñecas**, **espacios interdigitales de las manos**, **región lateral de las palmas y dorso del pie**.
 
   ![](/captura-de-pantalla-2021-04-15-a-la-s-5-26-24-p-m.png)
 
@@ -35,7 +35,7 @@ La **escabiosis** o **sarna** es una enfermedad que ha existido desde hace más 
 ![](/captura-de-pantalla-2021-04-15-a-la-s-5-33-45-p-m.png)
 
 * Estas **lesiones** es frecuente que se **sobreinfecten** debido al rascado.
-* En **paciente** con **sistema inmunológico** afectado pueden presentar **lesiones costrosas**, esta sarna es denominada **sarna noruega**.
+* En **pacientes** con afección del **sistema inmunológico**, pueden presentarse **lesiones costrosas**, esta sarna es denominada **sarna noruega**.
 
   ![](/captura-de-pantalla-2021-04-15-a-la-s-5-41-50-p-m.png)
 
