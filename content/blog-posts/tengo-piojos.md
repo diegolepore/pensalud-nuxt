@@ -27,7 +27,7 @@ La transmisión es por **contacto directo**, generalmente cuando se comparten lo
 
 **Ciclo evolutivo del piojo**
 
-Esto es muy importante porque de aquí va depender el tratamiento de la pediculosis, esto nos dice los días de desarrollo del piojo. En **8 días** aproximadamente los **huevos eclosionan**, pasan al estado de **ninfa**, que sería el estadio del piojo joven, su última fase es la de **adulto** que lo hacen en **10 días** aproximadamente desde su estado de ninfa. Se diferencian en **machos** y **hembras**, se unen y la hembra empieza a poner huevos **durante 10 días hasta que mueren**. Su **ciclo** total es de **28** días aproximadamente.
+Esto es muy importante porque de aquí va depender el tratamiento de la pediculosis, esto nos dice los días de desarrollo del piojo. En **8 días** aproximadamente los **huevos eclosionan**, pasan al estado de **ninfa**, que sería el estadio del piojo joven, su última fase es la de **adulto** que lo hacen en **10 días** aproximadamente desde su estado de ninfa. Se diferencian en **machos** y **hembras**, se unen y la hembra empieza a poner huevos **durante 10 días hasta que muere**. Su **ciclo** total es de **28** días aproximadamente.
 
 ![](/gr1-2.jpeg)
 
