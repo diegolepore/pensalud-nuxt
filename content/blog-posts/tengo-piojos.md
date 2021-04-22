@@ -76,7 +76,7 @@ Existen una gran variedad de tratamientos para eliminar los piojos, conociendo y
     ![](/eeec108a70121680c9c2ebd73551138f.jpeg)
   * El **vinagre** **ablanda** el **pegamento** con que las liendres se pegan a la raíz del pelo. Permite que se desprendan, pero, **no los va matar**.
 
-    ![](/d_nq_np_723786-mco32394108478_102019-o.jpeg)
+    ![](/vinagre-blanco500.jpeg)
   * También hay mención de **aceite esencial del árbol de té**. No hay evidencia científica de su eficacia y **hay que utilizarla** en la **concentración adecuada y** es difícil conseguirlo simplemente con las hojas o ramas, **siendo tóxico para los niños** sino se usa de forma adecuada. También se le atribuye al **árbol de Neem o Nim** su eficacia para combatir los piojos, pero, conseguir la concentración adecuada es difícil mediante hojas y una olla, actualmente hay un medicamento en el mercado de la marca **ISDIN** que tiene una concentración de **0.75%**  de extracto de semilla del árbol de Neem.
 
     ![](/captura-de-pantalla-2021-04-22-a-la-s-11-02-27-p-m.png)
