@@ -1,6 +1,6 @@
 ---
-body: '"Tú tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta
-  de esto y encontrarás la fuerza" Marco Aurelio.'
-icon: "/mente-1.png"
+body: '"Hay mucha gente en el mundo, pero todavía hay más rostros, pues cada uno tiene
+  varios" Rainer María Rilke.'
+icon: "/teatro-3.png"
 
 ---
