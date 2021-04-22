@@ -56,14 +56,13 @@ Existen una variedad de tratamientos para eliminar los piojos, conociendo ya el 
   ![](/pack-permetrina15-gelchampu.jpeg)
 * **Permetrina con dimeticona**, la dimeticona asfixia a los piojos y desprende las liendres. Con la **dimeticona** puede haber recurrencias.
 
-  ![](/d_nq_np_617235-mla31018323627_062019-o.jpeg)
+  ![](/nopucid-uso-diario-locx65-ml.jpeg)
 * **Fenotrín** 0,3% más **butóxido de piperonilo** 2%, es una opción en caso de recaídas con permetrina.
 
-  ![](/captura-de-pantalla-2021-04-22-a-la-s-11-17-43-p-m.png)
+  ![](/captura-de-pantalla-2021-04-22-a-la-s-11-15-55-p-m.png)
 * Otras opciones son la **ivermectina tópica al 0.5**%, en algunos casos fórmulas de **permetrina con ivermectina**. Esto se deja cuando hay fracaso de los tratamientos clásicos para pediculosis.
 
-![](/fig-3-sklice-ivermectin-lotion-0-5-treatment-for-head-lice-2020-02-20-15-01-58.png)
-
+  ![](/invermectin.jpeg)
 * Cuando usamos **acondicionadores** sin aclarado se **dificulta** que las **liendres** se adhieran fuertemente al cabello.
 * Generalmente todos los productos que se utilizan matan a los piojos pero no completamente a las **liendres**, es importante pasar diariamente la **lendrera** después del tratamiento para que no haya recaídas.
 
@@ -85,6 +84,4 @@ Existen una variedad de tratamientos para eliminar los piojos, conociendo ya el 
 
   **Referencias bibliográficas**
   * Dr Pedro Jaén. Una piel para toda la vida. Editorial Planeta. 2021
-
-
   * [https://www.cdc.gov/parasites/lice/head/es/tratamiento.html](https://www.cdc.gov/parasites/lice/head/es/tratamiento.html "https://www.cdc.gov/parasites/lice/head/es/tratamiento.html")
