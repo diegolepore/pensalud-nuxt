@@ -170,27 +170,22 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
 
         **2)** Si se **logra ver en el comedón el orificio externo**, que es el poro, se podría intentar sacar el contenido de la siguiente manera: primero garantizando una buena higiene, **lavando bien las manos**. Para mayor seguridad mantener las **uñas cortas**, se pueden **cubrir los dedos con un pañuelo de papel para no lesionar la piel con** el borde de las **uñas** y **desinfectar la zona**. **Presionar suavemente** a ambos lados del grano, **retira el contenido con un algodón que no suelte pelusa o pañuelo de papel**, **no reintentar.**
      * **Rutina de cuidado de la piel**
-       1. **Limpieza facial**
+
+       **1) Limpieza facial:** es importante que ante el acné juvenil se realice una **rutina** consecuente de **limpieza**, de esta manera se elimina la obstrucción de los poros y se retira el exceso de sebo.
 
        ![](/234576.jpeg)
 
-       Es importante que ante el acné juvenil se realice una **rutina** consecuente de **limpieza**, de esta manera se elimina la obstrucción de los poros y se retira el exceso de sebo.
+       **2)**  No utilizar **cosméticos comedogénicos**, es decir, son aquellos ingredientes que obstruyen o ayudan a obstruir los poros de nuestra piel, causando imperfecciones tales como puntos negros, espinillas o granos, ya que promueven el exceso de grasa, entre ellos están: la manteca de cacao, aceites de coco, aguacate, almendras, soja, sésamo o ajonjolí, maíz, derivados de lanolina, vaselina, parafina, entre otros.
 
-       
-       2\. No utilizar **cosméticos comedogénicos**, es decir, son aquellos ingredientes que obstruyen o ayudan a obstruir los poros de nuestra piel, causando imperfecciones tales como puntos negros, espinillas o granos, ya que promueven el exceso de grasa, entre ellos están: la manteca de cacao, aceites de coco, aguacate, almendras, soja, sésamo o ajonjolí, maíz, derivados de lanolina, vaselina, parafina, entre otros.
+       ![](/annie-spratt-zxl_m4kvzds-unsplash.jpg) **3)** Se deben utilizar cosméticos oil free (libre de aceite).
 
-       ![](/annie-spratt-zxl_m4kvzds-unsplash.jpg)
-       3\. Se deben utilizar cosméticos oil free (libre de aceite).
+        **4)** Los varones que presentan acné deberían evitar el afeitado eléctrico.
 
-       
-       4\. ­ Los varones que presentan acné deberían evitar el afeitado eléctrico.
-
-       ![](/hombre-barbudo-maquinilla-afeitar-electrica_171337-17316.jpeg)
-       5\. Es importante hidratar la piel con acné, utilizar una con base acuosa,"no comedogénica".
+       ![](/hombre-barbudo-maquinilla-afeitar-electrica_171337-17316.jpeg) **5)** Es importante hidratar la piel con acné, utilizar una con base acuosa,"no comedogénica".
 
        ![](/captura-de-pantalla-2021-05-08-a-la-s-1-40-45-a-m.png)
 
-       6\. Se debe utilizar protector solar.
+       **6)** Se debe utilizar protector solar.
 
        ![](/captura-de-pantalla-2021-05-08-a-la-s-1-42-54-a-m.png)
 
