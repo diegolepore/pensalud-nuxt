@@ -188,10 +188,11 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
        ![](/hombre-barbudo-maquinilla-afeitar-electrica_171337-17316.jpeg)
        5\. Es importante hidratar la piel con acné, utilizar una con base acuosa,"no comedogénica".
 
-       ![](/cerave_crema_hidratante_piel_seca_340g_187655_3337875597227_1.jpeg)
+       ![](/captura-de-pantalla-2021-05-08-a-la-s-1-40-45-a-m.png)
+
        6\. Se debe utilizar protector solar.
 
-       ![](/81q5gfqcmol-_sx466_.jpg)
+       ![](/captura-de-pantalla-2021-05-08-a-la-s-1-42-54-a-m.png)
 
        **Mitos urbanos del acné**
 
