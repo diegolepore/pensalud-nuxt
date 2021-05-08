@@ -8,7 +8,7 @@ date: 2021-05-07T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-El acné comienza en la adolescencia y viene con una serie de cambios físicos y emocionales. Cuando inicia la pubertad las **glándulas sexuales**        ( los **ovarios** en la mujer y los **testículos** en los hombres ) y las **glándulas suprarrenales** segregan una gran cantidad de hormonas, tales como, las **hormonas sexuales femeninas**: **estrógenos** y **progestágeno**, y **hormonas sexuales masculinas**: **andrógenos** que corresponden a la **testosterona**, la **androsterona** y la **androstenediona**. Ellos son responsables de los cambios que se producen en el cuerpo del adolescente.
+El acné es más frecuente en la adolescencia y viene con una serie de cambios físicos y emocionales. Cuando inicia la pubertad las **glándulas sexuales** ( los **ovarios** en la mujer y los **testículos** en los hombres ) y las **glándulas suprarrenales** segregan una gran cantidad de hormonas, tales como, las **hormonas sexuales femeninas**: **estrógenos** y **progestágeno**, y **hormonas sexuales masculinas**: **andrógenos** que corresponden a la **testosterona**, la **androsterona** y la **androstenediona**. Ellos son responsables de los cambios que se producen en el cuerpo del adolescente.
 
 ![](/20080528_mgb_hormonas_.jpeg)
 
