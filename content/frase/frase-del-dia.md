@@ -1,6 +1,6 @@
 ---
-body: '"Hay mucha gente en el mundo, pero todavía hay más rostros, pues cada uno tiene
-  varios" Rainer María Rilke.'
-icon: "/teatro-3.png"
+body: "“Da el primer paso con fe. No tienes por qué ver toda la escalera. Basta con
+  que subas el primer peldaño”. Martin Luther King."
+icon: "/escalera-mecanica-1.png"
 
 ---
