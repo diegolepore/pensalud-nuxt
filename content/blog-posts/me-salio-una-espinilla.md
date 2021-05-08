@@ -80,7 +80,7 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
 
    **2) Gel de clindamicina/peróxido de benzoílo:**
 * **Mecanismo de acción:** la combinación de clindamicina y peróxido de benzoilo funciona al matar las bacterias que causan el acné.
-* **Indicaciones**: tratamiento acné inflamatorio superficial leve en niños mayores de 12 años.
+* **Indicaciones**: tratamiento acné inflamatorio superficial leve, en niños mayores de 12 años.
 * **Efectos adversos:** piel seca, pueden blanquear la ropa y el cabello, reacciones alérgicas son raras.
 
 ![](/duac-10-mg-g-30-1.jpg) **3) Gel de eritromicina/peróxido de benzoílo:**
@@ -225,4 +225,4 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
 
   **Conclusión**
 
-  El acné es más frecuente en la adolescencia, sin embargo, esto no limita que suceda en niños y en el adulto. Lo más importante es que con el tratamiento adecuado esto puede ser superado, es primordial consultar al dermatólogo y seguir los cuidados necesarios en casa, así como un adecuado cuidado facial para evitar brotes.
+  El acné es más frecuente en la adolescencia, sin embargo, esto no limita que suceda en niños y en el adulto. Lo más importante es que con el tratamiento adecuado esto puede ser superado, es primordial consultar al dermatólogo y seguir el tratamiento, así como un adecuado cuidado facial para evitar brotes.
