@@ -119,7 +119,7 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
 
   **3) Ácido salicílico**: Es un beta hidroxiácido, se aisló en la corteza del sauce Salix. En formulación 0,5% al 2%.
   * **Mecanismo de acción:** es queratolítico, antimicrobiano, antiinflamatorio.
-  * **Indicaciones**: se utiliza frecuentemente en los casos de acné, ya que permite exfoliar la piel y controlar la producción de grasa, de esta manera evita que los poros se obstruyan y aparezcan granos y puntos negros, también mejora las marcas de acné, cicatrices y arrugas.
+  * **Indicaciones**: se utiliza frecuentemente en los casos de acné, ya que permite exfoliar la piel y controlar la producción de grasa, de esta manera evita que los poros se obstruyan, aparezcan granos y puntos negros; también mejora las marcas de acné, cicatrices y arrugas.
   * **Efectos adversos**: No se recomienda en mujeres embarazadas, en fase de lactancia. También es importante utilizar protección solar alta a diario.
 
     ![](/6ad7406e32b3ecbf62cbcb5e3d66ac960c510d14d3957df8f5c8c449ea35adf6ddeb79eda78020c657d58a11694d97d3034bdb95d62286ee1a0d0b58608ace45.jpeg)
