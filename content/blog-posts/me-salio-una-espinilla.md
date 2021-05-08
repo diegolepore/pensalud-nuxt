@@ -12,7 +12,7 @@ El acné comienza en la adolescencia y viene con una serie de cambios físicos y
 
 ![](/20080528_mgb_hormonas_.jpeg)
 
-Las **glándulas sudoríparas** que son las que producen sudor, producen más sudor y se **activan** las **glándulas apocrinas**, ellas están localizadas en las mamas, axilas, oído, zona perianal y genital. Este sudor tiene un **olor muy fuerte**.
+Las **glándulas sudoríparas** producen más sudor, y se **activan** las **glándulas apocrinas**, ellas están localizadas en las mamas, axilas, oído, zona perianal y genital. Este sudor tiene un **olor muy fuerte**.
 
 ![](/_bhtestimage.webp)  
 La **glándulas sebáceas** que **segregan grasa**, aumenta su producción, sobre todo, en los **varones** ya que el responsable de esto son los **andrógenos** que están en **menor cantidad en las chicas**. Esta hiperproducción de sebo hace que todo esté más grasoso.
@@ -71,14 +71,12 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
 **1) Peróxido de benzoilo**:
 
 * **Mecanismo de acción**: el peróxido de benzoilo, es antibacteriano, por lo que acaba con **Propionibacterium acnes**. También nos ayuda a eliminar la espinilla, suavizar la piel y regular la producción de grasa. Las cremas con peróxido de benzoilo y derivados de la vitamina A son las más eficaces para tratar **acné leve** y prevenir su recurrencia. En concentraciones (2,5%, 5% y 10%) en gel, loción o jabón.
-
-
 * **Indicaciones**: tratamiento del acné leve o moderado, en niños mayores de 12 años. Se usa con frecuencia en terapia combinada con antibióticos tópicos (también con antibióticos orales), dada su capacidad para minimizar las resistencias bacterianas.
 * **Efectos adversos**: piel seca, pueden blanquear la ropa y el cabello, las reacciones alérgicas son raras.
 
   ![](/peroxiben-gel-isdin-1501143207034-1.jpeg)
 
-   **2) Gel de clindamicina/peróxido de benzoílo:**
+  **2) Gel de clindamicina/peróxido de benzoílo:**
 * **Mecanismo de acción:** la combinación de clindamicina y peróxido de benzoilo funciona al matar las bacterias que causan el acné.
 * **Indicaciones**: tratamiento acné inflamatorio superficial leve, en niños mayores de 12 años.
 * **Efectos adversos:** piel seca, pueden blanquear la ropa y el cabello, reacciones alérgicas son raras.
@@ -149,7 +147,7 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
 
     ![](/captura-de-pantalla-2021-05-07-a-la-s-8-33-25-p-m.png)
 
-    **2) La Eritromicina**: cuando la intolerancia a las tetraciclinas imposibilita su utilización, otra opción son los macrólidos, entre ellos se encuentra la **eritromicina**. 
+    **2) La Eritromicina**: cuando la intolerancia a las tetraciclinas imposibilita su utilización, otra opción son los macrólidos, entre ellos se encuentra la **eritromicina**.
     * **Mecanismo de acción:** inhibe el crecimiento bacteriano.
     * **Indicaciones**: esta indicado en acné moderado, dosis de 500 mg g cada 12 horas, durante un mínimo de un mes y medio.
     * **Efectos adversos**: Hipersensibilidad a los macrólidos.
@@ -165,16 +163,15 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
 
   **Comedones cerrados:** Se debe aplicar cremas o lociones altamente astringentes, que sequen el grano.
 
-    
   **Comedones abiertos o puntos negros:** se pueden quitar más fácilmente que los comedones cerrados, en los casos más severos los especialistas realizan un peeling para facilitar la salida del contenido del comedón
 
 **¿Como sacar el contenido del comedón abierto según la recomendación del Dr Pedro Jaén, en su libro "Una piel para toda la vida"?**
 
- **1)** Si el comedón está muy cerrado y no se aprecia la salida del poro, se recomienda no hacer nada. Si el contenido no logra salir al exterior, va acabar yéndose hacia adentro, lo cual puede terminar complicandose con infección y dolor.
+**1)** Si el comedón está muy cerrado y no se aprecia la salida del poro, se recomienda no hacer nada. Si el contenido no logra salir al exterior, va acabar yéndose hacia adentro, lo cual puede terminar complicandose con infección y dolor.
 
 ![](/truco-eliminar-granos-espinillas-banner-696x364.jpeg)
 
- **2)** Si se **logra ver en el comedón el orificio externo**, que es el poro, se podría intentar sacar el contenido de la siguiente manera: primero garantizando una buena higiene, **lavando bien las manos**. Para mayor seguridad mantener las **uñas cortas**, se pueden **cubrir los dedos con un pañuelo de papel para no lesionar la piel con** el borde de las **uñas** y **desinfectar la zona**. **Presionar suavemente** a ambos lados del grano, **retira el contenido con un algodón que no suelte pelusa o pañuelo de papel**, **no reintentar.**
+**2)** Si se **logra ver en el comedón el orificio externo**, que es el poro, se podría intentar sacar el contenido de la siguiente manera: primero garantizando una buena higiene, **lavando bien las manos**. Para mayor seguridad mantener las **uñas cortas**, se pueden **cubrir los dedos con un pañuelo de papel para no lesionar la piel con** el borde de las **uñas** y **desinfectar la zona**. **Presionar suavemente** a ambos lados del grano, **retira el contenido con un algodón que no suelte pelusa o pañuelo de papel**, **no reintentar.**
 
 * **Rutina de cuidado de la piel**
 
@@ -186,7 +183,7 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
 
   ![](/annie-spratt-zxl_m4kvzds-unsplash.jpg) **3)** Se deben utilizar cosméticos oil free (libre de aceite).
 
-   **4)** Los varones que presentan acné deberían evitar el afeitado eléctrico.
+  **4)** Los varones que presentan acné deberían evitar el afeitado eléctrico.
 
   ![](/hombre-barbudo-maquinilla-afeitar-electrica_171337-17316.jpeg) **5)** Es importante hidratar la piel con acné, utilizar una con base acuosa,"no comedogénica".
 
@@ -210,7 +207,7 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
 
   ![](/tim-gouw-1k9t5yiz2wu-unsplash-1.jpg)
 
-   **3) Recibir los rayos solares me va ayudar a secar la espinilla**
+  **3) Recibir los rayos solares me va ayudar a secar la espinilla**
 
   **Falso,** ya que al exponerse al sol se reseca más la piel y la hipersecreción de grasa no disminuye con los rayos del sol.
 
@@ -220,7 +217,6 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
 
   **Verdadero,** causa infecciones y cicatrices.
 
-    
   ![](/como-evitar-la-tentacion-de-explotarte-una-espinilla-de-la-cara.jpeg)
 
   **Conclusión**
@@ -238,6 +234,3 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
   [https://www.clinicadermatologicainternacional.com/es/enfermedad/acne](https://www.clinicadermatologicainternacional.com/es/enfermedad/acne "https://www.clinicadermatologicainternacional.com/es/enfermedad/acne")
 
   [https://www.aeped.es/sites/default/files/documentos/acne.pdf](https://www.aeped.es/sites/default/files/documentos/acne.pdf "https://www.aeped.es/sites/default/files/documentos/acne.pdf")
-
-    
-        
