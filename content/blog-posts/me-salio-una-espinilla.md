@@ -226,3 +226,18 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
   **Conclusión**
 
   El acné es más frecuente en la adolescencia, sin embargo, esto no limita que suceda en niños y en el adulto. Lo más importante es que con el tratamiento adecuado esto puede ser superado, es primordial consultar al dermatólogo y seguir el tratamiento, así como un adecuado cuidado facial para evitar brotes.
+
+  **Referencias bibliográficas**
+
+  [https://www.elsevier.es/es-revista-offarm-4-articulo-el-acne-que-es-como-13035869](https://www.elsevier.es/es-revista-offarm-4-articulo-el-acne-que-es-como-13035869 "https://www.elsevier.es/es-revista-offarm-4-articulo-el-acne-que-es-como-13035869")
+
+  [https://www.fisterra.com/guias-clinicas/lesiones-elementales-en-dermatologia/](https://www.fisterra.com/guias-clinicas/lesiones-elementales-en-dermatologia/ "https://www.fisterra.com/guias-clinicas/lesiones-elementales-en-dermatologia/")
+
+  [https://www.msdmanuals.com/es-es/professional/trastornos-dermatol%C3%B3gicos/acn%C3%A9-y-trastornos-relacionados/acn%C3%A9-vulgar](https://www.msdmanuals.com/es-es/professional/trastornos-dermatol%C3%B3gicos/acn%C3%A9-y-trastornos-relacionados/acn%C3%A9-vulgar "https://www.msdmanuals.com/es-es/professional/trastornos-dermatol%C3%B3gicos/acn%C3%A9-y-trastornos-relacionados/acn%C3%A9-vulgar")
+
+  [https://www.clinicadermatologicainternacional.com/es/enfermedad/acne](https://www.clinicadermatologicainternacional.com/es/enfermedad/acne "https://www.clinicadermatologicainternacional.com/es/enfermedad/acne")
+
+  [https://www.aeped.es/sites/default/files/documentos/acne.pdf](https://www.aeped.es/sites/default/files/documentos/acne.pdf "https://www.aeped.es/sites/default/files/documentos/acne.pdf")
+
+    
+        
