@@ -71,20 +71,20 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
 **1) Peróxido de benzoilo**:
 
 * **Mecanismo de acción**: el peróxido de benzoilo, es antibacteriano, por lo que acaba con **Propionibacterium acnes**. También nos ayuda a eliminar la espinilla, suavizar la piel y regular la producción de grasa. Las cremas con peróxido de benzoilo y derivados de la vitamina A son las más eficaces para tratar **acné leve** y prevenir su recurrencia. En concentraciones (2,5%, 5% y 10%) en gel, loción o jabón.
-* **Indicaciones**: tratamiento del acné leve o moderado, en niños mayores de 12 años. Se usa con frecuencia en terapia combinada con antibióticos tópicos (también con antibióticos orales), dada su capacidad para minimizar las resistencias bacterianas.
+* **Indicaciones**: tratamiento del acné leve o moderado en niños mayores de 12 años. Se usa con frecuencia en terapia combinada con antibióticos tópicos (también con antibióticos orales), dada su capacidad para minimizar las resistencias bacterianas.
 * **Efectos adversos**: piel seca, pueden blanquear la ropa y el cabello, las reacciones alérgicas son raras.
 
   ![](/peroxiben-gel-isdin-1501143207034-1.jpeg)
 
   **2) Gel de clindamicina/peróxido de benzoílo:**
 * **Mecanismo de acción:** la combinación de clindamicina y peróxido de benzoilo funciona al matar las bacterias que causan el acné.
-* **Indicaciones**: tratamiento acné inflamatorio superficial leve, en niños mayores de 12 años.
+* **Indicaciones**: tratamiento acné inflamatorio superficial leve en niños mayores de 12 años.
 * **Efectos adversos:** piel seca, pueden blanquear la ropa y el cabello, reacciones alérgicas son raras.
 
 ![](/duac-10-mg-g-30-1.jpg) **3) Gel de eritromicina/peróxido de benzoílo:**
 
 * **Mecanismo de acción:** la combinación de eritromicina y peróxido de benzoilo funciona al matar las bacterias que causan el acné.
-* **Indicaciones**: tratamiento del acné inflamatorio superficial leve, en niños mayores de 12 años.
+* **Indicaciones**: tratamiento del acné inflamatorio superficial leve en niños mayores de 12 años.
 * **Efectos adversos:** piel seca, pueden blanquear la ropa y el cabello, reacciones alérgicas son raras.
 
 ![](/captura-de-pantalla-2021-05-08-a-la-s-1-11-42-a-m.png)
@@ -92,7 +92,7 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
 **4) Clindamicina al 1%:** Existe en el mercado en gel o loción.
 
 * **Mecanismo de acción:** funciona al matar las bacterias que causan el acné.
-* **Indicaciones**: tratamiento del acné inflamatorio superficial leve, en niños mayores de 12 años.
+* **Indicaciones**: tratamiento del acné inflamatorio superficial leve en niños mayores de 12 años.
 * **Efectos adversos:** diarrea (rara), debe evitarse su uso en pacientes con enfermedad intestinal inflamatoria.
 
 ![](/comprar-dalacin-t-gel-caja-con-1-tubo-con-30-g-acene-vulgaris-precio-300093331020.jpeg)
