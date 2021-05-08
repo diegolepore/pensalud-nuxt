@@ -21,7 +21,7 @@ Las **espinillas** son una pesadilla para todo adolescente, son inflamaciones qu
 
 ![Formación del acné](/image.jpeg "Designua/Shutterstock")
 
-A la espinilla se le denomina comedón, se puede inflamar, se ve rojo y pueden tener el extremo lleno de pus, esto se denomina **comedón cerrado**, ya que está **obstruido** y también **inflamado**.
+A la espinilla se le denomina comedón, puede inflamarse, se ve de color rojo y puede tener el extremo lleno de pus, esto se denomina **comedón cerrado**, ya que está **obstruido** y también **inflamado**.
 
 ![](/acne-stages.jpeg)
 
