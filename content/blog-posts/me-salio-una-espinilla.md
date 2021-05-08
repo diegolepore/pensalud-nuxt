@@ -94,7 +94,7 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
 **4) Clindamicina al 1%:** Existe en el mercado en gel o loción.
 
 * **Mecanismo de acción:** funciona al matar las bacterias que causan el acné.
-* **Indicaciones**: tratamiento acné inflamatorio superficial leve, en niños mayores de 12 años.
+* **Indicaciones**: tratamiento del acné inflamatorio superficial leve, en niños mayores de 12 años.
 * **Efectos adversos:** diarrea (rara), debe evitarse su uso en pacientes con enfermedad intestinal inflamatoria.
 
 ![](/comprar-dalacin-t-gel-caja-con-1-tubo-con-30-g-acene-vulgaris-precio-300093331020.jpeg)
