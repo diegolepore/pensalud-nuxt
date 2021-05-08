@@ -31,7 +31,7 @@ El **comedón abierto** son llamados **puntos negros**, el folículo está tapad
 
 * **Según el tipo de lesiones:**
 
-  **1) Acné comedoniano:** el comedón, llamado espinilla, es la lesión inicial del acné, hay **comedones blancos,** que son los comedones **cerrados,** y los negros que son los **comedones abiertos** o también llamados **puntos negros**.
+  **1) Acné comedoniano:** el comedón, llamado espinilla, es la lesión inicial del acné. Hay **comedones blancos,** que son los comedones **cerrados,** y los **negros** denominados **comedones abiertos** o también llamados **puntos negros**.
 
   **2)  Acné papuloso o pustuloso:** como su nombre lo indica presenta lesiones tipo **pápulas** y **pústulas**, para conocer cómo son este tipo de lesiones, las describo a continuación:
 
