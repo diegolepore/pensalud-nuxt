@@ -25,7 +25,7 @@ A la espinilla se le denomina comedón, puede inflamarse, se ve de color rojo y 
 
 ![](/acne-stages.jpeg)
 
-El **comedón abierto** son llamados **puntos negros**, el folículo está tapado, pero, no inflamado, en eso se diferencia. El **color negro** es consecuencia de la oxidación de la queratina.
+El **comedón abierto** son llamados **puntos negros**, el folículo está tapado, pero, no inflamado, en eso se diferencia del comedón cerrado. El **color negro** es consecuencia de la oxidación de la queratina.
 
 **Clasificación**
 
