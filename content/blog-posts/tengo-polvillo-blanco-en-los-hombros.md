@@ -67,13 +67,9 @@ A la hora de comprar un shampoo anticaspa debemos evaluar los componente del pro
 
 * **Zinc piritiona al 0,3 al 2%:** en la actualidad se tiende a utilizar sales de piritionas sódicas magnésicas con mayor solubilidad.
 
-![](/pirimed.png)
-
-                     
+![](/pirimed.png)                     
 
 **![](/079400452030-996637-png-png-ulenscale-490x490.webp)**
-
-                     
 
 * **Sulfuro de selenio 1%.** Tiene una potente actividad inhibidora del crecimiento del **Pityrosporum ovale**. También actúa como citostático retrasando el crecimiento de las células hiperproliferativas.
 
@@ -84,8 +80,6 @@ A la hora de comprar un shampoo anticaspa debemos evaluar los componente del pro
 * **Azufre 2-5%**: se utiliza principalmente en su forma activa que es la orgánica. Se puede combinar con ácido salicílico.
 
   ![](/captura-de-pantalla-2021-05-28-a-la-s-8-22-19-p-m.png)
-
-     **Contiene Azufre y Piritionato de Zinc**
 * **Coaltar 0,5 - 5%**: su perfil de seguridad es negativo por lo cual se recomienda no utilizarlo durante períodos de tiempo prolongados.
 
   ![](/tarmed-8mgg-champu-medicinal-150ml.jpeg)
@@ -113,17 +107,11 @@ A la hora de comprar un shampoo anticaspa debemos evaluar los componente del pro
 
   Estudios respaldan l**a efectividad del ciclopirox olamina** a una concentración del (**1- 1,5%)** para el tratamiento de Caspa y dermatitis seborreica.
 
-  ![](/13986-unipharma-pirotex-ds-champu-200ml.webp)
-
-                                   
+  ![](/13986-unipharma-pirotex-ds-champu-200ml.webp)                         
 
 ![](/dermocapillaire_anticaspa-1.jpeg)
 
-        
-
 ![](/shampoos-nutradeica_acgrasa.jpeg)
-
-                       
 
 Estos champús deben utilizarse **diariamente** hasta que se **consigue** un **control** de la **caspa**, después pueden **emplearse dos** o **tres veces** a la **semana** si es necesario. Es importante dejar **actuar** el **champú** unos **cinco minutos** para que la medicación tenga tiempo de actuar. En caso de que un champú pierda eficacia entonces deberá cambiarse por otro principio activo.
 
