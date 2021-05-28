@@ -21,21 +21,22 @@ Su incidencia es mínima entre los **2 y 10 años** de edad, pero empieza a **au
 
 **¿Causas?**
 
-* El hongo llamado **Malassezia** se encuentra en el cuero cabelludo de la mayoría de las personas y **no produce ningún problema**. En la **pubertad** con el **aumento** de la **actividad glandular** la población de **Pityrosporum-Malassezia** encuentra una **nueva fuente de alimentos y prolifera**, los productos de su metabolismo como el ácido oleico ejercen un poder antigénico que determina una reacción descamativa dando como resultado descamación y prurito que afectan al 50% de la población adulta. La **descamación** de la **capa córnea** es un fenómeno normal en todas las personas **pero invisible** y **asintomático**, esto ocurre aproximadamente en **20 o 30** días. En las personas con caspa se postula que podría haber una **aceleración** de la **queratinización** reduciéndose el proceso de recambio a **13-15 días** lo cual **resulta** en la formación de **escamas grandes visibles**.
+* El hongo llamado **Malassezia** se encuentra en el cuero cabelludo de la mayoría de las personas y **no produce ningún problema**. En la **pubertad** con el **aumento** de la **actividad glandular** la población de **Pityrosporum-Malassezia** encuentra una **nueva fuente de alimentos y prolifera**, los productos de su metabolismo como el ácido oleico producen una reacción descamativa y prurito que afectan al 50% de la población adulta. La **descamación** de la **capa córnea** es un fenómeno normal en todas las personas, **pero invisible** y **asintomático**, esto ocurre aproximadamente en **20 o 30** días. En las personas con caspa se postula que podría haber una **aceleración** de la **queratinización** reduciéndose el proceso de recambio a **13-15 días,** lo cual **resulta** en la formación de **escamas grandes visibles**.
 
   ![](/captura-de-pantalla-2021-05-28-a-la-s-1-32-29-a-m.png)
-* **La susceptibilidad genética**: existen investigaciones que revelan que cada persona puede tener en el cuero cabelludo hasta **10 millones de hongos**; y la caspa se presenta al **conjuntar los siguientes factores:** **susceptibilidad genética**, la **presencia de sebo** en el **cuero cabelludo** y la **existencia** del **Malassezia globosa**.
-* **Piel seca**: en invierno, el frío, la baja humedad del aire y la calefacción pueden resecar la piel, está caspa se caracteriza por escamas finas y no se acompaña de grasa. **Empeora** en **invierno** y **otoño** y **mejora** en **verano**.
+* **La susceptibilidad genética**: existen investigaciones que revelan que cada persona puede tener en el cuero cabelludo hasta **10 millones de hongos**; y la caspa se producen al combinar **los siguientes factores:** **susceptibilidad genética**, la **presencia de sebo** en el **cuero cabelludo** y la **existencia** del **Malassezia globosa**.
+* **Piel seca**: en invierno la baja humedad del aire y la calefacción pueden resecar la piel, está caspa se caracteriza por escamas finas y no se acompaña de grasa. **Empeora** en **invierno** y **otoño**, **mejora** en **verano**.
 
-      ![](/joe-wong-7eytl50zxfq-unsplash-1-1.jpg) 
-* **Dermatitis seborreica**: se caracteriza por **presentar la piel roja y aceitosa** este problema es una **causa frecuente** de **caspa** y se manifiesta con **enrojecimiento piel grasa** y **escamas amarillentas**. La **dermatitis seborreica afecta** al **cuero cabelludo** y a **otras zonas de la piel** que tienen muchas glándulas sebáceas como **las cejas**, la **zona lateral de la nariz**, **detrás de las orejas**, las **ingles** y en ocasiones las **axilas**.
+![](/joe-wong-7eytl50zxfq-unsplash-1-1.jpg)
+
+* **Dermatitis seborreica**: se caracteriza por **presentar la piel roja y aceitosa,** este problema es una **causa frecuente** de **caspa** y se manifiesta con **enrojecimiento, piel grasa** y **escamas amarillentas**. La **dermatitis seborreica afecta** al **cuero cabelludo** y a **otras zonas de la piel** que tienen muchas glándulas sebáceas como: **las cejas**, la **zona lateral de la nariz**, **detrás de las orejas**, la **ingle** y en ocasiones las **axilas**.
 
   ![](/descamacionds.png)
 * **Psoriasis**. esta enfermedad hace que se acumulen células muertas en la piel y se forman escamas grandes. La psoriasis puede afectar otras partes del cuerpo, particularmente los **codos** y las **rodillas**.
 
   ![](/psoriasis-en-brazo-foto-aedv-archivo-ep.jpeg)
-* **Disminución de zinc** y **vitamina B** del organismo: representan otras causas que favorecen la aparición de caspa, al igual que el **estrés** y algunas enfermedades neurológicas como el **Parkinson**.
-* Los **productos** con **alcohol** en la fórmula **secan** la **piel** y producen **descamación**.
+* **Disminución de zinc** y **vitamina B** **del organismo:** representan otras causas que favorecen la aparición de caspa, al igual que el **estrés** y algunas enfermedades neurológicas como el **Parkinson**.
+* Los **productos** con **alcohol** **secan** la **piel** y producen **descamación**.
 
 **Síntomas**
 
@@ -47,14 +48,14 @@ Si creías que la caspa es contagiosa, la respuesta es no. Todas las personas te
 
 **Diagnóstico**
 
-El diagnóstico de la caspa se realiza, en la mayoría de los casos, por inspección visual.
+El diagnóstico de la caspa se realiza en la mayoría de los casos por inspección visual.
 
 **Diagnóstico diferencial**
 
-* **La seborrea** es la excesiva grasa de la piel o el cuero cabelludo sin descamación, ni eritema.
-* **La dermatitis seborreica** se presenta con eritema, tiene un **componente inflamatorio** irritativo muy **importante**.
-* **La caspa** puede **picar** pero no asocia inflamación ni eritema.
-* **Piel seca**: la del cuero cabelludo suele asociarse a **piel seca en el resto del cuerpo**.
+* **La seborrea**: grasa excesiva de la piel o el cuero cabelludo sin descamación, ni eritema.
+* **La dermatitis seborreica:** se presenta con eritema, tiene un **componente inflamatorio** irritativo muy **importante**.
+* **La caspa:** puede **picar** pero no se asocia con inflamación ni eritema.
+* **Piel seca**: se presenta no solamente en el cuero cabelludo sino que suele asociarse a **piel seca en el resto del cuerpo**.
 
 **Tratamiento**
 
@@ -62,39 +63,41 @@ El **objetivo terapéutico** esencial en la caspa es **frenar** el **ciclo metab
 
 **Principios activos aprobados por la FDA como tratamiento anticaspa**
 
-* **Zinc piritiona al 0,3 al 2%.** En la actualidad se tiende a utilizar sales de piritionas sódicas magnésicas con mayor solubilidad.
+A la hora de comprar un shampoo anticaspa debemos evaluar los componente del producto, entre los principios activos aprobados por la FDA se encuentran los siguientes:
+
+* **Zinc piritiona al 0,3 al 2%:** en la actualidad se tiende a utilizar sales de piritionas sódicas magnésicas con mayor solubilidad.
 
 ![](/pirimed.png)
 
-                                   **Piritionato de zinc 2%**
-
-![](/71gcrmpwvfl-_sl1500_.jpg)  
-**Piritionato de zinc 1%**
+                                         **Piritionato de zinc al 2%**![](/71gcrmpwvfl-_sl1500_.jpg)  
+                                           **Piritionato de zinc al 1%**
 
 ![](/079400452030-996637-png-png-ulenscale-490x490.webp)
 
-                                     **Piritionato de zinc 1%**
+                                      **Piritionato de zinc al 1%**
 
-* **Ácido salicílico 1,8 a 3%.** Se presenta en champú y espuma. Aumenta la hidratación de la piel, tiene efecto queratolítico.
+* **Ácido salicílico 1,8 a 3%:** se presenta en champú y espuma, aumenta la hidratación de la piel y tiene efecto queratolítico.
+
+
 * **Sulfuro de selenio 1%.** Tiene una potente actividad inhibidora del crecimiento del **Pityrosporum ovale**. También actúa como citostático retrasando el crecimiento de las células hiperproliferativas.
 
   ![](/img_9644.jpeg)
 
-  **Ácido salicílico y Sulfuro de selenio**
+      **Contiene Ácido salicílico y Sulfuro de selenio**
 
 ![](/node-dsplus-t125ml-texture_v3.png)
 
-                **Ácido salicílico y Zinc piritiona**
+               **Contiene Ácido salicílico y Zinc piritiona**
 
-* **Azufre 2-5%**. Se utiliza principalmente en su forma activa que es la orgánica. Se puede combinar con ácido salicílico.
+* **Azufre 2-5%**: se utiliza principalmente en su forma activa que es la orgánica. Se puede combinar con ácido salicílico.
 
   ![](/184e6234031d277e4b3d5c19603e7930815a3472_313981.jpeg)
 
-           **Azufre y Piritionato de Zinc** 
-* **Coaltar 0,5 - 5%**. Su perfil de seguridad es negativo por lo cual se recomienda no utilizarlo durante períodos de tiempo prolongados.
+    **Contiene Azufre y Piritionato de Zinc**
+* **Coaltar 0,5 - 5%**: su perfil de seguridad es negativo por lo cual se recomienda no utilizarlo durante períodos de tiempo prolongados.
 
   ![](/tarmed-8mgg-champu-medicinal-150ml.jpeg)
-* **Ketoconazol 1 - 2%.** Actualmente es un producto de venta libre. Es seguro a partir de los 12 años de edad. Se indica su uso cada 3 a 4 días por un período de 8 semanas y luego con la frecuencia necesaria para controlar la caspa.
+* **Ketoconazol 1 - 2%:** actualmente es un producto de venta libre. Es seguro a partir de los 12 años de edad. Se indica su uso cada 3 a 4 días por un período de 8 semanas y luego con la frecuencia necesaria para controlar la caspa.
 
   ![](/ketoconazol_shampoo.jpeg)
 * **Otras moléculas**
@@ -119,7 +122,7 @@ El **objetivo terapéutico** esencial en la caspa es **frenar** el **ciclo metab
 
 ![](/captura-de-pantalla-2021-05-28-a-la-s-6-54-45-p-m.png)
 
-                              **Ciclopiroxolamina** 
+                  **Contiene Ciclopiroxolamina**
 
 ![](/dermocapillaire_anticaspa-1.jpeg)
 
@@ -127,11 +130,9 @@ El **objetivo terapéutico** esencial en la caspa es **frenar** el **ciclo metab
 
 ![](/shampoos-nutradeica_acgrasa.jpeg)
 
-                                   **Piroctona Olamina**
+                            **Contiene Piroctona Olamina**![](/la-roche-posay-kerium-anticaspa-champu-gel-200-ml-640.webp)
 
-![](/la-roche-posay-kerium-anticaspa-champu-gel-200-ml-640.webp)
-
-                                   **Piroctona Olamina**
+                                 **Contiene Piroctona Olamina**
 
 Estos champús deben utilizarse **diariamente** hasta que se **consigue** un **control** de la **caspa**, después pueden **emplearse dos** o **tres veces** a la **semana** si es necesario. Es importante dejar **actuar** el **champú** unos **cinco minutos** para que la medicación tenga tiempo de actuar. En caso de que un champú pierda eficacia entonces deberá cambiarse por otro principio activo.
 
@@ -141,23 +142,23 @@ También se han ensayado extractos de plantas como el **Solanum chrysotrichum** 
 
 ![](/350px-devils_fig.jpeg)
 
-**El aceite del árbol de té**, es un aceite esencial que se obtiene de las hojas de la **Melaleuca alternifolia**, **nativo de Australia**. Tiene **propiedades** anti **Pityrosporum ovale** comprobadas en protocolos científicos, con una concentración inhibitoria mínima de **0,25% vol/vol.**
+**El aceite del árbol de té** es un aceite esencial que se obtiene de las hojas de la **Melaleuca alternifolia**, **nativo de Australia**. Tiene **propiedades** anti **Pityrosporum ovale** comprobadas en protocolos científicos.
 
 **Soluciones caseras o naturales para eliminar la caspa**
 
-* **Dieta rica en vitamina B y zinc**; ácidos grasos tales como el aceite de bacalao.
+* **Dieta rica en vitamina B y zinc**.
 
   ![](/vitamina-b-1.jpeg)![](/490fa5647aed1eddb87ec0c399a363d0.jpeg)
 * **Evitar comidas fritas,** azúcar, chocolate, huevos y la leche con grasa.
 
   ![](/1957647.jpeg)
-* **Mezclar 1 o 2 gotas de aceite esencial de árbol de té en el champú** que se utiliza habitualmente, luego lavar dejándolo por 3 minutos en el pelo.
+* **Mezclar 1 o 2 gotas de aceite esencial de árbol de té en el champú** que se utiliza habitualmente, luego lavar dejándolo por 3 minutos en el cabello.
 
   ![](/captura-de-pantalla-2021-05-28-a-la-s-7-23-34-p-m.png)
-* Hervir las remolachas y con el agua dar masajes en el cuero cabelludo cada noche. La remolacha blanca es mejor.
+* Hervir remolachas y con el agua dar masajes en el cuero cabelludo cada noche. La remolacha blanca es mejor.
 
-  ![](/remolacha-660x661.jpeg)
-* Diluir vinagre de sidra con una cantidad igual de agua y aplicar esto al pelo con paños de algodón.
+  ![](/remolacha-blanca-fresca-vegetal_53876-78535.jpeg)
+* Diluir vinagre de sidra con una cantidad igual de agua y aplicar esto al cabello con paños de algodón.
 
   ![](/vidrio-31.jpeg)
 * Una cucharadita de jugo de lima fresco o un poco de vinagre en el último enjuague eliminan los residuos de los tratamientos y previenen la caspa.
@@ -172,13 +173,13 @@ Se ha postulado que la presencia de Pityrosporum ovale podría asociarse a la ca
 
 **"La caspa te identifica"**
 
-Esta es una afirmación que parece posible a partir de que expertos alemanes han aislado e **identificado ADN en las partículas de caspa**. Esto se debe a que entre las células descamadas hay, también, células nucleadas. Los estudios indican que se pueden obtener cantidades suficientes de ADN (más de 30 a 40 nanogramos) de 1.0 a 1.5 miligramos de caspa. Ello haría posible aplicar esta técnica a la medicina forense.
+Esta es una afirmación que parece posible a partir de que expertos alemanes han aislado e **identificado ADN en las partículas de caspa**. Esto se debe a que entre las células descamadas hay, también, células nucleadas. 
 
 ![](/adn-1.webp)
 
 **Conclusión**
 
-La caspa es tratable, pero suele requerir tratamientos de mantenimiento para mantenerla bajo control. Debemos tener en encuenta los factores de riesgo que podríamos manejar como una buena higiene capilar, la forma en que reaccionamos ante el estrés, tomar mayor cuidado los días de invierno.
+La caspa es tratable, pero suele requerir tratamientos de mantenimiento para mantenerla bajo control. Debemos tener en encuenta los factores de riesgo que podríamos manejar como una buena higiene capilar, la forma en que reaccionamos ante el estrés, tomar mayor cuidado los días de invierno, entre otros.
 
 **Bibliografía**
 
