@@ -71,7 +71,7 @@ A la hora de comprar un shampoo anticaspa debemos evaluar los componente del pro
 
 **![](/079400452030-996637-png-png-ulenscale-490x490.webp)**
 
-* **Sulfuro de selenio 1%:** tiene una potente actividad inhibidora del crecimiento del **Pityrosporum ovale**. También actúa como citostático retrasando el crecimiento de las células hiperproliferativas.
+* **Sulfuro de selenio 1%**: tiene una potente actividad inhibidora del crecimiento del **Pityrosporum ovale**. También actúa como citostático retrasando el crecimiento de las células hiperproliferativas.
 
   ![](/img_9644.jpeg)
 
