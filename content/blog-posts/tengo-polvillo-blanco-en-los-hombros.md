@@ -15,9 +15,9 @@ Es muy notable la caspa cuando tienes una prenda de vestir negra, a simple vista
 
 **¿Qué es la caspa?**
 
-Es una afectación del cuero cabelludo, La caspa también se conoce como **Pityriasis capitis**, por la presencia de hongos como la **Malassezia furfur** (**Pityrosporum ovale**) y otras especies **Malassezia restricta** y **Malassezia globosa**. Una condición que afecta al **50%** de la población al menos una vez en su vida.
+Es una afección del cuero cabelludo, la caspa también se conoce como **Pityriasis capitis**, por la presencia de hongos como la **Malassezia furfur** (**Pityrosporum ovale**) y otras especies **Malassezia restricta** y **Malassezia globosa**. Afecta al **50%** de la población al menos una vez en su vida.
 
-Su incidencia es mínima entre los **2 y 10 años** de edad pero empieza a **aumentar** a partir de la **pubertad** para **alcanzar** un **pico** alrededor de los **20 años** y desaparecer hacia los **50**.
+Su incidencia es mínima entre los **2 y 10 años** de edad, pero empieza a **aumentar** a partir de la **pubertad** para **alcanzar** un **pico** alrededor de los **20 años** y desaparecer hacia los **50**.
 
 **¿Causas?**
 
