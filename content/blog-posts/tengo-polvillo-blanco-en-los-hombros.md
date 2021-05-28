@@ -27,11 +27,11 @@ Su incidencia es mínima entre los **2 y 10 años** de edad, pero empieza a **au
 * **La susceptibilidad genética**: existen investigaciones que revelan que cada persona puede tener en el cuero cabelludo hasta **10 millones de hongos**; y la caspa se producen al combinar **los siguientes factores:** **susceptibilidad genética**, la **presencia de sebo** en el **cuero cabelludo** y la **existencia** del **Malassezia globosa**.
 * **Piel seca**: en invierno la baja humedad del aire y la calefacción pueden resecar la piel, está caspa se caracteriza por escamas finas y no se acompaña de grasa. **Empeora** en **invierno** y **otoño**, **mejora** en **verano**.
 
-![](/joe-wong-7eytl50zxfq-unsplash-1-1.jpg)
 
 * **Dermatitis seborreica**: se caracteriza por **presentar la piel roja y aceitosa,** este problema es una **causa frecuente** de **caspa** y se manifiesta con **enrojecimiento, piel grasa** y **escamas amarillentas**. La **dermatitis seborreica afecta** al **cuero cabelludo** y a **otras zonas de la piel** que tienen muchas glándulas sebáceas como: **las cejas**, la **zona lateral de la nariz**, **detrás de las orejas**, la **ingle** y en ocasiones las **axilas**.
 
-  ![](/descamacionds.png)
+
+* ![](/descamacionds.png)
 * **Psoriasis**: esta enfermedad hace que se acumulen células muertas en la piel y se forman escamas grandes. La psoriasis puede afectar otras partes del cuerpo, particularmente los **codos** y las **rodillas**.
 
   ![](/psoriasis-en-brazo-foto-aedv-archivo-ep.jpeg)
