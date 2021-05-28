@@ -32,7 +32,7 @@ Su incidencia es mínima entre los **2 y 10 años** de edad, pero empieza a **au
 * **Dermatitis seborreica**: se caracteriza por **presentar la piel roja y aceitosa,** este problema es una **causa frecuente** de **caspa** y se manifiesta con **enrojecimiento, piel grasa** y **escamas amarillentas**. La **dermatitis seborreica afecta** al **cuero cabelludo** y a **otras zonas de la piel** que tienen muchas glándulas sebáceas como: **las cejas**, la **zona lateral de la nariz**, **detrás de las orejas**, la **ingle** y en ocasiones las **axilas**.
 
   ![](/descamacionds.png)
-* **Psoriasis**. esta enfermedad hace que se acumulen células muertas en la piel y se forman escamas grandes. La psoriasis puede afectar otras partes del cuerpo, particularmente los **codos** y las **rodillas**.
+* **Psoriasis**: esta enfermedad hace que se acumulen células muertas en la piel y se forman escamas grandes. La psoriasis puede afectar otras partes del cuerpo, particularmente los **codos** y las **rodillas**.
 
   ![](/psoriasis-en-brazo-foto-aedv-archivo-ep.jpeg)
 * **Disminución de zinc** y **vitamina B** **del organismo:** representan otras causas que favorecen la aparición de caspa, al igual que el **estrés** y algunas enfermedades neurológicas como el **Parkinson**.
