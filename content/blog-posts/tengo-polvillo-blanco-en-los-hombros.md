@@ -69,35 +69,30 @@ A la hora de comprar un shampoo anticaspa debemos evaluar los componente del pro
 
 ![](/pirimed.png)
 
-                                         **Piritionato de zinc al 2%**![](/71gcrmpwvfl-_sl1500_.jpg)  
-                                           **Piritionato de zinc al 1%**
+                     
 
-![](/079400452030-996637-png-png-ulenscale-490x490.webp)
+**![](/079400452030-996637-png-png-ulenscale-490x490.webp)**
 
-                                      **Piritionato de zinc al 1%**
+                     
 
-* **Ácido salicílico 1,8 a 3%:** se presenta en champú y espuma, aumenta la hidratación de la piel y tiene efecto queratolítico.
 * **Sulfuro de selenio 1%.** Tiene una potente actividad inhibidora del crecimiento del **Pityrosporum ovale**. También actúa como citostático retrasando el crecimiento de las células hiperproliferativas.
 
   ![](/img_9644.jpeg)
 
-      **Contiene Ácido salicílico y Sulfuro de selenio**
-
-![](/node-dsplus-t125ml-texture_v3.png)
-
-               **Contiene Ácido salicílico y Zinc piritiona**
+ ![](/node-dsplus-t125ml-texture_v3.png)
 
 * **Azufre 2-5%**: se utiliza principalmente en su forma activa que es la orgánica. Se puede combinar con ácido salicílico.
 
-  ![](/184e6234031d277e4b3d5c19603e7930815a3472_313981.jpeg)
+  ![](/captura-de-pantalla-2021-05-28-a-la-s-8-22-19-p-m.png)
 
-  **Contiene Azufre y Piritionato de Zinc**
+     **Contiene Azufre y Piritionato de Zinc**
 * **Coaltar 0,5 - 5%**: su perfil de seguridad es negativo por lo cual se recomienda no utilizarlo durante períodos de tiempo prolongados.
 
   ![](/tarmed-8mgg-champu-medicinal-150ml.jpeg)
 * **Ketoconazol 1 - 2%:** actualmente es un producto de venta libre. Es seguro a partir de los 12 años de edad. Se indica su uso cada 3 a 4 días por un período de 8 semanas y luego con la frecuencia necesaria para controlar la caspa.
 
-  ![](/ketoconazol_shampoo.jpeg)
+![](/ketomed-shampu-medihealth-d_nq_np_886697-mlm31369077283_072019-f.jpeg)
+
 * **Otras moléculas**
 
   ✔ **Sales de ácido undecilénico**
@@ -118,19 +113,17 @@ A la hora de comprar un shampoo anticaspa debemos evaluar los componente del pro
 
   Estudios respaldan l**a efectividad del ciclopirox olamina** a una concentración del (**1- 1,5%)** para el tratamiento de Caspa y dermatitis seborreica.
 
-![](/captura-de-pantalla-2021-05-28-a-la-s-6-54-45-p-m.png)
+  ![](/13986-unipharma-pirotex-ds-champu-200ml.webp)
 
-                  **Contiene Ciclopiroxolamina**
+                                   
 
 ![](/dermocapillaire_anticaspa-1.jpeg)
 
-**Piroctona Olamina estructuralmente similar a ciclopirox y Piritiona**
+        
 
 ![](/shampoos-nutradeica_acgrasa.jpeg)
 
-                            **Contiene Piroctona Olamina**![](/la-roche-posay-kerium-anticaspa-champu-gel-200-ml-640.webp)
-    
-                                 **Contiene Piroctona Olamina**
+                       
 
 Estos champús deben utilizarse **diariamente** hasta que se **consigue** un **control** de la **caspa**, después pueden **emplearse dos** o **tres veces** a la **semana** si es necesario. Es importante dejar **actuar** el **champú** unos **cinco minutos** para que la medicación tenga tiempo de actuar. En caso de que un champú pierda eficacia entonces deberá cambiarse por otro principio activo.
 
@@ -144,15 +137,13 @@ También se han ensayado extractos de plantas como el **Solanum chrysotrichum** 
 
 **Soluciones caseras o naturales para eliminar la caspa**
 
-* **Dieta rica en vitamina B y zinc**.
-
-  ![](/vitamina-b-1.jpeg)![](/490fa5647aed1eddb87ec0c399a363d0.jpeg)
+* **Dieta rica en vitamina B y zinc**![](/vitamina-b-1.jpeg)![](/490fa5647aed1eddb87ec0c399a363d0.jpeg)
 * **Evitar comidas fritas,** azúcar, chocolate, huevos y la leche con grasa.
 
   ![](/1957647.jpeg)
 * **Mezclar 1 o 2 gotas de aceite esencial de árbol de té en el champú** que se utiliza habitualmente, luego lavar dejándolo por 3 minutos en el cabello.
 
-  ![](/captura-de-pantalla-2021-05-28-a-la-s-7-23-34-p-m.png)
+  ![](/saluvital-aceite-de-arbol-de-te-30-ml.jpeg)
 * Hervir remolachas y con el agua dar masajes en el cuero cabelludo cada noche. La remolacha blanca es mejor.
 
   ![](/remolacha-blanca-fresca-vegetal_53876-78535.jpeg)
