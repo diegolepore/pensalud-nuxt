@@ -67,7 +67,7 @@ A la hora de comprar un shampoo anticaspa debemos evaluar los componente del pro
 
 * **Zinc piritiona al 0,3 al 2%:** en la actualidad se tiende a utilizar sales de piritionas sódicas magnésicas con mayor solubilidad.
 
-![](/pirimed.png)                     
+![](/pirimed.png)
 
 **![](/079400452030-996637-png-png-ulenscale-490x490.webp)**
 
@@ -75,14 +75,14 @@ A la hora de comprar un shampoo anticaspa debemos evaluar los componente del pro
 
   ![](/img_9644.jpeg)
 
- ![](/node-dsplus-t125ml-texture_v3.png)
+![](/node-dsplus-t125ml-texture_v3.png)
 
 * **Azufre 2-5%**: se utiliza principalmente en su forma activa que es la orgánica. Se puede combinar con ácido salicílico.
 
   ![](/captura-de-pantalla-2021-05-28-a-la-s-8-22-19-p-m.png)
 * **Coaltar 0,5 - 5%**: su perfil de seguridad es negativo por lo cual se recomienda no utilizarlo durante períodos de tiempo prolongados.
 
-  ![](/tarmed-8mgg-champu-medicinal-150ml.jpeg)
+  ![](/673988.jpeg)
 * **Ketoconazol 1 - 2%:** actualmente es un producto de venta libre. Es seguro a partir de los 12 años de edad. Se indica su uso cada 3 a 4 días por un período de 8 semanas y luego con la frecuencia necesaria para controlar la caspa.
 
 ![](/ketomed-shampu-medihealth-d_nq_np_886697-mlm31369077283_072019-f.jpeg)
@@ -107,7 +107,7 @@ A la hora de comprar un shampoo anticaspa debemos evaluar los componente del pro
 
   Estudios respaldan l**a efectividad del ciclopirox olamina** a una concentración del (**1- 1,5%)** para el tratamiento de Caspa y dermatitis seborreica.
 
-  ![](/13986-unipharma-pirotex-ds-champu-200ml.webp)                         
+  ![](/13986-unipharma-pirotex-ds-champu-200ml.webp)
 
 ![](/dermocapillaire_anticaspa-1.jpeg)
 
