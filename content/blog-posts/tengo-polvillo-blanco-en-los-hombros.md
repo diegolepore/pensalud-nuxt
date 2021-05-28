@@ -82,8 +82,7 @@ A la hora de comprar un shampoo anticaspa debemos evaluar los componente del pro
   ![](/captura-de-pantalla-2021-05-28-a-la-s-8-22-19-p-m.png)
 * **Coaltar 0,5 - 5%**: su perfil de seguridad es negativo por lo cual se recomienda no utilizarlo durante períodos de tiempo prolongados.
 
-  ![](/673988.jpeg)
-* **Ketoconazol 1 - 2%:** actualmente es un producto de venta libre. Es seguro a partir de los 12 años de edad. Se indica su uso cada 3 a 4 días por un período de 8 semanas y luego con la frecuencia necesaria para controlar la caspa.
+  ![](/582640.jpeg)**Ketoconazol 1 - 2%:** actualmente es un producto de venta libre. Es seguro a partir de los 12 años de edad. Se indica su uso cada 3 a 4 días por un período de 8 semanas y luego con la frecuencia necesaria para controlar la caspa.
 
 ![](/ketomed-shampu-medihealth-d_nq_np_886697-mlm31369077283_072019-f.jpeg)
 
