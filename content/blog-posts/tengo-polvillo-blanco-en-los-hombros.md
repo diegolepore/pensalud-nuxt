@@ -15,7 +15,7 @@ Es muy notable la caspa cuando tienes una prenda de vestir negra, a simple vista
 
 **¿Qué es la caspa?**
 
-Es una afección del cuero cabelludo, la caspa también se conoce como **Pityriasis capitis**, por la presencia de hongos como la **Malassezia furfur** (**Pityrosporum ovale**) y otras especies **Malassezia restricta** y **Malassezia globosa**. Afecta al **50%** de la población al menos una vez en su vida.
+Es una afección del cuero cabelludo, la caspa también se conoce como **Pityriasis capitis** por la presencia de hongos como la **Malassezia furfur** (**Pityrosporum ovale**) y otras especies **Malassezia restricta** y **Malassezia globosa**. Afecta al **50%** de la población al menos una vez en su vida.
 
 Su incidencia es mínima entre los **2 y 10 años** de edad, pero empieza a **aumentar** a partir de la **pubertad** para **alcanzar** un **pico** alrededor de los **20 años** y desaparecer hacia los **50**.
 
@@ -77,8 +77,6 @@ A la hora de comprar un shampoo anticaspa debemos evaluar los componente del pro
                                       **Piritionato de zinc al 1%**
 
 * **Ácido salicílico 1,8 a 3%:** se presenta en champú y espuma, aumenta la hidratación de la piel y tiene efecto queratolítico.
-
-
 * **Sulfuro de selenio 1%.** Tiene una potente actividad inhibidora del crecimiento del **Pityrosporum ovale**. También actúa como citostático retrasando el crecimiento de las células hiperproliferativas.
 
   ![](/img_9644.jpeg)
@@ -93,7 +91,7 @@ A la hora de comprar un shampoo anticaspa debemos evaluar los componente del pro
 
   ![](/184e6234031d277e4b3d5c19603e7930815a3472_313981.jpeg)
 
-    **Contiene Azufre y Piritionato de Zinc**
+  **Contiene Azufre y Piritionato de Zinc**
 * **Coaltar 0,5 - 5%**: su perfil de seguridad es negativo por lo cual se recomienda no utilizarlo durante períodos de tiempo prolongados.
 
   ![](/tarmed-8mgg-champu-medicinal-150ml.jpeg)
@@ -131,7 +129,7 @@ A la hora de comprar un shampoo anticaspa debemos evaluar los componente del pro
 ![](/shampoos-nutradeica_acgrasa.jpeg)
 
                             **Contiene Piroctona Olamina**![](/la-roche-posay-kerium-anticaspa-champu-gel-200-ml-640.webp)
-
+    
                                  **Contiene Piroctona Olamina**
 
 Estos champús deben utilizarse **diariamente** hasta que se **consigue** un **control** de la **caspa**, después pueden **emplearse dos** o **tres veces** a la **semana** si es necesario. Es importante dejar **actuar** el **champú** unos **cinco minutos** para que la medicación tenga tiempo de actuar. En caso de que un champú pierda eficacia entonces deberá cambiarse por otro principio activo.
@@ -173,7 +171,7 @@ Se ha postulado que la presencia de Pityrosporum ovale podría asociarse a la ca
 
 **"La caspa te identifica"**
 
-Esta es una afirmación que parece posible a partir de que expertos alemanes han aislado e **identificado ADN en las partículas de caspa**. Esto se debe a que entre las células descamadas hay, también, células nucleadas. 
+Esta es una afirmación que parece posible a partir de que expertos alemanes han aislado e **identificado ADN en las partículas de caspa**. Esto se debe a que entre las células descamadas hay, también, células nucleadas.
 
 ![](/adn-1.webp)
 
