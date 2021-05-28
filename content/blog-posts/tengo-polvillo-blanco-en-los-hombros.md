@@ -89,21 +89,21 @@ A la hora de comprar un shampoo anticaspa debemos evaluar los componente del pro
 
 * **Otras moléculas**
 
-  ✔ **Sales de ácido undecilénico**
+  ✔ Sales de ácido undecilénico
 
-  **✔ Breas de maderas**
+  ✔ Breas de maderas
 
-  **✔ Resorcina**
+  ✔ Resorcina
 
-  **✔ Urea**
+  ✔ Urea
 
-  **✔ Ácido dicaprilicistínico**
+  ✔ Ácido dicaprilicistínico
 
-  **✔ Thioxolone**
+  ✔ Thioxolone
 
-  **✔ Acetilcisteína**
+  ✔ Acetilcisteína
 
-  **✔ Ciclopiroxolamina (1- 1,5%).**
+  ✔ Ciclopiroxolamina (1- 1,5%).
 
   Estudios respaldan l**a efectividad del ciclopirox olamina** a una concentración del (**1- 1,5%)** para el tratamiento de Caspa y dermatitis seborreica.
 
