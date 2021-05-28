@@ -1,6 +1,7 @@
 ---
-body: "“Da el primer paso con fe. No tienes por qué ver toda la escalera. Basta con
-  que subas el primer peldaño”. Martin Luther King."
-icon: "/escalera-mecanica-1.png"
+body: '"Si se quieres olvidar algo o a alguien, no lo odies. Todo lo que odias queda
+  grabado en tu corazón; si deseas dejar de lado algo, si quieres realmente olvidar,
+  no lo puedes odiar" C. JoyBell C.'
+icon: "/amor-2-1.png"
 
 ---
