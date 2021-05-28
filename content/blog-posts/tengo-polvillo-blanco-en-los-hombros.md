@@ -113,6 +113,10 @@ A la hora de comprar un shampoo anticaspa debemos evaluar los componente del pro
 
 ![](/shampoos-nutradeica_acgrasa.jpeg)
 
+![](/captura-de-pantalla-2021-05-28-a-la-s-8-55-29-p-m.png)
+
+![](/ro4erikkmq.jpeg)
+
 Estos champús deben utilizarse **diariamente** hasta que se **consigue** un **control** de la **caspa**, después pueden **emplearse dos** o **tres veces** a la **semana** si es necesario. Es importante dejar **actuar** el **champú** unos **cinco minutos** para que la medicación tenga tiempo de actuar. En caso de que un champú pierda eficacia entonces deberá cambiarse por otro principio activo.
 
 **Botánica**
