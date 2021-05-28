@@ -19,7 +19,6 @@ Es una afectación del cuero cabelludo, La caspa también se conoce como **Pityr
 
 Su incidencia es mínima entre los **2 y 10 años** de edad pero empieza a **aumentar** a partir de la **pubertad** para **alcanzar** un **pico** alrededor de los **20 años** y desaparecer hacia los **50**.
 
-  
 **¿Causas?**
 
 * El hongo llamado **Malassezia** se encuentra en el cuero cabelludo de la mayoría de las personas y **no produce ningún problema**. En la **pubertad**, con el **aumento** de la **actividad glandular**, la población de **Pityrosporum-Malassezia** encuentra una **nueva fuente de alimentos y prolifera**, los productos de su metabolismo como el ácido oleico ejercen un poder antigénico que determina una reacción descamativa dando como resultado descamación y prurito que afectan al 50% de la población adulta. La **descamación** de la **capa córnea** es un fenómeno normal en todas las personas **pero invisible** y **asintomático**, esto ocurre aproximadamente en **20 o 30** días. En las personas con caspa se postula que podría haber una **aceleración** de la **queratinización** reduciéndose el proceso de recambio a **13-15 días** lo cual **resulta** en la formación de **escamas grandes visibles**.
@@ -29,7 +28,6 @@ Su incidencia es mínima entre los **2 y 10 años** de edad pero empieza a **aum
 * **Piel seca**: en invierno, el frío, la baja humedad del aire y la calefacción pueden resecar la piel, está caspa se caracteriza por escamas finas y no se acompaña de grasa. **Empeora** en **invierno** y **otoño** y **mejora** en **verano**.
 
       ![](/joe-wong-7eytl50zxfq-unsplash-1-1.jpg) 
-
 * **Dermatitis seborreica**: se caracteriza por **presentar la piel roja y aceitosa** este problema es una **causa frecuente** de **caspa** y se manifiesta con **enrojecimiento piel grasa** y **escamas amarillentas**. La **dermatitis seborreica afecta** al **cuero cabelludo** y a **otras zonas de la piel** que tienen muchas glándulas sebáceas como **las cejas**, la **zona lateral de la nariz**, **detrás de las orejas**, las **ingles** y en ocasiones las **axilas**.
 
   ![](/descamacionds.png)
@@ -66,12 +64,12 @@ El **objetivo terapéutico** esencial en la caspa es **frenar** el **ciclo metab
 
 * **Zinc piritiona al 0,3 al 2%.** En la actualidad se tiende a utilizar sales de piritionas sódicas magnésicas con mayor solubilidad.
 
-![](/pirimed.png)             
+![](/pirimed.png)
 
                                    **Piritionato de zinc 2%**
 
 ![](/71gcrmpwvfl-_sl1500_.jpg)  
-                                            **Piritionato de zinc 1%**
+**Piritionato de zinc 1%**
 
 ![](/079400452030-996637-png-png-ulenscale-490x490.webp)
 
@@ -145,14 +143,45 @@ También se han ensayado extractos de plantas como el **Solanum chrysotrichum** 
 
 **El aceite del árbol de té**, es un aceite esencial que se obtiene de las hojas de la **Melaleuca alternifolia**, **nativo de Australia**. Tiene **propiedades** anti **Pityrosporum ovale** comprobadas en protocolos científicos, con una concentración inhibitoria mínima de **0,25% vol/vol.**
 
-![](/tea_tree_oil_20ml_1_inrsdps033.jpeg)
-
 **Soluciones caseras o naturales para eliminar la caspa**
 
 * **Dieta rica en vitamina B y zinc**; ácidos grasos tales como el aceite de bacalao.
+
+  ![](/vitamina-b-1.jpeg)![](/490fa5647aed1eddb87ec0c399a363d0.jpeg)
 * **Evitar comidas fritas,** azúcar, chocolate, huevos y la leche con grasa.
+
+  ![](/1957647.jpeg)
 * **Mezclar 1 o 2 gotas de aceite esencial de árbol de té en el champú** que se utiliza habitualmente, luego lavar dejándolo por 3 minutos en el pelo.
-* Colocar dos cucharadas de sopa de semillas de la alholva (Trigonella foenum-graecum) en agua durante la noche y moler a una pasta fina por la mañana. Esta pasta se debe aplicar sobre todo el cuero cabelludo y dejar media hora. Lavar luego a fondo con jabón.
+
+  ![](/captura-de-pantalla-2021-05-28-a-la-s-7-23-34-p-m.png)
 * Hervir las remolachas y con el agua dar masajes en el cuero cabelludo cada noche. La remolacha blanca es mejor.
+
+  ![](/remolacha-660x661.jpeg)
 * Diluir vinagre de sidra con una cantidad igual de agua y aplicar esto al pelo con paños de algodón.
+
+  ![](/vidrio-31.jpeg)
 * Una cucharadita de jugo de lima fresco o un poco de vinagre en el último enjuague eliminan los residuos de los tratamientos y previenen la caspa.
+
+**Mitos populares ¿Verdadero o Falso?:**
+
+**"La caspa provoca la pérdida del cabello"**
+
+![](/clinica-internacional-alopecia-perdida-cabello.jpeg)
+
+Se ha postulado que la presencia de Pityrosporum ovale podría asociarse a la caída del cabello.
+
+**"La caspa te identifica"**
+
+Esta es una afirmación que parece posible a partir de que expertos alemanes han aislado e **identificado ADN en las partículas de caspa**. Esto se debe a que entre las células descamadas hay, también, células nucleadas. Los estudios indican que se pueden obtener cantidades suficientes de ADN (más de 30 a 40 nanogramos) de 1.0 a 1.5 miligramos de caspa. Ello haría posible aplicar esta técnica a la medicina forense.
+
+![](/adn-1.webp)
+
+**Conclusión**
+
+La caspa es tratable, pero suele requerir tratamientos de mantenimiento para mantenerla bajo control. Debemos tener en encuenta los factores de riesgo que podríamos manejar como una buena higiene capilar, la forma en que reaccionamos ante el estrés, tomar mayor cuidado los días de invierno.
+
+**Bibliografía**
+
+[https://dermatologiaclinica.es/enfermedad/caspa/](https://dermatologiaclinica.es/enfermedad/caspa/ "https://dermatologiaclinica.es/enfermedad/caspa/")
+
+[http://www.atdermae.com/pdfs/atd_31_01_08.pdf](http://www.atdermae.com/pdfs/atd_31_01_08.pdf "http://www.atdermae.com/pdfs/atd_31_01_08.pdf")
