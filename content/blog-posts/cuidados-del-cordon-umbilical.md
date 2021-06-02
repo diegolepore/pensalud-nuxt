@@ -4,7 +4,7 @@ excerpt: El cordón umbilical representa el vínculo entre el bebé y la madre d
   el embarazo.
 thumbnail: "/amit-gaur-ysbvqo9ylha-unsplash-8-1.jpg"
 author: Dra. Diana Emilia Rodríguez Rojas
-date: 2020-12-04T00:00:00Z
+date: 2020-12-04T00:00:00.000+00:00
 avatar: "/1517629621762.jpeg"
 
 ---
@@ -30,7 +30,7 @@ En los **países desarrollados** donde existe una **adecuada atención neonatal*
 
 > El empleo de **antisépticos** y **antibióticos** locales o tópicos puede **retrasar la caída del cordón**, porque interfiere con el proceso normal de **cicatrización**.
 
-![](/images-1.jpeg)
+![](/cordon-umbilical-640.jpeg)
 
 **Medidas para el cuidado del cordón umbilical según la Sociedad Española de Pediatría**:
 
@@ -44,8 +44,6 @@ En los **países desarrollados** donde existe una **adecuada atención neonatal*
 En caso de presentar algunos de estos signos, consultar con el pediatra:
 
 * Enrojecimiento o inflamación de la zona del ombligo.
-
-
 * Cordón húmedo con secreción amarilla maloliente.
 * Sangrado a nivel del cordón umbilical. A veces, puede producirse un pequeño sangrado normal con la caída del cordón umbilical o el roce del mismo con el pañal.
 * Retraso en la caída del cordón después de los 15 días de vida (el cordón suele desprenderse entre el 5° y 15° día de vida).
