@@ -3,7 +3,7 @@ title: El cuidado de las heridas
 excerpt: Todas las personas cuando empezamos a experimentar la vida, aprendiendo a
   manejar bicicleta, la patineta, haciendo carreras, nos arriesgamos en esos intentos
   hacernos una herida.
-thumbnail: "/captura-de-pantalla-2021-06-02-a-la-s-3-21-49-p-m.png"
+thumbnail: "/kleinkind_kinderkrankheit_wunden_blutungen_artikel.jpeg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-06-02T00:00:00Z
 avatar: "/1517629621762.jpeg"
