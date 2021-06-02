@@ -41,7 +41,7 @@ Nuestra boca está llena de bacterias, hay entre 10 y 100 millones de **bacteria
 
 * **Tapar la herida**
 
-Muchas veces he escuchado: “no te tapes la herida para que no se te sancoche” es muy común. Para favorecer la cicatrización y evitar la contaminación de la zona lesionada es conveniente cubrir la herida con un apósito quirúrgico transpirable, de tela para que no se pegue. Claro está que si se utiliza las tiras (curitas) de plástico si podría como dicen “que se sancoche la herida”
+Es muy común escuchar: “no te tapes la herida para que no se te sancoche". Para favorecer la cicatrización y evitar la contaminación de la zona lesionada es conveniente cubrir la herida con un apósito quirúrgico transpirable, de tela para que no se pegue. Claro está que si se utilizan las tiras (curitas) de plástico si podría como dicen “que se sancoche la herida”
 
 ![](/captura-de-pantalla-2021-06-02-a-la-s-4-42-09-p-m.png)
 
