@@ -9,7 +9,7 @@ date: 2021-06-02T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Todas las personas cuando experimentamos la vida y empezamos a manejar bicicleta, la patineta, hacer carreras, en esos intentos nos arriesgamos hacernos una herida. Una vez que sucede, esto lleva consigo el consejo de la vecina diciendo: “aplica alcohol” “sopla la herida” “pon una cebolla”. Es muy frecuente no solo en niños, también en adultos suele suceder, pudiendo ser muy molesto, sobre todo en sitios de flexión. Cuáles son los cuidados que debes hacer y los que no, aquí te lo cuento.
+A lo largo de nuestras vidas, todos hemos experimentado, en mayor o menor medida, alguna caída o accidente al montar bicicleta, patineta, correr, entre otros. Esto es muy frecuente tanto en niños como en adultos, siendo muy molesto, especialmente en sitios de flexión. Esto conlleva, además del dolor propio de dichas experiencias, a que nuestros vecinos, familiares y conocidos, en su preocupación, nos den consejos tales como: “aplica alcohol”, “sopla la herida”, “deberías poner una cebolla en la herida”, y muchos otras cosas, aunque en este artículo te explicaré que debes y que no debes hacer en estos casos.
 
 **_Pasos para curar la herida_**
 
