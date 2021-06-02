@@ -9,13 +9,13 @@ date: 2021-06-02T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Todas las personas cuando experimentamos la vida y empezamos a manejar bicicleta, la patineta, hacer carreras, en esos intentos nos arriesgamos hacernos una herida. Una vez que sucede, esto lleva consigo el consejo de la vecina diciendo: “colócale alcohol” “soplale la herida” “ponle una cebolla”. Es muy frecuente no solo en niños, también en adultos suele suceder, pudiendo ser muy molesto, sobre todo en sitios de flexión. Cuáles son los cuidados que debes hacer y los que no, aquí te lo cuento.
+Todas las personas cuando experimentamos la vida y empezamos a manejar bicicleta, la patineta, hacer carreras, en esos intentos nos arriesgamos hacernos una herida. Una vez que sucede, esto lleva consigo el consejo de la vecina diciendo: “aplica alcohol” “sopla la herida” “ponle una cebolla”. Es muy frecuente no solo en niños, también en adultos suele suceder, pudiendo ser muy molesto, sobre todo en sitios de flexión. Cuáles son los cuidados que debes hacer y los que no, aquí te lo cuento.
 
 **_Pasos para curar la herida_**
 
 * **_Lavar_**
 
-     El agua y jabón serán suficientes para eliminar la suciedad de la herida.
+  El agua y jabón serán suficientes para eliminar la suciedad de la herida.
 
 ![](/como-limpiar-heridas.jpeg)
 
