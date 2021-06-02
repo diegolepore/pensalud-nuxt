@@ -35,7 +35,7 @@ Son muy agresivos y resecan la piel, tiene su efecto antiséptico, pero no es ma
 
 * **Soplar la herida**
 
-Nuestra boca está llena de bacterias, hay entre 10 y 100 millones de **bacterias** por cada **mm de saliva** en nuestra **boca.** Soplar la herida es un puente para que las bacterias lleguen a la herida.
+Nuestra boca está llena de bacterias, hay entre 10 y 100 millones de **bacterias** por cada **mm de saliva** en nuestra **boca.** Soplar la herida es un puente para que las bacterias lleguen hasta la herida.
 
 ![](/captura-de-pantalla-2021-06-02-a-la-s-4-37-37-p-m.png)
 
