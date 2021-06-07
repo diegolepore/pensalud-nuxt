@@ -8,8 +8,6 @@ date: 2021-06-07T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-**Higiene bucal en los bebés**
-
 La higiene bucal es un hábito importante que se debe establecer desde el nacimiento del bebé, aportando una actividad que fomenta una buena salud dental. Aunque muchas personas lo hacen, he visto como hay personas que lo desconocen y muchas llegan con niños que tienen absceso dental por caries. Espero puedas aclarar dudas y reforzar tu conocimiento.
 
 **¿Por qué hacer la higiene bucal en los bebés?**
@@ -26,7 +24,6 @@ Sí, se debe comenzar la limpieza de las encías desde el nacimiento, una vez al
 
 Es obligado comenzar la higiene de los dientes con la erupción del primer diente temporal o “de leche” – que suele darse alrededor de los 6 meses de edad – dos veces al día; en la mañana y, sobretodo, por la noche.
 
-  
 **¿Cómo debe hacerse la higiene bucal hasta los 3 años?**
 
 Para **niños** entre **0** y **3** años: utilizar una gasa, un dedal de silicona o un cepillo dental de lactantes con pasta dental de **1000** ppm (partes por millón) de ión flúor, en cantidad equivalente a un grano de arroz o una pequeña mancha. Cuando hayan salido los **molares temporales**, pasar el **hilo dental** por las zonas de contacto entre los molares antes de ir a dormir.
@@ -55,7 +52,6 @@ A partir de los 6 años de edad, la cantidad de pasta dental con 1450 ppm de ió
 * **Desde los 3 años hasta los 6 años**: pastas de dientes con 1000 ppm de flúor. **¿Cuánto?** El equivalente a un guisante.
 * **Mayores de 6 años**: Pastas de dientes con 1450 ppm de flúor. **¿Cuánto?** El equivalente a un guisante.
 
-    
   **¿Cómo proteger los primeros dientes?**
   * **No dejar nunca dormir al niño con un biberón de leche** o de cualquier otro líquido azucarado.
   * Después de la erupción dentaria, **evitar las tomas prolongadas y continuas nocturnas** de lactancia materna.
