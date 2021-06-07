@@ -2,7 +2,7 @@
 title: Higiene bucal en los bebés
 excerpt: 'La higiene bucal es un hábito importante que se debe establecer desde el
   nacimiento del bebé, aportando una actividad que fomenta una buena salud dental. '
-thumbnail: "/higiene-oral-en-bebes.jpeg"
+thumbnail: "/bebe-primeros-dientes.jpeg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-06-07T00:00:00Z
 avatar: "/1517629621762.jpeg"
