@@ -24,9 +24,9 @@ Sí, se debe comenzar la limpieza de las encías desde el nacimiento, una vez al
 
 Es obligatorio comenzar la higiene de los dientes con la erupción del primer diente temporal o “de leche” que suele darse alrededor de los 6 meses de edad, es importante hacerlo dos veces al día; en la mañana y, sobretodo, por la noche.
 
-**¿Cómo debe hacerse la higiene bucal hasta los 3 años?**
+**¿Cómo debe hacerse la higiene bucal desde el primer diente hasta los 3 años?**
 
-**Los niños desde el primer diente hasta los 3 años**: se debe utilizar una gasa, un dedal de silicona o un cepillo dental de lactantes con **pasta dental** de **1000 ppm** (partes por millón) de ión **flúor**, en cantidad equivalente a un **grano de arroz** o una pequeña mancha. Cuando hayan salido los molares temporales, pasar el hilo dental por las zonas de contacto entre los molares antes de ir a dormir.
+Se debe utilizar una gasa, un dedal de silicona o un cepillo dental de lactantes con **pasta dental** de **1000 ppm** (partes por millón) de ión **flúor**, en cantidad equivalente a un **grano de arroz** o una pequeña mancha. Cuando hayan salido los molares temporales, pasar el hilo dental por las zonas de contacto entre los molares antes de ir a dormir.
 
 ![](/unnamed-1.jpeg)
 
