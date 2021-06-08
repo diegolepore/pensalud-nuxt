@@ -16,7 +16,7 @@ Debemos hacer la higiene bucal para eliminar la placa bacteriana, que es una cap
 
 **¿Debo empezar desde el nacimiento con la higiene bucal?**
 
-**Sí**, se debe comenzar la limpieza de las encías desde el nacimiento, una vez al día aunque el bebé no tenga dientes, aprovechando el momento del baño. Utilizar una gasa húmeda, la punta de un paño limpio humedecido en agua o un dedal de silicona para limpiarle **encías**, **lengua**, **interior de las mejillas** y **paladar**.
+Sí, se debe comenzar la limpieza de las encías desde el nacimiento, una vez al día aunque el bebé no tenga dientes, aprovechando el momento del baño. Utilizar una gasa húmeda, la punta de un paño limpio humedecido en agua o un dedal de silicona para limpiarle **encías**, **lengua**, **interior de las mejillas** y **paladar**.
 
 ![](/encias_bebe-1024x682.jpeg)
 
