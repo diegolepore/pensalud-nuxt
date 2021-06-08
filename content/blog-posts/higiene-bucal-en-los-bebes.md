@@ -26,13 +26,9 @@ Es obligatorio comenzar la higiene de los dientes con la erupción del primer di
 
 **¿Cómo debe hacerse la higiene bucal hasta los 3 años?**
 
-**Niños desde el primer diente hasta los 3 años**: utilizar una gasa, un dedal de silicona o un cepillo dental de lactantes con **pasta dental** de **1000 ppm** (partes por millón) de ión **flúor**, en cantidad equivalente a un **grano de arroz** o una pequeña mancha. Cuando hayan salido los molares temporales, pasar el hilo dental por las zonas de contacto entre los molares antes de ir a dormir.
+**Los niños desde el primer diente hasta los 3 años**: se debe utilizar una gasa, un dedal de silicona o un cepillo dental de lactantes con **pasta dental** de **1000 ppm** (partes por millón) de ión **flúor**, en cantidad equivalente a un **grano de arroz** o una pequeña mancha. Cuando hayan salido los molares temporales, pasar el hilo dental por las zonas de contacto entre los molares antes de ir a dormir.
 
 ![](/unnamed-1.jpeg)
-
-**¿Cómo debe hacerse la higiene bucal a partir de los 3 años?**
-
-**A partir de los 3 años de edad**, la cantidad de pasta dental con **1000 ppm** de ión **flúor,** debe ser equivalente a un **guisante** o, para unificar mejor el criterio, a la anchura del cabezal del cepillo dental.
 
 **¿Cómo debe hacerse la higiene bucal a partir de los 3 años?**
 
