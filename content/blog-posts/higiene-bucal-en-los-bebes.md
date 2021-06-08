@@ -45,7 +45,7 @@ Es obligatorio comenzar la higiene de los dientes con la erupción del primer di
 
 ![](/higiene-bucodental-cuidar-los-dientes-de-los-ninos-a-diferentes-edades-620x349.jpeg)
 
-**Resumen de pasta dental de acuerdo a la edad**
+    **Resumen de pasta dental de acuerdo a la edad**
 
 * **A partir del primer diente hasta los 3 años**: pastas de dientes con **1000 ppm de flúor**. **¿Cuánto?** El equivalente a un **granito de arroz**.
 * **Desde los 3 años hasta los 6 años**: pastas de dientes con **1000 ppm de flúor**. **¿Cuánto?** El equivalente a un **guisante**.
