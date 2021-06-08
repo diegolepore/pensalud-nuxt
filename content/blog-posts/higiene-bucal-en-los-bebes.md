@@ -1,5 +1,5 @@
 ---
-title: Higiene bucal en los bebés
+title: Higiene bucal en bebés
 excerpt: 'La higiene bucal es un hábito importante que se debe establecer desde el
   nacimiento del bebé, esta costumbre fomenta una buena salud dental. '
 thumbnail: "/bebe-primeros-dientes.jpeg"
@@ -10,7 +10,7 @@ avatar: "/1517629621762.jpeg"
 ---
 La higiene bucal es un hábito importante que se debe establecer desde el nacimiento del bebé, esta costumbre fomenta una buena salud dental. Aunque muchas personas tienen conocimiento sobre la higiene bucal, existen otras que lo desconocen y llegan a presentarse casos de niños que presentan absceso dental a causa de la existencia de caries. Debido a esto es importante promover la salud dental desde el nacimiento. Espero puedas aclarar tus dudas y reforzar los conocimientos.
 
-**¿Por qué hacer la higiene bucal en los bebés?**
+**¿Por qué hacer la higiene bucal en bebés?**
 
 Debemos hacer la higiene bucal para eliminar la placa bacteriana, que es una capa pegajosa de bacterias que se forma sobre los dientes y las encías. La placa produce ácidos que atacan el esmalte de los dientes y pueden producir caries y también irritar las encías y producir gingivitis (Inflamación de las encías).
 
@@ -49,7 +49,8 @@ Es obligatorio comenzar la higiene de los dientes con la erupción del primer di
 * **A partir del primer diente hasta los 3 años**: pastas de dientes con **1000 ppm de flúor**. **¿Cuánto?** El equivalente a un **granito de arroz**.
 * **Desde los 3 años hasta los 6 años**: pastas de dientes con **1000 ppm de flúor**. **¿Cuánto?** El equivalente a un **guisante**.
 
-**Mayores de 6 años**: pastas de dientes con **1450 ppm** de **flúor**. **¿Cuánto?** El equivalente a un **guisante**.
+
+* **Mayores de 6 años**: pastas de dientes con **1450 ppm** de **flúor**. **¿Cuánto?** El equivalente a un **guisante**.
 
 **¿Cómo proteger los primeros dientes?**
 
