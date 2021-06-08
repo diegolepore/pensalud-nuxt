@@ -8,7 +8,7 @@ date: 2021-06-07T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-La higiene bucal es un hábito importante que se debe establecer desde el nacimiento del bebé, aportando una actividad que fomenta una buena salud dental. Aunque muchas personas lo hacen, he visto como hay personas que lo desconocen y muchas llegan con niños que tienen absceso dental por caries. Espero puedas aclarar dudas y reforzar tu conocimiento.
+La higiene bucal es un hábito importante que se debe establecer desde el nacimiento del bebé, esta costumbre fomenta una buena salud dental. Aunque muchas personas tienen conocimiento sobre la higiene bucal, existen otras que lo desconocen y llegan a presentarse casos de niños que presentan absceso dental a causa de la existencia de caries. Debido a esto es importante promover la salud dental desde el nacimiento. Espero puedas aclarar tus dudas y reforzar los conocimientos.
 
 **¿Por qué hacer la higiene bucal en los bebés?**
 
@@ -16,41 +16,40 @@ Debemos hacer la higiene bucal para eliminar la placa bacteriana, que es una cap
 
 **¿Debo empezar desde el nacimiento con la higiene bucal?**
 
-Sí, se debe comenzar la limpieza de las encías desde el nacimiento, una vez al día aunque el bebé no tenga dientes, aprovechando el momento del baño. Utilizar una gasa húmeda, la punta de un paño limpio humedecido en agua o un dedal de silicona para limpiarle encías, lengua, interior de las mejillas y paladar.
+**Sí**, se debe comenzar la limpieza de las encías desde el nacimiento, una vez al día aunque el bebé no tenga dientes, aprovechando el momento del baño. Utilizar una gasa húmeda, la punta de un paño limpio humedecido en agua o un dedal de silicona para limpiarle **encías**, **lengua**, **interior de las mejillas** y **paladar**.
 
 ![](/encias_bebe-1024x682.jpeg)
 
 **¿Debo empezar la higiene de los dientes desde la salida del primer diente?**
 
-Es obligado comenzar la higiene de los dientes con la erupción del primer diente temporal o “de leche” – que suele darse alrededor de los 6 meses de edad – dos veces al día; en la mañana y, sobretodo, por la noche.
+Es obligatorio comenzar la higiene de los dientes con la erupción del primer diente temporal o “de leche” que suele darse alrededor de los 6 meses de edad, es importante hacerlo dos veces al día; en la mañana y, sobretodo, por la noche.
 
 **¿Cómo debe hacerse la higiene bucal hasta los 3 años?**
 
-Para **niños** entre **0** y **3** años: utilizar una gasa, un dedal de silicona o un cepillo dental de lactantes con pasta dental de **1000** ppm (partes por millón) de ión flúor, en cantidad equivalente a un grano de arroz o una pequeña mancha. Cuando hayan salido los **molares temporales**, pasar el **hilo dental** por las zonas de contacto entre los molares antes de ir a dormir.
+**Niños desde el primer diente hasta los 3 años**: utilizar una gasa, un dedal de silicona o un cepillo dental de lactantes con **pasta dental** de **1000 ppm** (partes por millón) de ión **flúor**, en cantidad equivalente a un **grano de arroz** o una pequeña mancha. Cuando hayan salido los molares temporales, pasar el hilo dental por las zonas de contacto entre los molares antes de ir a dormir.
 
+  
 ![](/unnamed-1.jpeg)
 
 **¿Cómo debe hacerse la higiene bucal a partir de los 3 años?**
 
-A partir de los 3 años de edad, la cantidad de pasta dental con 1000 ppm de ión flúor, debe ser equivalente a un guisante o, para unificar mejor el criterio, a la anchura del cabezal del cepillo dental.
+**A partir de los 3 años de edad**, la cantidad de pasta dental con **1000 ppm** de ión **flúor,** debe ser equivalente a un **guisante** o, para unificar mejor el criterio, a la anchura del cabezal del cepillo dental.
 
 **¿Cómo debe hacerse la higiene bucal a partir de los 3 años?**
 
-A partir de los 3 años de edad, la cantidad de pasta dental con 1000 ppm de ión flúor, debe ser equivalente a un guisante o, para unificar mejor el criterio, a la anchura del cabezal del cepillo dental.
-
-Si hay riesgo de caries en el niño la concentración de ión flúor de la pasta de dientes será el odontopediatra quien lo recomendará a los padres o cuidadores.
+**A partir de los 3 años de edad**, la cantidad de pasta dental con **1000 ppm** de ión **flúor**, debe ser equivalente a un **guisante** o, para unificar mejor el criterio, a la anchura del cabezal del cepillo dental. 
 
 **![](/img_2870_sin.jpeg)¿Cómo debe hacerse la higiene bucal a partir de los 6 años?**
 
-A partir de los 6 años de edad, la cantidad de pasta dental con 1450 ppm de ión flúor, debe ser equivalente a un guisante o, para unificar mejor el criterio, a la anchura del cabezal del cepillo dental.
+**A partir de los 6 años de edad**, la cantidad de pasta dental con **1450 ppm** de ión **flúor**, debe ser equivalente a un guisante o, para unificar mejor el criterio, a la anchura del cabezal del cepillo dental.
 
 ![](/higiene-bucodental-cuidar-los-dientes-de-los-ninos-a-diferentes-edades-620x349.jpeg)
 
 **Resumen de pasta dental de acuerdo a la edad**
 
-* **A partir del primer diente hasta los 3 años**: pasta de dientes con 1000 ppm de flúor. **¿Cuánto?** El equivalente a un granito de arroz.
-* **Desde los 3 años hasta los 6 años**: pastas de dientes con 1000 ppm de flúor. **¿Cuánto?** El equivalente a un guisante.
-* **Mayores de 6 años**: Pastas de dientes con 1450 ppm de flúor. **¿Cuánto?** El equivalente a un guisante.
+* **A partir del primer diente hasta los 3 años**: pastas de dientes con **1000 ppm de flúor**. **¿Cuánto?** El equivalente a un **granito de arroz**.
+* **Desde los 3 años hasta los 6 años**: pastas de dientes con **1000 ppm de flúor**. **¿Cuánto?** El equivalente a un **guisante**.
+* **Mayores de 6 años**: pastas de dientes con **1450 ppm** de **flúor**. **¿Cuánto?** El equivalente a un **guisante**.
 
   **¿Cómo proteger los primeros dientes?**
   * **No dejar nunca dormir al niño con un biberón de leche** o de cualquier otro líquido azucarado.
