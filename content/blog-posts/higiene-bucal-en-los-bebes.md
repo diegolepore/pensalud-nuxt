@@ -8,7 +8,7 @@ date: 2021-06-07T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-La higiene bucal es un hábito importante que se debe establecer desde el nacimiento del bebé, esta costumbre fomenta una buena salud dental. Aunque muchas personas tienen conocimiento sobre la higiene bucal, existen otras que lo desconocen y llegan a presentarse casos de niños que presentan absceso dental a causa de la existencia de caries. Debido a esto es importante promover la salud dental desde el nacimiento. Espero puedas aclarar tus dudas y reforzar los conocimientos.
+La higiene bucal es un hábito importante que se debe establecer desde el nacimiento del bebé, esta costumbre fomenta una buena salud dental. Aunque muchas personas tienen conocimiento sobre la higiene bucal, existen otras que lo desconocen y llegan a presentarse casos de niños con absceso dental a causa de la existencia de caries. Debido a esto es importante promover la salud bucal desde el nacimiento. Espero puedas aclarar tus dudas y reforzar los conocimientos.
 
 **¿Por qué hacer la higiene bucal en bebés?**
 
