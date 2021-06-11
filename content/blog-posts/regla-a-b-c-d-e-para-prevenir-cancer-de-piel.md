@@ -16,7 +16,7 @@ Los **lunares** se llaman **nevus melanocíticos**, generalmente pueden nacer co
 
 **Regla A-B-C-D**
 
-**A**simetría:cuando observamos que la mitad de nuestro lunar es diferente a la otra mitad.
+**A**simetría: cuando observamos que la mitad de nuestro lunar es diferente a la otra mitad.
 
 ![](/captura-de-pantalla-2021-06-11-a-la-s-2-07-25-p-m.png)
 
@@ -28,7 +28,7 @@ Los **lunares** se llaman **nevus melanocíticos**, generalmente pueden nacer co
 
 ![](/captura-de-pantalla-2021-06-11-a-la-s-2-18-19-p-m.png)
 
-**D**iámetro**:** cuando el lunar mide más de 6 milímetros o 0.6 cm (el tamaño de la goma de un lápiz).
+**D**iámetro: cuando el lunar mide más de 6 milímetros o 0.6 cm (el tamaño de la goma de un lápiz).
 
 ![](/captura-de-pantalla-2021-06-11-a-la-s-2-21-54-p-m.png)
 
@@ -40,7 +40,7 @@ Los **lunares** se llaman **nevus melanocíticos**, generalmente pueden nacer co
 
 **Conclusión**
 
-Nosotros conocemos nuestro cuerpo, es importante que ante cualquier cambio de un lunar o alguno nuevo evaluemos bien la lesión guiados por la regla del ABCDE, y si cumple con los criterios de sospecha de melanoma, ir a consulta para ser evaluado por el dermatólogo y descartar esta patología, porque un diagnóstico temprano es muy importante para tratar el cáncer de piel.
+Conocemos nuestro cuerpo, es importante que ante cualquier cambio de un lunar o con la aparición de uno nuevo evaluemos bien la lesión guiados por la regla del ABCDE, y si cumple con los criterios de sospecha de melanoma, ir a consulta para ser evaluado por el dermatólogo y así descartamos esta patología, porque un diagnóstico temprano es muy importante para tratar el cáncer de piel.
 
 **Referencias bibliográficas**
 
