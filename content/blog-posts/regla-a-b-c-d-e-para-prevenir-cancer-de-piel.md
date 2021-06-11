@@ -2,7 +2,7 @@
 title: Regla A-B-C-D-E para prevenir cáncer de piel
 excerpt: 'Como rutina de nuestro cuidado diario debemos evaluar la evolución de nuestros
   lunares y tomar todas las medidas necesarias para disminuir la exposición solar. '
-thumbnail: "/moles-1-1.jpg"
+thumbnail: "/im-deteccion.jpeg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-06-11T00:00:00Z
 avatar: "/1517629621762.jpeg"
