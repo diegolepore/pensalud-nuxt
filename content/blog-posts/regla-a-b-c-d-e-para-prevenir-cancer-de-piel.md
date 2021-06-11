@@ -32,7 +32,7 @@ Los **lunares** se llaman **nevus melanocíticos**, generalmente pueden nacer co
 
 ![](/captura-de-pantalla-2021-06-11-a-la-s-2-21-54-p-m.png)
 
-**E**volución. Si detectamos que uno de nuestros lunares cambia su forma o tamaño.
+**E**volución: si detectamos que uno de nuestros lunares cambia su forma o tamaño.
 
 ![](/captura-de-pantalla-2021-06-11-a-la-s-2-25-15-p-m.png)
 
