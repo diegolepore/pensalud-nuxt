@@ -39,22 +39,25 @@ La **bilis** se **conduce** por canales en el hígado que se unen de forma progr
 
 ![](/matthieu-joannon-6cilddtotgm-unsplash-1.jpg)
 
-1. El **tabaco** también se ha asociado a esta enfermedad, aunque de forma menos frecuente.
+3) El **tabaco** también se ha asociado a esta enfermedad, aunque de forma menos frecuente.
 
 ![](/joshua-bartell-n3nfwjkr9je-unsplash-1.jpg)
 
-1. Hay causas más raras de pancreatitis, mediante el **consumo** de ciertas **medicinas** como azatioprina, furosemida, valproato, sulfamidas.
+4) Hay causas más raras de pancreatitis, mediante el **consumo** de ciertas **medicinas** como azatioprina, furosemida, valproato, sulfamidas.
 
 ![](/furosemida-752x440.jpeg)
 
-1. El tener unos niveles de **triglicéridos en sangre muy elevados**, este fue particularmente mi caso.
+5) El tener unos niveles de **triglicéridos en sangre muy elevados**, este fue particularmente mi caso.
 
 ![](/1.jpeg)
 
-1. La realización de **pruebas que manipulen los conductos biliares** o pancreáticos.
-2. **Infecciones** causadas por virus, bacterias y también parásitos, tumores o **malformaciones congénitas del páncreas** o del colédoco.
-3. **Traumatismos en el abdomen**, incluso hereditarias, así como las asociadas a otros problemas de salud, como enfermedades autoinmunes y fibrosis quística.
-4. En un **15%** de los casos **no se llega a conocer la causa** de la pancreatitis, situación que se denomina pancreatitis idiopática.
+6) La realización de **pruebas que manipulen los conductos biliares** o pancreáticos.
+
+7) **Infecciones** causadas por virus, bacterias y también parásitos, tumores o **malformaciones congénitas del páncreas** o del colédoco.
+
+8) **Traumatismos en el abdomen**, incluso hereditarias, así como las asociadas a otros problemas de salud, como enfermedades autoinmunes y fibrosis quística.
+
+9) En un **15%** de los casos **no se llega a conocer la causa** de la pancreatitis, situación que se denomina pancreatitis idiopática.
 
 **Patogenia**
 
@@ -66,9 +69,7 @@ Las **enzimas** que son normalmente **secretadas por el páncreas** para **ayuda
 
 **Síntomas**
 
-**Dolor intenso en la parte centra**l y **alta** del **abdomen**, generalmente **irradiado** a los **lados** y **espalda**, algunos pacientes lo describen como **dolor** “en **cinturón**” en muchas ocasiones está acompañado de **náuseas** y **vómitos**. Es exactamente lo que sentí y por lo cual no soporté más el dolor y tuve que acudir a urgencias.
-
-Algunos pacientes cuando la causa es debido a piedra en la vesícula, pueden tener la **piel amarilla** por tener unos **niveles elevados de bilirrubina** en sangre. La misma piedra que ha causado la pancreatitis aguda está obstruyendo el colédoco (conducto biliar), de forma que la bilis no se expulsa al intestino.
+**Dolor intenso en la parte centra**l y **alta** del **abdomen**, generalmente **irradiado** a los **lados** y **espalda**, algunos pacientes lo describen como **dolor** “en **cinturón**” en muchas ocasiones está acompañado de **náuseas** y **vómitos**. Es exactamente lo que sentí y por lo cual no soporté más el dolor y tuve que acudir a urgencias. Algunos pacientes cuando la causa es debido a piedra en la vesícula, pueden tener la **piel amarilla** por tener unos **niveles elevados de bilirrubina** en sangre. La misma piedra que ha causado la pancreatitis aguda está obstruyendo el colédoco (conducto biliar), de forma que la bilis no se expulsa al intestino.
 
 Es frecuente que **no se puedan expulsar gases ni defecar** durante los primeros días de una pancreatitis, debido a que el intestino se paraliza por la inflamación (íleo paralítico).
 
