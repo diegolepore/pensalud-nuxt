@@ -87,13 +87,14 @@ Se considera actualmente que un paciente tiene pancreatitis aguda si cumple 2 de
 
 **Tratamiento**
 
-**Ayuno** hasta la mejoría del dolor, analgésicos y vigilar la aparición de complicaciones. Se da al paciente fundamentalmente alivio para sus síntomas y se tratan las complicaciones si aparecen.
+* **Ayuno** hasta la mejoría del dolor, analgésicos y vigilar la aparición de complicaciones. Se da al paciente fundamentalmente alivio para sus síntomas y se tratan las complicaciones si aparecen.
+
 
 * **Dolor**
 
 El dolor es el síntoma inicial más molesto para el paciente, por lo que se hace un gran esfuerzo por reducirlo mediante analgésicos.
 
-![](/nolotil-ampollas-capsulas.jpeg)
+![](/nolotil-0-4-g-ml-1.jpg)
 
 * **Alimentación**
 
@@ -101,17 +102,17 @@ Un tema importante es la alimentación. A su ingreso, todos los pacientes con pa
 
 ![](/sueroozonizado.jpeg)
 
-**Monitorización**
+* **Monitorización**
 
 La monitorización significa **vigilar al paciente** **para detectar de forma precoz la aparición de complicaciones**. Las complicaciones más temidas son las sistémicas (fallo de órganos vitales), por tanto es muy importante tomar la tensión arterial, pulso, frecuencia respiratoria, medir la orina diariamente y realizar analíticas de sangre. Todo ello hasta que el médico considere que el paciente está fuera de peligro.
 
-**Plasmaféresis**
+* **Plasmaféresis**
 
 En mi caso por tener los triglicéridos elevados se necesitó la realización de plasmaféresis. La **plasmaféresis** es una técnica de depuración extracorpórea diseñada para extraer de la circulación sanguínea sustancias nocivas de alto peso molecular como los anticuerpos, complejos inmunes, crioglobulinas, endotoxinas y lipoproteínas que contienen colesterol y es debe ser reemplazada por plasma normal. En general es como una limpieza de la sangre, en mi caso se utilizó para disminuir el exceso de triglicéridos en mi cuerpo.
 
 ![](/plasmaferesis.jpeg)
 
-**CPRE “colangio-pancreatografía retrógrada endoscópica”**
+* **CPRE “colangio-pancreatografía retrógrada endoscópica”**
 
 En el caso de quedar una piedra en el conducto biliar (colédoco), ésta se debe extraer mediante una técnica endoscópica especial llamado “colangio-pancreatografía retrógrada endoscópica” o CPRE, según sus siglas.
 
