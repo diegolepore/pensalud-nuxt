@@ -94,7 +94,7 @@ Se considera actualmente que un paciente tiene pancreatitis aguda si cumple 2 de
 
 El dolor es el síntoma inicial más molesto para el paciente, por lo que se hace un gran esfuerzo por reducirlo mediante analgésicos.
 
-![](/nolotil-0-4-g-ml-1.jpg)
+![](/nolotil-ampollas-capsulas.jpeg)
 
 * **Alimentación**
 
