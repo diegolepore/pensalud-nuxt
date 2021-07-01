@@ -8,13 +8,13 @@ date: 2021-07-01T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Hoy quiero hablar de un tema que me sucedió hace poco, por el cual estuve ocho días hospitalizada, y es la pancreatitis aguda. ¿**Qué significa esto**? Es la inflamación aguda del páncreas ( el término **itis** significa inflamación y **aguda** significa de aparición súbita, curso rápido y duración relativamente breve). Para esto hablaremos de forma entendible sobre la función del páncreas y cómo sucede esta inflamación que produce un dolor que en La **Escala** Visual Analógica (**EVA**) del 1 al 10 le daría el máximo puntaje, jamás había sentido un dolor tan insoportable. A pesar de esto, no puedo decir que no me haya gustado la experiencia, porque esto me ayudó a sentir empatía por las personas que padecen esta enfermedad, y eso me hace entenderla más como se sienten. También implicó un cambio de vida de cómo veía las cosas y las cosas que comía. Espero que te pueda gustar y podamos aprender juntas.
+Durante ocho días estuve hospitalizada por pancreatitis aguda. ¿Qué es la pancreatitis aguda? Es la inflamación aguda del páncreas ( el término **itis** significa inflamación y **aguda** significa de aparición súbita, curso rápido y duración relativamente breve). Hablaremos de forma entendible sobre la función del páncreas y cómo sucede esta inflamación que produce un dolor que en La **Escala** Visual Analógica (**EVA**) del 1 al 10 le daría el máximo puntaje, ya que jamás había sentido un dolor tan insoportable. A pesar de esto, no puedo decir que no me haya gustado la experiencia, porque esto me ayudó a sentir empatía por las personas que padecen esta enfermedad, y eso me hace entenderlas más como se sienten. Y toda esta experiencia me llevó hacer cambios significativos en mi estilo de vida, especialmente en la alimentación. 
 
 **¿Qué es el páncreas?**
 
-Es un órgano que tiene funciones exocrinas y endocrinas, el páncreas exocrino contiene ácidos que se encargan de producir un jugo, llamado **jugo pancreático** y su **función** es ir al intestino mezclarse con la comida que ingerimos y **ayudar** en la **digestión**. El **jugo pancreático contiene** muchas sustancias como las **enzimas** que **descomponen** la **comida en partes más pequeñas** para su **absorción** en el **intestino**. Un ejemplo de esas enzimas son la **amilasa** (que **digiere** el **almidón**) y la **lipasa** (que **digiere** las **grasas)**, y la **proteasa** que descompone las proteínas y también ayuda a eliminar bacterias, levaduras y protozoos.
+Es un órgano que tiene dos funciones principales: exocrina y endocrina, el **páncreas exocrino** contiene acinos que se encargan de producir un jugo, llamado **jugo pancreático** y su **función** es ir al intestino mezclarse con la comida que ingerimos y **ayudar** en la **digestión**. El **jugo pancreático contiene** muchas sustancias como las **enzimas** que **descomponen** la **comida en partes más pequeñas** para su **absorción** en el **intestino**. Un ejemplo de esas enzimas son la **amilasa** (que **digiere** el **almidón**) y la **lipasa** (que **digiere** las **grasas)**, y la **proteasa** que **descompone** las **proteínas** y también ayuda a eliminar bacterias, levaduras y protozoos.
 
-El páncreas endocrino está compuesto de los **islotes de Langerhans**, distribuidos en todo el páncreas y que contienen varias células productoras de hormonas diferentes, como la **insulina**, una **hormona** que **regula** la **concentración** de **glucosa** en **sangre.**
+El **páncreas endocrino** está compuesto de los **islotes de Langerhans**, distribuidos en todo el páncreas y que contienen varias células productoras de hormonas diferentes, como la **insulina**, una **hormona** que **regula** la **concentración** de **glucosa** en **sangre.**
 
 ![](/fetchimage.webp)![](/desktop_8be02d92-3143-431f-a82d-3200f1789c1c.jpeg)
 
@@ -28,9 +28,9 @@ La causa más frecuente de pancreatitis es la presencia de piedras en la vesícu
 
 1. ¿**Cómo ocurre la inflamación del páncreas por piedras en la vesícula biliar**?
 
-El hígado produce bilis y es almacenado en la vesícula biliar. ¿**Qué es la bilis**? Es un líquido amarillento que sirve para expulsar sustancias tóxicas para el organismo al intestino, de forma que se eliminan por las heces, como la hemoglobina procedente de los glóbulos rojos destruidos y el exceso de colesterol. También contiene las sales biliares, que son importantes en la digestión de las grasas de la dieta.
+El hígado produce bilis y es almacenado en la vesícula biliar. ¿**Qué es la bilis**? Es un líquido amarillento que sirve para expulsar sustancias tóxicas para el organismo al intestino, de forma que se eliminan por las heces, **como** la **hemoglobina procedente** de los **glóbulos rojos** **destruidos** y el **exceso de colesterol**. También contiene las **sales biliares**, que son importantes en la **digestión** de las **grasas** de la dieta.
 
-La bilis se conduce por canales en el hígado que se unen de forma progresiva para formar un solo conducto llamado colédoco. Cuando comemos, la vesícula se vacía de bilis acumulada; la bilis circula por el colédoco y se vacía al intestino a nivel del duodeno, de forma que se mezcla con la comida que sale del estómago, facilitando su digestión. El páncreas produce el jugo pancreático. Este líquido también es canalizado hasta un conducto que vierte su contenido al duodeno. El colédoco y el conducto pancreático desembocan en el mismo lugar, la **papila mayor.** En algunas personas la bilis puede cristalizar en la vesícula y pueden formarse poco a poco piedras a ese nivel. Si una piedra abandona la vesícula, recorre el colédoco y se enclava en su parte final, obstruye el conducto pancreático y ello se puede asociar a la inflamación del páncreas.
+La **bilis** se **conduce** por canales en el hígado que se unen de forma progresiva para formar un solo conducto llamado **colédoco**. Cuando comemos, **la vesícula** se **vacía** de **bilis acumulada**; la **bilis circula por el colédoco** y se **vacía** al **intestino** a nivel del **duodeno**, de forma que se **mezcla** con la **comida** que **sale del estómago, facilitando su digestión**. **El páncreas produce el jugo pancreático**. Este **líquido** también **es canalizado** **hasta un conducto** que **vierte** su contenido al **duodeno**. El **colédoco** y el **conducto pancreático** desembocan en el mismo lugar, la **papila mayor.** En algunas personas la **bilis puede** **cristalizar** en la **vesícula** y pueden **formarse poco a poco piedras a ese nivel**. Si una **piedra abandona la vesícula**, **recorre el colédoco** y se **enclava en su parte final,** **obstruye** el **conducto pancreático** y ello se puede asociar a la **inflamación** del **páncreas**.
 
 ![](/captura-de-pantalla-2021-06-30-a-la-s-5-03-42-p-m.png)  
 2) La **segunda causa** más importante de pancreatitis (15-20% de los casos) es el **consumo excesivo de alcohol**. Se requiere en general **cinco o más consumiciones de alcohol diarias** **durante varios años** para producir una pancreatitis.
@@ -58,13 +58,13 @@ La bilis se conduce por canales en el hígado que se unen de forma progresiva pa
 
 Ocurre algo que se llama: **autodigestión pancreática.**
 
-Se supone que las enzimas que son normalmente secretadas por el páncreas para ayudar a la digestión son liberadas de forma inactiva y se activan en el intestino, lo que ocurre en la pancreatitis es que son prematuramente activadas dentro del páncreas antes de que lleguen al lumen intestinal y esto causa la inflamación del páncreas.
+Las **enzimas** que son normalmente **secretadas por el páncreas** para **ayudar a la digestión** son **liberadas de forma inactiva** y s**e activan en el intestino**, lo que **ocurre** en la **pancreatitis** es que **son prematuramente activadas** dentro del páncreas **antes de que lleguen al lumen intestinal** y esto c**ausa la inflamación del páncreas**.
 
 ![](/unnamed-2.jpeg)
 
 **Síntomas**
 
-Los síntomas de inicio son la aparición de **dolor intenso en la parte centra**l y **alta** del **abdomen**, generalmente **irradiado** a los **lados** y **espalda**, algunos pacientes lo describen como **dolor** “en **cinturón**” en muchas ocasiones está acompañado de **náuseas** y **vómitos**. Es exactamente lo que sentí y por lo cual no soporté más el dolor y tuve que acudir a urgencias.
+**Dolor intenso en la parte centra**l y **alta** del **abdomen**, generalmente **irradiado** a los **lados** y **espalda**, algunos pacientes lo describen como **dolor** “en **cinturón**” en muchas ocasiones está acompañado de **náuseas** y **vómitos**. Es exactamente lo que sentí y por lo cual no soporté más el dolor y tuve que acudir a urgencias.
 
 Algunos pacientes cuando la causa es debido a piedra en la vesícula, pueden tener la **piel amarilla** por tener unos **niveles elevados de bilirrubina** en sangre. La misma piedra que ha causado la pancreatitis aguda está obstruyendo el colédoco (conducto biliar), de forma que la bilis no se expulsa al intestino.
 
@@ -76,7 +76,7 @@ Es frecuente que **no se puedan expulsar gases ni defecar** durante los primeros
 
 Se considera actualmente que un paciente tiene pancreatitis aguda si cumple 2 de los siguientes criterios:
 
-1\. **Dolor abdominal típico** ya comentado.
+1\. **Dolor abdominal típico,** ya mencionado.
 
 2\. **Elevación de amilasa** y/o l**ipasa** en la analítica de sangre **por encima de tres veces el valor normal**.
 
@@ -84,7 +84,7 @@ Se considera actualmente que un paciente tiene pancreatitis aguda si cumple 2 de
 
 **Tratamiento**
 
-Ayuno hasta la mejoría del dolor, analgésicos y vigilar la aparición de complicaciones. Se da al paciente fundamentalmente alivio para sus síntomas y se tratan las complicaciones si aparecen.
+**Ayuno** hasta la mejoría del dolor, analgésicos y vigilar la aparición de complicaciones. Se da al paciente fundamentalmente alivio para sus síntomas y se tratan las complicaciones si aparecen.
 
 * **Dolor**
 
@@ -94,17 +94,17 @@ El dolor es el síntoma inicial más molesto para el paciente, por lo que se hac
 
 * **Alimentación**
 
-Un tema importante es la alimentación. A su ingreso, todos los pacientes con pancreatitis se someten a dieta absoluta (no pueden comer ni beber) y se les administran líquidos intravenosos. En caso de pancreatitis leve, cuando cesa el dolor y el paciente se encuentra bien, se empieza de nuevo a comer y beber (generalmente entre 24 y 72 horas tras ingreso). Sin embargo, en casos de mala evolución a veces es necesario prolongar el ayuno, ya sea por dolor persistente, porque la inflamación obstruye la salida del estómago o por estar el paciente sedado.
+Un tema importante es la alimentación. A su ingreso, todos los pacientes con pancreatitis se someten a **dieta absoluta** (no pueden comer ni beber) y se les administran **líquidos intravenosos**. En caso de **pancreatitis leve**, **cuando cesa el dolor y el paciente se encuentra bien**, se **empieza de nuevo a comer y beber** (generalmente entre 24 y 72 horas tras ingreso). Sin embargo, en casos de mala evolución a veces es necesario prolongar el ayuno, ya sea por dolor persistente, porque la inflamación obstruye la salida del estómago o por estar el paciente sedado.
 
 ![](/sueroozonizado.jpeg)
 
 **Monitorización**
 
-La monitorización significa vigilar al paciente para detectar de forma precoz la aparición de complicaciones. Las complicaciones más temidas son las sistémicas (fallo de órganos vitales), por tanto es muy importante tomar la tensión arterial, pulso, frecuencia respiratoria, medir la orina diariamente y realizar analíticas de sangre. Todo ello hasta que el médico considere que el paciente está fuera de peligro.
+La monitorización significa **vigilar al paciente** **para detectar de forma precoz la aparición de complicaciones**. Las complicaciones más temidas son las sistémicas (fallo de órganos vitales), por tanto es muy importante tomar la tensión arterial, pulso, frecuencia respiratoria, medir la orina diariamente y realizar analíticas de sangre. Todo ello hasta que el médico considere que el paciente está fuera de peligro.
 
 **Plasmaféresis**
 
-En mi caso por tener los triglicéridos elevados se necesitó la realización de plasmaféresis. La plasmaféresis es una técnica de depuración extracorpórea diseñada para extraer de la circulación sanguínea sustancias nocivas de alto peso molecular como los anticuerpos, complejos inmunes, crioglobulinas, endotoxinas y lipoproteínas que contienen colesterol y es debe ser reemplazada por plasma normal. En general es como una limpieza de la sangre, en mi caso se utilizó para disminuir el exceso de triglicéridos en mi cuerpo.
+En mi caso por tener los triglicéridos elevados se necesitó la realización de plasmaféresis. La **plasmaféresis** es una técnica de depuración extracorpórea diseñada para extraer de la circulación sanguínea sustancias nocivas de alto peso molecular como los anticuerpos, complejos inmunes, crioglobulinas, endotoxinas y lipoproteínas que contienen colesterol y es debe ser reemplazada por plasma normal. En general es como una limpieza de la sangre, en mi caso se utilizó para disminuir el exceso de triglicéridos en mi cuerpo.
 
 ![](/plasmaferesis.jpeg)
 
@@ -125,17 +125,17 @@ En la mayor parte de los casos la inflamación es poco intensa, y aunque produce
 
 ![](/images-1-1.jpeg)
 
-También puede haber una **necrosis de la grasa alrededor del páncreas__: necrosis de la grasa peripancreática, que también puede asociarse a una pancreatitis más grave. Estas complicaciones pueden infectarse por bacterias y/o hongos a partir de la segunda semana desde el inicio de la pancreatitis**.**
+También puede haber una **necrosis de la grasa alrededor del páncreas: necrosis de la grasa peripancreática, que también puede asociarse a una pancreatitis más grave. Estas complicaciones pueden infectarse por bacterias y/o hongos a partir de la segunda semana desde el inicio de la pancreatitis**.
 
 A través de una tomografía computarizada con contraste se me detectó según el **Score de necrosis en tomografía con contraste** necrosis del páncreas en **menos** del **30 %**, mi evolución fue favorable, debido a que no presente infección.
 
-**• Sistémicas:** cuando la inflamación pancreática es muy importante (generalmente en casos con necrosis pancreática o peripancreática), puede haber consecuencias en órganos o sistemas alejados del páncreas, se habla entonces de complicaciones sistémicas. Un **30-40%** de los pacientes desarrolla estas complicaciones sistémicas, siendo la más leve y frecuente la aparición de **taquicardia** (ritmo del corazón rápido), **taquipnea** (ritmo de respiración rápido) y **fiebre**. En un 10-15% de los pacientes esta inflamación puede ser descontrolada y llegar a producir un fallo de los órganos vitales: (1) **corazón** y **arterias**: baja la tensión arteria**l**; (2) **riñón**: el paciente orina poco o nada y el riñón falla en su tarea de eliminar toxinas del cuerpo por la orina; y (3) **pulmón**: no se oxigena bien la sangre.
+**• Sistémicas:** cuando la inflamación pancreática es muy importante (generalmente en casos con necrosis pancreática o peripancreática), puede haber consecuencias en órganos o sistemas alejados del páncreas, se habla entonces de complicaciones sistémicas. Un **30-40%** de los pacientes desarrolla estas complicaciones sistémicas, siendo la más leve y frecuente la aparición de **taquicardia** (ritmo del corazón rápido), **taquipnea** (ritmo de respiración rápido) y **fiebre**. En un 10-15% de los pacientes esta inflamación puede ser descontrolada y llegar a producir un fallo de los órganos vitales: (1) **corazón** y **arterias**: baja la tensión arterial; (2) **riñón**: el paciente orina poco o nada y el riñón falla en su tarea de eliminar toxinas del cuerpo por la orina; y (3) **pulmón**: no se oxigena bien la sangre.
 
 Este fallo orgánico pone en peligro al paciente, pero hay que señalar que la mortalidad global por esta enfermedad es baja, siendo prácticamente nula en ausencia de fallo orgánico.
 
 **Conclusión**
 
-Aunque fue una experiencia dolorosa siento que pude aprender mucho a través de ella. Realice cambios de hábitos que necesitaba en mi vida, y en el piso cuatro de digestivo del Hospital Universitario La Paz de Madrid conocí compañeras de cuarto maravillosas que aliviaron mi alma en la angustia y enfermedad, cada una librando batallas que aunque no son fáciles de llevar, se pueden sobrellevar con optimismo. La pancreatitis es una enfermedad aguda que en la mayoría de casos no presenta complicaciones, sin embargo, en una menor proporción se pueden presentar complicaciones que pueden tratarse, con una mortalidad alrededor del 5 %.
+Aunque fue una experiencia dolorosa siento que pude aprender mucho a través de ella. Realicé cambios significativos en mis hábitos alimenticios y en el piso cuatro de digestivo del Hospital Universitario La Paz de Madrid conocí compañeras de cuarto maravillosas que aliviaron mi alma en la angustia y enfermedad, cada una librando batallas que aunque no son fáciles de sobrellevar, si tenemos optimismo todo es mucho más ligero. La pancreatitis es una enfermedad aguda que en la mayoría de los casos no presenta complicaciones, sin embargo, en una menor proporción se pueden presentar complicaciones con una mortalidad alrededor del 5 %.
 
 ![](/img_0411-1-1.jpg)
 
