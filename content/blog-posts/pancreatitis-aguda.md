@@ -1,8 +1,10 @@
 ---
 title: 'Pancreatitis aguda '
-excerpt: 'Hoy quiero hablar de un tema que me sucedió hace poco, por el cual estuve
-  8 días hospitalizada, y es la pancreatitis aguda. '
-thumbnail: "/nci-vol-9104-72.jpeg"
+excerpt: 'Durante ocho días estuve hospitalizada por pancreatitis aguda. ¿Qué es la
+  pancreatitis aguda? Es la inflamación aguda del páncreas ( el término itis significa
+  inflamación y aguda significa de aparición súbita, curso rápido y duración relativamente
+  breve). '
+thumbnail: "/desktop_8be02d92-3143-431f-a82d-3200f1789c1c.jpeg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-07-01T00:00:00Z
 avatar: "/1517629621762.jpeg"
