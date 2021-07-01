@@ -18,7 +18,6 @@ El páncreas endocrino está compuesto de los **islotes de Langerhans**, distrib
 
 ![](/fetchimage.webp)![](/desktop_8be02d92-3143-431f-a82d-3200f1789c1c.jpeg)
 
-  
 **Epidemiología**
 
 Es una enfermedad frecuente, la tercera causa de ingreso hospitalario por enfermedad del aparato digestivo.
@@ -38,25 +37,22 @@ La bilis se conduce por canales en el hígado que se unen de forma progresiva pa
 
 ![](/matthieu-joannon-6cilddtotgm-unsplash-1.jpg)
 
-3) El **tabaco** también se ha asociado a esta enfermedad, aunque de forma menos frecuente.
+1. El **tabaco** también se ha asociado a esta enfermedad, aunque de forma menos frecuente.
 
 ![](/joshua-bartell-n3nfwjkr9je-unsplash-1.jpg)
 
-4) Hay causas más raras de pancreatitis, mediante el **consumo** de ciertas **medicinas** como azatioprina, furosemida, valproato, sulfamidas.
+1. Hay causas más raras de pancreatitis, mediante el **consumo** de ciertas **medicinas** como azatioprina, furosemida, valproato, sulfamidas.
 
 ![](/furosemida-752x440.jpeg)
 
-5) El tener unos niveles de **triglicéridos en sangre muy elevados**, este fue particularmente mi caso.
+1. El tener unos niveles de **triglicéridos en sangre muy elevados**, este fue particularmente mi caso.
 
 ![](/1.jpeg)
 
-6) La realización de **pruebas que manipulen los conductos biliares** o pancreáticos.
-
-7) **Infecciones** causadas por virus, bacterias y también parásitos, tumores o **malformaciones congénitas del páncreas** o del colédoco.
-
-8) **Traumatismos en el abdomen**, incluso hereditarias, así como las asociadas a otros problemas de salud, como enfermedades autoinmunes y fibrosis quística.
-
-9) En un **15%** de los casos **no se llega a conocer la causa** de la pancreatitis, situación que se denomina pancreatitis idiopática.
+1. La realización de **pruebas que manipulen los conductos biliares** o pancreáticos.
+2. **Infecciones** causadas por virus, bacterias y también parásitos, tumores o **malformaciones congénitas del páncreas** o del colédoco.
+3. **Traumatismos en el abdomen**, incluso hereditarias, así como las asociadas a otros problemas de salud, como enfermedades autoinmunes y fibrosis quística.
+4. En un **15%** de los casos **no se llega a conocer la causa** de la pancreatitis, situación que se denomina pancreatitis idiopática.
 
 **Patogenia**
 
@@ -129,7 +125,7 @@ En la mayor parte de los casos la inflamación es poco intensa, y aunque produce
 
 ![](/images-1-1.jpeg)
 
-También puede haber una **necrosis de la grasa alrededor del páncreas**: necrosis de la grasa peripancreática, que también puede asociarse a una pancreatitis más grave. Estas complicaciones pueden infectarse por bacterias y/o hongos a partir de la segunda semana desde el inicio de la pancreatitis**.** 
+También puede haber una **necrosis de la grasa alrededor del páncreas__: necrosis de la grasa peripancreática, que también puede asociarse a una pancreatitis más grave. Estas complicaciones pueden infectarse por bacterias y/o hongos a partir de la segunda semana desde el inicio de la pancreatitis**.**
 
 A través de una tomografía computarizada con contraste se me detectó según el **Score de necrosis en tomografía con contraste** necrosis del páncreas en **menos** del **30 %**, mi evolución fue favorable, debido a que no presente infección.
 
@@ -140,6 +136,8 @@ Este fallo orgánico pone en peligro al paciente, pero hay que señalar que la m
 **Conclusión**
 
 Aunque fue una experiencia dolorosa siento que pude aprender mucho a través de ella. Realice cambios de hábitos que necesitaba en mi vida, y en el piso cuatro de digestivo del Hospital Universitario La Paz de Madrid conocí compañeras de cuarto maravillosas que aliviaron mi alma en la angustia y enfermedad, cada una librando batallas que aunque no son fáciles de llevar, se pueden sobrellevar con optimismo. La pancreatitis es una enfermedad aguda que en la mayoría de casos no presenta complicaciones, sin embargo, en una menor proporción se pueden presentar complicaciones que pueden tratarse, con una mortalidad alrededor del 5 %.
+
+![](/img_0411-1-1.jpg)
 
 **Referencias bibliográficas**
 
