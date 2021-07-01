@@ -115,7 +115,8 @@ En mi caso por tener los triglicéridos elevados se necesitó la realización de
 
 En el caso de quedar una piedra en el conducto biliar (colédoco), ésta se debe extraer mediante una técnica endoscópica especial llamado “colangio-pancreatografía retrógrada endoscópica” o CPRE, según sus siglas.
 
-![](/images-3.jpeg)  
+![](/cpre-2.jpeg)
+
 **Pronóstico**
 
 Tiene una evolución muy buena en dos tercios de los pacientes (quedando libres de síntomas en pocos días), pero que puede asociarse a complicaciones en un tercio de los pacientes, con dolor más prolongado, dificultad para la alimentación y en casos extremos (5% de los casos) fallo de órganos vitales, como el circulatorio, respiratorio o renal.
@@ -126,7 +127,7 @@ En la mayor parte de los casos la inflamación es poco intensa, y aunque produce
 
 **• Locales (en el páncreas o en sus alrededores):** las **colecciones de líquido peripancreático** son bolsas de líquido inflamatorio que se forman cerca del páncreas debido a la inflamación (de forma similar a las ampollas de líquido que ocurren bajo la piel tras las quemaduras). También puede ocurrir que parte o la mayoría del páncreas se quede **sin riego sanguíneo**, en cuyo caso esa zona a la que **la sangre no llega adecuadamente queda sin vida**, lo que en medicina se llama “**necrosis**”; esta complicación se denomina **necrosis pancreática** y se asocia a una evolución de la enfermedad más grave (dolor más persistente, mayor probabilidad de fallo de órganos, ingresos más prolongados, entre otros.), aunque **hay pacientes con necrosis** que **tienen un buen curso de la enfermedad**.
 
-![](/images-1-1.jpeg)
+![](/pancreatitis-aguda.webp)
 
 También puede haber una **necrosis de la grasa alrededor del páncreas: necrosis de la grasa peripancreática, que también puede asociarse a una pancreatitis más grave. Estas complicaciones pueden infectarse por bacterias y/o hongos a partir de la segunda semana desde el inicio de la pancreatitis**.
 
