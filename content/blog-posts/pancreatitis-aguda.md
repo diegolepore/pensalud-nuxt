@@ -10,7 +10,7 @@ date: 2021-07-01T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Durante ocho días estuve hospitalizada por pancreatitis aguda. ¿Qué es la pancreatitis aguda? Es la inflamación aguda del páncreas ( el término **itis** significa inflamación y **aguda** significa de aparición súbita, curso rápido y duración relativamente breve). Hablaremos de forma entendible sobre la función del páncreas y cómo sucede esta inflamación que produce un dolor que en La **Escala** Visual Analógica (**EVA**) del 1 al 10 le daría el máximo puntaje, ya que jamás había sentido un dolor tan insoportable. A pesar de esto, no puedo decir que no me haya gustado la experiencia, porque esto me ayudó a sentir empatía por las personas que padecen esta enfermedad, y eso me hace entenderlas más como se sienten. Y toda esta experiencia me llevó hacer cambios significativos en mi estilo de vida, especialmente en la alimentación. 
+Durante ocho días estuve hospitalizada por pancreatitis aguda. ¿Qué es la pancreatitis aguda? Es la inflamación aguda del páncreas ( el término **itis** significa inflamación y **aguda** significa de aparición súbita, curso rápido y duración relativamente breve). Hablaremos de forma entendible sobre la función del páncreas y cómo sucede esta inflamación que produce un dolor que en La **Escala** Visual Analógica (**EVA**) del 1 al 10 le daría el máximo puntaje, ya que jamás había sentido un dolor tan insoportable. A pesar de esto, no puedo decir que no me haya gustado la experiencia, porque me ayudó a sentir empatía por las personas que presentan esta enfermedad, pudiendo entender como se sienten. Y toda esta experiencia me llevó hacer cambios significativos en mi estilo de vida, especialmente en la alimentación. 
 
 **¿Qué es el páncreas?**
 
