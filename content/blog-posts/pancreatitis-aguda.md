@@ -10,7 +10,7 @@ date: 2021-07-01T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Durante ocho días estuve hospitalizada por pancreatitis aguda. ¿Qué es la pancreatitis aguda? Es la inflamación aguda del páncreas ( el término **itis** significa inflamación y **aguda** significa de aparición súbita, curso rápido y duración relativamente breve). Hablaremos de forma entendible sobre la función del páncreas y cómo sucede esta inflamación que produce un dolor que en La **Escala** Visual Analógica (**EVA**) del 1 al 10 le daría el máximo puntaje, ya que jamás había sentido un dolor tan insoportable. A pesar de esto, no puedo decir que no me haya gustado la experiencia, porque me ayudó a sentir empatía por las personas que presentan esta enfermedad, pudiendo entender como se sienten. Y toda esta experiencia me llevó hacer cambios significativos en mi estilo de vida, especialmente en la alimentación. 
+Durante ocho días estuve hospitalizada por pancreatitis aguda. ¿Qué es la pancreatitis aguda? Es la inflamación aguda del páncreas ( el término **itis** significa inflamación y **aguda** significa de aparición súbita, curso rápido y duración relativamente breve). Hablaremos de forma entendible sobre la función del páncreas y cómo sucede esta inflamación que produce un dolor que en La **Escala** Visual Analógica (**EVA**) del 1 al 10 le daría el máximo puntaje, ya que jamás había sentido un dolor tan insoportable. A pesar de esto, no puedo decir que no me haya gustado la experiencia, porque me ayudó a sentir empatía por las personas que presentan esta enfermedad, pudiendo entender como se sienten. Y toda esta experiencia me llevó hacer cambios significativos en mi estilo de vida, especialmente en la alimentación.
 
 **¿Qué es el páncreas?**
 
@@ -32,32 +32,29 @@ La causa más frecuente de pancreatitis es la presencia de piedras en la vesícu
 
 El hígado produce bilis y es almacenado en la vesícula biliar. ¿**Qué es la bilis**? Es un líquido amarillento que sirve para expulsar sustancias tóxicas para el organismo al intestino, de forma que se eliminan por las heces, **como** la **hemoglobina procedente** de los **glóbulos rojos** **destruidos** y el **exceso de colesterol**. También contiene las **sales biliares**, que son importantes en la **digestión** de las **grasas** de la dieta.
 
-La **bilis** se **conduce** por canales en el hígado que se unen de forma progresiva para formar un solo conducto llamado **colédoco**. Cuando comemos, **la vesícula** se **vacía** de **bilis acumulada**; la **bilis circula por el colédoco** y se **vacía** al **intestino** a nivel del **duodeno**, de forma que se **mezcla** con la **comida** que **sale del estómago, facilitando su digestión**. **El páncreas produce el jugo pancreático**. Este **líquido** también **es canalizado** **hasta un conducto** que **vierte** su contenido al **duodeno**. El **colédoco** y el **conducto pancreático** desembocan en el mismo lugar, la **papila mayor.** En algunas personas la **bilis puede** **cristalizar** en la **vesícula** y pueden **formarse poco a poco piedras a ese nivel**. Si una **piedra abandona la vesícula**, **recorre el colédoco** y se **enclava en su parte final,** **obstruye** el **conducto pancreático** y ello se puede asociar a la **inflamación** del **páncreas**.
+La **bilis** se **conduce** por canales en el hígado que se unen de forma progresiva para formar un solo conducto llamado **colédoco**. Cuando comemos, **la vesícula** se **vacía** de **bilis acumulada**; la **bilis circula por el colédoco** y se **vacía** al **intestino** a nivel del **duodeno**, de forma que se **mezcla** con la **comida** que **sale del estómago, facilitando su digestión**. **El páncreas produce el jugo pancreático**, este **líquido** también **es canalizado** **hasta un conducto** que **vierte** su contenido al **duodeno**. El **colédoco** y el **conducto pancreático** desembocan en el mismo lugar, la **papila mayor.** En algunas personas la **bilis puede** **cristalizar** en la **vesícula** y pueden **formarse poco a poco piedras a ese nivel**. Si una **piedra abandona la vesícula**, **recorre el colédoco** y se **enclava en su parte final,** **obstruye** el **conducto pancreático** y ello se puede asociar a la **inflamación** del **páncreas**.
 
 ![](/captura-de-pantalla-2021-06-30-a-la-s-5-03-42-p-m.png)  
 2) La **segunda causa** más importante de pancreatitis (15-20% de los casos) es el **consumo excesivo de alcohol**. Se requiere en general **cinco o más consumiciones de alcohol diarias** **durante varios años** para producir una pancreatitis.
 
 ![](/matthieu-joannon-6cilddtotgm-unsplash-1.jpg)
 
-3) El **tabaco** también se ha asociado a esta enfermedad, aunque de forma menos frecuente.
+1. El **tabaco** también se ha asociado a esta enfermedad, aunque de forma menos frecuente.
 
 ![](/joshua-bartell-n3nfwjkr9je-unsplash-1.jpg)
 
-4) Hay causas más raras de pancreatitis, mediante el **consumo** de ciertas **medicinas** como azatioprina, furosemida, valproato, sulfamidas.
+1. Hay causas más raras de pancreatitis, mediante el **consumo** de ciertas **medicinas** como azatioprina, furosemida, valproato, sulfamidas, entre otros.
 
 ![](/furosemida-752x440.jpeg)
 
-5) El tener unos niveles de **triglicéridos en sangre muy elevados**, este fue particularmente mi caso.
+1. El tener unos niveles de **triglicéridos en sangre muy elevados**, este fue particularmente mi caso.
 
 ![](/1.jpeg)
 
-6) La realización de **pruebas que manipulen los conductos biliares** o pancreáticos.
-
-7) **Infecciones** causadas por virus, bacterias y también parásitos, tumores o **malformaciones congénitas del páncreas** o del colédoco.
-
-8) **Traumatismos en el abdomen**, incluso hereditarias, así como las asociadas a otros problemas de salud, como enfermedades autoinmunes y fibrosis quística.
-
-9) En un **15%** de los casos **no se llega a conocer la causa** de la pancreatitis, situación que se denomina pancreatitis idiopática.
+1. La realización de **pruebas que manipulen los conductos biliares** o pancreáticos.
+2. **Infecciones** causadas por virus, bacterias y también parásitos, tumores o **malformaciones congénitas del páncreas** o del colédoco.
+3. **Traumatismos en el abdomen**, incluso hereditarias, así como las asociadas a otros problemas de salud, como enfermedades autoinmunes y fibrosis quística.
+4. En un **15%** de los casos **no se llega a conocer la causa** de la pancreatitis, situación que se denomina pancreatitis idiopática.
 
 **Patogenia**
 
@@ -88,8 +85,6 @@ Se considera actualmente que un paciente tiene pancreatitis aguda si cumple 2 de
 **Tratamiento**
 
 * **Ayuno** hasta la mejoría del dolor, analgésicos y vigilar la aparición de complicaciones. Se da al paciente fundamentalmente alivio para sus síntomas y se tratan las complicaciones si aparecen.
-
-
 * **Dolor**
 
 El dolor es el síntoma inicial más molesto para el paciente, por lo que se hace un gran esfuerzo por reducirlo mediante analgésicos.
@@ -126,7 +121,7 @@ Tiene una evolución muy buena en dos tercios de los pacientes (quedando libres 
 
 En la mayor parte de los casos la inflamación es poco intensa, y aunque produce dolor y otros síntomas molestos, en dos o tres días el paciente se encuentra bien. Sin embargo, hay otras personas que necesitan más tiempo para su recuperación, y se pueden producir complicaciones, entre las cuales se encuentran:
 
-**• Locales (en el páncreas o en sus alrededores):** las **colecciones de líquido peripancreático** son bolsas de líquido inflamatorio que se forman cerca del páncreas debido a la inflamación (de forma similar a las ampollas de líquido que ocurren bajo la piel tras las quemaduras). También puede ocurrir que parte o la mayoría del páncreas se quede **sin riego sanguíneo**, en cuyo caso esa zona a la que **la sangre no llega adecuadamente queda sin vida**, lo que en medicina se llama “**necrosis**”; esta complicación se denomina **necrosis pancreática** y se asocia a una evolución de la enfermedad más grave (dolor más persistente, mayor probabilidad de fallo de órganos, ingresos más prolongados, entre otros.), aunque **hay pacientes con necrosis** que **tienen un buen curso de la enfermedad**.
+**• Locales (en el páncreas o en sus alrededores):** las **colecciones de líquido peripancreático** son bolsas de líquido inflamatorio que se forman cerca del páncreas debido a la inflamación (de forma similar a las ampollas de líquido que ocurren bajo la piel tras las quemaduras). También puede ocurrir que parte o la mayoría del páncreas se quede **sin riego sanguíneo**, en cuyo caso esa zona a la que **la sangre no llega adecuadamente queda sin vida**, lo que en medicina se llama “**necrosis**”; esta complicación se denomina **necrosis pancreática** y se asocia a una evolución de la enfermedad más grave (dolor más persistente, mayor probabilidad de fallo de órganos, ingresos más prolongados, entre otros.) aunque **hay pacientes con necrosis** que **tienen un buen curso de la enfermedad**.
 
 ![](/pancreatitis-aguda.webp)
 
