@@ -1,8 +1,7 @@
 ---
 title: "¿Es buena idea comprar las frutas cortadas?"
-excerpt: 'Una tarde caminaba y pase por un establecimiento que ofrece frutas y hortalizas
-  para la venta. De repente vi una hermosa sandía fresca y cortada por la mitad, entonces
-  quise comprarla. '
+excerpt: Una tarde, al entrar a una frutería, me percaté de una hermosa sandía fresca,
+  la cual estaba cortada por la mitad, y quise comprarla.
 thumbnail: "/img_1207-2-1.jpg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-07-14T00:00:00Z
