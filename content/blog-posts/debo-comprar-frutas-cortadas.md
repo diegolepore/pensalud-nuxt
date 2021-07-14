@@ -39,7 +39,7 @@ Generalmente siempre veo la sandía y el melón cortados por la mitad, sobre tod
 
   ![](/limpiar_tabla_de_cortar.jpeg)
 * Corta y desecha las partes de las frutas y verduras que estén dañadas.
-* Seque las frutas y verduras con una toalla de papel limpia.
+* Seca las frutas y verduras con una toalla de papel limpia.
 
   ![](/istockphoto-1227202807-170667a.jpeg)
 * Mantén las frutas y verduras separadas de los alimentos crudos de fuente animal.
