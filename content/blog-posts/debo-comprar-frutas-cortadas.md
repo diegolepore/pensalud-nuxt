@@ -9,9 +9,9 @@ date: 2021-07-14T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Una tarde caminaba y pase por un establecimiento que ofrece frutas y hortalizas para la venta. De repente vi una hermosa sandía fresca y cortada por la mitad, entonces quise comprarla. Cuando llegué a mi casa y estaba a punto de comerla, vino a mi cerebro pensamientos intrusivos, tales como: ¿Lavaron la sandía antes de cortarla? ¿Usaron guantes? ¿ El cuchillo con el cual cortaron la sandía estaría limpio? ¿Podría conservarse bien a temperatura ambiente? Ante mis dudas, ya que no tenía la seguridad sobre las condiciones higiénicas y de manipulación al cortar la fruta, decidí no comerla. Una de las enfermedades que podemos conseguir es la salmonelosis ¿Qué es la salmonelosis? Es una enfermedad bacteriana frecuente que afecta el aparato intestinal. La bacteria de la salmonella generalmente vive en los intestinos de animales y humanos y se libera mediante las heces. Los humanos se infectan con mayor frecuencia mediante el agua o alimentos contaminados, las frutas, vegetales, huevos y carnes en el campo están en relación con el suelo, heces de animales, por lo que no están exentos de contaminarse con alguna bacteria las carnes, huevos, frutas y vegetales, sino hay una buena manipulación de los alimentos.
+Una tarde caminaba y pase por un establecimiento que ofrece frutas y hortalizas para la venta. De repente vi una hermosa sandía fresca y cortada por la mitad, entonces quise comprarla. Cuando llegué a mi casa y estaba a punto de comerla, vino a mi cerebro pensamientos intrusivos, tales como: ¿Lavaron la sandía antes de cortarla? ¿Usaron guantes? ¿ El cuchillo con el cual cortaron la sandía estaría limpio? ¿Podría conservarse bien a temperatura ambiente? Ante mis dudas, ya que no tenía la seguridad sobre las condiciones higiénicas y de manipulación al cortar la fruta, decidí no comerla. Una de las enfermedades que podemos conseguir es la salmonelosis ¿Qué es la salmonelosis? Es una enfermedad bacteriana frecuente que afecta el aparato intestinal, la bacteria de la salmonella generalmente vive en los intestinos de animales y humanos y se libera mediante las heces. Los humanos se infectan con mayor frecuencia mediante el agua o alimentos contaminados. 
 
-Si vas a un hotel, supermercado, cualquier establecimiento y te ofrecen frutas, no podemos garantizar que las condiciones higiénicas y de manipulación sean muy estrictas. No conocemos si las personas que manipularon las frutas tienen certificación para manipulación de alimentos. Si la persona que manipula los alimentos es portadora de salmonella y no se lava muy bien las manos luego de ir al baño, puede contaminar las frutas.
+El problema cuando nos ofrecen frutas cortadas en cualquier establecimiento es que no conocemos si las personas que manipularon las frutas tienen certificación para manipulación de alimentos. Si la persona que manipula los alimentos es portadora de salmonella y no se lava muy bien las manos luego de ir al baño, puede contaminar las frutas.
 
 ![](/c1871585cd9819e6cce80e792adb6396.jpeg)
 
@@ -42,12 +42,12 @@ Generalmente siempre veo la sandía y el melón cortados por la mitad, sobre tod
 * Seque las frutas y verduras con una toalla de papel limpia.
 
   ![](/istockphoto-1227202807-170667a.jpeg)
-* Mantenga las frutas y verduras separadas de los alimentos crudos de fuente animal.
+* Mantén las frutas y verduras separadas de los alimentos crudos de fuente animal.
 * Refrigere las frutas y verduras dentro de las dos horas de haberlas cortado, pelado o cocinado.
 
 **Conclusión**
 
-Pienso que la mejor opción es comprar y consumir frutas enteras, ya que no podemos conocer si la manipulación fue correcta, y posteriormente seguir las recomendaciones para una mejor conservación de las frutas en casa.
+Pienso que la mejor opción es comprar frutas enteras, ya que no podemos conocer si la manipulación fue correcta, y posteriormente seguir las recomendaciones para una mejor conservación de las frutas en casa.
 
 **Referencias bibliográficas**
 
