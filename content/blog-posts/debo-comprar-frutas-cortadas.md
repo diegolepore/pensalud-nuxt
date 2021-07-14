@@ -1,5 +1,5 @@
 ---
-title: "¿Debo comprar frutas cortadas?"
+title: "¿Es buena idea comprar las frutas cortadas?"
 excerpt: 'Una tarde caminaba y pase por un establecimiento que ofrece frutas y hortalizas
   para la venta. De repente vi una hermosa sandía fresca y cortada por la mitad, entonces
   quise comprarla. '
