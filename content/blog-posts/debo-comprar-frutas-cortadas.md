@@ -8,7 +8,7 @@ date: 2021-07-14T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Una tarde, al entrar a una frutería, me percaté de una hermosa sandía fresca, la cual estaba cortada por la mitad, y quise comprarla. Cuando llegué a mi casa y estaba a punto de comerla, empecé a hacerme preguntas tales como:¿lavaron la sandía antes de cortarla? ¿usaron guantes? ¿el cuchillo con el cual cortaron la sandía estaba limpio? ¿podría conservarse bien a temperatura ambiente? Ante mis dudas, ya que no tenía la seguridad sobre las condiciones higiénicas y de manipulación al cortar la fruta, decidí no comerla. 
+Una tarde, al entrar a una frutería, me percaté de una hermosa sandía fresca, la cual estaba cortada por la mitad, y quise comprarla. Cuando llegué a mi casa y estaba a punto de comerla, empecé a hacerme preguntas tales como: ¿lavaron la sandía antes de cortarla? ¿usaron guantes? ¿el cuchillo con el cual cortaron la sandía estaba limpio? ¿podría conservarse bien a temperatura ambiente? Ante mis dudas, ya que no tenía la seguridad sobre las condiciones higiénicas y de manipulación al cortar la fruta, decidí no comerla. 
 
 Una de las enfermedades que podemos contraer al comprar fruta que ha sido cortada y manipulada en condiciones higiénicas dudosas, es la salmonelosis ¿Qué es la salmonelosis? Es una enfermedad bacteriana frecuente que afecta el aparato intestinal, la bacteria de la salmonella generalmente vive en los intestinos de animales y humanos, y se libera mediante las heces. Los humanos se infectan con mayor frecuencia mediante el agua o alimentos contaminados.
 
