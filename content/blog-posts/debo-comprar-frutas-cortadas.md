@@ -3,7 +3,7 @@ title: "¿Debo comprar frutas cortadas?"
 excerpt: 'Una tarde caminaba y pase por un establecimiento que ofrece frutas y hortalizas
   para la venta. De repente vi una hermosa sandía fresca y cortada por la mitad, entonces
   quise comprarla. '
-thumbnail: "/img_1207-1.jpg"
+thumbnail: "/img_1207-2-1.jpg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-07-14T00:00:00Z
 avatar: "/1517629621762.jpeg"
