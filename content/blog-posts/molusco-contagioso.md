@@ -30,7 +30,7 @@ Lo bueno es que esta enfermedad no es latente (enfermedad latente es aquella que
 
 Las lesiones son tipo pápulas y/o nódulos de color piel con umbilicación central, es decir, redondeada con un pequeño hundimiento en el centro de la lesión), pueden rodearse de un halo de eccema (alrededor de la lesión se puede notar que hay inflamación). También pueden causar picazón.
 
-![Diferentes aspectos clínicos de los MC. Lesiones de pápulas rosadas con típica umbilicación central en párpados A), lesión sésil de morfología menos típica junto a otras características de la infección B), reacción eccematiforme en torno a los MC (eccema-molusco), y lesiones inflamadas y abscesificadas en región abdominal D).](/captura-de-pantalla-2021-07-29-a-la-s-12-07-00-a-m-1.png "https://www.actasdermo.org/es-actualizacion-sobre-el-tratamiento-moluscos-articulo-S0001731018300851")
+![Diferentes aspectos clínicos de los MC. Lesiones de pápulas rosadas con típica umbilicación central en párpados A), lesión sésil de morfología menos típica junto a otras características de la infección B), reacción eccematiforme en torno a los MC (eccema-molusco), y lesiones inflamadas y abscesificadas en región abdominal D).](/captura-de-pantalla-2021-07-29-a-la-s-12-07-00-a-m-1.png "Diferentes aspectos clínicos de los MC. Lesiones de pápulas rosadas con típica umbilicación central en párpados A), lesión sésil de morfología menos típica junto a otras características de la infección B), reacción eccematiforme en torno a los MC (eccema-molusco), y lesiones inflamadas y abscesificadas en región abdominal D).")
 
 **¿En qué parte del cuerpo las podemos encontrar?**
 
@@ -47,9 +47,7 @@ En cuanto al tratamiento depende del número de lesiones, la localización, entr
 Estos provocan la destrucción de los queratinocitos infectados por el virus del molusco contagioso.
 
 * **Curetaje:** Consiste en la extirpación de la lesión mediante un instrumento llamado cucharilla dermatológica.
-* **Expresión manual, evisceración o extrusión:** consiste en remover de forma manual el núcleo umbilicado de la lesión. Puede realizarse con diferentes instrumentos, como un bisturí, una lanceta, una aguja de insulina, un portaobjetos, una pinza o incluso con las manos.
-
-  ![Procedimiento de expresión de moluscos con las manos. La lesión se presiona entre dos dedos A), eliminándose una lesión blanquecina (cuerpo del molusco) B, C) con mínimo defecto tisular D).](/gr3.jpeg "https://www.actasdermo.org/es-actualizacion-sobre-el-tratamiento-moluscos-articulo-S0001731018300851")
+* **Expresión manual, evisceración o extrusión:** consiste en remover de forma manual el núcleo umbilicado de la lesión. Puede realizarse con diferentes instrumentos, como un bisturí, una lanceta, una aguja de insulina, un portaobjetos, una pinza o incluso con las manos.![Procedimiento de expresión de moluscos con las manos. La lesión se presiona entre dos dedos A), eliminándose una lesión blanquecina (cuerpo del molusco) B, C) con mínimo defecto tisular D).](/gr3.jpeg "Procedimiento de expresión de moluscos con las manos. La lesión se presiona entre dos dedos A), eliminándose una lesión blanquecina (cuerpo del molusco) B, C) con mínimo defecto tisular D).")
 * **Tricloroacético:** produce destrucción por coagulación química inmediata y necrosis superficial.
 * **Crioterapia:** consiste en la aplicación de nitrógeno líquido a -196°C de temperatura lo que produce la destrucción tisular.
 * **Laserterapia:** el láser de CO2 es más rápido y menos traumatizante en comparación con el curetaje. Sin embargo puede causar cicatrices hipertróficas y queloides en el 70% de los casos, por lo que su uso se desestima en pacientes pediátricos.
