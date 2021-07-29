@@ -1,5 +1,7 @@
 ---
-body: '"Nunca ames a alguien que te trate como si fueras alguien normal" Oscar Wilde.'
-icon: "/corazones-1.png"
+body: |-
+  "Por cada minuto que estás enojado, pierdes sesenta segundos de felicidad"
+  Ralph Waldo Emerson.
+icon: "/irritable-1.png"
 
 ---
