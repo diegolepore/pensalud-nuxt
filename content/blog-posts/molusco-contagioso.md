@@ -57,15 +57,11 @@ Estos provocan la destrucción de los queratinocitos infectados por el virus del
 * **Tricloroacético:** produce destrucción por coagulación química inmediata y necrosis superficial.
 
   **Tópico en hogar:**
-
-
 * **Peróxido de hidrógeno (PH)**: es un potente agente oxidante con una fuerte actividad biocida capaz de inactivar al poxvirus in vitro. En algunos países se venden en crema al 1%.
 * **Hidróxido de potasio** (**KOH)**: es un álcali que penetra y destruye la piel disolviendo la queratina. Se utiliza a concentraciones de entre 5 a 20% en solución acuosa, una o 2 veces al día sobre las lesiones de molusco contagioso.
 
   ![](/100-62-006-ao-i_d96f480312b2d0177342356e54fdf660.jpeg)![](/molutrex-solucion-para-molluscus-3-ml.jpeg)
-
-
-* **Peróxido de benzoilo en crema al 10 %:** el peróxido de benzoilo es un compuesto orgánico de la familia peróxido. Tiene una acción bactericida, antiinflamatoria y comedolítica.2 veces/día durante 4 semanas.
+* **Peróxido de benzoilo en crema al 10 %:** el peróxido de benzoilo es un compuesto orgánico de la familia peróxido. Tiene una acción bactericida, antiinflamatoria y comedolítica. Se aplica dos veces al día durante 4 semanas.
 
   **Inmunoterapia:**
 
