@@ -13,7 +13,7 @@ La queilitis angular conocida popularmente como boquera es una inflamación que 
 
 **Etiología**
 
-La queilitis angular puede ser causada por bacterias, pero es más comúnmente una infección por hongos y se observa en diferentes patologías, entre las cuales se encuentran:
+La queilitis angular puede ser causada por bacterias, pero es más comúnmente una infección por hongos, también se observa en diferentes patologías, entre las cuales se encuentran:
 
 * Diabetes mellitus tipo 1.
 
