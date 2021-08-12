@@ -65,7 +65,7 @@ La queilitis angular puede ser causada por bacterias, pero es más comúnmente u
 
   La queilitis angular puede ser debido a múltiples causas, la humedad de la zona favorece el sobrecrecimiento de hongos y bacterias, por lo que muchas veces el tratamiento incluye principios activos contra estos microorganismos. Con mayor frecuencia se utiliza el tratamiento local, en casos de queilitis microbiana se plantea la utilización de antisépticos. Si hay candidiasis se utilizan antifúngicos locales y de acuerdo a la etiología se puede administrar hierro, vitaminas, según al caso, previa comprobación e indicación médica.
 
-  ![](/38517.jpeg)
+  ![](/199203-nistatina-100000-ui-unguento-15-gr.jpeg)
 
   **Conclusión**
 
