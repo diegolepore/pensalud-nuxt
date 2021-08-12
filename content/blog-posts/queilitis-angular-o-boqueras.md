@@ -1,5 +1,5 @@
 ---
-title: Queilitis angular o boqueras
+title: Queilitis angular o boquera
 excerpt: La queilitis angular conocida popularmente como boquera es una inflamación
   que se localiza en las comisuras labiales con eritema (enrojecimiento) y formación
   de costras, donde se puede instalar un hongo denominado Candida albicans.
@@ -39,7 +39,7 @@ La queilitis angular puede ser causada por bacterias, pero es más común una in
 * **Puede ser un síntoma del** [**síndrome de Plummer-Vinson**](https://www.wikiwand.com/es/S%C3%ADndrome_de_Plummer-Vinson).
 
   ![](/cancer-esofagico-y-esofago-de-barrett-11-638.webp)
-* **La exposición crónica al sol, puede causar la llamada queilitis actínica o solar**.
+* **La exposición crónica al sol puede causar la llamada queilitis actínica o solar**.
 
   ![](/descarga.webp)
 * **Se presenta con frecuencia en la población de adultos mayores que sufren una disminución de la dimensión vertical**, debido a la pérdida de los dientes, lo que permite el exceso de cierre de la boca.
