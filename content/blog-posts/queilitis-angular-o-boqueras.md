@@ -65,7 +65,9 @@ La queilitis angular puede ser causada por bacterias, pero es más comúnmente u
 
   La queilitis angular puede ser debido a múltiples causas, la humedad de la zona favorece el sobrecrecimiento de hongos y bacterias, por lo que muchas veces el tratamiento incluye principios activos contra estos microorganismos. Con mayor frecuencia se utiliza el tratamiento local, en casos de queilitis microbiana se plantea la utilización de antisépticos. Si hay candidiasis se utilizan antifúngicos locales y de acuerdo a la etiología se puede administrar hierro, vitaminas, según al caso, previa comprobación e indicación médica.
 
-  ![](/mupirocina-610x506.jpeg)![](/1483991804.jpeg)**Conclusión**
+  ![](/ch5015_1.jpeg)![](/m_613.jpeg)
+
+  **Conclusión**
 
   La etiología de la queilitis angular es variable, puede estar asociada a infección bacteriana o micótica, inclusive se relaciona con otras patologías, por eso es importante si hay otros síntomas una evaluación general para descartar alguna deficiencia o enfermedad. Es relevante la protección de los labios con bálsamo labial y protegerse del sol para evitar la queilitis actínica, al igual que hacer un esfuerzo de protección labial en temporada de invierno.
 
