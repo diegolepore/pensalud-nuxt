@@ -3,7 +3,7 @@ title: Queilitis angular o boqueras
 excerpt: La queilitis angular conocida popularmente como boquera es una inflamación
   que se localiza en las comisuras labiales con eritema (enrojecimiento) y formación
   de costras, donde se puede instalar un hongo denominado Candida albicans.
-thumbnail: "/queilitis-angular-300x262.jpeg"
+thumbnail: "/boqueras-homeopatia.jpeg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-08-12T00:00:00Z
 avatar: "/1517629621762.jpeg"
