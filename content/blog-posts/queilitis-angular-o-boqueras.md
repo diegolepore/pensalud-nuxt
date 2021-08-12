@@ -71,4 +71,4 @@ La queilitis angular puede ser causada por bacterias, pero es más comúnmente u
 
   La etiología de la queilitis angular es variable, puede estar asociada a infección bacteriana o micótica, inclusive se relaciona con otras patologías, por eso es importante si hay otros síntomas una evaluación general para descartar alguna deficiencia o enfermedad. Es relevante la protección de los labios con bálsamo labial y protegerse del sol para evitar la queilitis actínica, al igual que hacer un esfuerzo de protección labial en temporada de invierno.
 
-  ![](/isdin-reparador-labial-stick-4-gr.jpeg)
+  ![](/lip-balm-benefits-header.jpeg)
