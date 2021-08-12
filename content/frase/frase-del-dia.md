@@ -1,7 +1,6 @@
 ---
-body: |-
-  "Por cada minuto que estás enojado, pierdes sesenta segundos de felicidad"
-  Ralph Waldo Emerson.
-icon: "/irritable-1.png"
+body: '"Un amigo en la vida es mucho; dos son demasiado; tres son imposibles". Henry
+  Adams. '
+icon: "/amigos-1.png"
 
 ---
