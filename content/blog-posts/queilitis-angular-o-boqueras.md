@@ -15,40 +15,40 @@ La queilitis angular conocida popularmente como boquera es una inflamación que 
 
 La queilitis angular puede ser causada por bacterias, pero es más común una infección por hongos, también se observa en diferentes patologías, entre las cuales se encuentran:
 
-* Diabetes mellitus tipo 1.
+* **Diabetes mellitus tipo 1**.
 
   ![](/1-d.jpg)
-* Pacientes con carencia de vitaminas del complejo B.
+* **Pacientes con carencia de vitaminas del complejo B**.
 
   ![](/vitamina-b-de-infographics-productos-que-contienen-la-norma-diaria-sintomas-deficiencia-cartel-medico-del-vector-140192212.jpeg)
-* Anemia por deficiencia de hierro.
+* **Anemia por deficiencia de hierro**.
 
   ![](/unnamed-3.jpeg)
-* Etílicos cirróticos.
+* **Etílicos cirróticos**.
 
   ![](/higado-con-cirrosis.jpeg)
-* Personas con sonrisa invertida, generalmente ocurre cuando los incisivos superiores centrales y laterales estaban desgastados.
+* **Personas con sonrisa invertida**, generalmente ocurre cuando los incisivos superiores centrales y laterales están desgastados.
 
   ![](/sonrisa-invertida.jpeg)
-* Pacientes que están en tratamiento con isotretinoína.
+* **Pacientes que están en tratamiento con isotretinoína**.
 
   ![](/isotretinoina-1.jpeg)
-* Deficiencia de zinc.
+* **Deficiencia de zinc**.
 
   ![](/843bba72fbb4dc069941e988cc3bfe43.jpeg)
-* Puede ser un síntoma del [síndrome de Plummer-Vinson](https://www.wikiwand.com/es/S%C3%ADndrome_de_Plummer-Vinson).
+* **Puede ser un síntoma del** [**síndrome de Plummer-Vinson**](https://www.wikiwand.com/es/S%C3%ADndrome_de_Plummer-Vinson).
 
   ![](/cancer-esofagico-y-esofago-de-barrett-11-638.webp)
-* La exposición crónica al sol, puede causar la llamada queilitis actínica o solar.
+* **La exposición crónica al sol, puede causar la llamada queilitis actínica o solar**.
 
   ![](/descarga.webp)
-* Se presenta con frecuencia en la población de adultos mayores que sufren una disminución de la dimensión vertical, debido a la pérdida de los dientes, lo que permite el exceso de cierre de la boca.
+* **Se presenta con frecuencia en la población de adultos mayores que sufren una disminución de la dimensión vertical**, debido a la pérdida de los dientes, lo que permite el exceso de cierre de la boca.
 
   ![](/banner-protesis-dentales-bogota.jpeg)
-* En invierno los labios se agrietan, los niños pueden tratar de pasar la lengua para mejorar la lesión, pero solo empeora.
+* **En invierno los labios se agrietan**, los niños pueden tratar de pasar la lengua para mejorar la lesión, pero solo empeora.
 
   ![](/achenseewinter05.jpeg)
-* Hipersalivación, babeo.
+* **Hipersalivación**, **babeo**.
 
   ![](/descarga-2.jpeg)
 
