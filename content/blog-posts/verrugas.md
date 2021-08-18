@@ -88,7 +88,7 @@ Son métodos que provocan un daño no selectivo en los queratinocitos infectados
 
 **Terapias antimitóticas**
 
-* **5**-**fluorouracilo** (**5**-FU)  inhibe la síntesis de ADN y ARN, impidiendo así la replicación y proliferación celular. No ha sido probado en niños. Dentro de las reacciones adversas más frecuentes se encuentran: irritación local, dolor moderado a severo durante la aplicación, formación de ampollas y onicólisis en lesiones periungulares.
+* **5**-**fluorouracilo** (**5**-FU): inhibe la síntesis de ADN y ARN, impidiendo así la replicación y proliferación celular. No ha sido probado en niños. Dentro de las reacciones adversas más frecuentes se encuentran: irritación local, dolor moderado a severo durante la aplicación, formación de ampollas y onicólisis en lesiones periungulares.
 
   ![](/captura-de-pantalla-2021-08-18-a-la-s-8-44-05-p-m.png)
 * **Cidofovir:** el cidofovir es un agente antiviral que actúa inhibiendo competitivamente al ADN polimerasa viral. Se utiliza de forma tópica, en crema al 1% o 3%.
