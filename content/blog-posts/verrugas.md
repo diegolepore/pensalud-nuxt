@@ -3,7 +3,7 @@ title: Verrugas
 excerpt: Las verrugas comunes son lesiones en la piel causadas por el virus del papiloma
   humano (VPH), es un virus ADN que pertenece a la familia de los Papovaviridae. Se
   presenta en adultos y en niños, aunque es más frecuente en la población infantil.
-thumbnail: "/verrugas-comunes-002.jpeg"
+thumbnail: "/image-1.jpeg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-08-18T00:00:00Z
 avatar: "/1517629621762.jpeg"
@@ -37,7 +37,6 @@ Las **verrugas comunes** son lesiones en la piel causadas por el virus del papil
 * La presencia de un miembro de la familia o compañero de escuela con verrugas constituye un factor de riesgo de padecer esta enfermedad.
 * Piscinas o baños compartidos.
 
-  
 **Tratamiento**
 
 Las verrugas víricas pueden desaparecer espontáneamente luego de varios meses, sin presentar complicaciones. El tratamiento es recomendable si causa dolor, si existen muchas, o si están ubicadas en zonas que afean la apariencia, también si están muy expuestas al roce.
@@ -91,15 +90,13 @@ Son métodos que provocan un daño no selectivo en los queratinocitos infectados
 
 * **5**-**fluorouracilo** (**5**-FU)  inhibe la síntesis de ADN y ARN, impidiendo así la replicación y proliferación celular. No ha sido probado en niños. Dentro de las reacciones adversas más frecuentes se encuentran: irritación local, dolor moderado a severo durante la aplicación, formación de ampollas y onicólisis en lesiones periungulares.
 
-  ![](/efudix-lps-1.jpeg)
+  ![](/efudix-lps-0-5-cut-vag-20-g-cra-0795_1.jpeg)
 * **Cidofovir:** el cidofovir es un agente antiviral que actúa inhibiendo competitivamente al ADN polimerasa viral. Se utiliza de forma tópica, en crema al 1% o 3%.
-
-
 * **Podofilina:** la resina de podofilina es un agente antimitótico derivado de la planta _Podophyllum peltatum_. Se emplea a una concentración entre 10% y 25% en alcohol o benzoína produciendo necrosis del tejido. Ha sido asociada con neurotoxicidad y mielotoxicidad, por lo que se desaconseja su uso en pacientes pediátricos.
 
   ![](/podofilina_3_1.jpeg)
 
-**Hay una variedad de tratamientos que han demostrado eficacia en estudios con poco poder estadístico, y que se usan en determinados pacientes con lesiones muy numerosas y/o resistentes a tratamientos convencionales. Además, y a pesar de que existe una pobre evidencia científica sobre su eficacia, suelen ser bien aceptados por los padres, cuidadores y pacientes porque son considerados «de origen natural», carecen de efectos secundarios y no son dolorosos. Entre ellos se encuentran los nombrados a continuación:** 
+**Hay una variedad de tratamientos que han demostrado eficacia en estudios con poco poder estadístico, y que se usan en determinados pacientes con lesiones muy numerosas y/o resistentes a tratamientos convencionales. Además, y a pesar de que existe una pobre evidencia científica sobre su eficacia, suelen ser bien aceptados por los padres, cuidadores y pacientes porque son considerados «de origen natural», carecen de efectos secundarios y no son dolorosos. Entre ellos se encuentran los nombrados a continuación:**
 
 1. **Hipertermia local**
 
@@ -107,21 +104,21 @@ Es un tratamiento sencillo particularmente cuando existen múltiples lesiones. C
 
 ![](/3-6.jpeg)
 
-2. **Cinta adhesiva**
+1. **Cinta adhesiva**
 
 El mecanismo de acción no se conoce exactamente pero, al igual que en otros tratamientos, estaría involucrada la estimulación del sistema inmunitario como respuesta a la irritación local. El método consiste en la aplicación de cinta adhesiva (o esparadrapo) sobre la lesión durante 6 días, que luego se sumerge en agua, se lima y se deja descubierta durante 12h, repitiendo el ciclo hasta que la verruga desaparece.
 
 ![](/1041-large_default.jpeg)
 
-3) **Sinecatequinas (polifenon E):** el polifenon E es un extracto estandarizado de las hojas del té verde _(Camellia sinensis)_ que parece inhibir el ciclo celular, activar la apoptosis, inhibir la transcripción del VPH y activar la inmunidad celular. Se utiliza en pomada al 15%, 3 aplicaciones diarias durante un máximo de 16 semanas.
+1. **Sinecatequinas (polifenon E):** el polifenon E es un extracto estandarizado de las hojas del té verde _(Camellia sinensis)_ que parece inhibir el ciclo celular, activar la apoptosis, inhibir la transcripción del VPH y activar la inmunidad celular. Se utiliza en pomada al 15%, 3 aplicaciones diarias durante un máximo de 16 semanas.
 
 ![](/camellia-sinensis-flowers-1.jpeg)
 
-4) **Extractos de ajo:** se ha demostrado que diversos componentes del ajo _(Allium sativum)_ poseen actividad antiviral e inhiben la proliferación de las células infectadas por el virus.
+1. **Extractos de ajo:** se ha demostrado que diversos componentes del ajo _(Allium sativum)_ poseen actividad antiviral e inhiben la proliferación de las células infectadas por el virus.
 
 ![](/ajo-entrero-dientes-de-ajo.jpeg)
 
-5) **Esperar y ver:** se calcula que 2/3 de los pacientes con verrugas se curan espontáneamente en el transcurso de los 2 años.
+1. **Esperar y ver:** se calcula que 2/3 de los pacientes con verrugas se curan espontáneamente en el transcurso de los 2 años.
 
 **Conclusión**
 
