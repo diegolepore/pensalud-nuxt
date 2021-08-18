@@ -1,6 +1,5 @@
 ---
-body: '"Un amigo en la vida es mucho; dos son demasiado; tres son imposibles". Henry
-  Adams. '
-icon: "/amigos-1.png"
+body: "“El que lee mucho y anda mucho, ve mucho y sabe mucho”. Miguel de Cervantes."
+icon: "/cervantes-1.png"
 
 ---
