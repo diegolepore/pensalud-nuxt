@@ -3,7 +3,7 @@ title: Verrugas
 excerpt: Las verrugas comunes son lesiones en la piel causadas por el virus del papiloma
   humano (VPH), es un virus ADN que pertenece a la familia de los Papovaviridae. Se
   presenta en adultos y en niños, aunque es más frecuente en la población infantil.
-thumbnail: "/image-1.jpeg"
+thumbnail: "/wart-on-the-hand-finger-1296x728-body.jpg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-08-18T00:00:00Z
 avatar: "/1517629621762.jpeg"
@@ -90,7 +90,7 @@ Son métodos que provocan un daño no selectivo en los queratinocitos infectados
 
 * **5**-**fluorouracilo** (**5**-FU)  inhibe la síntesis de ADN y ARN, impidiendo así la replicación y proliferación celular. No ha sido probado en niños. Dentro de las reacciones adversas más frecuentes se encuentran: irritación local, dolor moderado a severo durante la aplicación, formación de ampollas y onicólisis en lesiones periungulares.
 
-  ![](/efudix-lps-0-5-cut-vag-20-g-cra-0795_1.jpeg)
+  ![](/captura-de-pantalla-2021-08-18-a-la-s-8-44-05-p-m.png)
 * **Cidofovir:** el cidofovir es un agente antiviral que actúa inhibiendo competitivamente al ADN polimerasa viral. Se utiliza de forma tópica, en crema al 1% o 3%.
 * **Podofilina:** la resina de podofilina es un agente antimitótico derivado de la planta _Podophyllum peltatum_. Se emplea a una concentración entre 10% y 25% en alcohol o benzoína produciendo necrosis del tejido. Ha sido asociada con neurotoxicidad y mielotoxicidad, por lo que se desaconseja su uso en pacientes pediátricos.
 
