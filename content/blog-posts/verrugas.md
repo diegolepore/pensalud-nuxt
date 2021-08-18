@@ -49,7 +49,7 @@ Son métodos que provocan un daño no selectivo en los queratinocitos infectados
 
 * **Ácido salicílico**: es un queratolítico que actúa destruyendo la epidermis infectada por el virus. Es una buena opción terapéutica para los niños cuando hay lesiones de gran tamaño, las mismas son muy numerosas o se localizan en la región periungueal. Comercializado en concentraciones entre el 10-30%. Aproximadamente 2/3 de las verrugas se resolverán en 3 a 6 meses con dicho tratamiento. Entre los efectos adversos está la irritación local.
 
-  ![](/antiverrugas-isdin-20ml-0.jpeg)![](/captura-de-pantalla-2021-08-18-a-la-s-5-40-10-p-m.png)
+  ![](/antiverrugas-isdin-20ml-0.jpeg)
 * **Crioterapia:** consiste en la congelación de la verruga con nitrógeno líquido durante 10 a 20 segundos cada 2 a 3 semanas. Dentro de los efectos adversos está el dolor que produce durante la aplicación y la posterior formación de ampollas, así como la posibilidad de dejar cicatrices e hiper o hipopigmentación residuales.
 
   ![](/nitrogeno-liquido.jpeg)
