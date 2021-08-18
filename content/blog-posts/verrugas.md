@@ -3,7 +3,7 @@ title: Verrugas
 excerpt: Las verrugas comunes son lesiones en la piel causadas por el virus del papiloma
   humano (VPH), es un virus ADN que pertenece a la familia de los Papovaviridae. Se
   presenta en adultos y en niños, aunque es más frecuente en la población infantil.
-thumbnail: "/wart-on-the-hand-finger-1296x728-body.jpg"
+thumbnail: "/before-7.jpeg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-08-18T00:00:00Z
 avatar: "/1517629621762.jpeg"
