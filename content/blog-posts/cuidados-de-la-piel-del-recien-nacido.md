@@ -37,7 +37,7 @@ En ocasiones he visto fotos de bebés menores de seis exponiéndose al sol en pa
 
 * Las exposiciones deben ser durante poco tiempo, evitando las horas centrales del día donde hay mayor exposición solar:
 
-     - Desde las 10 AM hasta las 4 PM.
+       - Desde las 10 AM hasta las 4 PM.
   * También usar barreras fotoprotectoras físicas:
 
     \- Ropa.
