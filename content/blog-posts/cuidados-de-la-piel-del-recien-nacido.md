@@ -37,7 +37,7 @@ En ocasiones he visto fotos de bebés menores de seis exponiéndose al sol en pa
 
 * Las exposiciones deben ser durante poco tiempo, evitando las horas centrales del día donde hay mayor exposición solar:
 
-         - Desde las **10 AM** hasta las **4 PM**.
+     - Desde las 10 AM hasta las 4 PM.
   * También usar barreras fotoprotectoras físicas:
 
     \- Ropa.
@@ -54,21 +54,11 @@ La Organización Mundial de la Salud (**OMS**) recomienda postergar el primer **
 
 1. **Temperatura:** la temperatura del agua debe ser de **37.5 °C**. Por debajo de esa temperatura el bebé estará irritable por el frío y no se relajará. Si el agua está demasiado caliente la piel se reseca, favoreciendo la maceración y la aparición de grietas.
 2. **Duración**: no debe superar los 5 o 6 minutos. Este tiempo es suficiente para lavar las áreas que necesitan mayor limpieza:
-   *  La cara.
-
-
+   * La cara.
    * El cuello.
-
-
    * Los pliegues de los glúteos.
-
-
    * Los muslos.
-
-
    * Muñecas.
-
-
    * La zona del pañal.
 3. **No usar esponjas ni jabones agresivos**. Utilizar una pequeña cantidad de jabón líquido para bebés y disolverlo en el agua, luego, se aplica con la mano aprovechando la oportunidad para acariciar y masajear al bebé.
 4. **Al sacar al bebé de la bañera se seca con una toalla tibia**, suave de algodón, se debe hacer con pequeños toques, sin restregar o frotar. Secando bien los pliegues cutáneos, ya que la humedad favorece la aparición de grietas, reblandecimiento de la piel, infecciones por hongos, entre otros.
@@ -87,6 +77,6 @@ Los aceites vegetales añadidos al agua del baño hidratan sin taponar, aplicado
 
 La barrera cutánea representa un escudo para proteger al bebé de factores externos que pueden causarle daño, el tener un cuidado adecuado de la piel evitará el riesgo de sufrir irritaciones, picores, sequedad, descamación, rojeces, enfermedades de la piel, entre otros.
 
-**Referencias Bibliográficas** 
+**Referencias Bibliográficas**
 
- Dr Pedro Jaén. Una piel para toda la vida. Editorial Planeta. 2021
+Dr Pedro Jaén. Una piel para toda la vida. Editorial Planeta. 2021
