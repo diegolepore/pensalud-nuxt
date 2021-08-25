@@ -1,5 +1,7 @@
 ---
-body: "“El que lee mucho y anda mucho, ve mucho y sabe mucho”. Miguel de Cervantes."
-icon: "/cervantes-1.png"
+body: '"Yo soy como soy y tú eres como eres, construyamos un mundo donde yo pueda
+  ser sin dejar de ser yo, donde tú puedas ser sin dejar de ser tú, y donde ni yo
+  ni tú obliguemos al otro a ser como yo o como tú". Subcomandante Marcos.'
+icon: "/libertad-1.png"
 
 ---
