@@ -36,17 +36,12 @@ En ocasiones he visto fotos de bebés menores de seis exponiéndose al sol en pa
 **Mayores de seis meses**
 
 * Las exposiciones deben ser durante poco tiempo, evitando las horas centrales del día donde hay mayor exposición solar:
-
-       - Desde las 10 AM hasta las 4 PM.
-  * También usar barreras fotoprotectoras físicas:
-
-    \- Ropa.
-
-    \- Gorras.
-
-    \- Gafas o lentes.
-
-    \- Índice de protección solar muy elevado, mínimo 30.
+  * Desde las 10 AM hasta las 4 PM.
+* También usar barreras fotoprotectoras físicas:
+  * Ropa.
+  * Gorras.
+  * Gafas o lentes.
+  * Índice de protección solar muy elevado, mínimo 30.
 
 **_Baño del bebé_**
 
