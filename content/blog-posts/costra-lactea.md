@@ -2,7 +2,7 @@
 title: Costra láctea
 excerpt: Es la forma coloquial de llamar a la dermatitis seborreica del lactante.
   Es una enfermedad inflamatoria crónica de la piel muy frecuente.
-thumbnail: "/costra-450x354.jpeg"
+thumbnail: "/como-quitar-la-costra-lactea.jpeg"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-09-09T00:00:00Z
 avatar: "/1517629621762.jpeg"
@@ -34,6 +34,8 @@ Enrojecimiento y descamación en la zona de la frente, las cejas, en los pliegue
 
 Es una enfermedad que no está relacionada con la mala higiene, tampoco es algo contagioso ni una afección alérgica. No hay una causa clara del origen de la costra láctea. No se produce con la misma intensidad en todos los bebés; Aunque las glándulas sebáceas todavía no tienen mucha actividad en el recién nacido y segregan poco sebo, este es irritante para la delicada piel del bebé. Otras teorías hablan acerca del hongo (_malassezia_), que puede crecer en el sebo, y también refieren la herencia ( hay familias que tienen más tendencia a padecerla).
 
+![](/costra-450x354.jpeg)
+
 **Diagnóstico**
 
 El diagnóstico es clínico, el médico puede evaluar la lesión y de esta manera confirmar el diagnóstico, y así recomendar un tratamiento.
@@ -46,6 +48,8 @@ En casos más severos el Dr Pedro Jaén en su libro “**UNA PIEL PARA TODA LA V
 
 Si estas medidas no logran mejoría, es recomendable consultar al médico especialista quien te recetará dependiendo de la afección corticoide, vaselina salicílica, entre otras recomendaciones.
 
+![](/propiedades-aceite-de-borraja.jpeg)
+
 ¿**Qué no deberías hacer**?
 
 * Forzar el desprendimiento de las placas de la caspa arrancándolas.
@@ -57,6 +61,8 @@ Si estas medidas no logran mejoría, es recomendable consultar al médico especi
 * Los baños deben ser cortos y tibios.
 * Lavar el cabello de tu bebé una vez al día con un champú suave para bebés.
 * Puedes retirar las costras con aceites vegetales o vaselina.
+
+  ![](/dermatitis-seborreica-en-bebes.jpeg)
 
 **Conclusión**
 
