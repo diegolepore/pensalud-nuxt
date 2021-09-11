@@ -61,6 +61,6 @@ El acné neonatal desaparece  por sí solo al cabo de **dos** **semanas** a **tr
 
 El acné neonatal es una enfermedad transitoria que desaparece con el tiempo, es importante mantener una buena higiene y evitar tocar las lesiones y colocar aceites, ya que puede empeorarlas. Si son muchas lesiones y no mejora con el tiempo puedes consultar al especialista.
 
-**Referencias bibliográficas**
+**Referencia bibliográfica**
 
 [https://www.aeped.es/sites/default/files/documentos/rn_benignastransitorias_0.pdf](https://www.aeped.es/sites/default/files/documentos/rn_benignastransitorias_0.pdf "https://www.aeped.es/sites/default/files/documentos/rn_benignastransitorias_0.pdf")
