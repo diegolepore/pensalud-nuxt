@@ -42,11 +42,11 @@ Afecta el área T del rostro: frente, nariz, mentón, y también las mejillas.
 
 **¿El que tenga acné neonatal significa que tendrá en la adolescencia?**
 
-  No aumenta el riesgo de padecer acné en la adolescencia.
+No aumenta el riesgo de padecer acné en la adolescencia.
 
 **_¿Necesita tratamiento?_**
 
-El acné neonatal desaparece solo al cabo de **dos** **semanas** a **tres meses** de vida. Cuando es mucho y perdura en el tiempo, si los padres quieren el especialista indicará alguna crema como peróxido de benzoilo, entre otros.
+El acné neonatal desaparece  por sí solo al cabo de **dos** **semanas** a **tres meses** de vida. Cuando es mucho y perdura en el tiempo, si los padres quieren el especialista indicará alguna crema como peróxido de benzoilo, entre otros.
 
 **¿Qué debo hacer ?**
 
