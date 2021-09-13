@@ -24,6 +24,8 @@ Es una hiperpigmentación (oscurecimiento de la piel) epidérmica o dérmica pos
 
 Máculas (manchas) hiperpigmentadas de color café oscuro (melanina epidérmica).
 
+![](/depositphotos_118648654-stock-photo-mosquito-bites-sore-on-baby.jpeg)
+
 **¿Cuándo va a desaparecer?**
 
 La hiperpigmentación epidérmica desaparece entre semanas y meses.
@@ -35,8 +37,6 @@ El tratamiento es difícil. Principalmente se trata el proceso patológico prima
 **¿Qué puedo hacer?**
 
 * Si es por mosquitos evita criaderos de mosquitos en tu hogar.
-
-
 * Usa repelentes de mosquitos de acuerdo a la edad ( evitar en menores de 2 meses).
 * Si hay mosquitos, usa ropa que cubra la piel, evita los colores oscuros y brillantes que atraen a los mosquitos.
 * Usar protección solar.
