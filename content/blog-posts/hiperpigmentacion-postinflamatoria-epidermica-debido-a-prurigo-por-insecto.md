@@ -13,7 +13,7 @@ Quiero hablar sobre este tema ya que siempre me lo preguntan. Para responder a s
 
 **¿Qué es Hiperpigmentación postinflamatoria ?**
 
-Es una hiperpigmentación (oscurecimiento de la piel) epidérmica o dérmica posterior a un proceso dermatológico inflamatorio. Puede aparecer en cualquier parte de la superficie cutánea, incluidas mucosas y uñas. Ocurre a cualquier edad y no existe predilección de sexo. Se encuentra de manera más frecuente en pacientes con piel oscura.
+Es una hiperpigmentación  epidérmica o dérmica (oscurecimiento de la piel) posterior a un proceso dermatológico inflamatorio. Puede aparecer en cualquier parte de la superficie cutánea, incluidas mucosas y uñas. Ocurre a cualquier edad y no existe predilección de sexo. Se encuentra de manera más frecuente en pacientes con piel oscura.
 
 **¿Por qué ocurre esto?**
 
