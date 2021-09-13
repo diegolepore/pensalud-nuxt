@@ -1,11 +1,11 @@
 ---
-title: Hiperpigmentación postinflamatoria debido a prurigo simple por insectos
+title: Manchas oscuras por picaduras de mosquitos
 excerpt: Quiero hablar sobre este tema ya que siempre me lo preguntan. Para responder
   sus preguntas quiero decirles que el prurigo por insecto es una reacción inflamatoria
   cutánea
 thumbnail: "/depositphotos_118648654-stock-photo-mosquito-bites-sore-on-baby.jpeg"
 author: Dra. Diana Emilia Rodríguez Rojas
-date: 2021-09-13T00:00:00Z
+date: 2021-09-13T00:00:00.000+00:00
 avatar: "/1517629621762.jpeg"
 
 ---
