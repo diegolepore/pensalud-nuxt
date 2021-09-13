@@ -1,5 +1,5 @@
 ---
-title: Hiperpigmentación postinflamatoria epidérmica debido a prurigo por insecto
+title: Hiperpigmentación postinflamatoria epidérmica debido a prurigo simple por insectos
 excerpt: Quiero hablar sobre este tema ya que siempre me lo preguntan. Para responder
   sus preguntas quiero decirles que el prurigo por insecto es una reacción inflamatoria
   cutánea
@@ -9,7 +9,7 @@ date: 2021-09-13T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Quiero hablar sobre este tema ya que siempre me lo preguntan. Para responder a sus preguntas quiero decirles que el prurigo por insecto es una reacción inflamatoria cutánea por una reacción de hipersensibilidad a antígenos en la saliva de los insectos, principalmente de los mosquitos. Esto causa picor y lesiones en la piel que posteriormente se oscurecen y tardan en desaparecer.
+Quiero hablar sobre este tema ya que siempre me lo preguntan. Para responder a sus preguntas quiero decirles que el prurigo simple por insectos es una reacción inflamatoria cutánea por una reacción de hipersensibilidad a antígenos en la saliva de los insectos, principalmente de los mosquitos. Esto causa picor y lesiones en la piel que posteriormente se oscurecen y tardan en desaparecer.
 
 **¿Qué es Hiperpigmentación postinflamatoria ?**
 
