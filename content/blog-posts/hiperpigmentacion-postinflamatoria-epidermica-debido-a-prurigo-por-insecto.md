@@ -1,5 +1,5 @@
 ---
-title: Hiperpigmentación postinflamatoria epidérmica debido a prurigo simple por insectos
+title: Hiperpigmentación postinflamatoria debido a prurigo simple por insectos
 excerpt: Quiero hablar sobre este tema ya que siempre me lo preguntan. Para responder
   sus preguntas quiero decirles que el prurigo por insecto es una reacción inflamatoria
   cutánea
@@ -46,8 +46,11 @@ El tratamiento es difícil. Principalmente se trata el proceso patológico prima
 
 **¿Qué tratamiento se utiliza?**
 
-* La **hidroquinona** en concentraciones de 2 a 4 % ha demostrado buenos resultados en tres a seis meses, sobre todo con el uso concomitante con un retinoide y esteroide tópico, (**no se recomienda en niños menores de 12 años**).
-* Otros tratamientos utilizados son el **ácido azelaico**, **vitaminas E** y **C**, **arbutina**, **quimio exfoliaciones químicas** y **tratamiento láser**.
+* La **hidroquinona** en concentraciones de 2 a 4 % ha demostrado buenos resultados en tres a seis meses, sobre todo con el uso concomitante con un retinoide y esteroide tópico, (**no usar en niños**).
+* Otros tratamientos utilizados son el **ácido azelaico**, (**no se recomienda en niños menores de 12 años**). 
+* **Vitaminas E** y **C**.
+* **Arbutina,** **(no usar en niños).**
+* **Quimioexfoliaciones químicas** y **tratamiento láser**, ( consulta con el especialista). 
 * Es recomendable usar **cremas reparadoras** para reducir la inflamación.
 
   ![](/d_nq_np_848475-mlv43951268999_102020-o.jpeg)
