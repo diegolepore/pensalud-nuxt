@@ -50,7 +50,9 @@ El tratamiento es difícil. Principalmente se trata el proceso patológico prima
 * Otros tratamientos utilizados son el **ácido azelaico**, **vitaminas E** y **C**, **arbutina**, **quimio exfoliaciones químicas** y **tratamiento láser**.
 * Es recomendable usar **cremas reparadoras** para reducir la inflamación.
 
-  ![](/d_nq_np_848475-mlv43951268999_102020-o.jpeg)![](/cicastela-crema-reparadora-40-ml.jpeg)**Conclusión**
+  ![](/d_nq_np_848475-mlv43951268999_102020-o.jpeg)
+
+  ![](/mustela-cicastela-onarici-bakim-kremi-40-ml-kc2399730-1-3bbc60a2ccfa49b79e74610e919221b3.jpeg)**Conclusión**
 
 Recuerda que el oscurecimiento de la piel posterior a una picadura de insecto va ir desapareciendo con el tiempo, pero es importante tomar medidas como evitar la exposición solar y usar fotoprotección solar para evitar que se oscurezcan más, también es importante usar cremas reparadoras en la lesiones que permitan reducir la inflamación; Y el uso del resto de opciones será de acuerdo a las indicaciones de un especialista.
 
