@@ -26,7 +26,7 @@ También se le llama trago accesorio, es una pequeña masa hística, es decir qu
 
 Se producen por la fusión imperfecta de los tubérculos del primer y segundo arco branquial. Pueden ser unilaterales o bilaterales, son más frecuentes en el sexo femenino y la población negra.
 
-El síndrome branquio-oto-renal se relacionan con las fositas preauriculares pueden constituir el único signo. Se trata de un desorden autonómico dominante, con alta penetración y expresión variable. El gen afectado se ha localizado en el brazo corto del cromosoma 8. En esta patología está indicado el pedido de ecografía renal, porque en el 66% de los niños se observan anomalías renales; asimismo, se debe evaluar la audición ya que en el 89% de los casos se asocia a diferentes grados de sordera.
+El síndrome branquio-oto-renal se relacionan con las fositas preauriculares y pueden constituir el único signo. Se trata de un desorden autonómico dominante, con alta penetración y expresión variable. El gen afectado se ha localizado en el brazo corto del cromosoma 8. En esta patología está indicado el pedido de ecografía renal, porque en el 66% de los niños se observan anomalías renales; asimismo, se debe evaluar la audición ya que en el 89% de los casos se asocia a diferentes grados de sordera.
 
 **Características de la lesión**
 
