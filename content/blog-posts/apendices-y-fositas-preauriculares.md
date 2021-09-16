@@ -8,7 +8,7 @@ date: 2021-09-16T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Los apéndices y las fositas preauriculares son malformaciones relativamente frecuentes,con una prevalencia de 5 a 10 cada 1.000 recién nacidos.
+Los apéndices y las fositas preauriculares son malformaciones relativamente frecuentes, con una prevalencia de 5 a 10 cada 1.000 recién nacidos.
 
 **¿Qué es un apéndice preauricular?**
 
@@ -55,7 +55,7 @@ En caso que exista una **fosita preauricular o apéndice preauricular aislado**,
 
 1. Hay que hacer **un examen físico completo** y **evaluar a la familia** para saber la existencia de fositas o apéndice preauricular. En caso de que no exista, sería una anomalía menor, en caso de que exista, sería un rasgo familiar. Deberá tener una evaluación audiológica y control clínico.
 
-En caso de **fosita preauricular** asociada con **sordera** y **fístula branquial**: 
+En caso de **fosita preauricular** asociada con **sordera** y **fístula branquial**:
 
 1. Se solicitará **ecografía renal** y si se evidencia **displasia renal**, se solicitará **evaluación** por **genética** y **nefrología** por **síndrome branquio-oto-renal**.
 
@@ -69,7 +69,6 @@ En caso de **apéndice** y **fosita preauricular** o **ambos con signos y sínto
 
    ![](/captura-de-pantalla-2021-09-17-a-la-s-1-50-31-a-m.png)
 
-     
    **¿Se opera la fosita preauricular?**
 
    Cuando no da síntomas de infección, drenaje de moco, no es necesaria la cirugía. Sí está indicada la operación cuando aparecen signos infecciosos o drenaje de moco por el riesgo de infección. Si esta se produce, es necesario un tratamiento antibiótico previo a la cirugía.
