@@ -71,7 +71,7 @@ En caso de **apéndice** y **fosita preauricular** o **ambos** con signos y sín
 
    **¿Se opera la fosita preauricular?**
 
-   Cuando no da síntomas de infección, drenaje de moco, no es necesaria la cirugía. Sí está indicada la operación cuando aparecen signos infecciosos o drenaje de moco por el riesgo de infección. Si esta se produce, es necesario un tratamiento antibiótico previo a la cirugía.
+   Cuando no da síntomas de infección, drenaje de moco, no es necesaria la cirugía. Sí está indicada la operación cuando aparecen signos infecciosos o drenaje de moco frecuente, por el riesgo de infección. Si esta se produce, es necesario un tratamiento antibiótico previo a la cirugía.
 
    ![](/captura-de-pantalla-2021-09-17-a-la-s-1-54-16-a-m.png)  
    **Conclusión**
