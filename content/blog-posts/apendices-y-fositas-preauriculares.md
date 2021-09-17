@@ -22,7 +22,7 @@ También denominado trago accesorio o mamelón preauricular; es una pequeña mas
 
   ![](/neoplasias-benignas-del-oido-exterior-en-una-adolescente-apendice-de-congenita-deformidad-189231320.jpeg)
 
-**¿Las fositas preauriculares?**
+**¿Qué son las fositas preauriculares?**
 
 Se producen por la fusión imperfecta de los tubérculos del primer y segundo arco branquial. Pueden ser unilaterales o bilaterales, son más frecuentes en el sexo femenino y la población negra.
 
