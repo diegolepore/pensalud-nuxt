@@ -43,7 +43,7 @@ Aunque se ha dicho que existen una relación con las malformaciones renales, div
 
 **¿Existe algún problema con la audición?**
 
-Un significativo porcentaje de niños entre 15 y 30% con alteraciones aisladas de las orejas, como fositas o apéndices, ha presentado diferentes grados de disminución de la audición, por lo que se aconseja un examen de audición precoz en estos pacientes. Existen estudios que se realizan al nacer a todos los recién nacidos antes del alta de la maternidad para valorar su audición como: las pruebas audiológicas protocolizadas realizadas al nacer (potenciales evocados auditivos de tronco cerebral \[PEATC\] y otoemisiones acústicas \[OEA\]), si son normales no son necesarias más pruebas.
+Un significativo porcentaje de niños entre 15 y 30% con alteraciones aisladas de las orejas, como fositas o apéndices, ha presentado diferentes grados de disminución de la audición, por lo que se aconseja un examen de audición precoz en estos pacientes. Existen estudios que se realizan al nacer a todos los recién nacidos antes del alta de la maternidad para valorar su audición como: potenciales evocados auditivos de tronco cerebral \[PEATC\] y otoemisiones acústicas \[OEA\]).
 
 **¿Es algo hereditario?**
 
