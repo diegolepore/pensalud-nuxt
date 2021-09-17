@@ -12,7 +12,7 @@ Los apéndices y las fositas preauriculares son malformaciones relativamente fre
 
 **¿Qué es un apéndice preauricular?**
 
-También se le llama trago accesorio, es una pequeña masa hística, es decir que forma parte del tejido del pabellón auricular que es cartílago cubierto por piel. Puede ser pediculada, quiere decir, que tiene una especie de pedúnculo o tallo que lo une a la superficie externa, o sésil que es todo lo contrario, está unido a la superficie externa sin pedúnculo o tallo.
+También denominado trago accesorio o mamelón preauricular; es una pequeña masa hística, es decir que forma parte del tejido del pabellón auricular que es cartílago cubierto por piel. Puede ser pediculada, quiere decir, que tiene una especie de pedúnculo o tallo que lo une a la superficie externa, o sésil que es todo lo contrario, está unido a la superficie externa sin pedúnculo o tallo.
 
 **Características de la lesión**
 
@@ -53,13 +53,13 @@ Ante un niño con fosita preauricular o trago accesorio aislado debemos evaluar 
 
 En caso que exista una **fosita preauricular o apéndice preauricular aislado**, es decir, **sin estar asociado a otra malformación**:
 
-1. Hay que hacer **un examen físico completo** y **evaluar a la familia** para saber la existencia de fositas o apéndice preauricular. En caso de que no exista, sería una anomalía menor, en caso de que exista, sería un rasgo familiar. Deberá tener una evaluación audiológica y control clínico.
+1. Hay que hacer **un examen físico completo** y **evaluar a la familia** para saber la existencia de fositas o apéndice preauricular. En caso de que no exista, sería una anomalía menor, si existe, sería un rasgo familiar. Deberá tener una evaluación audiológica y control clínico.
 
 En caso de **fosita preauricular** asociada con **sordera** y **fístula branquial**:
 
 1. Se solicitará **ecografía renal** y si se evidencia **displasia renal**, se solicitará **evaluación** por **genética** y **nefrología** por **síndrome branquio-oto-renal**.
 
-En caso de **apéndice** y **fosita preauricular** o **ambos con signos y síntomas asociados craneofaciales, miembros, anogenitales, cardiovasculares, renales columna, sordera,** que nos hablen de un síndrome genético:
+En caso de **apéndice** y **fosita preauricular** o **ambos** con signos y síntomas asociados **craneofaciales, miembros, anogenitales, cardiovasculares, renales columna, sordera,** que nos hablen de un síndrome genético, se solicitará:
 
 1. Derivación genética para caracterizar el síndrome y seguimiento.
 
