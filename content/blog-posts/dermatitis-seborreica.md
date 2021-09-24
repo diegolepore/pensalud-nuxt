@@ -41,8 +41,7 @@ No se conoce exactamente cuál es la causa, pueden influir muchos factores tales
 
 * **En la etapa infantil**
 
-     **Características de la lesión**
-
+  **Características de la lesión**
 * **Aparición**: las lesiones pueden aparecer a las pocas semanas del nacimiento y casi siempre antes de los 3 meses de edad.
 * **Ubicación de las lesiones**: cuando aparece en el cuero cabelludo forma la llamada "**costra láctea**". Además puede afectar también a la zona del pañal y pliegues retroauriculares, cuello, axilas, ingle.
 * **Lesiones**: escamas y costras de aspecto graso de color amarillento que se distribuyen en áreas intertriginosas y cuero cabelludo.
@@ -125,7 +124,7 @@ En cara y tronco, se desaconsejan las lociones de antes y después del afeitado,
 
 En casos refractarios, es decir, si no responde al tratamiento inicial se puede plantear la administración de isotretinoína a bajas dosis durante varios meses, teniendo en cuenta las precauciones a tomar en mujeres en edad fértil, o el empleo de UVB de banda estrecha.
 
-**Medidas que se deben tomar en la higiene**
+**Medidas que se deben tomar con la higiene**
 
 * Utilizar jabones tipo syndet.
 * Duchas cortas y diarias con agua tibia.
