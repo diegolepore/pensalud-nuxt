@@ -127,7 +127,7 @@ En casos refractarios, es decir, si no responde al tratamiento inicial se puede 
 **Medidas que se deben tomar con la higiene**
 
 * Utilizar jabones tipo syndet.
-* Duchas cortas y diarias con agua tibia.
+* Duchas diarias, cortas con agua tibia.
 * Evitar cosméticos con alcohol.
 * Evitar cosméticos muy grasos.
 * Evitar esponjas o manoplas.
