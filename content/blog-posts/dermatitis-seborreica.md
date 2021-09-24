@@ -4,7 +4,7 @@ excerpt: Tener ciertas áreas de la piel enrojecidas y con costras puede hacerno
   que estamos ante una dermatitis seborreica.
 thumbnail: "/dermatitis-seborreica-cejas.jpeg"
 author: Dra. Diana Emilia Rodríguez Rojas
-date: 2021-09-24T00:00:00Z
+date: 2021-09-24T00:00:00.000+00:00
 avatar: "/1517629621762.jpeg"
 
 ---
@@ -12,7 +12,7 @@ Tener ciertas áreas de la piel enrojecidas y con costras puede hacernos sospech
 
 ![](/sentidos-pele.jpeg)
 
-**¿Causa?.**
+**Causas**
 
 No se conoce exactamente cuál es la causa, pueden influir muchos factores tales como:
 
