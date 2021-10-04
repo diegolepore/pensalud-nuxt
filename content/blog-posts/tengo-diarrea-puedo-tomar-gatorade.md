@@ -30,7 +30,7 @@ Tienen una mayor concentración de potasio (> 20 mEq/litro), aportan mínimas ca
 
 ![](/bebidas-deportivas.jpeg)
 
-Al vomitar o tener una diarrea se pierde líquido y electrolitos, para que este las retenga es necesario incorporar sales en una concentración adecuada.
+Al vomitar o tener una diarrea se pierden líquido y electrolitos, para que este las retenga es necesario incorporar sales en una concentración adecuada.
 
 Las bebidas hechas para deportistas su objetivo es reponer los líquidos y los electrolitos que se pierden a través del sudor cuando practicamos deporte. En este caso **se elimina mucho sodio, mientras que en una diarrea o en vómito se elimina mucho potasio y poco sodio**. Solo el suero de rehidratación puede reponer correctamente la cantidad de sales perdidas, la cantidad de potasio es cuatro veces mayor.
 
