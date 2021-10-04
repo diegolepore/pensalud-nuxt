@@ -8,7 +8,7 @@ date: 2021-10-04T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Cuando hay diarrea suele ocurrir que alguna persona te recomienda tomar un sorbito de gatorade o aquarius, ¿En realidad esto te va ayudar? Por esta razón quise escribir el por qué no tomar estas bebidas en caso de diarrea o vómitos.
+Cuando hay diarrea suele ocurrir que alguna persona te recomienda tomar un sorbito de Gatorade o Aquarius, pero, ¿en realidad te ayudará? Por esta razón quise escribir el por qué no tomar estas bebidas en caso de diarrea o vómitos.
 
 Hay múltiples bebidas que debemos evitar, entre ellas se encuentran:
 
