@@ -1,5 +1,5 @@
 ---
-title: Tengo diarrea ¿Puedo tomar gatorade?
+title: Tengo diarrea ¿Puedo tomar Gatorade?
 excerpt: "Cuando hay diarrea suele ocurrir que alguna persona te recomienda tomar
   un sorbito de gatorade o aquarius. ¿En realidad esto me va ayudar? muchas personas
   se preguntan. \n"
