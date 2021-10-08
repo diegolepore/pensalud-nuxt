@@ -3,7 +3,7 @@ title: Virus herpes simple
 excerpt: 'La mayoría de nosotros estamos en contacto con este virus desde la infancia,
   nuestro sistema inmune no lo elimina por completo y permanece en los ganglios de
   forma inactiva una vez que se produce la infección. '
-thumbnail: "/323873_1100-800x825.jpeg"
+thumbnail: "/captura-de-pantalla-2021-10-08-a-la-s-4-04-02-p-m.png"
 author: Dra. Diana Emilia Rodríguez Rojas
 date: 2021-10-08T00:00:00Z
 avatar: "/1517629621762.jpeg"
@@ -43,10 +43,8 @@ Después de la infección inicial, todos los virus herpes permanecen en estado d
 * El **VHS-2** tiene tropismo por los ganglios sensitivos sacros.
 * Aunque pueden afectar cualquier ganglio sensitivo.
 
-    
   **¿Siempre que se reactiva da síntomas?**
 
-    
   No siempre que se reactiva da síntomas, se puede presentar en personas con afectación del sistema inmunológico.
 
   **¿Qué hace que se reactive el virus?**
@@ -102,6 +100,8 @@ Las infecciones genitales suelen no presentar síntomas ni signos.
 
 El virus del herpes simple 1 y el virus del herpes simple 2 pueden causar herpes orolabial como genital.
 
+![](/genital.jpeg)
+
 **Diagnóstico**
 
 El diagnóstico se realiza de acuerdo a los síntomas y signos del paciente,
@@ -118,18 +118,19 @@ El diagnóstico se realiza de acuerdo a los síntomas y signos del paciente,
 
   ![](/post38-2.jpeg)
 
-  **Tratamiento**
+    **Tratamiento**
   * En la mayoría de los casos de gingivoestomatitis el tratamiento inicial será **sólo sintomático**.
+
+
   * Se considera la terapia antiviral **oral** o **IV** en casos con **importante afectación de mucosa oral** o del **estado general**.
   * En pacientes con **afectación** de su **sistema inmunológico** está siempre indicado el t**ratamiento antiviral sistémico** y, habitualmente, el **ingreso hospitalario**.
 
-    **Herpes labial**
+    **- Herpes labial**
     * El herpes labial primario en inmunocompetentes **no requiere tratamiento**. Sólo las **formas graves** en inmunodeficientes o **recurrencias frecuentes**. El aciclovir tópico no es eficaz para eliminar las lesiones, pero sí puede disminuir el contagio. El **penciclovir tópico al 1%** ha demostrado eficacia, pero sólo está **autorizado** en niños **mayores de 12 años**.
     * Puede aplicarse **vaselina** o algún bálsamo reparador en las lesiones para **prevenir que las costras se fisuren y sangren**, disminuir las molestias que se derivan de ello y facilitar su curación.
 
-    **Herpes Neonatal**
-
-    En el herpes neonatal es necesario el ingreso.
+    **- Herpes Neonatal**
+    *  En el herpes neonatal es necesario el ingreso.
 
     **Medidas preventivas**
 
