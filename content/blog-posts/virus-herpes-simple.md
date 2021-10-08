@@ -13,7 +13,7 @@ La mayoría de nosotros estamos en contacto con este virus desde la infancia, nu
 
 **¿Qué es el virus herpes simple?**
 
-Los virus Herpes simple 1 y 2 (VHS-1, VHS-2) son virus ADN, neurotropos, es decir, tiene alta afinidad por el tejido nervioso, con una alta seroprevalencia que se incrementa con la edad, esto quiere decir que un alto porcentaje de la población desarrolla anticuerpos frente el virus Herpes simple.
+Los virus Herpes simple 1 y 2 (VHS-1, VHS-2) son virus ADN, neurotropos, es decir, tienen alta afinidad por el tejido nervioso, con una alta seroprevalencia que se incrementa con la edad, esto quiere decir que un alto porcentaje de la población desarrolla anticuerpos frente el virus Herpes simple.
 
 **¿Donde vive y se multiplica el virus?**
 
@@ -64,24 +64,12 @@ Después de la infección inicial, todos los virus herpes permanecen en estado d
 
 Los niños de esta edad al sufrir por primera vez la infección por el virus del herpes simple 1 presentan síntomas como:
 
-*  Gingivoestomatitis herpética.
-
-
+* Gingivoestomatitis herpética.
 * Fiebre.
-
-
 * Irritabilidad.
-
-
 * Erupción ulcerosa que afecta las encías y la mucosa oral y lesiones vesiculares periorales dolorosas.
-
-
 * Sialorrea.
-
-
 * Adenopatías submandibulares.
-
-
 * Anorexia intensa.
 
 Los síntomas pueden durar entre 10-14 días.
