@@ -40,23 +40,27 @@ Es el tiempo desde que se produce la infección y la manifestación de los sínt
 Después de la infección inicial, todos los virus herpes permanecen en estado de latencia, es decir, quedan en determinados ganglios dentro de tu cuerpo y pueden reactivarse luego.
 
 * El **VHS-1** queda dentro del ganglio trigeminal.
+
+
 * El **VHS-2** tiene tropismo por los ganglios sensitivos sacros.
-* Aunque pueden afectar cualquier ganglio sensitivo.
 
-  **¿Siempre que se reactiva da síntomas?**
+Aunque pueden afectar cualquier ganglio sensitivo.
 
-  No siempre que se reactiva da síntomas, se puede presentar en personas con afectación del sistema inmunológico.
+**¿Siempre que se reactiva da síntomas?**
 
-  **¿Qué hace que se reactive el virus?**
-  * Estrés.
-  * Infección viral o fiebre.
-  * Cambios hormonales, como aquellos relacionados con la menstruación.
-  * Fatiga.
-  * Exposición a la luz del sol y al viento.
-  * Cambios en el sistema inmunitario.
-  * Lesión en la piel.
+No siempre que se reactiva da síntomas, se puede presentar en personas con afectación del sistema inmunológico.
 
-  ![](/fotofobia-1.png)
+**¿Qué hace que se reactive el virus?**
+
+* Estrés.
+* Infección viral o fiebre.
+* Cambios hormonales, como aquellos relacionados con la menstruación.
+* Fatiga.
+* Exposición a la luz del sol y al viento.
+* Cambios en el sistema inmunitario.
+* Lesión en la piel.
+
+![](/fotofobia-1.png)
 
 **Síntomas**
 
@@ -115,7 +119,7 @@ El diagnóstico se realiza de acuerdo a los síntomas y signos del paciente,
 
 **Tratamiento**
 
-En la mayoría de los casos de gingivoestomatitis el tratamiento inicial será **sólo sintomático**.Se considera la terapia antiviral **oral** o **IV** en casos con **importante afectación de mucosa oral** o del **estado general**. En pacientes con **afectación** de su **sistema inmunológico** está siempre indicado el t**ratamiento antiviral sistémico** y, habitualmente, el **ingreso hospitalario**.
+En la mayoría de los casos de gingivoestomatitis el tratamiento inicial será **sólo sintomático**.Se considera la terapia antiviral **oral** o **intrevenoso** en casos con **importante afectación de mucosa oral** o del **estado general**. En pacientes con **afectación** de su **sistema inmunológico** está siempre indicado el t**ratamiento antiviral sistémico** y, habitualmente, el **ingreso hospitalario**.
 
 ![](/imagen.png)![](/valaciclovir-que-es-y-para-que-sirve.jpeg)
 
