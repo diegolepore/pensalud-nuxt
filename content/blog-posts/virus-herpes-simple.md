@@ -129,9 +129,13 @@ El diagnóstico se realiza de acuerdo a los síntomas y signos del paciente,
 
 En la mayoría de los casos de gingivoestomatitis el tratamiento inicial será **sólo sintomático**.Se considera la terapia antiviral **oral** o **IV** en casos con **importante afectación de mucosa oral** o del **estado general**. En pacientes con **afectación** de su **sistema inmunológico** está siempre indicado el t**ratamiento antiviral sistémico** y, habitualmente, el **ingreso hospitalario**.
 
+![](/imagen.png)![](/valaciclovir-que-es-y-para-que-sirve.jpeg)
+
 * **Herpes labial**
 
   El herpes labial primario en inmunocompetentes **no requiere tratamiento**. Sólo las **formas graves** en inmunodeficientes o **recurrencias frecuentes**. El aciclovir tópico no es eficaz para eliminar las lesiones, pero sí puede disminuir el contagio. El **penciclovir tópico al 1%** ha demostrado eficacia, pero sólo está **autorizado** en niños **mayores de 12 años**.
+
+  ![](/captura-de-pantalla-2021-10-08-a-la-s-5-31-23-p-m.png)
 
   Puede aplicarse **vaselina** o algún bálsamo reparador en las lesiones para **prevenir que las costras se fisuren y sangren**, disminuir las molestias que se derivan de ello y facilitar su curación.
 * **Herpes Neonatal**
