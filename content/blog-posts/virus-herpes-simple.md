@@ -1,5 +1,5 @@
 ---
-title: Virus herpes simple
+title: Virus del herpes simple
 excerpt: 'La mayoría de nosotros estamos en contacto con este virus desde la infancia,
   nuestro sistema inmune no lo elimina por completo y permanece en los ganglios de
   forma inactiva una vez que se produce la infección. '
