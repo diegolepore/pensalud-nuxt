@@ -38,8 +38,8 @@ Todas las bebidas mencionadas suelen contener una gran cantidad de azúcar. Este
 
 Los sueros de rehidratación oral es el medicamento más económico y recomendable por la organización mundial de la salud. Abajo encontraras un cuadro comparativo de la sales de rehidratación oral de la OMS y las bebidas deportivas en cuanto a la composición de Na, K, osmolaridad.
 
-![](/captura-de-pantalla-2021-10-04-a-la-s-8-50-08-p-m-1.png)
+![](/captura-de-pantalla-2021-10-04-a-la-s-8-50-08-p-m-1.png)![](/sro-10-25g-500ml_w_1500.jpeg)
 
 **Conclusión**
 
-Para reponer líquido y electrolitos en casos de diarrea y vómitos es recomendable usar las sales de rehidratación, va reponer las sales que pierdes y no va empeorar la diarrea.
+Para reponer líquido y electrolitos en casos de diarrea y vómitos es recomendable usar sales de rehidratación oral, permite restablecer las sales que pierdes y no va empeorar la diarrea.
