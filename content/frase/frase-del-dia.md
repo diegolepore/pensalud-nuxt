@@ -1,7 +1,6 @@
 ---
-body: |-
-  "Te quiero no por quien eres sino por quien soy cuando estoy contigo"
-  Gabriel García Márquez.
-icon: "/te-quiero-1.png"
+body: "«Yo no hablo de venganzas ni perdones; el olvido es la única venganza y el
+  único perdón». Jorge Luis Borges"
+icon: "/alpine-no-me-olvides-1.png"
 
 ---
