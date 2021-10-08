@@ -64,19 +64,25 @@ Después de la infección inicial, todos los virus herpes permanecen en estado d
 
 Los niños de esta edad al sufrir por primera vez la infección por el virus del herpes simple 1 presentan síntomas como:
 
-\- Gingivoestomatitis herpética.
+*  Gingivoestomatitis herpética.
 
-\- Fiebre.
 
-\- Irritabilidad.
+* Fiebre.
 
-\- Erupción ulcerosa que afecta las encías y la mucosa oral y lesiones vesiculares periorales dolorosas.
 
-\- Sialorrea.
+* Irritabilidad.
 
-\- Adenopatías submandibulares.
 
-\- Anorexia intensa.
+* Erupción ulcerosa que afecta las encías y la mucosa oral y lesiones vesiculares periorales dolorosas.
+
+
+* Sialorrea.
+
+
+* Adenopatías submandibulares.
+
+
+* Anorexia intensa.
 
 Los síntomas pueden durar entre 10-14 días.
 
@@ -114,36 +120,32 @@ El diagnóstico se realiza de acuerdo a los síntomas y signos del paciente,
 * **Inmunofluorescencia directa**: técnica de inmunomarcación que hace uso de anticuerpos unidos químicamente a una sustancia fluorescente que se utilizan para detectar el virus).
 * **PCR:** detecta el material genético (ADN) del virus).
 * **Test de Tzanck**: se raspan la base y los bordes de una vesícula con un bisturí y el material se tiñe con colorantes de Wright o de Giemsa. La presencia de células multinucleadas gigantes es signo de infección por herpes simple o herpes zóster).
-* **Serología:** detecta anticuerpos que el sistema inmunitario genera para combatir una infección por herpes.
 
-  ![](/post38-2.jpeg)
+**Serología:** detecta anticuerpos que el sistema inmunitario genera para combatir una infección por herpes.
 
-    **Tratamiento**
-  * En la mayoría de los casos de gingivoestomatitis el tratamiento inicial será **sólo sintomático**.
+![](/post38-2.jpeg)
 
+**Tratamiento**
 
-  * Se considera la terapia antiviral **oral** o **IV** en casos con **importante afectación de mucosa oral** o del **estado general**.
-  * En pacientes con **afectación** de su **sistema inmunológico** está siempre indicado el t**ratamiento antiviral sistémico** y, habitualmente, el **ingreso hospitalario**.
+En la mayoría de los casos de gingivoestomatitis el tratamiento inicial será **sólo sintomático**.Se considera la terapia antiviral **oral** o **IV** en casos con **importante afectación de mucosa oral** o del **estado general**. En pacientes con **afectación** de su **sistema inmunológico** está siempre indicado el t**ratamiento antiviral sistémico** y, habitualmente, el **ingreso hospitalario**.
 
-    **- Herpes labial**
-    * El herpes labial primario en inmunocompetentes **no requiere tratamiento**. Sólo las **formas graves** en inmunodeficientes o **recurrencias frecuentes**. El aciclovir tópico no es eficaz para eliminar las lesiones, pero sí puede disminuir el contagio. El **penciclovir tópico al 1%** ha demostrado eficacia, pero sólo está **autorizado** en niños **mayores de 12 años**.
-    * Puede aplicarse **vaselina** o algún bálsamo reparador en las lesiones para **prevenir que las costras se fisuren y sangren**, disminuir las molestias que se derivan de ello y facilitar su curación.
+* **Herpes labial**
 
-    **- Herpes Neonatal**
-    *  En el herpes neonatal es necesario el ingreso.
+  El herpes labial primario en inmunocompetentes **no requiere tratamiento**. Sólo las **formas graves** en inmunodeficientes o **recurrencias frecuentes**. El aciclovir tópico no es eficaz para eliminar las lesiones, pero sí puede disminuir el contagio. El **penciclovir tópico al 1%** ha demostrado eficacia, pero sólo está **autorizado** en niños **mayores de 12 años**.
 
-    **Medidas preventivas**
+  Puede aplicarse **vaselina** o algún bálsamo reparador en las lesiones para **prevenir que las costras se fisuren y sangren**, disminuir las molestias que se derivan de ello y facilitar su curación.
+* **Herpes Neonatal**
 
-    Como una vez que ya has tenido un episodio de infección por herpes, el virus permanece latente en las neuronas que se encuentran en la piel y puede surgir como otro herpes labial en el mismo lugar que antes. Debemos tomar medidas para evitar su reactivación, dentro de las cuales se encuentran:
-    1. **Evitar el estrés** en la medida de lo posible.
-    2. Aplica **protección labial**.
-    3. Usa **protección solar**.
-    4. **Evita los besos** y el contacto con la piel de las personas mientras haya lesiones bucales.
-    5. **Evitar compartir elementos.** Utensilios, toallas, bálsamo labial y otros artículos personales pueden propagar el virus cuando hay vesículas.
-    6. **Mantén las manos limpias.** Cuando tengas un herpes labial, lávate las manos cuidadosamente antes de tocarte y de tocar a otras personas, en especial, a bebés
+  En el herpes neonatal es necesario el ingreso.
 
-       ![](/protector-labial.jpeg)
+  Como una vez que ya has tenido un episodio de infección por herpes, el virus permanece latente en las neuronas que se encuentran en la piel y puede surgir como otro herpes labial en el mismo lugar que antes. Debemos tomar medidas para evitar su reactivación, dentro de las cuales se encuentran:
+  1. **Evitar el estrés** en la medida de lo posible.
+  2. Aplica **protección labial**.![](/protector-labial.jpeg)
+  3. Usa **protección solar**.
+  4. **Evita los besos** y el contacto con la piel de las personas mientras haya lesiones bucales.
+  5. **Evitar compartir elementos.** Utensilios, toallas, bálsamo labial y otros artículos personales pueden propagar el virus cuando hay vesículas.
+  6. **Mantén las manos limpias.** Cuando tengas un herpes labial, lávate las manos cuidadosamente antes de tocarte y de tocar a otras personas, en especial, a bebés.
 
-    **Conclusión**
+**Conclusión**
 
-  Es una infección frecuente que puede reactivarse antes diferentes situaciones, tratar de controlar el estrés en nuestras vidas, usar protección solar, bálsamo labial, podría disminuir el riesgo de reactivación, al igual que utilizar utensilios personales, evitando compartirlos con otras personas. Sin embargo, la infección puede tratarse y su recuperación dura aproximadamente 2 semanas.
+Es una infección frecuente que puede reactivarse antes diferentes situaciones, tratar de controlar el estrés en nuestras vidas, usar protección solar, bálsamo labial, podría disminuir el riesgo de reactivación, al igual que utilizar utensilios personales, evitando compartirlos con otras personas. Sin embargo, la infección puede tratarse y su recuperación dura aproximadamente 2 semanas.
