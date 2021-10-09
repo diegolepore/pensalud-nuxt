@@ -11,7 +11,7 @@ avatar: "/1517629621762.jpeg"
 ---
 **¿Qué tipos de pescados puedo comer?**
 
-El pescado es una delicia que debido a la contaminación con mercurio, no es seguro comerlo todos. El mercurio es un contaminante medioambiental y potencialmente neurotóxico, que puede estar presente en proporción variable en los productos de pesca.
+El pescado es una delicia que debido a la contaminación con mercurio no es seguro comer cualquier especie. El mercurio es un contaminante medioambiental y potencialmente neurotóxico, que puede estar presente en proporción variable en los productos de pesca.
 
 La cantidad de mercurio en los peces está relacionada con su alimentación, siendo los peces depredadores, de gran tamaño y más longevos los que tienen concentraciones más altas. Las mujeres embarazadas, así como aquellas en periodo de lactancia y los niños de menos de 10 años de edad, son la población más vulnerable al mercurio, ya que puede afectar al sistema nervioso central en desarrollo, tras su consumo directo o a través de la placenta y la leche materna.
 
