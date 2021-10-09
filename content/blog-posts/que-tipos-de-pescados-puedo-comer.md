@@ -17,26 +17,22 @@ La cantidad de mercurio en los peces está relacionada con su alimentación, sie
 
 **La Agencia Española de Seguridad Alimentaria y Nutrición (AESAN)** ha emitido recientemente nuevas recomendaciones para evitar el consumo de determinadas especies de pescados de alto riesgo, en niños menores de 10 años, y en mujeres embarazadas, o que estén planificando estarlo, o en periodo de lactancia. En niños de 10 – 14 años se aconseja limitar el consumo de las especies mencionadas a menos de 120 gramos al mes.
 
-**Por este motivo a continuación mencionamos los pescados que se deben evitar en niños menos de 10 años, mujeres embarazadas, que estén planificando estarlo o en periodo de lactancia:**
+**Por este motivo a continuación mencionamos los pescados con alto contenido en mercurio que se deben evitar en niños menos de 10 años, mujeres embarazadas, que estén planificando estarlo o en periodo de lactancia:**
 
 * **Pez espada/Emperador.**
 
   ![](/pez-espada-1-1.jpeg)
-
-
 * **Atún rojo (Thunnus thynnus)**
 
   ![](/lomo-de-atun-scaled.jpeg)
 * **Tiburón (cazón, marrajo, mielgas, pintarroja y tintorera).**
 
   ![](/istockphoto-114442228-612x612.jpeg)
-
-
 * **Lucio.**
 
   ![](/pez-lucio.jpeg)
 
-**A continuación se menciona los que tienen bajo contenido en mercurio:**
+**A continuación mencionamos las especies de pescado con bajo contenido en mercurio:**
 
 * **Abadejo.**
 
@@ -169,4 +165,4 @@ Las demás especies de productos de la pesca no mencionadas específicamente se 
 
 **Conclusión**
 
-El pescado es un alimento con un alto valor nutricional. Aporta proteínas, minerales tales como: el fósforo, el yodo y el calcio, además de vitaminas como la tiamina y la riboflavina. Sin embargo, tomar previsiones a la hora de comer, seleccionando un pescado con menos contaminación de mercurio puede mejorar nuestra salud, especialmente en población más vulnerable como embarazadas, niños y mujeres en proceso de lactancia.
+El pescado es un alimento con un alto valor nutricional. Aporta proteínas, omega-3, minerales tales como: el fósforo, el yodo y el calcio, además de vitaminas como la tiamina y la riboflavina. Sin embargo, tomar previsiones a la hora de comer, seleccionando un pescado con menos contaminación de mercurio puede mejorar nuestra salud, especialmente en población más vulnerable como embarazadas, niños y mujeres en proceso de lactancia.
