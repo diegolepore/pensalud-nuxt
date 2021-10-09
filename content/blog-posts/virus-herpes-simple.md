@@ -40,8 +40,6 @@ Es el tiempo desde que se produce la infección y la manifestación de los sínt
 Después de la infección inicial, todos los virus herpes permanecen en estado de latencia, es decir, quedan en determinados ganglios dentro de tu cuerpo y pueden reactivarse luego.
 
 * El **VHS-1** queda dentro del ganglio trigeminal.
-
-
 * El **VHS-2** tiene tropismo por los ganglios sensitivos sacros.
 
 Aunque pueden afectar cualquier ganglio sensitivo.
@@ -113,7 +111,8 @@ El diagnóstico se realiza de acuerdo a los síntomas y signos del paciente,
 * **PCR:** detecta el material genético (ADN) del virus).
 * **Test de Tzanck**: se raspan la base y los bordes de una vesícula con un bisturí y el material se tiñe con colorantes de Wright o de Giemsa. La presencia de células multinucleadas gigantes es signo de infección por herpes simple o herpes zóster).
 
-**Serología:** detecta anticuerpos que el sistema inmunitario genera para combatir una infección por herpes.
+
+* **Serología:** detecta anticuerpos que el sistema inmunitario genera para combatir una infección por herpes.
 
 ![](/post38-2.jpeg)
 
@@ -134,7 +133,7 @@ En la mayoría de los casos de gingivoestomatitis el tratamiento inicial será *
 
   En el herpes neonatal es necesario el ingreso.
 
-  Como una vez que ya has tenido un episodio de infección por herpes, el virus permanece latente en las neuronas que se encuentran en la piel y puede surgir como otro herpes labial en el mismo lugar que antes. Debemos tomar medidas para evitar su reactivación, dentro de las cuales se encuentran:
+  Una vez que ya has tenido un episodio de infección por herpes, el virus permanece latente en las neuronas que se encuentran en la piel y puede surgir como otro herpes labial en el mismo lugar que antes. Debemos tomar medidas para evitar su reactivación, dentro de las cuales se encuentran:
   1. **Evitar el estrés** en la medida de lo posible.
   2. Aplica **protección labial**.![](/protector-labial.jpeg)
   3. Usa **protección solar**.
