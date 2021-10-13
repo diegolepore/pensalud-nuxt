@@ -1,6 +1,6 @@
 ---
-body: "«Yo no hablo de venganzas ni perdones; el olvido es la única venganza y el
-  único perdón» Jorge Luis Borges."
-icon: "/alpine-no-me-olvides-1.png"
+body: "«Lo que cuenta no es mañana, sino hoy. Hoy estamos aquí, mañana tal vez, nos
+  hayamos marchado» Lope de Vega."
+icon: "/musica-en-vivo-1.png"
 
 ---
