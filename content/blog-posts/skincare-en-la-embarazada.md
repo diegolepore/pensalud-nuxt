@@ -37,7 +37,6 @@ Las uñas crecen más rápido pero se vuelven más frágiles y quebradizas, ya q
 * Los ingredientes que se deben buscar en el etiquetado de los productos son: centella asiática, vitamina E, ácido hialurónico.
 * El colágeno es una proteína que se encuentra en el pescado, pollo, carne, verduras, ajo, cebolla, frutos secos, huevo, té, frutas con vitamina C como las naranjas, piñas y limones. Esto favorece la renovación cutánea y evita la rotura y pérdida del colágeno y elastina, por lo que tener una alimentación variada, rica en alimentos antioxidantes ayuda a nuestra piel.
 
-  
 ![](/estriasc.jpeg)  
 **Las estrías**
 
@@ -63,9 +62,7 @@ Dentro de las opciones de tratamiento se encuentran los siguientes:
 * **Microneedling:** estos dispositivos realizan pequeños orificios en la piel hasta la unión con la zona dérmica, para estimular la regeneración de la matriz extracelular.
 
   ![](/microneedling_203210908-700x500.jpeg)
-* **Inyecciones de ácido hialurónico, plasma rico en plaquetas.**
-
-       Tienen un efecto de remodelado en la dermis.
+* **Inyecciones de ácido hialurónico, plasma rico en plaquetas:** tienen un efecto de remodelado en la dermis.
 
 ![](/plasma-rico-plaquetas.jpeg)  
 **Picor en la piel**
@@ -132,7 +129,7 @@ Durantes el embarazo se pueden hacer ciertas medidas, tales como las mencionadas
 
   ![](/images-1.jpeg)
 
-**Productos cosméticos y fármacos que se deben usar**
+**Productos cosméticos y fármacos que se pueden usar**
 
 * **Corticoides suaves, vitamina C, alfahidroxiácidos**, **ácido hialurónico**, fotoprotectores: sí se pueden usar, el ácido hialurónico es imprescindibles para hidratar la piel, los fotoprotectores y la vitamina C sirven para proteger la piel de las manchas.
 
