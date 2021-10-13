@@ -115,7 +115,7 @@ Durantes el embarazo se pueden hacer ciertas medidas, tales como las mencionadas
 
 * **Retinoides o derivados de la vitamina A**: no se debe usar durante el embarazo, el ácido retinoico y sus homólogos como el retinol conforman un grupo de principios activos muy comunes en tratamientos y cosméticos. Se ha demostrado que estos derivados de la vitamina A producen anomalías o malformaciones en el feto cuando se toman por vía oral. Estos efectos se atribuyen a la medicación oral pero no se utiliza por precaución en formulaciones tópicas durante el embarazo. Cuando una mujer está tomando isotretinoína por vía oral y quiere quedar embarazada se recomienda suspender la medicación y usar anticonceptivos hasta dos meses después de haber dejado de tomar la medicación. Si está usando retinoides en cremas, no es necesario suspender hasta 2 meses antes, pero si se suspende al momento de conocer que está embarazada.
 * **Hidroquinona**: la hidroquinona no se debe usar durante el embarazo por los efectos que puede producir, como las malformaciones en el feto.
-* **Ácido azelaico y el ácido kójico** no tienen investigaciones que avalen su seguridad en embarazadas.
+* **Ácido azelaico y el ácido kójico** no tienen investigaciones que avalen su seguridad en embarazadas durante un período largo de tiempo.
 * **Ácido Salicílico:** el ácido salicílico en altas concentraciones no se debe usar durante el embarazo. Es un betahidroxiácido que se usa en peelings, pero puede pasar al torrente sanguíneo y afectar al feto. Algunos estudios lo relacionan con riesgo de aborto y puede irritar la piel ya que la piel durante el embarazo es sensible.
 * **Ácido glicólico**: también es un ingredientes habitual en los peelings, en cremas y productos antiedad de cuidado diario debido a su efecto exfoliante, sin embargo, tiene capacidad para llegar al torrente sanguíneo y para irritar la piel. Es mejor evitarlo durante la gestación en tratamientos prolongados.
 * **Cafeína**: es muy utilizado sobre todo, en contornos de ojos, cremas corporales anticelulíticas. Por su efecto excitante es mejor utilizar otras opciones sin cafeína durante la gestación y la lactancia.
@@ -134,8 +134,8 @@ Durantes el embarazo se pueden hacer ciertas medidas, tales como las mencionadas
 * **Corticoides suaves, vitamina C, alfahidroxiácidos**, **ácido hialurónico**, fotoprotectores: sí se pueden usar, el ácido hialurónico es imprescindibles para hidratar la piel, los fotoprotectores y la vitamina C sirven para proteger la piel de las manchas.
 
   ![](/ah-rutina-1.jpeg)
-* Unos de los medicamentos utilizados bajo prescripción médica durante el embarazo para el acné son la **eritromicina**, el **ácido azelaico**, **clindamicina**, que han demostrado su seguridad durante la gestación.
-* Las **penicilinas** como la **amoxicilina** y la **ampicilina**, las **cefalosporinas**, la **eritromicina** y la **clindamicina** son seguras durante la gestación.
+* Unos de los medicamentos utilizados bajo prescripción médica durante el embarazo para el acné es la **clindamicina**, que han demostrado su seguridad durante la gestación.
+* Las **penicilinas** como la **amoxicilina** y la **ampicilina**, las **cefalosporinas** y la **clindamicina** son seguras durante la gestación.
 * **Limpieza facial**, **drenaje facial** y **corporal,** **masajes**.
 
 Es recomendable revisar las etiquetas de los fármacos y cosméticos que generalmente colocan las advertencias del producto, si se puede administrar o no durante el embarazo, o consultar a un médico.
