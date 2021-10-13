@@ -80,7 +80,7 @@ Es frecuente durante el embarazo en el abdomen, cintura y otras partes del cuerp
 
 **Melasma**
 
-La piel de la mujer embarazada es más sensible a oscurecerse más en determinadas zonas como: las areolas de las mamas, la línea alba que va desde el pubis al ombligo, la piel de la cara. Estas manchas de la piel se llama melasma, cloasma coloquialmente paño, tiene un color café con leche clarito o marrón oscuro. Estas manchas desaparecen luego del parto. En ocasiones estas manchas desaparecen tras el parto, pero son difíciles de eliminar una vez haya pasado el embarazo, por lo que es relevante el cuidado del rostro antes de que aparezcan.
+La piel de la mujer embarazada es más sensible a oscurecerse más en determinadas zonas como las areolas de las mamas, la línea alba que va desde el pubis al ombligo, la piel de la cara. Estas manchas de la piel se llama melasma, cloasma coloquialmente paño, tiene un color café con leche clarito o marrón oscuro. Estas manchas desaparecen luego del parto. En ocasiones estas manchas desaparecen tras el parto, pero son difíciles de eliminar una vez haya pasado el embarazo, por lo que es relevante el cuidado del rostro antes de que aparezcan.
 
 ![](/melasma-post.jpeg)  
 **Recomendaciones**
