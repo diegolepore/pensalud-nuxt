@@ -7,8 +7,6 @@ date: 2021-10-13T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-**_Skincare en la embarazada_**
-
 Es una pregunta frecuente en las asesorías prenatales, y tiene mucha relevancia, debido a que tal vez no podamos detener algún cambio en nuestra piel por la influencia hormonal durante el embarazo, pero, sí que podemos disminuirlo y de esta manera favorecer el restablecimiento normal del aspecto de la piel.
 
 **Influencia hormonal**
