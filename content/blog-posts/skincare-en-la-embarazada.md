@@ -142,7 +142,7 @@ Es recomendable revisar las etiquetas de los fármacos y cosméticos que general
 
 **Conclusión**
 
-La mejor alternativa para evitar o minimizar la aparición de manchas durante el embarazo es extremar la protección frente a la radiación ultravioleta con cremas de índice elevado 50 y media de barreras como ropa larga, sombreros, lentes o gafas.
+Es importante hidratar la piel mucho antes de la concepción del bebé, seguir una buena alimentación. La mejor alternativa para evitar o minimizar la aparición de manchas durante el embarazo es extremar la protección frente a la radiación ultravioleta con cremas de índice elevado 50 y media de barreras como ropa larga, sombreros, lentes o gafas. Aunque no podemos impedir los cambios en la piel, con estas medidas se pueden disminuir en una gran manera y así la recuperación es mucho mejor, una vez que se termine la gestación.
 
 **Referencias bibliográficas**
 
