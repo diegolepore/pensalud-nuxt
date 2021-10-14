@@ -110,7 +110,8 @@ Dentro de los medicamentos utilizados en el tratamiento inicial se encuentran:
 
   ![](/clotrimazol-canesmed-10-mg-g-2.jpg)
 
-**Terbinafina al 1%**, (sólo en ≥ 12 años de edad).
+
+* **Terbinafina al 1%**, (sólo en ≥ 12 años de edad).
 
 ![](/81vqsm9tcgs-_ac_ss450_.jpg)
 
