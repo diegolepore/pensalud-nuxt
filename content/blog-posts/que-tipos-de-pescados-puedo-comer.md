@@ -165,4 +165,4 @@ Las demás especies de productos de la pesca no mencionadas específicamente se 
 
 **Conclusión**
 
-El pescado es un alimento con un alto valor nutricional. Aporta proteínas, omega-3, minerales tales como: el fósforo, el yodo y el calcio, además de vitaminas como la tiamina y la riboflavina. Sin embargo, tomar previsiones a la hora de comer, seleccionando un pescado con menos contaminación de mercurio puede mejorar nuestra salud, especialmente en población más vulnerable como embarazadas, niños y mujeres en proceso de lactancia.
+El pescado es un alimento con un alto valor nutricional. Aporta proteínas, omega-3, minerales tales como: el fósforo, el yodo y el calcio, además de vitaminas como la tiamina y la riboflavina. Sin embargo, tomar previsiones a la hora de comer, seleccionando un pescado con menos contaminación de mercurio puede mejorar nuestra salud, especialmente en población más vulnerable como embarazadas, niños y mujeres en período de lactancia.
