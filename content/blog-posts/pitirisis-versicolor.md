@@ -88,13 +88,16 @@ Entre otras pruebas está la lámpara de Wood: muestra fluorescencia amarilla en
 * Las lesiones residuales pueden tardar semanas o meses en desaparecer.
 * Es importante la protección solar para mejorar el resultado estético final.
 
-  
 **Tratamiento tópico inicial**
 
 Dentro de los medicamentos utilizados en el tratamiento inicial se encuentran:
 
 1. **Ketoconazol** al 2% (gel). _Puede usarse a partir del mes de edad._
+
+   ![](/ketoconazol-cinfa-2-gel-100ml.jpeg)
 2. **Sulfuro de selenio** al 2,5% (gel/champú). Se usa _en ≥ 5 años de edad._
+
+   ![](/bioselenium-25-mg-ml-suspension-topica-100-ml.jpeg)
 
 **Importante**:
 
@@ -103,8 +106,13 @@ Dentro de los medicamentos utilizados en el tratamiento inicial se encuentran:
 
 **Si afecta a áreas cutáneas de pequeño tamaño**:
 
-* **Cremas de imidazoles**: pueden usarse a partir del mes de edad.clotrimazol, econazol, ketoconazol, miconazol 2% .
-* **Terbinafina**, (sólo en ≥ 12 años de edad).
+* **Cremas de imidazoles**: pueden usarse a partir del mes de edad: clotrimazol, econazol, ketoconazol, miconazol 2% .
+
+  ![](/clotrimazol-canesmed-10-mg-g-2.jpg)
+
+**Terbinafina al 1%**, (sólo en ≥ 12 años de edad).
+
+![](/81vqsm9tcgs-_ac_ss450_.jpg)
 
 **Tratamiento oral de segunda línea**
 
@@ -130,7 +138,7 @@ Dentro de las medidas generales se encuentran:
 6. **Protección solar**: es importante utilizar protección solar.
 
    ![](/4d7105e7d8748c3540a9823f19cce8f8.jpeg)
-7. En primavera y verano, aplicar medicamentos contra la pitiriasis versicolor de manera tópica en forma de gel o champús una o dos veces por semana puede prevenir las recidivas que con frecuencia ocurren año tras año. Se puede usar fluconazol en gel, sulfuro de selenio al 2.5%, piritionato de zinc 1% en pautas cortas a la semana por un tiempo más prolongado. 
+7. En primavera y verano, aplicar medicamentos contra la pitiriasis versicolor de manera tópica en forma de gel o champús una o dos veces por semana puede prevenir las recidivas que con frecuencia ocurren año tras año. Se puede usar fluconazol en gel, sulfuro de selenio al 2.5%, piritionato de zinc 1% en pautas cortas a la semana por un tiempo más prolongado.
 
 **Conclusión**
 
