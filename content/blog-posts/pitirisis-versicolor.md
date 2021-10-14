@@ -143,4 +143,4 @@ Dentro de las medidas generales se encuentran:
 
 **Conclusión**
 
-Es importante tomar las medidas que podamos hacer para prevenir, tales como evitar la humedad, estar siempre fresco y seco. Es primordial protegernos del sol, usando protección solar. Recordar que una vez cumplido el tratamiento muchas veces no se quitan de una vez las lesiones, también si hay muchas recidivas se pueden usar medicación para prevenir.
+Es importante tomar las medidas que podamos hacer para prevenir, tales como evitar la humedad, estar siempre fresco y seco. Es primordial protegernos del sol, usando protección solar. Recordar que una vez cumplido el tratamiento las máculas (manchas) no se quitaran todas, también si es frecuente la infección se puede usar medicación para prevenir.
