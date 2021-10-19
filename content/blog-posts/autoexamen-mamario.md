@@ -46,39 +46,34 @@ El autoexamen mamario se considera un complemento en el control mamario.
 **Mujeres con Menopausia**
 
 * Realizarlo una vez al mes y fijar una fecha para ello, por ejemplo el primer día del mes.
-
-
 * Hacerlo mensualmente.
 
 **¿Cómo hacer el autoexamen de mama?**
 
 1. **Inspección:** para determinar cambios en la forma o el contorno de sus senos.
-   * Párate frente a un espejo para ver sus senos con claridad.
+   * Párate frente a un espejo para ver los senos con claridad.
    * Revisa que no haya arrugas, hoyuelos o descamación en la piel. Busca cualquier secreción de los pezones.
 
      ![](/captura-de-pantalla-2021-10-19-a-la-s-5-55-36-p-m.png)
    * Junta las manos detrás de la cabeza y empújelas hacia delante.
 
      ![](/captura-de-pantalla-2021-10-19-a-la-s-6-02-04-p-m.png)
-
-     3) Presiona las manos firmemente sobre las caderas e inclínate ligeramente hacia el espejo a medida que saca los hombros y los codos hacia delante.
+     * Presiona las manos firmemente sobre las caderas e inclínate ligeramente hacia el espejo a medida que saca los hombros y los codos hacia delante.
 
      ![](/captura-de-pantalla-2021-10-19-a-la-s-6-12-09-p-m.png)
-
-     4) Presione ligeramente cada pezón para determinar si hay secreción.
+     * Presione ligeramente cada pezón para determinar si hay secreción.
 
      ![](/captura-de-pantalla-2021-10-19-a-la-s-6-21-20-p-m.png)
 
    **Palpación**
-2. Utilice las yemas de los dedos de la otra mano para revisar el seno y el área circundante con firmeza, cuidado y detenimiento. Realizarlo en líneas, círculos, cuñas.
+   * Utilice las yemas de los dedos de la otra mano para revisar el seno y el área circundante con firmeza, cuidado y detenimiento. Realizarlo en líneas, círculos, cuñas.
 
    ![](/captura-de-pantalla-2021-10-19-a-la-s-6-24-19-p-m-1.png)
-3. Es mejor examinar los senos cuando está acostada porque, de esta manera, el tejido mamario se extiende uniformemente sobre el pecho. Recuéstate de espaldas, con un brazo sobre la cabeza y una almohada o toalla doblada debajo del hombro. Esta posición alisa el seno y facilita el examen.
+   * Es mejor examinar los senos cuando se está acostada porque, de esta manera, el tejido mamario se extiende uniformemente sobre el pecho. Recuéstate de espaldas, con un brazo sobre la cabeza y una almohada o toalla doblada debajo del hombro. Esta posición alisa el seno y facilita el examen.
 
    ![](/captura-de-pantalla-2021-10-19-a-la-s-6-22-10-p-m.png)  
-   4\. También los puedes realizar en la ducha.
+   4\. También lo puedes realizar en la ducha.
 
-     
    ![](/captura-de-pantalla-2021-10-19-a-la-s-6-54-44-p-m.png)
 
    **Si observas algún cambio como los siguientes, consulta a tu médico:**
