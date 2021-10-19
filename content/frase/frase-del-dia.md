@@ -1,5 +1,6 @@
 ---
-body: '"Las heridas que no se ven son las más profundas" William Shakespeare.'
-icon: "/latidos-del-corazon-1.png"
+body: "“Los grandes espíritus siempre han encontrado una violenta oposición de parte
+  de mentes mediocres” Albert Einstein."
+icon: "/albert-einstein-1.png"
 
 ---
