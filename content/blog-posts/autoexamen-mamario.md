@@ -90,7 +90,7 @@ El autoexamen mamario se considera un complemento en el control mamario.
 
 **Conclusión**
 
-Lo importante es que incluyas el autoexamen de mamas como algo rutinario, nadie conoce tu cuerpo más que tu misma. Si notas algún cambio consulta con tu médico.
+Lo importante es que incluyas el autoexamen de mamas como algo rutinario, nadie conoce tu cuerpo más que tú. Si notas algún cambio consulta con tu médico.
 
 **Referencias bibliográficas**
 
