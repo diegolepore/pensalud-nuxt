@@ -10,7 +10,7 @@ date: 2021-10-14T00:00:00Z
 avatar: "/1517629621762.jpeg"
 
 ---
-Pitiriasis o tiña versicolor es una enfermedad frecuente que afecta sobre todo a adolescentes y adultos jóvenes y es poco frecuente en niños prepuberales. No se considera una enfermedad contagiosa y no está relacionada con una higiene deficiente.
+Pitiriasis o tiña versicolor es una enfermedad frecuente que afecta sobre todo a adolescentes y adultos jóvenes, es poco frecuente en niños prepuberales. No se considera una enfermedad contagiosa y no está relacionada con una higiene deficiente.
 
 **¿Qué es la tiña versicolor?**
 
@@ -109,8 +109,6 @@ Dentro de los medicamentos utilizados en el tratamiento inicial se encuentran:
 * **Cremas de imidazoles**: pueden usarse a partir del mes de edad: clotrimazol, econazol, ketoconazol, miconazol 2% .
 
   ![](/clotrimazol-canesmed-10-mg-g-2.jpg)
-
-
 * **Terbinafina al 1%**, (sólo en ≥ 12 años de edad).
 
 ![](/81vqsm9tcgs-_ac_ss450_.jpg)
