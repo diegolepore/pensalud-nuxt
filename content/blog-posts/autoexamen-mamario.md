@@ -12,7 +12,7 @@ avatar: "/1517629621762.jpeg"
 ---
 El cáncer de mama es la principal causa de mortalidad en las mujeres, no es una enfermedad transmisible o infecciosa. Es importante que si observas algún cambio puedas consultar al médico. 
 
-**Factores que reducen el riesgo de padecer cáncer de mama figuran las siguientes:**
+**Factores que reducen el riesgo de padecer cáncer de mama** 
 
 1. Lactancia materna prolongada.
 2. Ejercicio físico habitual.
