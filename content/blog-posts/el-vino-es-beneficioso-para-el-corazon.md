@@ -28,7 +28,7 @@ Si el alcohol se ingiere lentamente con las comidas, como sucede habitualmente c
 
 **¿Qué dicen las experiencias de las personas con respecto al vino?**
 
-Para eso las profesoras universitarias Lina Lepore y Carolina Rodríguez compartieron su experiencia con respecto al vino:
+Por este motivo las profesoras universitarias Lina Lepore y Carolina Rodríguez compartieron su experiencia con respecto al vino:
 
 **Profesora Lina Lepore**
 
