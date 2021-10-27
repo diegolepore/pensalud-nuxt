@@ -20,7 +20,7 @@ Esta es una pregunta que muchas personas se hacen, sobre todo, cuando tenemos an
 
 ![](/kelsey-chance-tah2ca_bl5g-unsplash-1.jpg)
 
-**¿Si comes junto con el alcohol se retrasa la absorción?**
+**¿Si comes y bebes alcohol se retrasa la absorción?**
 
 Si el alcohol se ingiere lentamente con las comidas, como sucede habitualmente con el vino de mesa, se retrasa su absorción. Una vez absorbido, el alcohol alcanza similares concentraciones en los distintos tejidos corporales y se reparte de forma equitativa en el agua corporal.
 
@@ -28,7 +28,7 @@ Si el alcohol se ingiere lentamente con las comidas, como sucede habitualmente c
 
 **¿Qué dicen las experiencias de las personas con respecto al vino?**
 
-Para eso las profesoras universitarias Lina Lepore y Carolina Rodríguez compartieron su experiencia con respecto al vino:
+Por este motivo las profesoras universitarias Lina Lepore y Carolina Rodríguez compartieron su experiencia con respecto al vino:
 
 **Profesora Lina Lepore**
 
