@@ -30,7 +30,7 @@ Si el alcohol se ingiere lentamente con las comidas, como sucede habitualmente c
 
 Por este motivo las profesoras universitarias Lina Lepore y Carolina Rodríguez compartieron su experiencia con respecto al vino:
 
-**Profesora Lina Lepore-I.U.T. Antonio José de Sucre, Venezuela.**
+**Profesora Lina Lepore-Instituto Universitario De Tecnología De Administración Industrial, Venezuela.**
 
 > > "Mi Nono, Paolo, vivió casi 100 años, y murió de viejo, no sufría de enfermedades cardiovasculares, a diferencia de mi Nona Marietta, la diferencia entre ellos, aparte de la genética, es que mi nono tenía un viñedo y hacía su propio vino, para su consumo, él tomó vino siempre, y con todo lo que investigué al respecto pude saber de su longevidad.  Por supuesto mi Nono no lo hizo con propósitos terapéuticos, a él gustaba echarse los tragos.
 > >
