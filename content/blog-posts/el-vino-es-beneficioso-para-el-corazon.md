@@ -14,7 +14,7 @@ Esta es una pregunta que muchas personas se hacen, sobre todo, cuando tenemos an
 **¿Qué beneficios tiene el consumo moderado de etanol?**
 
 * Estudios sugieren que el consumo moderado de etanol o alcohol etílico sobre el sistema cardiovascular parece estar mediado por su efecto sobre lipoproteínas plasmáticas, principalmente elevando el colesterol ligado a lipoproteínas de alta densidad (HDL) **colesterol bueno** y en menor medida disminuyendo el colesterol ligado a lipoproteínas de baja densidad (LDL) **colesterol malo.** El otro efecto cardioprotector importante parece ejercerlo **disminuyendo la agregabilidad plaquetaria** y produciendo **cambios en la coagulación** y la **fibrinólisis** (proceso corporal normal que impide que los coágulos sanguíneos que ocurren en forma natural crezcan y causen problemas).
-* Calorías alcohólicas:1 g de alcohol da lugar a 7 kcal.
+* Calorías alcohólicas: 1 g de alcohol da lugar a 7 kcal.
 * La evidencia de una relación causal entre alcohol y reducción del riesgo de accidente cardiovascular procede de más de 60 estudios epidemiológicos de poblaciones o de cohortes realizados en los últimos 20 años. Estos estudios han demostrado que los varones y las mujeres que beben una o dos bebidas diarias (10-30 g de alcohol diarios) tienen el riesgo más bajo de enfermedad coronaria.
 * Estudios sugieren que los antioxidantes naturales de la uva, presentes tanto en el mosto como en el vino, si se toman regularmente, deben aumentar la carga antioxidante de la sangre, previniendo la oxidación de las LDL y, de esta manera, frenando el desarrollo de la arteriosclerosis.
 
@@ -30,19 +30,19 @@ Si el alcohol se ingiere lentamente con las comidas, como sucede habitualmente c
 
 Por este motivo las profesoras universitarias Lina Lepore y Carolina Rodríguez compartieron su experiencia con respecto al vino:
 
-**Profesora Lina Lepore**
+**Profesora Lina Lepore (I.U.T. Antonio José de Sucre)**
 
-> "Mi Nono, Paolo, vivió casi 100 años, y murió de viejo, no sufría de enfermedades cardiovasculares, a diferencia de mi Nona Marietta, la diferencia entre ellos, aparte de la genética, es que mi nono tenía un viñedo y hacía su propio vino, para su consumo, él tomó vino siempre, y con todo lo que investigué al respecto pude saber de su longevidad.  Por supuesto mi Nono no lo hizo con propósitos terapéuticos, a él gustaba echarse los tragos.
->
-> Aquí les cuento que el vino es una tradición en mi familia paterna, a mi me encanta, especialmente el tinto, pero con el clima de mi país hay que tomarlo solo como se recomienda a continuación. Un poco de historia, el vino a través del tiempo,  ha sido símbolo de celebración en todas las civilizaciones, especialmente en la Grecia antigua y el Imperio Romano, así como también en muchos pueblos de Europa y especialmente del Mediterráneo.
->
-> He descubierto, que muchos estudios han demostrado que una copa de vino tinto al día disminuye la concentración de placas aterogénicas en las arterias y aumenta los niveles de HDL o colesterol bueno, lo que mejora la salud cardiovascular. Reduce la formación de coágulos de sangre. Ayuda a prevenir el daño arterial causado por los altos niveles de colesterol LDL (el colesterol "malo") Puede mejorar la función de la capa de células que recubren los vasos sanguíneos.
->
-> El vino  tinto tiene una concentración de polifenoles (resveratrol) que encontramos en la cáscara de las uvas, fruto que es rico en antioxidantes, ayudando a reducir la inflamación en el cuerpo y evitar una enfermedad cardíaca. Algo que me parece muy interesante, es que el vino tinto tiene múltiples cualidades beneficiosas para el organismo femenino como la quema de grasas, ralentizar el envejecimiento, liberar endorfinas y fortalecer la memoria. El vino es una de las bebidas más antiguas del mundo, pero sus benéficos en nuestra salud han sido descubiertos hace relativamente poco".
+> > "Mi Nono, Paolo, vivió casi 100 años, y murió de viejo, no sufría de enfermedades cardiovasculares, a diferencia de mi Nona Marietta, la diferencia entre ellos, aparte de la genética, es que mi nono tenía un viñedo y hacía su propio vino, para su consumo, él tomó vino siempre, y con todo lo que investigué al respecto pude saber de su longevidad.  Por supuesto mi Nono no lo hizo con propósitos terapéuticos, a él gustaba echarse los tragos.
+> >
+> > Aquí les cuento que el vino es una tradición en mi familia paterna, a mi me encanta, especialmente el tinto, pero con el clima de mi país hay que tomarlo solo como se recomienda a continuación. Un poco de historia, el vino a través del tiempo,  ha sido símbolo de celebración en todas las civilizaciones, especialmente en la Grecia antigua y el Imperio Romano, así como también en muchos pueblos de Europa y especialmente del Mediterráneo.
+> >
+> > He descubierto, que muchos estudios han demostrado que una copa de vino tinto al día disminuye la concentración de placas aterogénicas en las arterias y aumenta los niveles de HDL o colesterol bueno, lo que mejora la salud cardiovascular. Reduce la formación de coágulos de sangre. Ayuda a prevenir el daño arterial causado por los altos niveles de colesterol LDL (el colesterol "malo") Puede mejorar la función de la capa de células que recubren los vasos sanguíneos.
+> >
+> > El vino  tinto tiene una concentración de polifenoles (resveratrol) que encontramos en la cáscara de las uvas, fruto que es rico en antioxidantes, ayudando a reducir la inflamación en el cuerpo y evitar una enfermedad cardíaca. Algo que me parece muy interesante, es que el vino tinto tiene múltiples cualidades beneficiosas para el organismo femenino como la quema de grasas, ralentizar el envejecimiento, liberar endorfinas y fortalecer la memoria. El vino es una de las bebidas más antiguas del mundo, pero sus benéficos en nuestra salud han sido descubiertos hace relativamente poco".
 
-**Profesora Carolina Rodríguez**
+**Profesora Carolina Rodríguez (Universidad de Oriente)**
 
-> "Pienso que el vino es un complemento perfecto que se adapta a cualquier circunstancia, está presente en las reuniones sociales, en círculos íntimos, es muy diverso y versátil y encaja en cada gusto y paladar".
+> > "Pienso que el vino es un complemento perfecto que se adapta a cualquier circunstancia, está presente en las reuniones sociales, en círculos íntimos, es muy diverso y versátil y encaja en cada gusto y paladar".
 
 **¿Entonces es saludable recomendar tomar alcohol?**
 
