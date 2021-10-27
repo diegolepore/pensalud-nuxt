@@ -1,5 +1,5 @@
 ---
-title: "¿Es el vino es beneficioso para el corazón?"
+title: "¿Es el vino beneficioso para el corazón?"
 excerpt: |2
 
   Esta es una pregunta que muchas personas se hacen, sobre todo, cuando tenemos ancestros que tomaban una copita de vino al día para mantener el corazón sano.
