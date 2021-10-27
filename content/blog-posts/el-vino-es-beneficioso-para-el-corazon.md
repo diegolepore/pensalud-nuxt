@@ -32,17 +32,17 @@ Para eso las profesoras universitarias Lina Lepore y Carolina Rodríguez compart
 
 **Profesora Lina Lepore**
 
-> Mi Nono, Paolo, vivió casi 100 años, y murió de viejo, no sufría de enfermedades cardiovasculares, a diferencia de mi Nona Marietta, la diferencia entre ellos, aparte de la genética, es que mi nono tenía un viñedo y hacía su propio vino, para su consumo, él tomó vino siempre, y con todo lo que investigué al respecto pude saber de su longevidad.  Por supuesto mi Nono no lo hizo con propósitos terapéuticos, a él gustaba echarse los tragos.
+> "Mi Nono, Paolo, vivió casi 100 años, y murió de viejo, no sufría de enfermedades cardiovasculares, a diferencia de mi Nona Marietta, la diferencia entre ellos, aparte de la genética, es que mi nono tenía un viñedo y hacía su propio vino, para su consumo, él tomó vino siempre, y con todo lo que investigué al respecto pude saber de su longevidad.  Por supuesto mi Nono no lo hizo con propósitos terapéuticos, a él gustaba echarse los tragos.
 >
 > Aquí les cuento que el vino es una tradición en mi familia paterna, a mi me encanta, especialmente el tinto, pero con el clima de mi país hay que tomarlo solo como se recomienda a continuación. Un poco de historia, el vino a través del tiempo,  ha sido símbolo de celebración en todas las civilizaciones, especialmente en la Grecia antigua y el Imperio Romano, así como también en muchos pueblos de Europa y especialmente del Mediterráneo.
 >
 > He descubierto, que muchos estudios han demostrado que una copa de vino tinto al día disminuye la concentración de placas aterogénicas en las arterias y aumenta los niveles de HDL o colesterol bueno, lo que mejora la salud cardiovascular. Reduce la formación de coágulos de sangre. Ayuda a prevenir el daño arterial causado por los altos niveles de colesterol LDL (el colesterol "malo") Puede mejorar la función de la capa de células que recubren los vasos sanguíneos.
 >
-> El vino  tinto tiene una concentración de polifenoles (resveratrol) que encontramos en la cáscara de las uvas, fruto que es rico en antioxidantes, ayudando a reducir la inflamación en el cuerpo y evitar una enfermedad cardíaca. Algo que me parece muy interesante, es que el vino tinto tiene múltiples cualidades beneficiosas para el organismo femenino como la quema de grasas, ralentizar el envejecimiento, liberar endorfinas y fortalecer la memoria. El vino es una de las bebidas más antiguas del mundo, pero sus benéficos en nuestra salud han sido descubiertos hace relativamente poco.
+> El vino  tinto tiene una concentración de polifenoles (resveratrol) que encontramos en la cáscara de las uvas, fruto que es rico en antioxidantes, ayudando a reducir la inflamación en el cuerpo y evitar una enfermedad cardíaca. Algo que me parece muy interesante, es que el vino tinto tiene múltiples cualidades beneficiosas para el organismo femenino como la quema de grasas, ralentizar el envejecimiento, liberar endorfinas y fortalecer la memoria. El vino es una de las bebidas más antiguas del mundo, pero sus benéficos en nuestra salud han sido descubiertos hace relativamente poco".
 
 **Profesora Carolina Rodríguez**
 
-> Pienso que el vino es un complemento perfecto que se adapta a cualquier circunstancia, está presente en las reuniones sociales, en círculos íntimos, es muy diverso y versátil y encaja en cada gusto y paladar.
+> "Pienso que el vino es un complemento perfecto que se adapta a cualquier circunstancia, está presente en las reuniones sociales, en círculos íntimos, es muy diverso y versátil y encaja en cada gusto y paladar".
 
 **¿Entonces es saludable recomendar tomar alcohol?**
 
