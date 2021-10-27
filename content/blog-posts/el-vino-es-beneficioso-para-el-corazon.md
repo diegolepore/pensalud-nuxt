@@ -143,6 +143,6 @@ Si en realidad quieres disminuir el riesgo de enfermedad coronaria debemos actua
 
 Es importante conocer que no están indicadas las bebidas alcohólicas para todas las personas. El consumo de cantidades moderadas de alcohol reduce la mortalidad cardiovascular en las poblaciones con mayor riesgo aterosclerótico, personas de edad avanzada. Sin embargo, en el resto de la población no está demostrado el beneficio del consumo de alcohol, ni siquiera en cantidades moderadas, ya que aumenta la mortalidad por otras causas como enfermedades hepáticas, accidentes, accidente cerebral hemorrágico, y probablemente por cáncer de mama e intestino grueso. Por esta razón no se puede recomendar el consumo de alcohol como medida preventiva general, no existen actualmente evidencias de que exista un efecto protector de otros componentes de la bebida aparte del etanol, por lo que no parece apropiado realizar recomendaciones sobre una bebida particular, excepto por hábitos socioculturales.
 
-**Referencias bibliográficas**
+**Referencia bibliográfica**
 
 [**https://www.revespcardiol.org/es-vino-corazon-articulo-X0300893298002947**](https://www.revespcardiol.org/es-vino-corazon-articulo-X0300893298002947 "https://www.revespcardiol.org/es-vino-corazon-articulo-X0300893298002947")
