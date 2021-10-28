@@ -30,8 +30,6 @@ Tenemos la recomendación de la organización mundial de la salud (OMS)
 
   ![](/f5986c8c-4404-4642-bffe-2ff28e34a629-1.jpg)  
   **Con la báscula digital realice un aproximado de las cantidades. No es tan exacto porque no me da los decimales.**
-
-
 * Un límite ideal de no más de 1,500 mg por día para la mayoría de los adultos, especialmente para aquellos con presión arterial alta. Serían 3.75 grs de sal.
 
 ![](/f0d7eacb-a645-4f71-91d3-5dc7379e5c63-1.jpg)
@@ -57,7 +55,7 @@ Tenemos la recomendación de la organización mundial de la salud (OMS)
 
 ![](/d6bc174f-1f01-4c57-950c-0c7a62e207fe-1.jpg)
 
-**Con la báscula digital realice un aproximado de las cantidades. Para 1 gramo no pudo medirlo, porque es una cantidad muy pequeña, sería la mitad de la imagen de la cantidad de 2 gramos.**
+**Con la báscula digital realice un aproximado de las cantidades. Para 1 gramo no pude medirlo, porque es una cantidad muy pequeña, sería la mitad de la imagen de la cantidad de 2 gramos.**
 
 **Conclusión**
 
