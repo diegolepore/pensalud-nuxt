@@ -61,7 +61,7 @@ Tenemos la recomendación de la organización mundial de la salud (OMS)
 
 La sal no es mala, nos aporta sodio a nuestro organismo, solo debemos regular la forma en la que la consumimos para estar saludables.
 
-**Referencias bibliográficas**
+**Referencias bibliográficas:**
 
 [**https://www.aeped.es/sites/default/files/documentos/recomendaciones_aep_sobre_alimentacio_n_complementaria_nov2018_v3_final.pdf**](https://www.aeped.es/sites/default/files/documentos/recomendaciones_aep_sobre_alimentacio_n_complementaria_nov2018_v3_final.pdf "https://www.aeped.es/sites/default/files/documentos/recomendaciones_aep_sobre_alimentacio_n_complementaria_nov2018_v3_final.pdf")
 
