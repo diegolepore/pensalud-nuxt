@@ -31,6 +31,6 @@ A continuación enumero las indicaciones para poder aplicar pintacaras en una fi
 
 Es importante divertirnos y despejar nuestra mente, cuando hay niños hay que prestar atención en este de tipo de recomendaciones para poder disfrutar de una forma saludable.
 
-**Referencia bibliográfica**
+**Referencia bibliográfica:**
 
 Dr Pedro Jaén. Una piel para toda la vida. Editorial Planeta. 2021
