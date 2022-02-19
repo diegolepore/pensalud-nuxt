@@ -3,7 +3,7 @@ title: Skincare en la embarazada
 excerpt: Es una pregunta frecuente en las asesorías prenatales, y tiene mucha relevancia.
 thumbnail: "/pregnant_woman_skin_care_routine2-732x549-thumbnail.jpeg"
 author: Dra. Diana Emilia Rodríguez Rojas
-date: 2021-10-13T00:00:00Z
+date: 2021-10-13T00:00:00.000+00:00
 avatar: "/1517629621762.jpeg"
 
 ---
@@ -135,6 +135,7 @@ Durantes el embarazo se pueden hacer ciertas medidas, tales como las mencionadas
 * Unos de los medicamentos utilizados bajo prescripción médica durante el embarazo para el acné es la **clindamicina**, que han demostrado su seguridad durante la gestación.
 * Las **penicilinas** como la **amoxicilina** y la **ampicilina**, las **cefalosporinas** y la **clindamicina** son seguras durante la gestación.
 * **Limpieza facial**, **drenaje facial** y **corporal,** **masajes**.
+* Existen tratamientos manuales que no usan aparatología que se pueden utilizar como la limpieza facial , drenaje facial, corporal, y masajes.
 
 Es recomendable revisar las etiquetas de los fármacos y cosméticos que generalmente colocan las advertencias del producto, si se puede administrar o no durante el embarazo, o consultar a un médico.
 
